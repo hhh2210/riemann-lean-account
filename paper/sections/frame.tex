@@ -18,7 +18,7 @@ than $D^*$. Passing from these three bounds to the hypotheses of \cref{st:F} is 
 \subsection{The maps}
 The forms live on a definite unitary group $H=\U(W)$ of rank $k$ over the host field. The
 common target is a space of automorphic forms on an \emph{indefinite} unitary group
-$G=\U(V)$, of signature $(k+r,\,r+1)$ at each real place, with a fixed discrete-series type at
+$G=\U(V)$, of signature $(k+r,\,r+1)$ at each infinite place, with a fixed discrete-series type at
 infinity. The two are related by a Bessel subgroup $N\rtimes H\subset G$, attached to an
 isotropic flag and a vector of norm $-T(u)$: this is the setting of the Gan--Gross--Prasad
 conjectures \cite{ggp2012}. The map $P_u$ sends a form on $H$ of archimedean type $\pi_u$ to
@@ -43,7 +43,8 @@ off this sum.
   parameters are separated by a gap of at least $120\,(2r+k+1)^3$, any two Bessel maps from a
   discrete series of $\U(k+r,r+1)$ to $\pi_u$ are proportional on smooth vectors \lvS{}
   (\lean{UniqGap}); compare \cite{sunzhu2012,jsz2010}.
-\item \emph{The Siegel--Weil formula} is used in its convergent range, $2n<M$, and as a mass
+\item \emph{The Siegel--Weil formula} is used in its convergent range, for frames of $n$
+  vectors in a Hermitian space of dimension $M$ with $2n<M$, and as a mass
   formula \lvS{} (\lean{SiegelDensities}): the mean over $[\U(V)]$ of the theta series of
   frames with a given non-degenerate Gram matrix is the product of the local densities. The
   main term of the off-diagonal blocks is derived from it and from the uniqueness of Bessel
@@ -56,7 +57,7 @@ $2^{-(k-2r-5)}\exp\bigl(C(2r+2)^5f\log b\bigr)$ times it, then
 \[
 \norm{K_{uu'}}^2\ \le\ \bigl(1+b^{-6}\bigr)\,\frac{d_u\,d_{u'}}{D^*}.
 \]
-Here $f$ is the number of real places. The decay is driven by the weight $k$.
+Here $f$ is the number of infinite places of the host. The decay is driven by the rank $k$.
 
 Every ingredient is standard: unfolding as in the Petersson formula, Schur orthogonality,
 decay of matrix coefficients, uniqueness of Bessel models, Siegel--Weil as a mass formula,

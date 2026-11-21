@@ -13,11 +13,11 @@ archive, with the same three axioms.
 \end{itemize}
 The following are stated there as targets and are not proved by us.
 \begin{itemize}
-\item The prime number theorem with error term $O(\sqrt x\log x)$ \cite{vonkoch1901}, and
-  primes in intervals $(x,x+C\sqrt x\log x]$ \cite{cramer1920}.
+\item The prime number theorem in the form $\pi(x)=\mathrm{li}(x)+O(\sqrt x\log x)$
+  \cite{vonkoch1901}, and primes in intervals $(x,x+C\sqrt x\log x]$ \cite{cramer1920}.
 \item Miller's deterministic primality test \cite{miller1976} with the explicit bound of Bach
-  \cite{bach1990}: an odd $n$ is prime if and only if it is a strong probable prime to every
-  base up to $2(\log n)^2$. This becomes unconditional. It is slower in practice than the
+  \cite{bach1990}: an odd $n>2$ is prime if and only if it is a strong probable prime to every
+  base $a$ with $2\le a<n$ and $a\le2(\log n)^2$. This becomes unconditional. It is slower in practice than the
   probabilistic tests in use; beside the unconditional test of Agrawal, Kayal and Saxena
   \cite{aks2004} its merit is simplicity. The gain is a short deterministic test whose
   correctness can now be proved formally.

@@ -13,10 +13,11 @@ outside $S$. Define \lvS
 \prod_{v\mid\ell}H^1\bigl(E_v,\Q_\ell/\Z_\ell(-e)\bigr)\Bigr),
 \]
 the classes that are locally trivial above $\ell$, and let $\len_\ell(e)$ be its length. By
-duality this is governed by $H^2(G_S,\Z_\ell(e+1))$, and hence, through the comparison of Soul\'e
-\cite{soule1979}, by even $K$-groups of the ring of integers; for $E=\Q(\mu_\ell)$ the vanishing
-of such groups for all $e$ is equivalent to Vandiver's conjecture
-\cite{kurihara1992,washington1997}.
+duality this is governed by $H^2(G_S,\Z_\ell(e+1))$, and hence, through Soul\'e's Chern class
+maps \cite{soule1979}, by the even $K$-groups $K_{2e}(\cO_E)\otimes\Z_\ell$. For $E=\Q$ the
+vanishing of $K_{4i}(\Z)\otimes\Z_\ell$ for all $i$ is equivalent to Vandiver's conjecture at
+$\ell$ \cite{kurihara1992}; over $\Q(\mu_\ell)$ the conjecture concerns the eigenspaces of one
+parity \cite{washington1997}.
 
 \begin{statement}[\lean{VVle}, \lean{VWin}]\label{st:vwin}
 For the host field $E$ at scale $x$, with $t=\lfloor x^{401}\rfloor$ twists, every
@@ -24,15 +25,16 @@ $\len_\ell(e)$ with $1\le e<t$ is finite and
 \[
 \sum_{\ell}\log\ell\sum_{1\le e<t}\len_\ell(e)\ \le\ \sqrt{b},\qquad b=\exp(x^{\eps}),
 \]
-for all $x$ in windows $[W,W^2]$.
+for all $x$ in a window $[W,W^2]$; there is $J\ge1$ such that for every large $X$ such a window
+lies in $[X^{1/J},X]$.
 \end{statement}
 Nothing is averaged or discarded: every prime $\ell$ and every twist is bounded. The statement
-is far from Vandiver's conjecture, which would make the groups for $\Q(\mu_\ell)$ vanish; it
-says that the total size of these groups, for a field of degree about $x^2$ and conductor
-exponential in a power of $x$, is at most exponential in a small power of $x$.
+is far from Vandiver's conjecture, which would make part of these groups vanish for
+$\Q(\mu_\ell)$; it says that the total size of these groups, for a field of degree about $x^2$
+and conductor exponential in a power of $x$, is at most exponential in a small power of $x$.
 
 \subsection{Where it is used}
-We traced the single use ourselves \lvP. The record of \cref{sec:cast} carries, for each lift
+The bound has a single use \lvP. The record of \cref{sec:cast} carries, for each lift
 level $j$, a quantity $\eta_j$: the normalised logarithm of the index of a sublattice
 $\mathrm{cut}_j$ in a lattice $T_j$, summed over the places above the level primes. The clause
 \lean{LinkN_at} bounds it by a size term plus the total of \cref{st:vwin},
@@ -70,7 +72,8 @@ the host field and $Q$ is a finite set of auxiliary primes.
 This is a bound of the type of Ribet's lemma \cite{ribet1976}: a congruence between a lift and
 a form that is not a lift produces a cocycle, and cocycles are counted by Selmer groups, by the
 groups $\Sha(E,\ell,e)$ and by the class group. The twists $1\le e\le t-1$ are those of the
-block: in the source the characters are $\chi_c=\chi_1\varepsilon^{-(c-1)}$.
+block: in the source the characters are $\chi_c=\chi_1\,\chi_{\mathrm{cyc}}^{-(c-1)}$, with
+$\chi_{\mathrm{cyc}}$ the cyclotomic character.
 
 This step uses Galois representations attached to every eigensystem, lifted or not. They are
 supplied by a theorem of the archive (\cref{sec:galois}).
@@ -82,11 +85,14 @@ statements (\lean{CountI}, \lean{CountII}, \lean{CountIII}, \lean{CountV}), each
 bounds the contribution of one class of pairs $(\ell,e)$; its proof calls, besides these, the
 theorem of Ferrero and Washington and the bound for the odd part.
 
-\emph{The odd part.} The part of the group on which complex conjugation acts by $-1$ is bounded
+\emph{The odd part.} For a character $\psi$ of $\Gal(E/\Q)$ whose value at complex conjugation
+is $(-1)^{e+1}$, the length of the $\psi$-eigenspace of the group with twist $e$ is at most the
+valuation of an explicit number attached to $\psi$ and $e$ (\lean{PsiBound}). This is proved
 by a theorem \lvS{} (\lean{ML.iv}) whose hypotheses are Poitou--Tate duality and an
 orthogonality statement for unramified classes. The archive's proof contains a step of
 Kolyvagin's derivative construction (\lean{kolStep}); compare
-\cite{kolyvagin1990,rubin2000}. The even part is Vandiver's side.
+\cite{kolyvagin1990,rubin2000}. The eigenspaces of the other parity are the side on which
+Vandiver's conjecture bears.
 
 \emph{Cyclotomic towers.} The theorem of Ferrero and Washington
 \cite{ferrerowashington1979} that $\mu=0$ is proved in the archive, by Sinnott's method
@@ -108,25 +114,25 @@ such that, for every $\ell\ne2,p$, every finite set of pairwise non-isomorphic a
 Galois representations $\rho$ of that weight and level satisfies
 \[
 \abs{NN}_\ell\ \le\ \prod_{\rho}\bigl|\tr\rho(\sigma^{-1})-\mathrm{eis}\bigr|_\ell,
-\qquad \mathrm{eis}=q^{-e}z+1+q^{e}z^{-1},
+\qquad \mathrm{eis}=(\mathrm Nw)^{-e}z+1+(\mathrm Nw)^{e}z^{-1},
 \]
-at a Frobenius element $\sigma$ of norm $q$, with every factor non-zero. Here $\mathrm{eis}$
+at a Frobenius element $\sigma$ at a place $w$ above $p$, with every factor non-zero. Here $\mathrm{eis}$
 is the trace at $\sigma$ of a reducible representation $\Psi\oplus1\oplus\Psi^{-1}$, so $NN$ is
 a congruence number between cusp forms and an Eisenstein class. Summing $\log\ell$ times the
 valuations over all $\ell$ therefore costs only $\log\abs{NN}$.
 
 \emph{From the integer to Sha.} A companion statement \lvS{} (\lean{OneCharU_s}) bounds the
-length in question by $2\sum_{\rho}v_\ell\bigl(\tr\rho(\sigma)-t\bigr)$ over such a set of
-representations, where $t=\Psi(\sigma)+1+\Psi(\sigma)^{-1}$, provided no admissible $\rho$ has
-trace exactly $t$. Behind it is a lemma of commutative algebra \lvS{} (\lean{LemmaM}) about a
+length in question by $2\sum_{\rho}v_\ell\bigl(\tr\rho(\sigma)-t_\Psi\bigr)$ over such a set of
+representations, where $t_\Psi=\Psi(\sigma)+1+\Psi(\sigma)^{-1}$, provided no admissible $\rho$ has
+trace exactly $t_\Psi$. Behind it is a lemma of commutative algebra \lvS{} (\lean{LemmaM}) about a
 graded complete local algebra with an augmentation: under five conditions, the length of the
 weight $-1$ part of its cotangent space is at most $2\sum_\xi v(\xi(a))$ over a finite covering
 set of points. This is the pattern in which an Eisenstein congruence bounds a Selmer group, as
 in the work of Ribet \cite{ribet1976}, Mazur and Wiles \cite{mazurwiles1984} and Skinner and
 Urban \cite{skinnerurban2014}. Two further theorems that the archive proves for this purpose
-are on the path of the final theorem \lvS: one on Hida families \cite{hida1986} for unitary
-groups (\lean{hida_unitary_of_printed_hida}), and Kato's Euler system \cite{kato2004}
-(\lean{zetaUr}); compare \cite{blochkato1990}.
+are on the path of the final theorem \lvS: one on Hida families for unitary groups
+(\lean{hida_unitary_of_printed_hida}; compare \cite{hida1986}), and Kato's Euler system
+\cite{kato2004} (\lean{zetaUr}); compare \cite{blochkato1990}.
 
 No statement of the main conjecture of Iwasawa theory appears among the results the archive
 takes from the literature (\cref{sec:literature}).

@@ -23,11 +23,11 @@ with $G_F(y)\le C\,y^{\theta}$ for all $y\in[Y,Y^{1+\delta}]$. Then $L(s,\chi_i)
 every $i$ and every $s$ with $\re s>\theta$.
 \end{statement}
 
-In the application the family is a \emph{level} $\Lambda$ \lvS: a finite set $K$ of primitive
+In the application the family is a \emph{level} $\mathcal L$ \lvS: a finite set $K$ of primitive
 characters that contains the trivial character and is closed under inversion, at most one
 distinguished odd real character $\psi_K\in K$, and an integer $o\ge1$, with
 \begin{equation}\label{eq:level}
-G_\Lambda(y)=G(y)+\sum_{\psi\in K,\ \psi\neq1}\mathrm{wt}(\psi)\,\re G_\psi(y),\qquad
+G_{\mathcal L}(y)=G(y)+\sum_{\psi\in K,\ \psi\neq1}\mathrm{wt}(\psi)\,\re G_\psi(y),\qquad
 \mathrm{wt}(\psi)=\begin{cases}1,&\psi=\psi_K,\\ (3o+1)^{-1},&\text{otherwise}\end{cases}
 \end{equation}
 (\lean{Level.Gm}). The theorem is proved level by level (\lean{zeroFreeOn_of_levels}).
@@ -48,8 +48,9 @@ $\theta=\tfrac12+C\eps$ for every small $\eps$.
 \subsection{An exact identity}\label{sec:identity}
 Let $H$ be a finite abelian group and $\mathfrak G=(\Z/2)^2\times H$; in the application
 $\mathfrak G$ is the Galois group of an abelian CM field $E/\Q$, the \emph{host}
-(\cref{sec:hosts}). Let $\Phi\subset\mathfrak G$ be the set of elements whose first coordinate
-is $0$, a CM type. Every rational prime $p$ has a Frobenius element and an inertia group in
+(\cref{sec:hosts}). Let $\Phi\subset\mathfrak G$ be the subgroup of index two of the elements
+whose component in the first factor $\Z/2$ is $0$; in the application it does not contain
+complex conjugation, so it is a CM type. Every rational prime $p$ has a Frobenius element and an inertia group in
 $\mathfrak G$, and every character $\psi$ of $\mathfrak G$ is a Dirichlet character with its own
 function $G_\psi$. The host is required to satisfy the following \lvS{}
 (\lean{HostFactsS}): there are a prime $d$ and a finite set $S$ of primes containing $2$ and a
@@ -78,7 +79,7 @@ For a host satisfying the conditions above,
 \end{statement}
 This is orthogonality of characters applied to the count; nothing is estimated. Its meaning is
 that $\ASK$, a count of prime powers $p^i\le a/w$ whose Frobenius avoids $\Phi$, weighted so
-that each contributes about $a/p^i$, has an explicit main term, and that its deviation from the
+that each contributes about $2\log p\cdot a/p^i$, has an explicit main term, and that its deviation from the
 main term is a combination of the sums $G_\psi$ at the points $a/w(\rho)$. An \emph{upper}
 bound for $\ASK$ is therefore a one-sided statement about those sums.
 
@@ -93,9 +94,9 @@ kinds \lvS{} (\lean{SizesA}):
   so that $a/w\approx x$, the scale of interest;
 \item on the other places of $\Phi$ the weight is at most $2b'$, with $b'X'\le xb$, so that
   $a/w\ge X'/3$, a scale at which every $G_\psi$ is assumed negligible:
-  $\abs{G_\psi(y)}\le\theta y$ for $y\ge X'/3$, with $\theta\le(2\abs\Phi\,x(x+1))^{-1}$
+  $\abs{G_\psi(y)}\le\vartheta y$ for $y\ge X'/3$, with $\vartheta\le(2\abs\Phi\,x(x+1))^{-1}$
   (\lean{ThinScales}, \lean{CostWindows}). In the application $X'=\exp(x^{\eps/3})$ and
-  $\theta=\exp(-c\,x^{\eps/8})$ \lvS{} (\lean{Char_at}), the quality of the classical
+  $\vartheta=\exp(-c\,x^{\eps/8})$ \lvS{} (\lean{Char_at}), the quality of the classical
   zero-free region.
 \end{itemize}
 Let $K'\subset\Psi(A_0)$ be a set of \emph{kept} characters, containing the trivial one, each
@@ -126,49 +127,55 @@ Then $G_{K'}(x)\le x^{1/2+(C+3)\eps}+\Sigma_{K'}(x)$.
 
 The proof applies \cref{st:balance} to each term of (3). Condition (1) says that the sizes
 $TT$ see each kept character with the same weight $c$, which is what turns the sum over
-$t\in TT$ of $\psi(1,t)\,G_\psi(a_t/b)$ into $\abs{TT}\,\mathrm{wt}_c(\psi)\,G_\psi(x)$ up to an
+$t\in TT$ of $\psi(0,t)\,G_\psi(a_t/b)$ into $\abs{TT}\,\mathrm{wt}_c(\psi)\,G_\psi(x)$ up to an
 error; the characters that are not kept are bounded by their absolute values. The outcome is
 \begin{equation}\label{eq:reduction}
-\abs{TT}\,m\,b\,\frac{\delta}{2}\,\Bigl(G_{K'}(x)-\Sigma_{K'}(x)-4x^{1/2+\eps}\Bigr)\ \le\
+\abs{TT}\,m\,b\,\frac{\delta_T}{2}\,\Bigl(G_{K'}(x)-\Sigma_{K'}(x)-4x^{1/2+\eps}\Bigr)\ \le\
 x^{C\eps}\,\mathrm{Br}+\frac{2\abs{TT}\,m\,b}{x},
 \end{equation}
-where $\delta=\abs{T_2}/\abs H$ is the density of the thick set, and \cref{sec:balance} converts
-this into the statement.
+where $\delta_T=\abs{T_2}/\abs H$ is the density of the thick set, and \cref{sec:balance}
+converts this into the statement.
 
-For a level $\Lambda$ and a host adapted to it, $K'$ is the image of the level's characters,
-$c=(3o+1)^{-1}$ and $M=4o$; then $G_{K'}=G_\Lambda$ (\lean{gmA_eq}) and
+For a level $\mathcal L$ and a host adapted to it, $K'$ is the image of the level's characters,
+$c=(3o+1)^{-1}$ and $M=4o$. Adapted means in particular (\lean{ExceptionalCharacterKept}) that
+the quadratic character of $\mathfrak G$ that is trivial on $H$ and on $\sigma$ is induced from
+$\psi_K$ if the level has a distinguished character, and is not kept otherwise; it and the
+trivial character are the only kept characters that can be trivial on $H$. Then
+$G_{K'}=G_{\mathcal L}$ (\lean{gmA_eq}) and
 $\Sigma_{K'}(x)\le4o\,x^{1/2+\eps}$ (\lean{sigA_le}), the latter because the host is chosen so
 that its other characters satisfy $\abs{G_\psi(x)}\le x^{1/2+\eps}$ at the single point $x$;
-\cref{sec:hosts} explains why this is not circular. Hence \lvP{} (\lean{core_gm})
+\cref{sec:hosts} explains why this is not circular. Hence \lvP{} (\lean{core_gm}), applying
+\cref{st:core} with $C=e_D+e_L+3$,
 \begin{equation}\label{eq:coregm}
-G_\Lambda(x)\ \le\ x^{1/2+(e_D+e_L+7)\eps},
+G_{\mathcal L}(x)\ \le\ x^{1/2+(e_D+e_L+7)\eps},
 \end{equation}
-with $e_D$ and $e_L$ the exponents of the divisibility and loss clauses of the record of
-\cref{sec:cast}. Condition (3) is the lattice inequality of \cref{sec:lattices}, applied to
-each translate (\lean{ch_top}).
+where $e_D$ and $e_L$ bound the exponents of $x^\eps$ that the record of \cref{sec:cast} allows
+in the errors of its divisibility and loss clauses. Condition (3) is the lattice inequality of
+\cref{sec:lattices}, applied to each translate (\lean{ch_top}).
 
 \subsection{Three costs and the exponent $\tfrac12$}\label{sec:balance}
 The size conditions \lvS{} (\lean{SizeWindows}) involve a rank parameter $k$ with
-$xm\le k\le n^2x^{1/2-\eps}$, where $n=\abs H$. The bracket of \cref{st:core} is
+$xm\le k\le n^2x^{1/2-\eps}$, where $n=\abs H$, and they bound the two sets from below:
+$\abs{TT}\ge\tfrac12x^{-\eps/8}n$ and $\delta_T\ge x^{-\eps}$. The bracket of \cref{st:core} is
 \[
 \mathrm{Br}=\abs{TT}\,a_E\,\bigl(1+\tfrac{m^2}{k}\bigr)
    +m\,\bigl(2nmb\,x^{\eps}+\abs{T_2}\,k\,b\,x^{2\eps}/n^2\bigr),\qquad a_E\le 2xb,
 \]
 and we write $\Err=x^{C\eps}\,\mathrm{Br}$.
-Divided by the normalisation $\abs{TT}\,m\,b\,\delta$ on the left of \eqref{eq:reduction}, the
-three terms are of sizes
+Divided by the normalisation $\abs{TT}\,m\,b\,\delta_T$ on the left of \eqref{eq:reduction}, the
+three terms are at most
 \[
-\frac{x}{m},\qquad m,\qquad \frac{k}{n^{2}},
+\frac{2x}{m\,\delta_T}\Bigl(1+\frac{m^2}{k}\Bigr),\qquad
+2m\,x^{\eps}\,\frac{n}{\abs{TT}\,\delta_T},\qquad
+\frac{k}{n^{2}}\,x^{2\eps}\,\frac{n}{\abs{TT}},
 \]
-up to factors $x^{O(\eps)}$. The first falls with the number of lifts and the second rises with
-it. At $m\approx\sqrt x$, with $k\le n^2\sqrt x$, all three are $x^{1/2+O(\eps)}$ and
-\eqref{eq:reduction} gives $G_{K'}(x)-\Sigma_{K'}(x)\le x^{1/2+(C+3)\eps}$ \lvS{}
-(\lean{GrowthSizeBound}).
+which by the two lower bounds are of sizes $x/m$, $m$ and $k/n^2$ up to factors $x^{O(\eps)}$;
+the factor $m^2/k$ is at most $m/x$ because $k\ge xm$. The first falls with the number of lifts
+and the second rises with it. At $m\approx\sqrt x$, with $k\le n^2\sqrt x$, all three are
+$x^{1/2+O(\eps)}$ and \eqref{eq:reduction} gives
+$G_{K'}(x)-\Sigma_{K'}(x)\le x^{1/2+(C+3)\eps}$ \lvS{} (\lean{GrowthSizeBound}).
 
 \begin{remark}
 This is the only place where $\tfrac12$ is produced. Everything that follows is devoted to
-proving one inequality, $\ASK\le\MAIN+\Err$ with $\Err$ of the size above, and the three terms
-of $\Err$ have clear origins there: $x/m$ is the main term of a single lattice computation
-spread over $m$ lifts; $m$ is the price of each lift; and $k/n^2$ comes from a dimension count
-(\cref{sec:period}).
+proving one inequality, $\ASK\le\MAIN+\Err$ with $\Err$ of the size above.
 \end{remark}

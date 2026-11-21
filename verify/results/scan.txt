@@ -1,0 +1,86 @@
+archive bytes 239275554
+archive sha256 9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc
+lean files 175187
+lines in lean files 17374215
+other files 3: lean/lake-manifest.json lean/lakefile.toml lean/lean-toolchain
+lines in Main.lean 12
+
+OCCURRENCES OF WORDS (whole words, anywhere in the text, comments included)
+  sorry 0
+  admit 0
+  native_decide 0
+  implemented_by 0
+  extern 0
+  unsafe 0
+  opaque 0
+  csimp 0
+  skipKernelTC 0
+  addDeclWithoutChecking 0
+  ofReduceBool 0
+  ofReduceNat 0
+  trustCompiler 0
+  lcProof 0
+  sorryAx 0
+axiom declarations 0
+partial def declarations 2
+    lean/src/Formalism/HermitianCurvature/HermitianCurvatureProofs/CutCptCopy.lean:40 go
+    lean/src/Formalism/LocalToGlobal/NumberFieldFamilies/OwnStruct.lean:17 copyAt
+SYNTAX, ELABORATORS AND CODE RUN AT ELABORATION (declarations by keyword, with their files)
+  elab 4
+    lean/src/Formalism/HermitianCurvature/HermitianCurvatureProofs/CutCptCopy.lean
+    lean/src/Formalism/LocalToGlobal/IndefiniteReal/HeckeNonvanishing/Imports.lean
+    lean/src/Formalism/LocalToGlobal/NumberFieldFamilies/OwnStruct.lean
+  macro 87
+    lean/src/Development/AbelianVarietyTheory/Definitions/AutomorphicMembership/GoodPartEq.lean
+    lean/src/Development/AbelianVarietyTheory/Definitions/AutomorphicMembership/PlaceModelImp.lean
+    lean/src/Development/AbelianVarietyTheory/Definitions/AutomorphicMembership/RealIoX.lean
+    lean/src/Development/AbelianVarietyTheory/Definitions/GaloisGeometry/NegOnePowBoundaryTermsCancel.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/ExistsDlogAddCoboundaryAbLocus.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/ExistsMeasY.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/IsCechOneCoboundaryOfRefinement.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/IsProperOfFiniteType.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/FormalGroupCharts/ExistsFormalBiextMap.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/FormalGroupCharts/GermEvGermEvThreePoints.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsClassSystem.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LiftSetupOverExtendedDataIntegralFormsEq.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/RatCopyIff.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/SetupRelIffSameData.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/TieMove.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/CharWSeedStd.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/EqCjOneSmul.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/ExistsNormalisedReadingTransportedNewTwist.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/ExistsSelectedRealization.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/FormGroupsModelsActionsMeasuresBasesCharacterise.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/LineModelTrueOfFalse.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/RealDatumPrerequisitesUpdateModels.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/ReferenceTupleWeilDatumVectorPolynomialMapEnlarg.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/RigidFrameSymmetricRatioSeries.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/RingSpecNormalisedCharacterEq.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/ThetaLiftAtReferenceTupleOverEnlargedBase.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/JetHarmonics/IntegralChartFormalBiext.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/ModuliProofs/ExistsUniqueRigMulRight.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/TwistedOperators/TransferBottom.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/TwistedOperators/TransferFlip.lean
+    lean/src/Development/AbelianVarietyTheory/Proofs/TwistedOperators/TwoLeMOf.lean
+    lean/src/Development/AutomorphicArithmetic/Foundations/Convolution/RealGroupAnalysis/UnitaryActions/ContinuousAdelicGL2OfContinuousEntries.lean
+    lean/src/Development/AutomorphicArithmetic/Foundations/EtaleClopenDescent/ExistsHeckeCorrespondenceOnIntegralShimuraModel.lean
+    lean/src/Development/AutomorphicArithmetic/ThetaCorrespondence/ThetaPairLifts/ThirdPlaceSeries/ExistsSelectionPairLocalLanglands.lean
+    lean/src/Development/AutomorphicSpectrum/Proofs/BlockDecomposition/Cup1CoboundaryMemBoundaries.lean
+    lean/src/Development/AutomorphicSpectrum/Proofs/BlockDecomposition/DFormMem.lean
+    lean/src/Development/AutomorphicSpectrum/Proofs/BlockDecomposition/GradedFormCocycle.lean
+    lean/src/Development/AutomorphicSpectrum/Proofs/BlockDecomposition/NewformHeckeEigenvalue.lean
+    lean/src/Development/AutomorphicSpectrum/Proofs/BlockDecomposition/ShuffleCup1FormulaPositiveDegree.lean
+    lean/src/Development/AutomorphicSpectrum/Proofs/BlockDecomposition/TaylorDifferentialRepresentative.lean
+  run_cmd 5
+    lean/src/BuildAid/D1.lean
+    lean/src/BuildAid/D2.lean
+    lean/src/BuildAid/D3.lean
+    lean/src/BuildAid/D4.lean
+    lean/src/BuildAid/D5.lean
+
+import lines 909822
+imports of modules outside the archive, by root: Batteries 3, Lean 12, Mathlib 156238
+files importing all of Mathlib 136003
+imports that resolve to nothing 0
+import graph acyclic True (ordered 175187 of 175187); longest chain 203
+files in the import closure of Main 175187 of 175187

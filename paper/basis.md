@@ -4,11 +4,14 @@ One row per statement of the paper about the proof. Levels: M computed from the 
 
 | Section | Statement | Level | Where |
 |---|---|---|---|
+| 2 | The archive's size and hash, the counts of files and lines, and the static inspection | M | `results/scan.txt` |
 | 2 | The five theorems of `Main.lean` and their statements | S | `Main.lean:4-12`; `Statements.lean` |
 | 2 | `RiemannHypothesis` and `riemannZeta` are Mathlib's | M | `results/check.txt` |
 | 2 | The build succeeds; every module is built | M | `results/build-summary.txt` |
 | 2 | Each of the five theorems depends on `propext`, `Classical.choice`, `Quot.sound` only | M | `results/axioms.txt` |
-| 2 | The dependency cone and every statement that a declaration is or is not used by the proof | M | `results/cut-result.txt` |
+| 2 | The dependency cone and every statement that a declaration is or is not used by the proof | M | `results/cut-result.txt`, `results/cut-in.txt.xz`, `results/cut-out.txt.xz`, `results/cut-modules.txt.xz`, `results/cut-five-extra.txt` |
+| 2 | The kernel replay and its counts | M | `results/replay-summary.txt`, `results/replay-axioms.txt`, `results/replay-skipped.txt`, `results/replay-log.txt` |
+| 2 | What the elaborators of the archive do | P | `Formalism/HermitianCurvature/HermitianCurvatureProofs/CutCptCopy.lean:87`; `Formalism/LocalToGlobal/IndefiniteReal/HeckeNonvanishing/Imports.lean:5`; `Formalism/LocalToGlobal/NumberFieldFamilies/OwnStruct.lean:53-60`; `BuildAid/D1.lean` to `D5.lean` |
 | 3 | `riemannHypothesis` is `rhOfAll`, which is `Formalism.VW.rh_of_every allChi` | P | `Main.lean:4`; `Supplements/Kernels/MainTheorems.lean:9` |
 | 3 | The three hypotheses `Green`, `VWin`, `Nonempty (HypsAlt …)`; the window exponent 3/2; hosts from `supplyChi` | P | `Development/AutomorphicArithmetic/ThetaCorrespondence/ThetaPairLifts/ThirdPlaceSeries/TopPlug.lean:12-18` |
 | 3 | The assembly of the record's fields into the links and the final call | P | `…/ThirdPlaceSeries/TopShape.lean`, whole file |
@@ -22,14 +25,15 @@ One row per statement of the paper about the proof. Levels: M computed from the 
 | 4.3 | The scales of the thin places in the application | S | `Char_at`, `Formalism/SharpRestriction/GlobalSchurBounds/QuadraticLogDerivCongr.lean:221` |
 | 4.3 | From the count to G, for kept characters | P | `ch_core`, `…/LandauTheorems/ChCore.lean:343-444`; statements of `one_char` and `core`, same file, 202 and 283 |
 | 4.3 | The bound for a level; the lattice inequality for each translate | P | `core_gm`, `Development/AutomorphicArithmetic/PrimitiveCosets/CoreGm.lean:12-74`; `ch_top`, `…/LandauTheorems/ChTop.lean:37-74`; statements of `gmA_eq`, `sigA_le`, `EAtH` |
+| 4.3 | What a host adapted to a level is; which kept characters are trivial on H | S | `EAtH`, `Formalism/SharpRestriction/RamificationFrobenius/TotientGaloisClasses/ExplicitFormulaErrorOfHostConditions.lean:144`; `ExceptionalCharacterKept`, `…/TotientGaloisClasses/Analytic.lean:158`; `wtA`, `…/DedekindLFunctions/SplitInertia.lean:32`; statement of `gmA_eq_triv`, `Development/AutomorphicArithmetic/PrimitiveCosets/GmAEq.lean:16`; `toE`, `…/PrimitiveCosets/RecH.lean:10` |
 | 4.4 | The size conditions and the three costs | S | `SizeWindows`, `GrowthSizeBound`, `Formalism/SizeWindowBrackets/GrowthBoundGivesRiemannHypothesis.lean:109-123`; `RestSize`, `SChain.lean:53` |
 | 5.2 | The record of eleven clauses | S | `SizeData₂`, `Formalism/SizeWindowBrackets/SChain.lean:17` |
 | 5.2 | The space of forms is all algebraic modular forms of the weight and level | S | `Fi`, `Development/AbelianVarietyTheory/Definitions/AutomorphicMembership/PredMemGamRanks.lean:151` |
 | 5.2 | The rescaled lattice | S | `Iu`, `NprimeDef`, `Formalism/LocalRingCardinality/DataDIVDefs.lean:17-24` |
 | 5.2 | The clauses Loss, Gain and the count for T | S | `LossBounds`, `QuotientSlopeBoundsWith`, `Count5`, `Formalism/SizeWindowBrackets/QuotientSlopeBoundsWith.lean:19-35` |
-| 5.2 | The clauses Slope and Div | S | `SlopeIneq`, `DIV`, `Formalism/RankGapBounds/MeanBoundSecondForm.lean:118-156` |
+| 5.2 | The clauses Slope and Div; the clauses that bound the slopes of the lattices of forms and the variation of the heights | S | `SlopeIneq`, `DIV`, `Slopes`, `HComp`, `Formalism/RankGapBounds/MeanBoundSecondForm.lean:118-156` |
 | 5.3 | Periods of the unscaled lattice are divisible to the order of the gain | S | `adm2`, `Formalism/SharpRestriction/Divisibility/LocalQuadraticParts.lean:206` |
-| 5.3 | The gain formula | S | `gU`, `g0`, `gainP`, `VV`, `Formalism/SharpRestriction/GrowthBounds/IsResidueClassZero.lean:89-361`; `sg`, `Ga`, `Formalism/LocalRingCardinality/DataParams₂.lean:212-224` |
+| 5.3 | The gain formula | S | `gU`, `g0`, `gainP`, `VV`, `IsV`, `Formalism/SharpRestriction/GrowthBounds/IsResidueClassZero.lean:89-361`; `sg`, `Ga`, `Formalism/LocalRingCardinality/DataParams₂.lean:212-224` |
 | 5.4 | The slope inequality for nearly tight frames | S | `TheoremF`, `Formalism/HarderNarasimhan/StatementFrameF.lean` |
 | 5.4 | Its proof | P | `theoremFSharp_of`, `Formalism/HarderNarasimhan/HarderNarasimhanProofs/TheoremFSharp.lean:168-390`; `frameB_share`, `FrameHermSharpB.lean:25` |
 | 5.5 | The ledger over the lift steps | P | `divisor_inequality_assembly`, `Formalism/QuotientMetricDivisors/HermitianTwistDivisors/DivAssembly.lean:11-46` |
@@ -38,7 +42,7 @@ One row per statement of the paper about the proof. Levels: M computed from the 
 | 5.5 | The auxiliary lattices: integral forms on a moduli space | S | `cuspA`, `nrmM_le_one_iff`, `Formalism/LocalToGlobal/ProjectiveLattices/CuspidalL2Subspace.lean:47-60` |
 | 5.5 | The covolume clause and the chain of slope comparisons | S | `L3`, `Formalism/LocalToGlobal/IndefiniteForms/IndefSide.lean:315`; `lcv_le`, `Development/AbelianVarietyTheory/Proofs/DivisorProofs/CovolumeFromGramAndBounds.lean:39`; its inputs at `Development/AbelianVarietyTheory/Definitions/Divisors/CovolXOfCovol.lean:53-103` |
 | 5.5 | The hypotheses of the covolume theorem from arithmetic geometry | S | `topCovolSlim2_use_alt_alt`, `…/ThirdPlaceSeries/TopCovolSlim2Use.lean:16` |
-| 5.5 | The Chowla–Selberg formula and Kronecker's limit formula | S | `chowla_selberg_eta`, `Development/AbelianVarietyTheory/Proofs/HomogeneousIdeals/DedekindZetaEqSumRealEisenstein.lean:222`; `tendsto_realEisenstein_sub_pole`, `…/TendstoRealEisensteinSubPole.lean:352` |
+| 5.5 | The Chowla–Selberg formula and Kronecker's limit formula | S | `chowla_selberg_eta` with the hypotheses of its section, `Development/AbelianVarietyTheory/Proofs/HomogeneousIdeals/DedekindZetaEqSumRealEisenstein.lean:212-225`; `tendsto_realEisenstein_sub_pole`, `…/TendstoRealEisensteinSubPole.lean:352` |
 | 5.5 | The class number formula and the level prime | S | `ClassNumberFormula₂`, `Formalism/SharpRestriction/GlobalSchurBounds/StandardLattice.lean:453`; `LevelPrime`, `Development/AbelianVarietyTheory/Definitions/GlobalTwisting/LogCondLeThree.lean:81` |
 | 5.5 | The lattice side equals MAIN identically | S | `key_identity5`, `Formalism/SizeWindowBrackets/ChainSlopeWindows/LevelOfCongruence.lean:105` |
 | 6.1 | The height-two logarithm; the radius lemma and the rate | S | `ltLog`, `Formalism/LocalToGlobal/TorsionIntegrality/CMGoodModels/Statement.lean:35`; `LemmaRA`, `Formalism/GaussJetBounds/StatementG.lean:12` |
@@ -59,7 +63,7 @@ One row per statement of the paper about the proof. Levels: M computed from the 
 | 8.2 | The congruence ideal, the congruence module, and their bound | S | `ccIdeal`, `etaLoc`, `vcc`, `Formalism/SharpRestriction/LevelLetterCocycles/DataN.lean:25-225`; `chi_def`, same file, 126; `ZN`, same file, 1292; `CongBound_at`, `IsRankRPart`, `Development/AbelianVarietyTheory/BlockTheory/NonGaloisCusps/BaseSizes.lean:57-93` |
 | 8.3 | The assembly of the bound | S | `of_four_alt`, `Development/AutomorphicArithmetic/AutomorphicVarieties/ModularityArgument/ThresholdArguments/DenseThresholdCases/HVCore.lean:18-22` |
 | 8.3 | The crude bound for the second cohomology group | S | `LemmaK`, `Development/AutomorphicArithmetic/AutomorphicVarieties/GeneratorCountTuples/LemmaK.lean:13` |
-| 8.3 | The minus part: from Poitou–Tate duality, with Kolyvagin derivative classes | S | `ML.iv`, `Development/AutomorphicArithmetic/AutomorphicVarieties/PrimitiveFrobeniusFixed/Iv.lean:4`; `kolStep`, `…/KolStep.lean:135` |
+| 8.3 | The odd part: from Poitou–Tate duality, with Kolyvagin derivative classes | S | `ML.iv`, `Development/AutomorphicArithmetic/AutomorphicVarieties/PrimitiveFrobeniusFixed/Iv.lean:4`; `PsiBound`, `…/AutomorphicVarieties/OddResidueBounds/ZeroMemUnrHom.lean:97`; `kolStep`, `…/KolStep.lean:135` |
 | 8.3 | Ferrero–Washington by Sinnott's theorem | S | `sinnott`, `Development/AutomorphicArithmetic/AutomorphicVarieties/GaloisLibrary/FerreroWashingtonIndex/Sinnott.lean:10` |
 | 8.3 | The congruence number, the Eisenstein trace, and the bound of a length by valuations | S | `NumberU3U_s`, `OneCharU_s`, `Development/AutomorphicArithmetic/AutomorphicVarieties/ModularityArgument/ThresholdArguments/DenseThresholdCases/NumberU3US.lean:30-60`; `eis3`, `…/AutomorphicForms/CongruenceNumberRankThree.lean:121` |
 | 8.3 | The lemma on a graded local algebra | S | `LemmaM`, `Development/AutomorphicArithmetic/AutomorphicVarieties/CommutativeAlgebra/OrbitVanishingLocal.lean:111` |
@@ -70,7 +74,7 @@ One row per statement of the paper about the proof. Levels: M computed from the 
 | 9.2 | Supply of hosts on windows | S | `supplyChi`, `…/CharacterBoxes/SupplyChi.lean:8` |
 | 9.3 | Good pairs of primes exist on a range of scales | S | `PairGood`, `PairEx`, `…/CharacterBoxes/PairGood.lean:19-32` |
 | 9.3 | The mean square and the zero-density estimate | S | `meanSqK`, `Development/AutomorphicArithmetic/MeanSquareBounds/meanSqK.lean:51`; `zero_density_box`, `Formalism/GL3MeanSquares/GenusMeanAsymptotics/JacobiCharacterSums/CountZAll.lean:13` |
-| 9.4 | The thick set without small relations; the statement Green | S | `NoRel`, `Formalism/FrobeniusOrbits/HostThickExists.lean:13`; `noRel_image`, `hostThickExists`, `Formalism/FrobeniusOrbits/FrobeniusOrbitsProofs/ThickExists.lean:85-181`; `Green`, `Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/LabelDatum.lean:108` |
+| 9.4 | The thick set without small relations; the statement Green | S | `NoRel`, `Formalism/FrobeniusOrbits/HostThickExists.lean:13`; `noRel_image`, `hostThickExists`, `Formalism/FrobeniusOrbits/FrobeniusOrbitsProofs/ThickExists.lean:85-181`; `IsPrimeLab`, `Green`, `Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/LabelDatum.lean:91-112` |
 | 10 | What each of the 186 literature statements asserts | S | the Lean statement of each row and, where it is a conjunction of named parts, the head of each part, at the path recorded for the row in `refs/rows-A.jsonl`, `rows-B.jsonl`, `rows-C.jsonl`; our descriptions are in `refs/rows-author.json` |
 | 10 | Whether each is the published theorem in general form or a special case, and its sources | D | the reference research recorded in the same three files |
 | 11 | What the final theorem does not use | M | `results/cut-result.txt`, `cut-in.txt.xz`, `cut-out.txt.xz`, `cut-modules.txt.xz`; statements of the named declarations read at `Formalism/ProductFormula/StatementOCCM.lean:137-160`, `Formalism/HalfLinks/Statement.lean:144`, `Formalism/JacobiWeightFamilies/Statement.lean:57`, `Formalism/StatementOC.lean:65`, `Formalism/SizeWindowBrackets/FirstPrimeNeSecondPrime.lean:47` |

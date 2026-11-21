@@ -1,14 +1,16 @@
 /-
 The declaration-level dependency cone of `riemannHypothesis`, computed from the compiled
-environment by a native program (the same computation as `cut.sh`, which runs it in the
-interpreter and is far slower).
+environment by a native program.
 
 Build (in this directory):   lake build cut
 Run (from the archive root, so that LEAN_PATH points at the built archive):
     lake env /path/to/cut/.lake/build/bin/cut <output-directory>
 
-Outputs: cut-result.txt (summary and membership tests), cut-modules.txt (project modules that
-contain a declaration of the cone), cut-hub.txt (literature-hub theorems, in or out).
+Outputs: cut-result.txt (summary and membership tests), cut-in.txt and cut-out.txt (every
+declaration of the archive inside and outside the cone, one line per declaring module),
+cut-modules.txt (the archive's modules that contain a declaration of the cone), cut-hub.txt
+(the theorems of the literature file, in or out), cut-five-extra.txt (what the other four
+theorems of Main add to the cone).
 -/
 import Lean
 open Lean

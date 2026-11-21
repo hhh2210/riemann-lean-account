@@ -12,13 +12,15 @@ them is the conclusion itself, non-vanishing of every Dirichlet $L$-function to 
 $\tfrac12$, returned under the hypothesis of \cref{st:vwin}. One is an empty slot, the
 proposition \lean{True}. Three are statements in the archive's own terms that correspond to no
 single published theorem. The remaining \rowspublished{} are formal statements of published
-results, and we compared each with the theorem its name refers to:
+results. We read each Lean statement; its comparison with the theorem its name refers to is
+taken from reports on the literature that are published with this paper
+(\cref{app:audit,app:rows}):
 \begin{center}
 \begin{tabular}{@{}lr@{}}
 \toprule
 The published theorem in general form & \rowsgeneral\\
 A special case of it, restricted to what the proof uses & \rowsspecial\\
-A variant: a different or composite statement & \rowsother\\
+A different statement, or one whose relation to its name is undecided & \rowsother\\
 \bottomrule
 \end{tabular}
 \end{center}
@@ -89,7 +91,7 @@ formula \cite{rallis1984injectivity,li1992nonvanishing}.
 
 \emph{$p$-adic Hodge theory.} Fontaine's rings
 \cite{fontaine1982certains,fontaine1994corps,fontaine1994semistables}, the $p$-adic monodromy
-theorem \cite{berger2002representations,andre2002filtrations,mebkhout2002analogue}, the local
+theorem \cite{berger2002representations,andre2002filtrations,mebkhout2002analogue,kedlaya2004padic}, the local
 theory of Bloch and Kato \cite{bloch1990lfunctions}, prismatic $F$-crystals and the prismatic
 Dieudonn\'e functor \cite{bhatt2023prismatic,anschutz2023prismatic}, the deformation theory of
 Grothendieck and Messing \cite{messing1972crystals,mazur1974universal}, and Fargues's theorem on
@@ -124,6 +126,6 @@ The certificate for the Riemann Hypothesis does not depend on any of these names
 accurate: the kernel checked a closed term of type \lean{RiemannHypothesis}, whatever its
 intermediate statements are called. But the archive's worth beyond that one theorem depends on
 them a great deal. If the formal statements are what \cref{app:rows} reports, the archive
-contains verified proofs of a substantial part of modern number theory. That is a second
-result, separable from the first, and each of its parts can be checked independently by
-comparing one Lean statement with one published theorem.
+contains verified proofs of \rowspublished{} published theorems, \rowsgeneral{} of them in
+general form. That is a second result, separable from the first, and each row can be checked
+independently against the published theorems it names.

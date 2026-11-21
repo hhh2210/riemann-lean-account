@@ -2,7 +2,8 @@ On 20 November 2026 Levent Alp\"oge released a Lean~4 formalisation, 17 million 
 a proof of the Riemann Hypothesis and of its analogue for every Dirichlet $L$-function, with a
 note saying that no human-readable proof has been written. We built the archive. It compiles,
 the five top theorems depend on no axiom beyond the three on which Mathlib rests, and the
-kernel accepts a replay of all 2.7 million declarations from an empty environment. This
+kernel accepts a replay, from an empty environment, of the 2.7 million declarations that are
+not marked unsafe or partial. This
 paper says what the argument is, as read from the Lean source. The exponent $\tfrac12$ comes
 from one optimisation: an upper bound, of the shape $x/m+m$, for a weighted count of prime
 powers whose Frobenius lies outside a CM type, where $m$ is the length of a chain of theta

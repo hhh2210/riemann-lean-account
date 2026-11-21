@@ -1,6 +1,7 @@
 This repository has two kinds of content.
 
-1. Code: everything under verify/ and lean/, and the scripts under paper/tools/. MIT License.
+1. Code: everything under verify/ except verify/results/, everything under lean/, and the scripts
+under paper/tools/. MIT License.
 
 Copyright (c) 2026 Qui Vincit and Fable
 
@@ -20,9 +21,10 @@ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 2. Text and data: the paper (paper/), the notes (notes/), the reference records and the output of
-the verification programs. Creative Commons Attribution 4.0 International (CC BY 4.0),
-https://creativecommons.org/licenses/by/4.0/ . Attribute as: Qui Vincit and Fable, "The Riemann
-Hypothesis in Lean: an account of Alpöge's proof", 2026.
+the verification programs (verify/results/). Creative Commons Attribution 4.0 International
+(CC BY 4.0), https://creativecommons.org/licenses/by/4.0/ . Attribute as: Qui Vincit and Fable,
+"The argument of Alpöge's formal proof of the Riemann Hypothesis: an account read from the Lean
+source", 2026.
 
 The Lean archive that this repository describes is the work of Levent Alpöge. It is not included
 here and is not covered by this licence.

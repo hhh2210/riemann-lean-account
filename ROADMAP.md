@@ -29,8 +29,9 @@ notes in `notes/` give the path through the source for each step.
 
 ## 3. Weakening the inputs to what is used
 
-The dependency cone (`verify/results/cut-in.txt.xz`) lists every declaration the final theorem
-uses; `cut-out.txt.xz` lists the 661,669 it does not. Several inputs are used far below their
+`verify/results/cut-in.txt.xz` lists every declaration of the archive that is in the dependency
+cone of the final theorem, and `cut-out.txt.xz` the 640,666 declared names (661,669
+declarations, counting a name once for each module that declares it) that are not. Several inputs are used far below their
 strength. The cohomological bound, for example, is proved with a square root that the consumer
 discards at once (Section 8.2 of the paper). Replacing each input by the weakest statement that
 still closes the proof would shorten it and show which of the deep theorems are essential.
@@ -41,8 +42,8 @@ question can be asked of any intermediate theorem.
 ## 4. Auditing the formalised literature, one statement at a time
 
 The archive proves 179 named statements of published theorems. Appendix C of the paper says
-what each Lean statement asserts and whether it is the published theorem in general form (100),
-a special case (74) or a variant (5). The records behind that table are in `paper/refs/`
+what each Lean statement asserts and whether it is the published theorem in general form (99),
+a special case (75) or a variant (5). The records behind that table are in `paper/refs/`
 (`rows-A.jsonl`, `rows-B.jsonl`, `rows-C.jsonl`, with the Lean path of every statement, and
 `rows-author.json`).
 
@@ -87,12 +88,16 @@ papers before a formalisation relies on them.
 ## 7. The two programs as general tools
 
 `verify/cut/CutMain.lean` and `verify/replay/ReplayMain.lean` were written because the standard
-tools did not finish on a tree of this size. Both are short and do not depend on this archive:
+means did not finish on a tree of this size: Lean's helper for the constants used by a term
+stalls on proof terms this large and this shared, and the toolchain's `leanchecker` re-imports
+the whole import closure for every module. Both programs are short and do not depend on this
+archive:
 
 - the cut computes the declaration-level dependency cone of any theorem, with a traversal that
   is linear in the size of each proof term;
-- the replay re-checks every declaration of an import closure in the kernel, from an empty
-  environment, in one process, with the checks running in parallel.
+- the replay re-checks the declarations of an import closure in the kernel (all but the unsafe
+  and partial ones), from an empty environment, in one process, with the checks running in
+  parallel.
 
 Either could be turned into a small standalone tool for other large formalisations.
 

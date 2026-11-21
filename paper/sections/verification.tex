@@ -1,7 +1,8 @@
 \section{What was verified by machine}\label{sec:verification}
 
-Everything in this section is the output of a program run on the archive. The programs and
-their output are public (\cref{app:reproduce}).
+Apart from the statements transcribed in \cref{sec:statements}, everything in this section was
+computed by a program run on the archive. The programs and their output are public
+(\cref{app:reproduce}).
 
 \subsection{The archive}
 The Lean source is distributed as fourteen parts which concatenate to a single file
@@ -14,18 +15,22 @@ build files pin Lean \leanversion{} and Mathlib at commit
 \lean{0df444a360eaa60ab8c11dca51a86af692955474}.
 
 \subsection{Static inspection}
-Before building we scanned every file. We found no occurrence of \lean{sorry} or \lean{admit},
-no \lean{axiom} declaration, and none of \lean{native_decide}, \lean{implemented_by},
-\lean{extern}, \lean{unsafe}, \lean{opaque}, \lean{csimp}, or the names by which a declaration
-can be added to an environment without passing the kernel. Every import resolves to a file of
-the archive, of Mathlib or of Lean; the import graph is acyclic; every file is in the import
-closure of \lean{Main.lean}. The tree defines three elaborators of its own; each produces its
-result through an ordinary declaration, so the kernel checks what they produce. Two helper
-functions of these elaborators are declared \lean{partial}; they are programs, not statements,
-and they are outside the dependency cone of \cref{sec:cone}.
+Before building we scanned the text of every file, comments included. No file contains the
+word \lean{sorry} or \lean{admit}, an \lean{axiom} declaration, or any of
+\lean{native_decide}, \lean{implemented_by}, \lean{extern}, \lean{unsafe}, \lean{opaque},
+\lean{csimp}, or the names by which a declaration can be added to an environment without
+passing the kernel. Every import resolves to a file of the archive, of Mathlib or of Lean; the
+import graph is acyclic; every file is in the import closure of \lean{Main.lean}. Beside 87
+macros, which abbreviate syntax, the text defines four elaborators in three files: two
+tactics, a command that copies declarations under new names, and a probe. Each produces its
+result through an ordinary declaration, so the kernel checks what they produce. Five small
+files run a command while they are compiled; it adds a name to a deny list of Lean's
+suggestion facility and declares nothing. Two helper functions of the elaborators are declared
+\lean{partial}; they are programs, not statements, and they are outside the dependency cone of
+\cref{sec:cone}.
 
 \subsection{The statements}\label{sec:statements}
-\lean{Main.lean} is thirteen lines long and proves five theorems.
+\lean{Main.lean} is twelve lines long and proves five theorems.
 \begin{statement}[\lean{riemannHypothesis}]\label{st:rh}
 For every $s\in\C$ with $\zeta(s)=0$, if $s$ is not of the form $-2(n+1)$ with $n\in\N$ and
 $s\neq 1$, then $\re s=\tfrac12$.
@@ -68,42 +73,49 @@ the three axioms on which Mathlib as a whole rests. In particular none depends o
 \subsection{The dependency cone}\label{sec:cone}
 A build proves that every file compiles; it does not say which declarations the final theorem
 uses. From the compiled environment we computed the set of all constants reachable from
-\lean{riemannHypothesis} through types and proof terms. It has \conesize{} elements. Of the
-\projtheorems{} theorems declared in the archive, \coneprojtheorems{} are in it; they lie in
-\coneprojmodules{} of the \projmodules{} modules that declare anything. When this paper says
-that a declaration is, or is not, used by the proof, it means membership in this set.
-\Cref{sec:offpath} lists what is outside it.
+\lean{riemannHypothesis} through the type and the value of every declaration reached. It has
+\conesize{} elements. Of the \projtheorems{} theorems the archive declares,
+\coneprojtheorems{} are in it, and the cone meets \coneprojmodules{} of the \projmodules{}
+modules that declare anything. These are counts of names: Lean lets an auxiliary theorem be
+declared again in each module that needs it, and \repeatedtheorems{} of the archive's theorem
+declarations repeat a name declared in another module. When this paper says that a declaration
+is, or is not, used by the proof, it means membership in this set. \Cref{sec:offpath} lists
+what is outside it.
 
 \subsection{Kernel replay}
-A build checks each declaration once, in the process that elaborated it. A replay passes every
-declaration to the kernel a second time, from the compiled files, in a process that does
+A build checks each declaration once, in the process that elaborated it. A replay passes the
+declarations to the kernel a second time, from the compiled files, in a process that does
 nothing else. We replayed the whole import closure of \lean{Main.lean} into an environment that
 starts empty: the archive, Mathlib with its dependencies, and Lean's own library,
-\replaymodules{} modules and \replaydecls{} declarations in all. Each
-declaration is passed to the kernel's entry point \lean{Kernel.Environment.addDeclCore} against
-an environment containing only declarations that precede it in a dependency order.
+\replaymodules{} modules with \replayconstants{} declarations. Of these, \replaydecls{} are
+neither unsafe nor partial, and they are what a replay checks. Each of them, other than a
+constructor or a recursor, is passed to the kernel's entry point
+\lean{Kernel.Environment.addDeclCore} against an environment containing only declarations that
+precede it in a dependency order; constructors and recursors are compared with the ones the
+kernel generates from the inductive types.
 
 \replaystatus
 
-The toolchain's checker, \lean{leanchecker} \cite{lean4checker}, could not be used for this. It imports the whole
-import closure afresh for every module it checks, and on this archive its first batch of 2{,}012
-modules exceeded the machine's memory limit of 128\,GB. Its other mode replays in one process
-but on one thread. We therefore wrote a replay program of about three hundred lines, published
-with this paper. It imports once, orders the declarations with a traversal that is linear in
-the size of each term, and runs the kernel checks in parallel, each against a snapshot of the
-environment as it stood when the declaration's turn came; inductive types are added on the
-main thread, and constructors and recursors are compared with the ones the kernel generates,
-as in Lean's own \lean{Environment.replay}. The run ends with a test of the checker itself: it
-must accept a proof of \lean{True} and reject the same term offered as a proof of
-\lean{False}.
+The toolchain's checker, \lean{leanchecker} \cite{lean4checker}, cannot do this on an archive of
+this shape. It imports the whole import closure afresh for every module it checks, and its
+first batch of 2{,}012 modules exceeded the machine's memory limit of 128\,GB; its other mode
+replays in one process but on one thread. The replay was therefore done by a program of about
+three hundred lines, published with this paper. It imports once, orders the declarations with
+a traversal that is linear in the size of each term, and runs the kernel checks in parallel,
+each against a snapshot of the environment as it stood when the declaration's turn came;
+inductive types are added on the main thread, as in Lean's own \lean{Environment.replay}. The
+run ends with a test of the checker itself: it must accept a proof of \lean{True} and reject
+the same term offered as a proof of \lean{False}.
 
 \subsection{What this establishes, and what it does not}
 In Lean \leanversion{} with Mathlib at the pinned commit, \cref{st:rh,st:grh,st:strip} are
 theorems, with no assumption beyond the standard axioms. That is the whole of what the machine
 certifies. It does not certify any description of the proof, including ours.
 
-Three limits should be stated. Mathlib was not re-elaborated from source: its compiled files
+Four limits should be stated. Mathlib was not re-elaborated from source: its compiled files
 came from the community cache for the pinned commit, and what we add is that the kernel
-re-checked every one of its declarations in the replay. We know of no other build of the
-archive at the time of writing, and an independent one would be worth having. And the
-soundness of Lean's kernel is assumed, as in every formalisation.
+re-checked its declarations in the replay. The replay program is ours and has not been reviewed
+by anyone else; its self-test shows only that it rejects one false proof, and the build's own
+kernel checks do not depend on it. We know of no other build of the archive at the time of
+writing, and an independent one would be worth having. And the soundness of Lean's kernel is
+assumed, as in every formalisation.

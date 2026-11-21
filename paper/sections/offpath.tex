@@ -20,17 +20,20 @@ Definitions & \projdefs & \coneprojdefs & 54\%\\
 Modules that declare something & \projmodules & \coneprojmodules & 84\%\\
 \bottomrule
 \end{tabular}
-\caption{The archive and the cone of \texttt{riemannHypothesis}. A module is counted in the
-cone if it declares at least one declaration of the cone.}\label{tab:cone}
+\caption{The archive and the cone of \texttt{riemannHypothesis}, counted by distinct names. A
+module is counted in the cone if it declares at least one declaration of the cone. The
+definitions include 621 compiled forms of recursive definitions, none of them in the
+cone.}\label{tab:cone}
 \end{table}
 
-So about a third of the archive's theorems, 494{,}644 of them, are not used by the final
-theorem. They are compiled and checked by the kernel like the rest
-(\cref{sec:verification}); they are simply not on the path. By top-level directory the unused
-modules number 22{,}037 of 141{,}928 in \lean{Development}, 3{,}224 of 18{,}254 in
-\lean{Formalism}, 1{,}814 of 8{,}507 in \lean{GroundTheory}, 360 of 3{,}845 in
-\lean{ReciprocityTheory}, 140 of 2{,}027 in \lean{CompanionTheory} and 106 of 449 in
-\lean{PositivityTheory}.
+So about a third of the archive's theorems, \unusedtheorems{} of them, are not used by the
+final theorem. They are compiled and checked by the kernel like the rest
+(\cref{sec:verification}); they are simply not on the path. Of the archive's \filecount{}
+files, \unusedmodules{} declare nothing that is in the cone. By top-level directory they number
+22{,}037 of 141{,}928 in \lean{Development}, 3{,}224 of 18{,}254 in \lean{Formalism}, 1{,}814
+of 8{,}507 in \lean{GroundTheory}, 360 of 3{,}845 in \lean{ReciprocityTheory}, 140 of 2{,}027
+in \lean{CompanionTheory} and 106 of 449 in \lean{PositivityTheory}; these totals count every
+file, including the 173 that declare nothing at all.
 
 What is unused includes earlier and parallel forms of steps that are on the path. Each of the
 following was confirmed outside the cone by its full name.
@@ -48,11 +51,14 @@ following was confirmed outside the cone by its full name.
   $m\approx x^{1/4}$ and concludes only that $\zeta(s)\neq0$ for $\re s>\tfrac34$.
 \item \emph{A first form of the analytic half.} The identity of \cref{st:balance} and the
   reduction of \cref{sec:reduction} exist a second time, as \lean{AskMainBalance} (proved as
-  \lean{colour_balance}) and \lean{GrowthInequalityForm}, for hosts ramified at most at $2$
-  and two odd primes. The path uses the versions that allow a set $S$ of primes in place of
-  $2$ and the first odd prime (\lean{ch_balance}, \lean{ch_core}).
-\item \emph{Two further copies of the gain formula} of \cref{sec:adm}, in other namespaces.
-\item \emph{Other forms of single steps:} the jet statement \lean{thmBGauss}; a second form
+  \lean{colour_balance}) and \lean{GrowthInequalityForm}, with the record \lean{HostFacts}, for
+  hosts ramified at most at $2$ and two odd primes. The path uses the versions that allow a set
+  $S$ of primes in place of $2$ and the first odd prime (\lean{ch_balance}, \lean{ch_core},
+  \lean{HostFactsS}).
+\item \emph{Other definitions of the gain.} Three further definitions named \lean{gainP}, in
+  other namespaces than the one of \cref{sec:adm}.
+\item \emph{Other forms of single steps:} the jet statement \lean{thmBGauss}; a jet form of
+  the integrality at inert primes, \lean{JetsInert}; a second form
   of the mean bound, \lean{MeanBoundSecondForm}; the determinant statements \lean{DetGain}
   (if $g_p\le v_p(\Delta)$ on a set of primes then $\sum g_p\log p\le\log\abs\Delta$),
   \lean{DetChain} and \lean{DetBlocks}; a Bessel period
@@ -63,9 +69,9 @@ following was confirmed outside the cone by its full name.
 \end{itemize}
 
 In the other direction, every theorem declared in the file that collects the results taken from
-the literature (\cref{sec:literature}), \hubtheorems{} in all with the auxiliary ones, is in the cone. None of that
-library is decoration.
+the literature (\cref{sec:literature}), \hubtheorems{} in all with the auxiliary ones, is in
+the cone: the proof term of the final theorem refers to every one of them.
 
-The archive declares no axiom of its own, on the path or off it: among its 1{,}945{,}519
-declarations there are theorems, definitions, inductive types with their constructors and
-recursors, and two opaque constants, and nothing else.
+The archive declares no axiom of its own, on the path or off it: its \projnames{} declared
+names are theorems, definitions, inductive types with their constructors and recursors, and two
+opaque constants, and nothing else. The two opaque constants are outside the cone.

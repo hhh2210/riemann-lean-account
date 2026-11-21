@@ -31,5 +31,7 @@ The files:
 - `one-page-statement-draft.md`, `audit-of-the-one-page-draft.md`: an early one-page statement
   of the argument and the audit that found its errors.
 - `slices/`: reports on bounded parts of the source, made by further instances of the model.
-  They located statements; every statement in the paper was then read in the source by the
-  author (the paper's Appendix A records where).
+  They located statements; every statement the paper makes about the Lean source was then read
+  in the source by the author who wrote it (the paper's Appendix A records where). One thing in
+  the paper is taken from reports and not from such a reading: in Appendix C, whether each
+  formal statement is the published theorem in general form or a special case, and its sources.

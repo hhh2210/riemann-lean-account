@@ -10,14 +10,17 @@ against the hash of \cref{sec:verification}.
 
 \subsection*{Requirements}
 A Linux machine with at least 32 cores, 128\,GB of memory and 150\,GB of free disk gives the
-times quoted here. The scripts in \lean{verify/} assume only a shell, \lean{curl}, and
-\lean{elan}.
+times quoted here. The scripts in \lean{verify/} assume \lean{bash} with \lean{git},
+\lean{curl}, \lean{zstd}, \lean{tar} and \lean{sha256sum}, and \lean{python3} for the scan;
+\lean{setup.sh} installs \lean{elan} if it is absent.
 
 \subsection*{Steps}
 \begin{enumerate}
 \item \lean{setup.sh} downloads the fourteen parts, concatenates them, checks the SHA-256,
   unpacks, installs the pinned toolchain and fetches the Mathlib build cache for the pinned
   commit.
+\item \lean{scan.py} is the static inspection of \cref{sec:verification}: it reads the
+  downloaded file without unpacking it and needs nothing else.
 \item \lean{build.sh} runs \lean{lake build Main} with every log line time-stamped and records
   the exit code.
 \item \lean{janitor.sh} must run beside the build. Lake writes, for every module, a file listing
@@ -30,14 +33,16 @@ times quoted here. The scripts in \lean{verify/} assume only a shell, \lean{curl
   dependency cone of \cref{sec:cone} and writes the list of every declaration of the archive
   inside it and outside it.
 \item \lean{replay.sh} builds and runs the program \lean{replay/ReplayMain.lean}, the kernel
-  replay of \cref{sec:verification}.
+  replay of \cref{sec:verification}. Our run used 28 threads, set with
+  \lean{LEAN_NUM_THREADS}.
 \end{enumerate}
-The outputs of our own run are in \lean{verify/results/}: the head and tail of the build log,
-the output of the check, the cone summary with the complete lists of declarations inside and
-outside the cone (compressed), the replay summary with the lists of axioms and of
-declarations not replayed, and the output of the corollaries file.
+The outputs of our own run are in \lean{verify/results/}, with an index that says how each
+file was produced: the scan, the head and tail of the build log, the output of the check, the
+cone summary with the complete lists of declarations inside and outside the cone (compressed),
+the replay summary with the lists of axioms and of declarations not replayed, and the output
+of the corollaries file.
 
 \subsection*{Cost}
 The build took \buildhours{} hours of wall time on 32 cores, the cone about ten minutes and the
-replay \replayminutes{} minutes. On rented hardware the whole verification cost about thirty US
+replay \replayminutes{} minutes. On rented hardware the whole verification cost under thirty US
 dollars.

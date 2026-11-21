@@ -72,8 +72,10 @@ def main(src: str, dst: str) -> None:
             "\\textsf{M}: computed from the compiled archive. \\textsf{S}: the Lean statement was "
             "read and transcribed by the authors. \\textsf{P}: the Lean proof was read by the "
             "authors. \\textsf{R}: taken from a reader's report on the source, published with this "
-            "paper. Paths are relative to the archive's \\lean{src} directory; a line number "
-            "follows a colon.\n\n"
+            "paper. Paths are relative to the archive's \\lean{src} directory, and a line number "
+            "follows a colon; paths beginning \\lean{results/} are in \\lean{verify/} of the "
+            "repository of \\cref{app:reproduce}, and those beginning \\lean{refs/} beside the "
+            "source of this paper.\n\n"
         )
         f.write("{\\footnotesize\\setlength{\\tabcolsep}{4pt}\n")
         f.write("\\begin{longtable}{@{}>{\\raggedright\\arraybackslash}p{0.36\\textwidth}"

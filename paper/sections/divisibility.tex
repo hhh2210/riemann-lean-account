@@ -52,10 +52,12 @@ extension.
 reciprocity \lvS{} (\lean{cmGoodModel_of_globalArtinReciprocity}), which it also proves.
 \Cref{st:cm3} says that at an inert prime the formal group of the curve is the height-two group
 $F$, so that the complex uniformising coordinate $z$ is a unit times $\log_F$ of an integral
-parameter; this is Deuring's supersingular reduction \cite{deuring1941}.
+parameter. The reduction is supersingular by Deuring's criterion \cite{deuring1941}, and a
+formal group of height two with this action of the ring of integers is the Lubin--Tate group
+$F$ up to isomorphism \cite{lubintate1965,honda1970}.
 
-From these the archive proves, for every prime $p\ge5$ with $\bigl(\tfrac{-d}{p}\bigr)=-1$ and
-every embedding of $\overline\Q$ into $\C_p$, that the kernel of the theta lift attached to a
+From these the archive proves, for every prime $\ell\ge5$ with $\bigl(\tfrac{-d}{\ell}\bigr)=-1$ and
+every embedding of $\overline\Q$ into $\C_\ell$, that the kernel of the theta lift attached to a
 pair of admitted lattices is integral \lvS{} (\lean{IntInert}). A \emph{jet} is the value at
 the origin of a differential operator applied to the Taylor series of the kernel; the periods
 of \cref{sec:adm} are expressed through jets, and that is how the divisibility reaches them.

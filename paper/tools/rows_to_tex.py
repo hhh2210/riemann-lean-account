@@ -75,8 +75,11 @@ def main() -> None:
     # (refs/rows-author.json); the researched `what_it_states` is the fallback and is escaped.
     author_path = os.path.join(os.path.dirname(inputs[0]), "rows-author.json")
     author = json.load(open(author_path, encoding="utf-8")) if os.path.exists(author_path) else {}
+    # Labels fixed by the authors' reading of the Lean statement, over the researched label.
+    # SiegelKlingenDeligneRibet is a conjunction one of whose parts is the special case DeligneRibet.
     special = {"UnusedSlot72": "empty", "EveryCharacter": "conclusion", "JoinOut": "internal",
-               "ThetaRationalInvariance": "internal", "LocalMatching": "internal"}
+               "ThetaRationalInvariance": "internal", "LocalMatching": "internal",
+               "SiegelKlingenDeligneRibet": "special case"}
     counts: dict[str, int] = {}
     seen: set[str] = set()
     with open(dst, "w", encoding="utf-8", newline="\n") as f:
@@ -87,8 +90,12 @@ def main() -> None:
             "(\\cref{sec:literature}), in the order of the file. The second column says what the "
             "Lean statement asserts, in our words; where the statement is a conjunction of named "
             "parts the description covers the parts. The third column says whether it is the "
-            "published theorem in general form, a special case of it, a variant, a statement "
-            "internal to the archive, or a repetition. The fourth gives the sources.\n\n"
+            "published theorem in general form, a special case of it, or a variant (a different "
+            "statement, or one whose relation to its name is undecided); the other labels are "
+            "internal (a statement in the archive's own terms), empty, conclusion and repeated. "
+            "The descriptions are ours, from the Lean statements; the third and fourth columns "
+            "are taken from reports on the literature (\\cref{app:audit}). The fourth gives the "
+            "sources.\n\n"
         )
         f.write("{\\scriptsize\\setlength{\\tabcolsep}{3pt}\n")
         f.write("\\begin{longtable}{@{}>{\\raggedright\\arraybackslash}p{0.21\\textwidth}"
@@ -113,7 +120,7 @@ def main() -> None:
             cite = ("\\cite{" + ",".join(dict.fromkeys(keys)) + "}") if keys and m not in ("conclusion", "empty") else "---"
             text = author.get(name) or esc(first_sentence(r.get("what_it_states", "")))
             if m == "repeated":
-                text = "The same statement as above, entered a second time in the file."
+                text = f"The same statement as {leanb(stmt)} above, entered a second time in the file."
             f.write(f"{leanb(stmt)} & {text} & {m} & {cite}\\\\\n\\addlinespace[1pt]\n")
         f.write("\\end{longtable}}\n")
     print(len(rows), len(seen), counts)

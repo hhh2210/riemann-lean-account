@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# After the build: replays every declaration Main imports through the kernel, from an empty
-# environment (replay/ReplayMain.lean). Our run used up to about 30 GB beyond the page cache
-# on 28 threads.
+# After the build: replays the declarations Main imports (all but the unsafe and partial ones)
+# through the kernel, from an empty environment (replay/ReplayMain.lean). Our run used up to
+# about 30 GB beyond the page cache on 28 threads; set LEAN_NUM_THREADS to choose the number.
 # Usage, from the working directory of setup.sh:   bash replay.sh /path/to/this/verify/replay  out-dir
 . "$HOME/.elan/env"
 prog=$(cd "$1" && pwd); out=$(mkdir -p "$2" && cd "$2" && pwd)

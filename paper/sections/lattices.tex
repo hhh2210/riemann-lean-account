@@ -43,7 +43,7 @@ There is one target: a lattice $P\subset W$, the dual of a lattice $R$ glued pri
 from images of integral forms under the lift. We call $P$ the \emph{lattice of periods}.
 
 The final theorem requires, for the family at each scale, a record of eleven clauses
-(\lean{SizeData}\textsubscript{\ttfamily 2}) \lvS. Four carry the argument and the rest are size conditions:
+(\lean{SizeData}\textsubscript{\ttfamily 2}) \lvS. Four of them make the chain:
 \begin{align}
 &\ASK(u_0)-\mathrm{Ga}(u_0)\ \le\ \mathrm{Lo}, \tag{\textsf{Loss}}\label{eq:loss}\\
 &\mu(M_u)+\mathrm{Ga}(u_0)+\mathrm{Fo}-\mathrm{Ee}(u)-\mathrm{Lo}_5(u)\ \le\ \mu(N_u),
@@ -54,18 +54,23 @@ The final theorem requires, for the family at each scale, a record of eleven cla
      +(\text{small}). \tag{\textsf{Div}}\label{eq:div}
 \end{align}
 Here $\mathrm{Ga}(u_0)$ is the total gain, a sum of the local gains weighted by $\log$ of the
-residue characteristics; $s$ is the rank-weighted mean over $u$ of $\mu(N_u)-h(u)$; and the
+residue characteristics; $s$ is the rank-weighted mean over $u$ of $\mu(N_u)-h(u)$; the term
+marked small is an error of the kind of \cref{sec:balance}, with a factor $x^{e_D\eps}$; and the
 remaining letters are correction terms that cancel or are small. Read in order: the count is at
 most the total gain \eqref{eq:loss}; the gain is the amount by which the slope of $N_u$ exceeds
 that of $M_u$ \eqref{eq:gain}; the mean slope of the $N_u$, less heights, is at most the slope
 of $P$ \eqref{eq:slope}; and the slope of $P$ is at most the period term on the right of
-\eqref{eq:div}. A fifth clause bounds $\log T(u)$ from below by a dimension count
-(\cref{sec:period}), and an exact identity then shows that the right side of \eqref{eq:div}
-is $\MAIN$.
+\eqref{eq:div}. Three further clauses close the chain. One bounds $\mu(M_u)$ from below and
+$\mu_{\max}(M_u)$ from above by error terms (\lean{Slopes}); one bounds the variation with $u$
+of $h(u)+\sum_ta_t\log T(u)$ by error terms (\lean{HComp}); and one bounds $\log T(u)$ from
+below by a dimension count (\lean{Count5}, \cref{sec:period}), after which an exact identity
+shows that the right side of \eqref{eq:div} is $\MAIN$ up to an error term (\cref{st:key}).
+The rest are size conditions.
 
 \subsection{Why $N_u$ still maps into $P$}\label{sec:adm}
-Rescaling $M_u$ by negative powers of primes raises its slope by the total gain, but it is only
-useful if the larger lattice is still mapped into $P$ by $B_u$. This is the statement
+Rescaling the sublattice by negative powers of primes raises its slope by the total gain, less
+what passing to the sublattice costs, but it is only useful if the rescaled lattice is still
+mapped into $P$ by $B_u$. This is the statement
 \lvS{} (\lean{adm2}):
 \begin{quote}
 for every form $\varphi$ in the unscaled sublattice, every place $w$ and every integral test
@@ -84,16 +89,18 @@ g_U=\gamma_p\sum_{s}\alpha_s\;-\;\sum_{s\ \text{not exceptional}}\ \sum_{e\ \mat
 \qquad \gamma_p=\frac{p}{p^2-1}=\sum_{e\ \mathrm{odd}}\frac1{p^{e}},
 \end{equation}
 with capacities $c_s(e)$ fixed by the weights, a correction $\delta$ of lower order, and the
-second sum omitting the places fixed by an even power of Frobenius. Beside it stands
+second sum omitting a class of places defined by a parity condition along the orbit
+(\lean{IsV}). Beside it stands
 \[
 g_0=\sum_{s}\ \sum_{e\ \mathrm{odd},\ \text{not excluded}}\max\Bigl(\frac{\alpha_s}{p^{e}}-c_s(e),\,0\Bigr)-\delta .
 \]
 On a designated set of good orbits (\lean{VV}) the gain is
 $\max(g_U-\mathrm{Pr},\,g_0,\,0)$, with a penalty $\mathrm{Pr}$; on the others it is
 $\max(g_0,0)$; and it is zero at primes above a bound and at the primes of one excluded class.
-Since $\gamma_p\alpha_s=\sum_{e\,\mathrm{odd}}\alpha_s/p^e$, both forms are
-$\sum_s\sum_{e\,\mathrm{odd}}\max(\alpha_s/p^e-c_s(e),0)$ up to the corrections: the odd-power
-part of the count \eqref{eq:ask}, with the capacity in the place of the weight. That is why
+Since $\gamma_p\alpha_s=\sum_{e\,\mathrm{odd}}\alpha_s/p^e$, at the places that are not omitted
+both forms are $\sum_{e\,\mathrm{odd}}\max(\alpha_s/p^e-c_s(e),0)$ up to the corrections. This
+is the shape of the count \eqref{eq:ask}, in which only odd powers of Frobenius occur because
+$\Phi$ has index two, with the capacity in the place of the weight. That is why
 \eqref{eq:loss} holds with a small loss. The divisibility of \cref{sec:divisibility} supplies
 the rate $\gamma_p$.
 
@@ -106,18 +113,19 @@ statement we met.
 Let $K$ be a totally complex number field, $P$ a Hermitian lattice over $\cO_K$ in a $K$-space
 $W$, and for $i$ in a finite set $I$ let $N_i$ be a Hermitian lattice in a $K$-space $V_i$ and
 $B_i\colon V_i\to W$ a $K$-linear map with $B_i(N_i)\subseteq P$ and $\htt(B_i)\le h_i$ whenever
-$B_i\ne0$. Let $s$, $u\ge0$, $HH\ge0$ satisfy
+$B_i\ne0$. Let $s\in\R$, $u\ge0$ and $HH\ge0$ satisfy
 \[
 s\sum_i\rk N_i\le\sum_i\rk N_i\,\bigl(\mu(N_i)-h_i\bigr),\qquad
 \mu_{\max}(N_i)-h_i\le s+u,\qquad s-\mu_{\min}(P)\le HH .
 \]
-Suppose that at one infinite place $v$, after a change of bases and after extending $W_v$ by a
-space of dimension at most a fraction $\delta<1$ of the total, there are weights $\gamma_i>0$
+Suppose that at one infinite place $v$, after a change of bases and after extending $W_v$ to a
+space $W_v'$ in which the added part has dimension at most a fraction $\delta<1$ of the total,
+there are weights $\gamma_i>0$
 with
 \[
 \sum_i\norm{\gamma_iB_i^*B_i-1}_{\mathrm{HS}}^2\le e\sum_i\rk N_i,\quad e\le\tfrac14,
 \qquad
-\tr(Q^2)\le(1+\eta)\,\frac{(\tr Q)^2}{\dim},\quad Q=\sum_i\gamma_iB_iB_i^* .
+\tr(Q^2)\le(1+\eta)\,\frac{(\tr Q)^2}{\dim W_v'},\quad Q=\sum_i\gamma_iB_iB_i^* .
 \]
 Then
 \[
@@ -196,13 +204,14 @@ archive proves the Chowla--Selberg formula
 \frac1{h_K}\sum_{c\in\mathrm{Cl}(K)}\log\bigl(4\pi\,\im\tau_c\,\abs{\eta(\tau_c)}^4\bigr)
 =\gamma+\log\frac{2\pi}{\sqrt d}-\frac{L'}{L}(1,\chi_d),
 \end{equation}
-for $K=\Q(\sqrt{-d})$, from the factorisation $\zeta_K=\zeta\cdot L(\cdot,\chi_d)$ and
+for an imaginary quadratic field $K$ of discriminant $-d$ with $d>4$ and its quadratic character
+$\chi_d$, from the factorisation $\zeta_K=\zeta\cdot L(\cdot,\chi_d)$ and
 Kronecker's first limit formula \cite{siegel1980advanced}, which is also proved there \lvS. This is how
 $\tfrac{L'}{L}(1,\chi_\Phi)$ enters \eqref{eq:main}.
 
 \emph{The count for $T$.} The dimension of the space of forms is known exactly: the number of
 classes is a mass times an index times $(T^k-1)^f$ \lvS{} (\lean{ClassNumberFormula}\textsubscript{\ttfamily 2}). A
-lower bound for $\log T(u)$ is the fifth clause \lvS{}
+lower bound for $\log T(u)$ is the clause \lvS{}
 (\lean{Count5}),
 \[
 \sum_{j=1}^m\frac1f\sum_{\rho}\log\frac{w_j(\rho)\,v}{\pi}+m\,\ell_g-c\Bigl(L_a+\frac{m^2L_a}{k}\Bigr)\ \le\ \log T(u).
@@ -217,13 +226,16 @@ times the lower bound for $\log T$, plus a term that cancels a comparison term, 
 \end{statement}
 The $\log(\pi/v)$ inside $\log\Omega$ cancels the $\log(v/\pi)$ of the count. There is no
 discrepancy term: the lattice side returns the analytic main term \eqref{eq:main} identically,
-and what is left is the error with its $m^2/k$, which is the third cost of \cref{sec:balance}.
+and what is left is an error of the shape of the first term of the bracket of
+\cref{sec:balance}, with the same factor $1+m^2/k$.
 
 \subsection{Chaining}
 From \eqref{eq:loss}, \eqref{eq:gain}, \eqref{eq:slope}, \eqref{eq:div} and \cref{st:key},
-for every translate $u_0$,
+with the clauses that bound $\mu(M_u)$ and the variation of $h(u)$, for every translate $u_0$,
 \[
 \ASK(u_0)\ \le\ \MAIN(u_0)+\Err ,
 \]
-which is what \cref{sec:reduction} needs. The archive proves this as
+where $\ASK(u_0)$ is the sum over $t\in TT$ and $j\le m$ of the counts \eqref{eq:ask} with the
+weights $w_{u_0,j}$, and $\MAIN(u_0)$ the corresponding sum of main terms. This is what
+\cref{sec:reduction} needs. The archive proves it as
 \lean{each_unit_bound_statement} \lvM, for every translate and not only on average.

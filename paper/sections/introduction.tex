@@ -4,17 +4,16 @@ On 20 November 2026 Levent Alp\"oge released a proof of the Riemann Hypothesis
 \cite{riemann1859anzahl}, and of the generalised Riemann Hypothesis for the $L$-functions of
 Dirichlet \cite{dirichlet1837beweis}, formalised in Lean~4
 \cite{demoura2021lean4} on top of Mathlib \cite{mathlib2020}. The release consists of the Lean
-source \cite{alpoge2026lean}, \filecount{} files and \linecount{} lines, and a four-page note
+source \cite{alpoge2026lean}, \filecount{} Lean files and \linecount{} lines, and a four-page note
 \cite{alpoge2026remark}
 with a timeline of twenty steps. The note says that no human-readable proof has been written.
 
 This paper does two things. It reports that the proof is correct as a formal object: we built
 the archive, it compiles, its five top theorems rest on the three standard axioms and
-nothing else, and the kernel accepts a replay of every declaration from an empty environment
-(\cref{sec:verification}). And it says what the argument is. We read the proof
-from its last line upward through the Lean source, transcribed what each layer states, and
-followed every input until it reached a theorem of the published literature. The result is an
-account of how the proof goes, which the release does not contain.
+nothing else, and the kernel accepts a replay, from an empty environment, of every declaration
+that is not marked unsafe or partial (\cref{sec:verification}). And it says what the argument
+is: an account read from the Lean source, from the final theorem down to the theorems of the
+published literature on which it rests. The release does not contain one.
 
 \subsection{The argument}
 Fix a primitive Dirichlet character $\chi$. The proof has four movements.
@@ -38,10 +37,11 @@ $\tfrac12$ is produced (\cref{sec:balance}).
 each of many indices $u$ there is a lattice $M_u$ of algebraic modular forms on a definite
 unitary group, and a map $B_u$ sending a form to the periods of its $m$-fold iterated theta
 lift; $m$ is the number of lifts. At a prime $p$ inert in the CM field those periods are
-divisible by about $p^{a/p+a/p^3+\cdots}$, because a CM elliptic curve has a formal group of
-height two there (\cref{sec:divisibility}). So $B_u$ still maps a larger lattice
-$N_u\supset M_u$ into the lattice $P$ of periods, and the slope of $N_u$ exceeds that of $M_u$
-by at least the count $\ASK$. The maps $B_u$ form a nearly tight frame, by a relative trace
+divisible by about $p^{a/p+a/p^3+\cdots}$, where $a$ is the order of the Taylor coefficients
+of theta functions through which they are expressed, because a CM elliptic curve has a formal
+group of height two there (\cref{sec:divisibility}). So $B_u$ still maps into the lattice $P$
+of periods a lattice $N_u$, obtained by rescaling a sublattice of $M_u$, whose slope exceeds
+that of $M_u$ by at least the count $\ASK$, up to errors. The maps $B_u$ form a nearly tight frame, by a relative trace
 formula for Bessel--Poincar\'e series (\cref{sec:frame}), and a slope inequality for such
 frames bounds the slope of $P$ from below by the mean slope of the $N_u$ (\cref{sec:slope}).
 From above, the slope of $P$ is computed: it is $m$ times $\log(a!/\Omega^a)$ with $\Omega$ a
@@ -65,8 +65,8 @@ Beyond the outline, the reading establishes the following.
 \item The statement proved is Mathlib's \lean{RiemannHypothesis}, and the statements for
   Dirichlet $L$-functions cover every character of every modulus (\cref{sec:statements}).
 \item The final theorem uses \coneprojtheorems{} of the archive's \projtheorems{} theorems.
-  The rest includes complete earlier forms of several steps, among them a conditional
-  statement that reaches only $\re s>\tfrac34$ (\cref{sec:offpath}).
+  Outside its cone are earlier forms of several steps, some with their proofs, and conditional
+  statements, among them one that would give only $\re s>\tfrac34$ (\cref{sec:offpath}).
 \item The central inequality is a theorem about Hermitian lattices alone, a slope inequality
   for nearly tight frames of maps, which we state in full (\cref{st:F}).
 \item The period side returns the analytic main term identically; there is no discrepancy term
@@ -84,8 +84,8 @@ Beyond the outline, the reading establishes the following.
   literature provides, and the argument is arranged to need no more (\cref{sec:galois}).
 \item The proof contains its own formalisations of \rowspublished{} named results of the
   literature, among them global class field theory, the Siegel--Weil formula and Hironaka's
-  theorem, and beside these of the theorem of Ferrero and Washington and of Kato's Euler system
-  (\cref{sec:literature}).
+  theorem (\cref{sec:literature}); beside these the archive proves the theorem of Ferrero and
+  Washington and Kato's Euler system (\cref{sec:cohomology}).
 \end{enumerate}
 
 \subsection{Scope}
