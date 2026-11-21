@@ -1,0 +1,329 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     14
+    ]
+   ],
+   "date-time": "2026-10-14T18:45:08Z",
+   "timestamp": 1792003508530,
+   "version": "4.4.0"
+  },
+  "reference-count": 32,
+  "publisher": "Duke University Press",
+  "issue": "3",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Duke Math. J."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1990,
+     12,
+     1
+    ]
+   ]
+  },
+  "DOI": "10.1215/s0012-7094-90-06135-6",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2004,
+     11,
+     11
+    ]
+   ],
+   "date-time": "2004-11-11T09:53:55Z",
+   "timestamp": 1100166835000
+  },
+  "page": "913-937",
+  "source": "Crossref",
+  "is-referenced-by-count": 38,
+  "title": [
+   "Theta lifting for unitary representations with nonzero cohomology"
+  ],
+  "prefix": "10.1215",
+  "volume": "61",
+  "author": [
+   {
+    "given": "Jian-Shu",
+    "family": "Li",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "73",
+  "reference": [
+   {
+    "key": "5",
+    "unstructured": "[5] A. Borel and N. R. Wallach, <i>Continuous cohomology, discrete subgroups, and representations of reductive groups</i>, Annals of Mathematics Studies, vol. 94, Princeton University Press, Princeton, N.J., 1980."
+   },
+   {
+    "key": "1",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[1] J. D. Adams, <i>Discrete spectrum of the reductive dual pair $(\\rm O(p,\\,q),\\,\\rm Sp(2m))$</i>, Invent. Math. <b>74</b> (1983), no. 3, 449–475.",
+    "DOI": "10.1007/BF01394246"
+   },
+   {
+    "key": "2",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[2] J. Adams, <i>$L$-functoriality for dual pairs</i>, Astérisque (1989), no. 171-172, 85–129.",
+    "DOI": "10.1016/0043-1648(89)90287-1"
+   },
+   {
+    "key": "3",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[3] G. W. Anderson, <i>Theta functions and holomorphic differential forms on compact quotients of bounded symmetric domains</i>, Duke Math. J. <b>50</b> (1983), no. 4, 1137–1170.",
+    "DOI": "10.1215/S0012-7094-83-05049-4"
+   },
+   {
+    "key": "4",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[4] Nguyen Huu Anh, <i>Restriction of the principal series of $\\rm SL(n,\\,\\bf C)$ to some reductive subgroups</i>, Pacific J. Math. <b>38</b> (1971), 295–314.",
+    "DOI": "10.2140/pjm.1971.38.295"
+   },
+   {
+    "key": "6",
+    "unstructured": "[6] N. Bourbaki, <i>Éléments de mathématique</i>, Hermann, Paris, 1975."
+   },
+   {
+    "key": "7",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[7] D. L. de George and N. R. Wallach, <i>Limit formulas for multiplicities in $L\\sp2(\\Gamma \\backslash G)$</i>, Ann. Math. (2) <b>107</b> (1978), no. 1, 133–150.",
+    "DOI": "10.2307/1971140"
+   },
+   {
+    "key": "8",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[8] T. Enright, R. Howe, and N. Wallach, <i>A classification of unitary highest weight modules</i>, Representation theory of reductive groups (Park City, Utah, 1982), Progr. Math., vol. 40, Birkhäuser Boston, Boston, MA, 1983, pp. 97–143.",
+    "DOI": "10.1007/978-1-4684-6730-7_7"
+   },
+   {
+    "key": "9",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[9] M. Flensted-Jensen, <i>Spherical functions of a real semisimple Lie group. A method of reduction to the complex case</i>, J. Funct. Anal. <b>30</b> (1978), no. 1, 106–146.",
+    "DOI": "10.1016/0022-1236(78)90058-7"
+   },
+   {
+    "key": "10",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[10] M. Flensted-Jensen, <i>Discrete series for semisimple symmetric spaces</i>, Ann. of Math. (2) <b>111</b> (1980), no. 2, 253–311.",
+    "DOI": "10.2307/1971201"
+   },
+   {
+    "key": "11",
+    "unstructured": "[11] S. Helgason, <i>Differential geometry and symmetric spaces</i>, Pure and Applied Mathematics, Vol. XII, Academic Press, New York, 1962."
+   },
+   {
+    "key": "12",
+    "unstructured": "[12] R. Howe, <i>$\\theta$-series and invariant theory</i>, Automorphic forms, representations and $L$-functions (Proc. Sympos. Pure Math., Oregon State Univ., Corvallis, Ore., 1977), Part 1, Proc. Sympos. Pure Math., XXXIII, Amer. Math. Soc., Providence, R.I., 1979, pp. 275–285."
+   },
+   {
+    "key": "13",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[13] R. Howe, <i>Reciprocity laws in the theory of dual pairs</i>, Representation theory of reductive groups (Park City, Utah, 1982) ed. P. C. Trombi, Progr. Math., vol. 40, Birkhäuser Boston, Boston, MA, 1983, pp. 159–175.",
+    "DOI": "10.1007/978-1-4684-6730-7_10"
+   },
+   {
+    "key": "14",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[14] R. Howe, <i>Transcending classical invariant theory</i>, J. Amer. Math. Soc. <b>2</b> (1989), no. 3, 535–552.",
+    "DOI": "10.2307/1990942"
+   },
+   {
+    "key": "15",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[15] R. Howe, <i>Remarks on classical invariant theory</i>, Trans. Amer. Math. Soc. <b>313</b> (1989), no. 2, 539–570.",
+    "DOI": "10.2307/2001418"
+   },
+   {
+    "key": "16",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[16] M. Kashiwara and M. Vergne, <i>On the Segal-Shale-Weil representations and harmonic polynomials</i>, Invent. Math. <b>44</b> (1978), no. 1, 1–47.",
+    "DOI": "10.1007/BF01389900"
+   },
+   {
+    "key": "17",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[17] D. Kazhdan, <i>Some applications of the Weil representation</i>, J. Analyse Mat. <b>32</b> (1977), 235–248.",
+    "DOI": "10.1007/BF02803582"
+   },
+   {
+    "key": "18",
+    "unstructured": "[18] A. W. Knapp, <i>Representation theory of semisimple groups</i>, Princeton Mathematical Series, vol. 36, Princeton University Press, Princeton, NJ, 1986."
+   },
+   {
+    "key": "19",
+    "unstructured": "[19] S. S. Kudla, <i>Seesaw dual reductive pairs</i>, Automorphic forms of several variables (Katata, 1983), Progr. Math., vol. 46, Birkhäuser Boston, Boston, MA, 1984, pp. 244–268."
+   },
+   {
+    "key": "20",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[20] S. S. Kudla and J. J. Millson, <i>The theta correspondence and harmonic forms. I</i>, Math. Ann. <b>274</b> (1986), no. 3, 353–378.",
+    "DOI": "10.1007/BF01457221"
+   },
+   {
+    "key": "21",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[21] J.-S. Li, <i>Singular unitary representations of classical groups</i>, Invent. Math. <b>97</b> (1989), no. 2, 237–255.",
+    "DOI": "10.1007/BF01389041"
+   },
+   {
+    "key": "22",
+    "unstructured": "[22] C. Moeglin, <i>Correspondance de Howe Pour Les Paires Reductive Duales</i>, Quelques Calculs Dans Le Cas Archimedien, Preprint."
+   },
+   {
+    "key": "23",
+    "unstructured": "[23] T. Przebinda, <i>The duality correspondence of infinitesimal characters</i>, Preprint."
+   },
+   {
+    "key": "24",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[24] T. Przebinda, <i>The oscillator duality correspondence for the pair $\\rm O(2,2),\\;\\rm Sp(2,\\bf R)$</i>, Mem. Amer. Math. Soc. <b>79</b> (1989), no. 403, x+105.",
+    "DOI": "10.1090/memo/0403"
+   },
+   {
+    "key": "25",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[25] S. Rallis and G. Schiffmann, <i>Discrete spectrum of the Weil representation</i>, Bull. Amer. Math. Soc. <b>83</b> (1977), no. 2, 267–270.",
+    "DOI": "10.1090/S0002-9904-1977-14299-7"
+   },
+   {
+    "key": "26",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[26] J. Repka, <i>Tensor products of holomorphic discrete series representations</i>, Canad. J. Math. <b>31</b> (1979), no. 4, 836–844.",
+    "DOI": "10.4153/CJM-1979-079-9"
+   },
+   {
+    "key": "27",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[27] J. Rohlfs and B. Speh, <i>On limit multiplicities of representations with cohomology in the cuspidal spectrum</i>, Duke Math. J. <b>55</b> (1987), no. 1, 199–211.",
+    "DOI": "10.1215/S0012-7094-87-05511-6"
+   },
+   {
+    "key": "28",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[28] G. Savin, <i>Limit multiplicities of cusp forms</i>, Invent. Math. <b>95</b> (1989), no. 1, 149–159.",
+    "DOI": "10.1007/BF01394147"
+   },
+   {
+    "key": "29",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[29] Y. L. Tong and S. P. Wang, <i>Geometric realization of discrete series for semisimple symmetric spaces</i>, Invent. Math. <b>96</b> (1989), no. 2, 425–458.",
+    "DOI": "10.1007/BF01393969"
+   },
+   {
+    "key": "30",
+    "unstructured": "[30] D. A. Vogan, Jr. and G. J. Zuckerman, <i>Unitary representations with nonzero cohomology</i>, Compositio Math. <b>53</b> (1984), no. 1, 51–90."
+   },
+   {
+    "key": "31",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[31]<sup>1</sup> N. R. Wallach, <i>The analytic continuation of the discrete series. I</i>, Trans. Amer. Math. Soc. <b>251</b> (1979), 1–17.",
+    "DOI": "10.2307/1998680"
+   },
+   {
+    "key": "32",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[31]<sup>2</sup> N. R. Wallach, <i>The analytic continuation of the discrete series. II</i>, Trans. Amer. Math. Soc. <b>251</b> (1979), 19–37.",
+    "DOI": "10.2307/1998680"
+   }
+  ],
+  "container-title": [
+   "Duke Mathematical Journal"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "https://projecteuclid.org/journalArticle/Download?urlid=10.1215/S0012-7094-90-06135-6",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     14
+    ]
+   ],
+   "date-time": "2026-10-14T17:51:40Z",
+   "timestamp": 1792000300000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://projecteuclid.org/journals/duke-mathematical-journal/volume-61/issue-3/Theta-lifting-for-unitary-representations-with-nonzero-cohomology/10.1215/S0012-7094-90-06135-6.full"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1990,
+     12,
+     1
+    ]
+   ]
+  },
+  "references-count": 32,
+  "journal-issue": {
+   "issue": "3",
+   "published-online": {
+    "date-parts": [
+     [
+      1990,
+      12,
+      1
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.1215/s0012-7094-90-06135-6",
+  "relation": {},
+  "ISSN": [
+   "0012-7094",
+   "1547-7398"
+  ],
+  "issn-type": [
+   {
+    "value": "0012-7094",
+    "type": "print"
+   },
+   {
+    "value": "1547-7398",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1990,
+     12,
+     1
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,422 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     18
+    ]
+   ],
+   "date-time": "2026-09-18T18:16:41Z",
+   "timestamp": 1789755401470,
+   "version": "4.0.1"
+  },
+  "reference-count": 26,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "3",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2010,
+       8,
+       9
+      ]
+     ],
+     "date-time": "2010-08-09T00:00:00Z",
+     "timestamp": 1281312000000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Geom. Funct. Anal."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2010,
+     9
+    ]
+   ]
+  },
+  "DOI": "10.1007/s00039-010-0077-4",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2010,
+     8,
+     8
+    ]
+   ],
+   "date-time": "2010-08-08T00:16:16Z",
+   "timestamp": 1281226576000
+  },
+  "page": "690-709",
+  "source": "Crossref",
+  "is-referenced-by-count": 27,
+  "title": [
+   "Uniqueness of Bessel Models: The Archimedean Case"
+  ],
+  "prefix": "10.1007",
+  "volume": "20",
+  "author": [
+   {
+    "given": "Dihua",
+    "family": "Jiang",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Binyong",
+    "family": "Sun",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Chen-Bo",
+    "family": "Zhu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "published-online": {
+   "date-parts": [
+    [
+     2010,
+     8,
+     9
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "77_CR1",
+    "doi-asserted-by": "crossref",
+    "first-page": "271",
+    "DOI": "10.1007/s00029-009-0544-7",
+    "volume": "15",
+    "author": "A. Aizenbud",
+    "year": "2009",
+    "unstructured": "Aizenbud A., Gourevitch D.: Multiplicity one theorem for $${({{\\rm GL}_{n+1}}(\\mathbb{R}), {{\\rm GL}_{n}}(\\mathbb{R}))}$$ . Sel. math. New ser. 15, 271–294 (2009)",
+    "journal-title": "Sel. math. New ser."
+   },
+   {
+    "key": "77_CR2",
+    "doi-asserted-by": "crossref",
+    "unstructured": "A. Aizenbud, D. Gourevitch, S. Rallis, G. Schiffmann, Multiplicity one theorems, Ann. Math., to appear; arXiv:0709.4215",
+    "DOI": "10.4007/annals.2010.172.1413"
+   },
+   {
+    "key": "77_CR3",
+    "doi-asserted-by": "crossref",
+    "unstructured": "A. Ben-Artzi, D. Soudry, L-functions for $${{\\rm U}_{m}֒es_{E/F}{\\rm GL_{n}} {(n \\leq \\left[\\frac{m}{2}\\right])}}$$ , in “Automorphic Forms and L-Functions I: Global Aspects”, Proceedings of a Workshop in Honor of Steve Gelbart on the Occasion of His 60th Birthday, Contemporary Mathematics 488-9, AMS and BIU (2009), 13–60.",
+    "DOI": "10.1090/conm/488/09563"
+   },
+   {
+    "key": "77_CR4",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/978-3-662-03718-8",
+    "volume-title": "Real algebraic geometry, Ergebnisse der Math. 36",
+    "author": "J. Bochnak",
+    "year": "1998",
+    "unstructured": "Bochnak J., Coste M., Roy M.F.: Real algebraic geometry, Ergebnisse der Math. 36. Springer, Berlin (1998)"
+   },
+   {
+    "key": "77_CR5",
+    "doi-asserted-by": "crossref",
+    "unstructured": "D. Bump, The Rankin–Selberg method: an introduction and survey, Automorphic Representations, L-Functions and Applications: Progress and Prospects, Ohio State Univ. Math. Res. Inst. Publ. 11, de Gruyter, Berlin (2005), 41–73.",
+    "DOI": "10.1515/9783110892703.41"
+   },
+   {
+    "key": "77_CR6",
+    "doi-asserted-by": "crossref",
+    "first-page": "385",
+    "DOI": "10.4153/CJM-1989-019-5",
+    "volume": "41",
+    "author": "W. Casselman",
+    "year": "1989",
+    "unstructured": "Casselman W.: Canonical extensions of Harish-Chandra modules to representations of G. Can. Jour. Math. 41, 385–438 (1989)",
+    "journal-title": "Can. Jour. Math."
+   },
+   {
+    "key": "77_CR7",
+    "doi-asserted-by": "crossref",
+    "unstructured": "W. Casselman, H. Hecht, D. Milic̆ić, Bruhat filtrations and Whittaker vectors for real groups, The Mathematical Legacy of Harish-Chandra, Proc. Symp. Pure Math. 68, Amer. Math. Soc., Providence, RI (2000), 151–190..",
+    "DOI": "10.1090/pspum/068/1767896"
+   },
+   {
+    "key": "77_CR8",
+    "unstructured": "J. Cogdell, Lectures on L−functions, converse theorems, and functoriality for GL n , Lectures on Automorphic L-Functions, Fields Inst. Monogr. 20, Amer. Math. Soc., Providence, RI (2004), 1–96."
+   },
+   {
+    "key": "77_CR9",
+    "unstructured": "W.T. Gan, B.H. Gross, D. Prasad, Symplectic local root numbers, central critical L-values, and restriction problems in the representation theory of classical groups, preprint, http://www.math.harvard.edu/~gross/preprints/ggp6.pdf , 2008"
+   },
+   {
+    "key": "77_CR10",
+    "volume-title": "Analytic Properties of Automorphic L-Functions, Perspectives in Mathematics 6",
+    "author": "S. Gelbart",
+    "year": "1988",
+    "unstructured": "Gelbart S., Shahidi F.: Analytic Properties of Automorphic L-Functions, Perspectives in Mathematics 6. Academic Press, Inc., Boston, MA (1988)"
+   },
+   {
+    "key": "77_CR11",
+    "first-page": "611",
+    "volume": "128",
+    "author": "D. Ginzburg",
+    "year": "1997",
+    "unstructured": "Ginzburg D., Piatetski-Shapiro I., Rallis S.: L Functions for the Orthogonal Group. Mem. Amer. Math. Soc. 128, 611 (1997)",
+    "journal-title": "Mem. Amer. Math. Soc."
+   },
+   {
+    "issue": "3",
+    "key": "77_CR12",
+    "doi-asserted-by": "crossref",
+    "first-page": "807",
+    "DOI": "10.2307/121057",
+    "volume": "150",
+    "author": "D. Ginzburg",
+    "year": "1999",
+    "unstructured": "Ginzburg D., Rallis S., Soudry D.: On explicit lifts of cusp forms from GL m to classical groups. Ann. Math. (2) 150(3), 807–866 (1999)",
+    "journal-title": "Ann. Math. (2)"
+   },
+   {
+    "key": "77_CR13",
+    "doi-asserted-by": "crossref",
+    "unstructured": "H. Jacquet, Archimedean Rankin–Selberg integrals, in “Automorphic Forms and L-Functions II: Local Aspects”, Proceedings of a Workshop in Honor of Steve Gelbart on the Occasion of His 60th Birthday, Contemporary Mathematics 488-9, AMS and BIU (2009), 57–172.",
+    "DOI": "10.1090/conm/489/09547"
+   },
+   {
+    "issue": "3",
+    "key": "77_CR14",
+    "doi-asserted-by": "crossref",
+    "first-page": "499",
+    "DOI": "10.2307/2374103",
+    "volume": "103",
+    "author": "H. Jacquet",
+    "year": "1981",
+    "unstructured": "Jacquet H., Shalika J.A.: On Euler products and the classification of automorphic representations I. Amer. Jour. Math. 103(3), 499–558 (1981)",
+    "journal-title": "Amer. Jour. Math."
+   },
+   {
+    "issue": "3",
+    "key": "77_CR15",
+    "doi-asserted-by": "crossref",
+    "first-page": "743",
+    "DOI": "10.4007/annals.2003.157.743",
+    "volume": "157",
+    "author": "D. Jiang",
+    "year": "2003",
+    "unstructured": "Jiang D., Soudry D.: The local converse theorem for SO(2n + 1) and applications. Ann. Math. (2) 157(3), 743–806 (2003)",
+    "journal-title": "Ann. Math. (2)"
+   },
+   {
+    "issue": "2",
+    "key": "77_CR16",
+    "doi-asserted-by": "crossref",
+    "first-page": "187",
+    "DOI": "10.1007/s00229-008-0200-0",
+    "volume": "127",
+    "author": "D. Jiang",
+    "year": "2008",
+    "unstructured": "Jiang D., Nien C., Qin Y.: Local Shalika models and functoriality. Manuscripta Math. 127(2), 187–217 (2008)",
+    "journal-title": "Manuscripta Math."
+   },
+   {
+    "key": "77_CR17",
+    "unstructured": "D. Jiang, C. Nien, Y. Qin, On symplectic supercuspidal representations of GL(2n) over p-adic fields, Pacific Jour. Math., to appear."
+   },
+   {
+    "key": "77_CR18",
+    "doi-asserted-by": "crossref",
+    "unstructured": "D. Jiang, B. Sun, C.-B. Zhu, Uniqueness of Ginzburg–Rallis models: the Archimedean case, Trans. Amer. Math. Soc., to appear.",
+    "DOI": "10.1090/S0002-9947-2010-05285-7"
+   },
+   {
+    "key": "77_CR19",
+    "unstructured": "M.E. Novodvorskii, I. Piatetski-Shapiro, Generalized Bessel models for a symplectic group of rank 2, (Russian) Mat. Sb. (N.S.) 90:132, (1973), 246–256."
+   },
+   {
+    "issue": "3",
+    "key": "77_CR20",
+    "doi-asserted-by": "crossref",
+    "first-page": "547",
+    "DOI": "10.2307/2007005",
+    "volume": "127",
+    "author": "F. Shahidi",
+    "year": "1988",
+    "unstructured": "Shahidi F.: On the Ramanujan conjecture and finiteness of poles for certain Lfunctions. Ann. Math.(2) 127(3), 547–584 (1988)",
+    "journal-title": "Ann. Math.(2)"
+   },
+   {
+    "key": "77_CR21",
+    "doi-asserted-by": "crossref",
+    "first-page": "171",
+    "DOI": "10.2307/1971071",
+    "volume": "100",
+    "author": "J. Shalika",
+    "year": "1974",
+    "unstructured": "Shalika J.: Multiplicity one theorem for GL n . Ann. Math. 100, 171–193 (1974)",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "key": "77_CR22",
+    "doi-asserted-by": "crossref",
+    "unstructured": "M. Shiota, Nash Manifolds, Springer Lecture Notes in Math 1269, (1987).",
+    "DOI": "10.1007/BFb0078571"
+   },
+   {
+    "key": "77_CR23",
+    "unstructured": "D. Soudry, Local descent from GL(n) to classical groups, Automorphic Forms, Geometry and Arithmetic, Mathematisches Forschungsinstitut Oberwolfach, Report No. 5/2008, 247–250."
+   },
+   {
+    "key": "77_CR24",
+    "doi-asserted-by": "crossref",
+    "first-page": "227",
+    "DOI": "10.1007/BF02414191",
+    "volume": "145",
+    "author": "B. Speh",
+    "year": "1980",
+    "unstructured": "Speh B., Vogan D.: Reducibility of generalized principal series representations. Acta Math. 145, 227–299 (1980)",
+    "journal-title": "Acta Math."
+   },
+   {
+    "key": "77_CR25",
+    "unstructured": "B. Sun, C.-B. Zhu, Multiplicity one theorems: the Archimedean case, preprint (2008); http://www.math.nus.edu.sg/~matzhucb/publist.html"
+   },
+   {
+    "key": "77_CR26",
+    "volume-title": "Real Reductive Groups II",
+    "author": "N. Wallach",
+    "year": "1992",
+    "unstructured": "Wallach N.: Real Reductive Groups II. Academic Press, San Diego (1992)"
+   }
+  ],
+  "container-title": [
+   "Geometric and Functional Analysis"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/s00039-010-0077-4.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/s00039-010-0077-4/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/s00039-010-0077-4",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     6,
+     1
+    ]
+   ],
+   "date-time": "2019-06-01T08:36:30Z",
+   "timestamp": 1559378190000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/s00039-010-0077-4"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2010,
+     8,
+     9
+    ]
+   ]
+  },
+  "references-count": 26,
+  "journal-issue": {
+   "issue": "3",
+   "published-print": {
+    "date-parts": [
+     [
+      2010,
+      9
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "77"
+  ],
+  "URL": "https://doi.org/10.1007/s00039-010-0077-4",
+  "relation": {},
+  "ISSN": [
+   "1016-443X",
+   "1420-8970"
+  ],
+  "issn-type": [
+   {
+    "value": "1016-443X",
+    "type": "print"
+   },
+   {
+    "value": "1420-8970",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2010,
+     8,
+     9
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,136 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     11
+    ]
+   ],
+   "date-time": "2026-11-11T23:17:04Z",
+   "timestamp": 1794439024285,
+   "version": "4.9.1"
+  },
+  "reference-count": 0,
+  "publisher": "JSTOR",
+  "issue": "3",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "The Annals of Mathematics"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1982,
+     5
+    ]
+   ]
+  },
+  "DOI": "10.2307/2007012",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2006,
+     4,
+     24
+    ]
+   ],
+   "date-time": "2006-04-24T08:36:56Z",
+   "timestamp": 1145867816000
+  },
+  "page": "529",
+  "source": "Crossref",
+  "is-referenced-by-count": 128,
+  "title": [
+   "Sur Certains Types de Representations p-Adiques du Groupe de Galois d'un Corps Local; Construction d'un Anneau de Barsotti-Tate"
+  ],
+  "prefix": "10.2307",
+  "volume": "115",
+  "author": [
+   {
+    "given": "Jean-Marc",
+    "family": "Fontaine",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "1121",
+  "container-title": [
+   "The Annals of Mathematics"
+  ],
+  "original-title": [],
+  "deposited": {
+   "date-parts": [
+    [
+     2018,
+     5,
+     8
+    ]
+   ],
+   "date-time": "2018-05-08T16:04:29Z",
+   "timestamp": 1525795469000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.jstor.org/stable/2007012?origin=crossref"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1982,
+     5
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "3",
+   "published-print": {
+    "date-parts": [
+     [
+      1982,
+      5
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.2307/2007012",
+  "relation": {},
+  "ISSN": [
+   "0003-486X"
+  ],
+  "issn-type": [
+   {
+    "value": "0003-486X",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1982,
+     5
+    ]
+   ]
+  }
+ }
+}

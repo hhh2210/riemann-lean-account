@@ -1,0 +1,138 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     17
+    ]
+   ],
+   "date-time": "2026-10-17T02:03:42Z",
+   "timestamp": 1792202622645,
+   "version": "4.4.0"
+  },
+  "reference-count": 0,
+  "publisher": "Institute of Mathematics, Polish Academy of Sciences",
+  "issue": "1",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Acta Arith."
+  ],
+  "DOI": "10.4064/aa-1-1-83-86",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2017,
+     9,
+     12
+    ]
+   ],
+   "date-time": "2017-09-12T11:02:47Z",
+   "timestamp": 1505214167000
+  },
+  "page": "83-86",
+  "source": "Crossref",
+  "is-referenced-by-count": 204,
+  "title": [
+   "Über die Classenzahl quadratischer Zahlkörper"
+  ],
+  "prefix": "10.4064",
+  "volume": "1",
+  "author": [
+   {
+    "given": "Carl",
+    "family": "Siegel",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "2508",
+  "published-online": {
+   "date-parts": [
+    [
+     1935
+    ]
+   ]
+  },
+  "container-title": [
+   "Acta Arithmetica"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+   "date-parts": [
+    [
+     2017,
+     9,
+     12
+    ]
+   ],
+   "date-time": "2017-09-12T11:02:47Z",
+   "timestamp": 1505214167000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://www.impan.pl/get/doi/10.4064/aa-1-1-83-86"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1935
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1935
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.4064/aa-1-1-83-86",
+  "relation": {},
+  "ISSN": [
+   "0065-1036",
+   "1730-6264"
+  ],
+  "issn-type": [
+   {
+    "value": "0065-1036",
+    "type": "print"
+   },
+   {
+    "value": "1730-6264",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1935
+    ]
+   ]
+  }
+ }
+}

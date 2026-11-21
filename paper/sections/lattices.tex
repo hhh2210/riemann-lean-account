@@ -1,0 +1,229 @@
+\section{The squeeze between two slopes}\label{sec:lattices}
+
+This section describes how the inequality $\ASK\le\MAIN+\Err$ is proved. The objects are
+Hermitian lattices over the ring of integers of a number field, and the tool is the slope
+method of Bost \cite{bost1996,bost2001}, which rests on the filtration of Harder and
+Narasimhan \cite{harder1975} in the arithmetic form due to Stuhler and Grayson
+\cite{stuhler1976,grayson1984}.
+
+\subsection{Slopes}
+Let $K$ be a totally complex number field. A \emph{Hermitian lattice} over $\cO_K$ is a finitely
+generated projective $\cO_K$-module $L$ with a positive Hermitian form on $L\otimes_v\C$ for
+each infinite place $v$. Its slope $\mu(L)$ is its Arakelov degree divided by its rank, in the
+normalisation \lvS
+\[
+\mu(L)=2\,\frac{\widehat{\deg}\,L}{[K:\Q]\,\rk L}-\log 2+\frac{\log\abs{d_K}}{[K:\Q]},
+\]
+and $\mu_{\max}$, $\mu_{\min}$ denote the largest and smallest slopes of the pieces of its
+Harder--Narasimhan filtration. The height $\htt(\varphi)$ of a $K$-linear map between such
+lattices is the mean over the infinite places of $\log\norm{\varphi}_v^2$.
+
+\subsection{The cast}\label{sec:cast}
+Fix a translate $u_0$. The index set is a finite set of ``words'' $u$; each word determines
+an archimedean type of automorphic form. For each $u$ there are \lvS:
+\begin{itemize}
+\item a lattice $M_u$: an integral structure on a space of vector-valued algebraic modular
+  forms, in the sense of Gross \cite{gross1999}, on a definite unitary group over the host
+  field $E$, with the Petersson norm at one place. The space is the whole space of forms of
+  the given weight and level, namely all functions on the finite set of classes of a genus
+  with values in the weight representation, invariant under the stabilisers
+  (\lean{Fi}); nothing is selected by Hecke eigenvalues;
+\item a sublattice of $M_u$ of forms ``ramified at $T$'', where $T=T(u)$ is an auxiliary level
+  prime, and its rescaling
+  \begin{equation}\label{eq:Nu}
+  N_u\;=\;\Bigl(\prod_{w}\fP_w^{-\lfloor e_w\,g(u,w)\rfloor}\Bigr)\cdot(\text{that sublattice}),
+  \end{equation}
+  where $w$ runs over finite places of the coefficient field, $e_w$ is a ramification index
+  and $g(u,w)\ge0$ is the \emph{gain} at $w$ (\lean{Iu}, \lean{NprimeDef});
+\item a map $B_u$ from the space of $M_u$ to a fixed space $W$, sending a form to the periods
+  of its $m$-fold iterated theta lift against test vectors;
+\item a real number $h(u)$ bounding the height of $B_u$.
+\end{itemize}
+There is one target: a lattice $P\subset W$, the dual of a lattice $R$ glued prime by prime
+from images of integral forms under the lift. We call $P$ the \emph{lattice of periods}.
+
+The final theorem requires, for the family at each scale, a record of eleven clauses
+(\lean{SizeData}\textsubscript{\ttfamily 2}) \lvS. Four carry the argument and the rest are size conditions:
+\begin{align}
+&\ASK(u_0)-\mathrm{Ga}(u_0)\ \le\ \mathrm{Lo}, \tag{\textsf{Loss}}\label{eq:loss}\\
+&\mu(M_u)+\mathrm{Ga}(u_0)+\mathrm{Fo}-\mathrm{Ee}(u)-\mathrm{Lo}_5(u)\ \le\ \mu(N_u),
+   \tag{\textsf{Gain}}\label{eq:gain}\\
+&s-\log\abs I-\frac{1}{1-\delta'}\Bigl(4u_F\log\bigl(1+\tfrac{HH}{u_F}\bigr)
+     +(\eta+4\sqrt e)\,HH\Bigr)\ \le\ \mu(P), \tag{\textsf{Slope}}\label{eq:slope}\\
+&\mu(P)+h(u)-\mathrm{Fo}\ \le\ \sum_{t\in TT}\Bigl(m\bigl(\ph(a_t)-a_t\log\Omega\bigr)-a_t\log T(u)\Bigr)
+     +(\text{small}). \tag{\textsf{Div}}\label{eq:div}
+\end{align}
+Here $\mathrm{Ga}(u_0)$ is the total gain, a sum of the local gains weighted by $\log$ of the
+residue characteristics; $s$ is the rank-weighted mean over $u$ of $\mu(N_u)-h(u)$; and the
+remaining letters are correction terms that cancel or are small. Read in order: the count is at
+most the total gain \eqref{eq:loss}; the gain is the amount by which the slope of $N_u$ exceeds
+that of $M_u$ \eqref{eq:gain}; the mean slope of the $N_u$, less heights, is at most the slope
+of $P$ \eqref{eq:slope}; and the slope of $P$ is at most the period term on the right of
+\eqref{eq:div}. A fifth clause bounds $\log T(u)$ from below by a dimension count
+(\cref{sec:period}), and an exact identity then shows that the right side of \eqref{eq:div}
+is $\MAIN$.
+
+\subsection{Why $N_u$ still maps into $P$}\label{sec:adm}
+Rescaling $M_u$ by negative powers of primes raises its slope by the total gain, but it is only
+useful if the larger lattice is still mapped into $P$ by $B_u$. This is the statement
+\lvS{} (\lean{adm2}):
+\begin{quote}
+for every form $\varphi$ in the unscaled sublattice, every place $w$ and every integral test
+vector $F$, the period of the lift of $\varphi$ against $F$ is $0$ or has $w$-adic valuation at
+least $\lfloor e_w\,g(u,w)\rfloor$.
+\end{quote}
+It is proved by \lean{admissible_level_two}, and it is where the arithmetic of
+\cref{sec:divisibility} is spent.
+
+The gain is a closed formula \lvS{} (\lean{gainP}, \lean{gU}). At a prime $p$ and on a
+Frobenius orbit carrying top places $s$ with sizes $\alpha_s$ (the sizes $a_s$ less a fixed
+constant), its main form is
+\begin{equation}\label{eq:gU}
+g_U=\gamma_p\sum_{s}\alpha_s\;-\;\sum_{s\ \text{not exceptional}}\ \sum_{e\ \mathrm{odd}}
+\min\Bigl(\frac{\alpha_s}{p^{e}},\,c_s(e)\Bigr)\;-\;\delta,
+\qquad \gamma_p=\frac{p}{p^2-1}=\sum_{e\ \mathrm{odd}}\frac1{p^{e}},
+\end{equation}
+with capacities $c_s(e)$ fixed by the weights, a correction $\delta$ of lower order, and the
+second sum omitting the places fixed by an even power of Frobenius. Beside it stands
+\[
+g_0=\sum_{s}\ \sum_{e\ \mathrm{odd},\ \text{not excluded}}\max\Bigl(\frac{\alpha_s}{p^{e}}-c_s(e),\,0\Bigr)-\delta .
+\]
+On a designated set of good orbits (\lean{VV}) the gain is
+$\max(g_U-\mathrm{Pr},\,g_0,\,0)$, with a penalty $\mathrm{Pr}$; on the others it is
+$\max(g_0,0)$; and it is zero at primes above a bound and at the primes of one excluded class.
+Since $\gamma_p\alpha_s=\sum_{e\,\mathrm{odd}}\alpha_s/p^e$, both forms are
+$\sum_s\sum_{e\,\mathrm{odd}}\max(\alpha_s/p^e-c_s(e),0)$ up to the corrections: the odd-power
+part of the count \eqref{eq:ask}, with the capacity in the place of the weight. That is why
+\eqref{eq:loss} holds with a small loss. The divisibility of \cref{sec:divisibility} supplies
+the rate $\gamma_p$.
+
+\subsection{The slope inequality}\label{sec:slope}
+The clause \eqref{eq:slope} is an instance of a theorem about Hermitian lattices that involves
+no automorphic forms. We state it in full because it is the cleanest self-contained new
+statement we met.
+
+\begin{statement}[\lean{TheoremF}]\label{st:F}
+Let $K$ be a totally complex number field, $P$ a Hermitian lattice over $\cO_K$ in a $K$-space
+$W$, and for $i$ in a finite set $I$ let $N_i$ be a Hermitian lattice in a $K$-space $V_i$ and
+$B_i\colon V_i\to W$ a $K$-linear map with $B_i(N_i)\subseteq P$ and $\htt(B_i)\le h_i$ whenever
+$B_i\ne0$. Let $s$, $u\ge0$, $HH\ge0$ satisfy
+\[
+s\sum_i\rk N_i\le\sum_i\rk N_i\,\bigl(\mu(N_i)-h_i\bigr),\qquad
+\mu_{\max}(N_i)-h_i\le s+u,\qquad s-\mu_{\min}(P)\le HH .
+\]
+Suppose that at one infinite place $v$, after a change of bases and after extending $W_v$ by a
+space of dimension at most a fraction $\delta<1$ of the total, there are weights $\gamma_i>0$
+with
+\[
+\sum_i\norm{\gamma_iB_i^*B_i-1}_{\mathrm{HS}}^2\le e\sum_i\rk N_i,\quad e\le\tfrac14,
+\qquad
+\tr(Q^2)\le(1+\eta)\,\frac{(\tr Q)^2}{\dim},\quad Q=\sum_i\gamma_iB_iB_i^* .
+\]
+Then
+\[
+\mu(P)\ \ge\ s-\log\abs I-\frac1{1-\delta}\Bigl(4u\log\bigl(1+\tfrac{HH}{u}\bigr)+(\eta+4\sqrt e)\,HH\Bigr).
+\]
+\end{statement}
+
+The classical slope inequality says that an injective map $\varphi\colon N\to P$ of height $h$
+forces $\mu_{\max}(N)\le\mu_{\max}(P)+h$; it bounds the top of the target. \Cref{st:F} bounds
+the slope of the whole target from below, from many maps at once. The hypothesis on $Q$ says
+that the maps form a nearly tight frame: each is nearly an isometry up to a scalar, and their
+images together nearly fill the target evenly.
+
+The proof runs level
+by level. For each $\tau\in[0,HH]$: cut each $N_i$ at the step of its Harder--Narasimhan
+filtration of slope $s-\tau+h_i$; a Markov inequality (\lean{frameB_share}) shows that the parts
+cut away have at most the share $u/(u+\tau)$ of the total rank; the classical inequality, in
+its $\mu_{\min}$ form, sends what is kept into the step of the filtration of $P$ of slope
+$s-\tau$; and a lemma of linear algebra on nearly tight frames shows that the images of what is
+kept span all but a share $\eta+4u/(u+\tau)+4\sqrt e$ of the frame space. So the filtration of
+$P$ at slope $s-\tau$ has almost full rank for every $\tau$, and integrating over $\tau$ gives
+the bound: $\int4u/(u+\tau)\,d\tau$ is the term $4u\log(1+HH/u)$ and $\int(\eta+4\sqrt e)\,d\tau$
+is the term $(\eta+4\sqrt e)\,HH$. The term $\log\abs I$ is a slack: the form of the theorem
+without it is also proved, and the form with it is obtained by discarding a non-negative
+quantity.
+
+\subsection{The period side}\label{sec:period}
+The clause \eqref{eq:div} bounds $\mu(P)$ from above. Three things enter.
+
+\emph{A determinant.} The $m$-fold lift is a composite of $m$ single lifts
+$\theta_1,\dots,\theta_m$ through auxiliary spaces. A general inequality about Hermitian
+lattices over a CM field \lvS{} (\lean{BoundsMu}) takes as its hypothesis a factorisation of
+determinants at every archimedean place, of the shape
+$\det(\text{composite})=\kappa^{D}\prod_j\det(\theta_j)$, and bounds the slope of $P$ in terms
+of the slopes of $m$ auxiliary lattices $M'_1,\dots,M'_m$, one for each lift. The scalars are
+bounded below by a theorem \lvS{} (\lean{lamLow_of_hypotheses_alt_alt}) whose hypotheses are
+seven statements of the literature, each proved in the archive: rapid decay of cusp forms,
+the Siegel--Weil formula for unitary groups in two forms
+\cite{weil1965,ichino2004,ichino2007}, the local zeta integrals of the doubling method
+\cite{psrallis1987}, their unramified computation, a finiteness theorem of Bernstein and
+Zelevinsky, and the formal degree of a representation of a compact group. The identities have
+the shape of the Rallis inner product formula \cite{rallis1984}.
+
+\emph{A ledger.} The clause \eqref{eq:div} is assembled from one inequality per lift $j$ and
+place $\rho$ \lvP{} (\lean{divisor_inequality_assembly}): a covolume term
+$w_j(\rho)\log\Omega$, plus a kernel term $\ph(\nu)$, minus an eigenvalue term and minus
+$\nu\log\Omega$, is at most $\ph(a_\rho)-a_\rho\log\Omega$ if $\rho$ is a top place and $0$
+otherwise, up to errors. Here $\ph(\nu)\approx\log\nu!$ and $\Omega$ is a period. Summed over
+the $m$ lifts and all places, and with $-a_t\log T$ from the last map, this is
+$m\sum_t\bigl(\ph(a_t)-a_t\log\Omega\bigr)-\sum_ta_t\log T$, the right side of \eqref{eq:div}.
+Every factorial but the top one has cancelled against an eigenvalue, and every
+$\log\Omega$ but the top one against a covolume.
+
+\emph{Arithmetic geometry.} The covolume of the auxiliary lattices is an input of a different
+kind, and a large one. $M'_j$ is a lattice of integral forms on a moduli space attached to an
+\emph{indefinite} unitary group, integrality meaning non-negative valuation at every point over
+every finite place \lvS{} (\lean{cuspA}). Its covolume is bounded through a chain of slope
+comparisons \lvS{} (\lean{lcv_le}): the covolume is at most minus the slope of a ``good''
+sublattice cut out by an orthogonal idempotent; the complementary ``bad'' part has rank share
+at most $3\exp(-x^{\eps'})$; the slope of the lattice of that type is at least a core slope
+less a small error; and the core slope is at least minus a main term, which is within a small
+error of $\sum_\tau(p-q)\,\mathrm{anchor}_\tau\,\log\Omega$. The theorem that assembles this
+\lvS{} (\lean{topCovolSlim2_use_alt_alt}) takes as hypotheses resolution of singularities and
+principalisation in characteristic zero \cite{hironaka1964}, an arithmetic Hilbert--Samuel
+statement \cite{gilletsoule1992,zhang1995,abbesbouche1995}, a bigness statement of Moriwaki,
+toroidal compactifications \cite{faltingschai1990,lan2013}, Riemann--Roch for nef bundles,
+semi-negativity of the Lie algebra of a semi-abelian scheme, Zarhin's trick, a statement of
+Fargues, heights of Chow forms, and Grothendieck's deformation theory. So the slope argument
+is not lattice theory and automorphic forms alone: it rests on arithmetic intersection theory
+on a Shimura variety. Each of these statements is proved inside the archive.
+
+\emph{The period.} $\Omega$ is a CM period. What the argument needs is its mean, and here the
+archive proves the Chowla--Selberg formula
+\cite{chowla1949epstein,selbergchowla1967} in the form \lvS{} (\lean{chowla_selberg_eta})
+\begin{equation}\label{eq:cs}
+\frac1{h_K}\sum_{c\in\mathrm{Cl}(K)}\log\bigl(4\pi\,\im\tau_c\,\abs{\eta(\tau_c)}^4\bigr)
+=\gamma+\log\frac{2\pi}{\sqrt d}-\frac{L'}{L}(1,\chi_d),
+\end{equation}
+for $K=\Q(\sqrt{-d})$, from the factorisation $\zeta_K=\zeta\cdot L(\cdot,\chi_d)$ and
+Kronecker's first limit formula \cite{siegel1980advanced}, which is also proved there \lvS. This is how
+$\tfrac{L'}{L}(1,\chi_\Phi)$ enters \eqref{eq:main}.
+
+\emph{The count for $T$.} The dimension of the space of forms is known exactly: the number of
+classes is a mass times an index times $(T^k-1)^f$ \lvS{} (\lean{ClassNumberFormula}\textsubscript{\ttfamily 2}). A
+lower bound for $\log T(u)$ is the fifth clause \lvS{}
+(\lean{Count5}),
+\[
+\sum_{j=1}^m\frac1f\sum_{\rho}\log\frac{w_j(\rho)\,v}{\pi}+m\,\ell_g-c\Bigl(L_a+\frac{m^2L_a}{k}\Bigr)\ \le\ \log T(u).
+\]
+
+\begin{statement}[\lean{key_identity5}]\label{st:key}
+With the notation above, the divisor sum on the right of \eqref{eq:div}, less $\sum_ta_t$
+times the lower bound for $\log T$, plus a term that cancels a comparison term, equals
+\[
+\MAIN(u_0)\;+\;\Bigl(\sum_ta_t\Bigr)\,c\,\Bigl(L_a+\frac{m^2L_a}{k}\Bigr).
+\]
+\end{statement}
+The $\log(\pi/v)$ inside $\log\Omega$ cancels the $\log(v/\pi)$ of the count. There is no
+discrepancy term: the lattice side returns the analytic main term \eqref{eq:main} identically,
+and what is left is the error with its $m^2/k$, which is the third cost of \cref{sec:balance}.
+
+\subsection{Chaining}
+From \eqref{eq:loss}, \eqref{eq:gain}, \eqref{eq:slope}, \eqref{eq:div} and \cref{st:key},
+for every translate $u_0$,
+\[
+\ASK(u_0)\ \le\ \MAIN(u_0)+\Err ,
+\]
+which is what \cref{sec:reduction} needs. The archive proves this as
+\lean{each_unit_bound_statement} \lvM, for every translate and not only on average.

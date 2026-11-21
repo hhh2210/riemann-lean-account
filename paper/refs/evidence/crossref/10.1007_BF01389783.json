@@ -1,0 +1,453 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     4
+    ]
+   ],
+   "date-time": "2026-11-04T01:18:05Z",
+   "timestamp": 1793755085251,
+   "version": "4.6.1"
+  },
+  "reference-count": 27,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1977,
+       12,
+       1
+      ]
+     ],
+     "date-time": "1977-12-01T00:00:00Z",
+     "timestamp": 249782400000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Invent Math"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1977,
+     12
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01389783",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     4,
+     2
+    ]
+   ],
+   "date-time": "2005-04-02T08:16:44Z",
+   "timestamp": 1112429804000
+  },
+  "page": "1-62",
+  "source": "Crossref",
+  "is-referenced-by-count": 131,
+  "title": [
+   "A geometric construction of the discrete series for semisimple Lie groups"
+  ],
+  "prefix": "10.1007",
+  "volume": "42",
+  "author": [
+   {
+    "given": "Michael",
+    "family": "Atiyah",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Wilfried",
+    "family": "Schmid",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "CR1",
+    "first-page": "43",
+    "volume": "32/33",
+    "author": "M.F. Atiyah",
+    "year": "1976",
+    "unstructured": "Atiyah, M.F.: Elliptic operators, discrete groups and von Neumann algebras. Asterisque32/33, 43?72 (1976)",
+    "journal-title": "Asterisque"
+   },
+   {
+    "key": "CR2",
+    "doi-asserted-by": "crossref",
+    "first-page": "3",
+    "DOI": "10.1016/0040-9383(64)90003-5",
+    "volume": "3",
+    "author": "M.F. Atiyah",
+    "year": "1964",
+    "unstructured": "Atiyah, M.F., Bott, R., Shapiro, A.: Clifford modules. Topology3, 3?38 (1964)",
+    "journal-title": "Topology"
+   },
+   {
+    "key": "CR3",
+    "unstructured": "Atiyah, M.F., Schmid, W.: A new proof of the regularity theorem for invariant eigendistributions on semisimple Lie groups. To appear"
+   },
+   {
+    "key": "CR4",
+    "doi-asserted-by": "crossref",
+    "first-page": "422",
+    "DOI": "10.1090/S0002-9904-1963-10957-X",
+    "volume": "69",
+    "author": "M.F. Atiyah",
+    "year": "1963",
+    "unstructured": "Atiyah, M.F., Singer, I.M.: The index of elliptic operators on compact manifolds. Bull. Amer. math. Soc.69, 422?433 (1963)",
+    "journal-title": "Bull. Amer. math. Soc."
+   },
+   {
+    "key": "CR5",
+    "doi-asserted-by": "crossref",
+    "first-page": "111",
+    "DOI": "10.1016/0040-9383(63)90026-0",
+    "volume": "2",
+    "author": "A. Borel",
+    "year": "1963",
+    "unstructured": "Borel, A.: Compact Clifford-Klein forms of symmetric spaces. Topology2, 111?122 (1963)",
+    "journal-title": "Topology"
+   },
+   {
+    "key": "CR6",
+    "doi-asserted-by": "crossref",
+    "first-page": "485",
+    "DOI": "10.2307/1970210",
+    "volume": "75",
+    "author": "A. Borel",
+    "year": "1962",
+    "unstructured": "Borel, A., Harish-Chandra: Arithmetic subgroups of algebraic groups. Ann. of Math.75, 485?535 (1962)",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "CR7",
+    "unstructured": "Borel, A., Wallach, N.: Seminar notes on the cohomology of discrete subgroups of semi-simple groups. To appear in Springer Lecture Notes in Mathematics"
+   },
+   {
+    "key": "CR8",
+    "doi-asserted-by": "crossref",
+    "first-page": "167",
+    "DOI": "10.1515/9781400874842-011",
+    "volume-title": "Differential and Combinatorial Topology (A Symposium in Honor of Marston Morse)",
+    "author": "R. Bott",
+    "year": "1965",
+    "unstructured": "Bott, R.: The index theorem for homogeneous differential operators. In: Differential and Combinatorial Topology (A Symposium in Honor of Marston Morse) pp. 167?186. Princeton: Princeton University Press 1965"
+   },
+   {
+    "key": "CR9",
+    "unstructured": "Casselman, W.: Matrix coefficients of representations of real reductive matrix groups. To appear"
+   },
+   {
+    "key": "CR10",
+    "first-page": "219",
+    "volume": "31",
+    "author": "W. Casselman",
+    "year": "1975",
+    "unstructured": "Casselman, W., Osborne, M.S.: Then-cohomology of representations with an infinitesimal character. Compositio Math.31, 219?227 (1975)",
+    "journal-title": "Compositio Math."
+   },
+   {
+    "key": "CR11",
+    "doi-asserted-by": "crossref",
+    "first-page": "270",
+    "DOI": "10.1007/BF01075707",
+    "volume": "8",
+    "author": "A.I. Fomin",
+    "year": "1974",
+    "unstructured": "Fomin, A.I., Shapovalov, N.N.: A property of the characters of real semisimple Lie groups. Functional Analysis and its Applications8, 270?271 (1974)",
+    "journal-title": "Functional Analysis and its Applications"
+   },
+   {
+    "key": "CR12",
+    "doi-asserted-by": "crossref",
+    "first-page": "98",
+    "DOI": "10.1090/S0002-9947-1956-0080875-7",
+    "volume": "83",
+    "author": "Harish-Chandra",
+    "year": "1956",
+    "unstructured": "Harish-Chandra: The characters of semisimple Lie groups. Trans. Amer. math. Soc.83, 98?163 (1956)",
+    "journal-title": "Trans. Amer. math. Soc."
+   },
+   {
+    "key": "CR13",
+    "doi-asserted-by": "crossref",
+    "first-page": "457",
+    "DOI": "10.1090/S0002-9947-1965-0180631-0",
+    "volume": "119",
+    "author": "Harish-Chandra",
+    "year": "1965",
+    "unstructured": "Harish-Chandra: Invariant eigendistributions on a semisimple Lie group. Trans. Amer. math. Soc.119, 457?508 (1965)",
+    "journal-title": "Trans. Amer. math. Soc."
+   },
+   {
+    "key": "CR14",
+    "doi-asserted-by": "crossref",
+    "first-page": "241",
+    "DOI": "10.1007/BF02391779",
+    "volume": "113",
+    "author": "Harish-Chandra",
+    "year": "1965",
+    "unstructured": "Harish-Chandra: Discrete series for semisimple Lie groups I. Acta Math.113, 241?318 (1965)",
+    "journal-title": "Acta Math."
+   },
+   {
+    "key": "CR15",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.1007/BF02392813",
+    "volume": "116",
+    "author": "Harish-Chandra",
+    "year": "1966",
+    "unstructured": "Harish-Chandra: Discrete series for semisimple Lie groups II. Acta Math.116, 1?111 (1966)",
+    "journal-title": "Acta Math."
+   },
+   {
+    "key": "CR16",
+    "doi-asserted-by": "crossref",
+    "first-page": "529",
+    "DOI": "10.1090/S0002-9904-1970-12442-9",
+    "volume": "76",
+    "author": "Harish-Chandra",
+    "year": "1970",
+    "unstructured": "Harish-Chandra: Harmonic Analysis on semisimple groups. Bull. Amer. Math. Soc.76, 529?551 (1970)",
+    "journal-title": "Bull. Amer. Math. Soc."
+   },
+   {
+    "key": "CR17",
+    "unstructured": "Hirzebruch, F.: Automorphe Formen und der Satz von Riemann-Roch. In: Symp. Intern. Top. Alg. 1956, 129?144, Universidad de Mexico 1958"
+   },
+   {
+    "key": "CR18",
+    "first-page": "151",
+    "volume-title": "Proc. Summer School on Group Representations, Budapest 1971",
+    "author": "D.A. Kazdan",
+    "year": "1975",
+    "unstructured": "Kazdan, D.A.: On arithmetic varieties. In: Proc. Summer School on Group Representations, Budapest 1971, 151?217, New York: Halsted Press 1975"
+   },
+   {
+    "key": "CR19",
+    "doi-asserted-by": "crossref",
+    "first-page": "329",
+    "DOI": "10.2307/1970237",
+    "volume": "74",
+    "author": "B. Kostant",
+    "year": "1961",
+    "unstructured": "Kostant, B.: Lie algebra cohomology and the generalized Borel-Weil theorem. Ann. of Math.74, 329?387 (1961)",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "CR20",
+    "series-title": "Proc. of Symposia in Pure Mathematics",
+    "doi-asserted-by": "crossref",
+    "first-page": "253",
+    "DOI": "10.1090/pspum/009/0212135",
+    "volume-title": "Algebraic Groups and Discontinuous Subgroups",
+    "author": "R.P. Langlands",
+    "year": "1966",
+    "unstructured": "Langlands, R.P.: The dimension of spaces of automorphic forms. In: Algebraic Groups and Discontinuous Subgroups, Proc. of Symposia in Pure Mathematics, vol. IX, 253?257, Amer. Math. Soc., Providence 1966"
+   },
+   {
+    "key": "CR21",
+    "doi-asserted-by": "crossref",
+    "first-page": "486",
+    "DOI": "10.2307/1970635",
+    "volume": "91",
+    "author": "M.S. Narasimhan",
+    "year": "1970",
+    "unstructured": "Narasimhan, M.S., Okamoto, K.: An analogue of the Borel-Weil-Bott theorem for Hermitian symmetric pairs of noncompact type. Ann. of Math.91, 486?511 (1970)",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "CR22",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.2307/1970892",
+    "volume": "96",
+    "author": "R. Parthasarathy",
+    "year": "1972",
+    "unstructured": "Parthasarathy, R.: Diract operators and the discrete series. Ann. of Math.96, 1?30 (1972)",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "CR23",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.2307/1970751",
+    "volume": "93",
+    "author": "W. Schmid",
+    "year": "1971",
+    "unstructured": "Schmid, W.: On a conjecture of Langlands. Ann. of Math.93, 1?42 (1971)",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "CR24",
+    "doi-asserted-by": "crossref",
+    "first-page": "535",
+    "DOI": "10.2307/1971043",
+    "volume": "102",
+    "author": "W. Schmid",
+    "year": "1975",
+    "unstructured": "Schmid, W.: Some properties of square-integrable representations of semisimple Lie groups. Ann. of Math.102, 535?564 (1975)",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "CR25",
+    "doi-asserted-by": "crossref",
+    "first-page": "375",
+    "DOI": "10.2307/1970944",
+    "volume": "103",
+    "author": "W. Schmid",
+    "year": "1976",
+    "unstructured": "Schmid, W.:L 2-cohomology and the discrete series. Ann. of Math.103, 375?394 (1976)",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "CR26",
+    "volume-title": "Harmonic Analysis on Semi-Simple Lie groups, vols. I and II",
+    "author": "G. Warner",
+    "year": "1972",
+    "unstructured": "Warner, G.: Harmonic Analysis on Semi-Simple Lie groups, vols. I and II. Berlin-Heidelberg-New York: Springer 1972"
+   },
+   {
+    "key": "CR27",
+    "unstructured": "Zuckerman, G.: Tensor products of finite and infinite dimensional representations of semisimple Lie groups. To appear in Ann. of Math."
+   }
+  ],
+  "container-title": [
+   "Inventiones Mathematicae"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01389783/fulltext.html",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01389783.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01389783/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01389783",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     6
+    ]
+   ],
+   "date-time": "2020-04-06T16:33:56Z",
+   "timestamp": 1586190836000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01389783"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1977,
+     12
+    ]
+   ]
+  },
+  "references-count": 27,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1977,
+      12
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01389783"
+  ],
+  "URL": "https://doi.org/10.1007/bf01389783",
+  "relation": {},
+  "ISSN": [
+   "0020-9910",
+   "1432-1297"
+  ],
+  "issn-type": [
+   {
+    "value": "0020-9910",
+    "type": "print"
+   },
+   {
+    "value": "1432-1297",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1977,
+     12
+    ]
+   ]
+  }
+ }
+}

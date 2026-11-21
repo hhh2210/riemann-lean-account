@@ -1,0 +1,136 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     6
+    ]
+   ],
+   "date-time": "2026-10-06T04:33:14Z",
+   "timestamp": 1791261194515,
+   "version": "4.1.0"
+  },
+  "reference-count": 0,
+  "publisher": "JSTOR",
+  "issue": "3",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "The Annals of Mathematics"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1990,
+     11
+    ]
+   ]
+  },
+  "DOI": "10.2307/1971429",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2006,
+     4,
+     24
+    ]
+   ],
+   "date-time": "2006-04-24T09:05:07Z",
+   "timestamp": 1145869507000
+  },
+  "page": "549",
+  "source": "Crossref",
+  "is-referenced-by-count": 211,
+  "title": [
+   "Multiplier Ideal Sheaves and Kahler-Einstein Metrics of Positive Scalar Curvature"
+  ],
+  "prefix": "10.2307",
+  "volume": "132",
+  "author": [
+   {
+    "given": "Alan Michael",
+    "family": "Nadel",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "1121",
+  "container-title": [
+   "The Annals of Mathematics"
+  ],
+  "original-title": [],
+  "deposited": {
+   "date-parts": [
+    [
+     2018,
+     4,
+     18
+    ]
+   ],
+   "date-time": "2018-04-18T00:18:10Z",
+   "timestamp": 1524010690000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.jstor.org/stable/1971429?origin=crossref"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1990,
+     11
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "3",
+   "published-print": {
+    "date-parts": [
+     [
+      1990,
+      11
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.2307/1971429",
+  "relation": {},
+  "ISSN": [
+   "0003-486X"
+  ],
+  "issn-type": [
+   {
+    "value": "0003-486X",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1990,
+     11
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,7 @@
+name = "replay"
+defaultTargets = ["replay"]
+
+[[lean_exe]]
+name = "replay"
+root = "ReplayMain"
+supportInterpreter = true

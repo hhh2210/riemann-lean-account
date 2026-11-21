@@ -1,0 +1,185 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     11
+    ]
+   ],
+   "date-time": "2026-11-11T04:56:56Z",
+   "timestamp": 1794373016443,
+   "version": "4.9.0"
+  },
+  "reference-count": 0,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1941,
+       12,
+       1
+      ]
+     ],
+     "date-time": "1941-12-01T00:00:00Z",
+     "timestamp": -886291200000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Abh.Math.Semin.Univ.Hambg."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1941,
+     12
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf02940746",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2008,
+     8,
+     29
+    ]
+   ],
+   "date-time": "2008-08-29T23:43:46Z",
+   "timestamp": 1220053426000
+  },
+  "page": "197-272",
+  "source": "Crossref",
+  "is-referenced-by-count": 424,
+  "title": [
+   "Die Typen der Multiplikatorenringe elliptischer Funktionenkörper"
+  ],
+  "prefix": "10.1007",
+  "volume": "14",
+  "author": [
+   {
+    "given": "Max",
+    "family": "Deuring",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "container-title": [
+   "Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg"
+  ],
+  "original-title": [],
+  "language": "de",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF02940746.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF02940746/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF02940746",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     21
+    ]
+   ],
+   "date-time": "2019-05-21T16:00:48Z",
+   "timestamp": 1558454448000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF02940746"
+   }
+  },
+  "subtitle": [
+   "G. Herglotz zum 60. Geburtstag gewidmet"
+  ],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1941,
+     12
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1941,
+      12
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF02940746"
+  ],
+  "URL": "https://doi.org/10.1007/bf02940746",
+  "relation": {},
+  "ISSN": [
+   "0025-5858",
+   "1865-8784"
+  ],
+  "issn-type": [
+   {
+    "value": "0025-5858",
+    "type": "print"
+   },
+   {
+    "value": "1865-8784",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1941,
+     12
+    ]
+   ]
+  }
+ }
+}

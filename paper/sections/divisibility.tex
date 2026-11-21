@@ -1,0 +1,76 @@
+\section{Divisibility at inert primes}\label{sec:divisibility}
+
+The gains of \cref{sec:cast} are paid for by one phenomenon: Taylor coefficients of theta
+functions at a CM point are highly divisible at primes inert in the CM field. The note states
+it as: a coefficient of order $a$, divided by $\Omega^a$, is divisible by
+$p^{a/p+a/p^3+\cdots-O(\log a)}$. In this section $\ell$ is such a prime and
+\[
+\gamma_\ell=\frac{\ell}{\ell^2-1}=\frac1\ell+\frac1{\ell^3}+\frac1{\ell^5}+\cdots,\qquad
+\rho_\ell=\frac1{\ell^2-1}.
+\]
+
+\subsection{The mechanism}
+Let $F$ be the formal group over $\Z_\ell$ whose logarithm is \lvS{} (\lean{ltLog})
+\[
+\log_F(X)=\sum_{j\ge0}\frac{X^{\ell^{2j}}}{\ell^{j}},
+\]
+a Lubin--Tate formal group of height two \cite{lubintate1965,honda1970}. Its exponential has
+$n$-th coefficient of valuation at least $-\rho_\ell(n-1)$ \lvS{} (\lean{LemmaRA}). Hence if
+$f$ is a power series with $\ell$-integral coefficients in $X$ and we expand it in the variable
+$z=\eps\log_F(X)$ with $\eps$ a unit, the $n$-th Taylor coefficient of $f$ in $z$, multiplied
+by $n!$, has valuation at least
+\[
+v_\ell(n!)-\rho_\ell\,n\ \ge\ \frac{n}{\ell-1}-\frac{n}{\ell^2-1}-(\log_\ell n+1)
+\ =\ \gamma_\ell\,n-(\log_\ell n+1).
+\]
+That is the whole reason for the exponent $a/\ell+a/\ell^3+\cdots$: derivatives in the
+logarithmic coordinate of a height-two formal group gain a factor $\ell^{\gamma_\ell}$ per
+order. The archive's general form \lvS{} bounds, for a function $U(g(z))\exp(\varepsilon b(z))$
+in several variables, the valuation of a derivative of multi-order $\kappa$ by
+$\sum_i\kappa_i(\gamma_\ell-\sigma_i)$ less a logarithmic loss, and a second theorem treats
+several ``letters'' at once, where the top terms take the form $\sum_{e\text{ odd}}\nu/\ell^e$
+cut off by a capacity: the same shape as the count \eqref{eq:ask}. Both are on the path of the
+final theorem \lvM. The exponential factor is of the kind that Dwork introduced
+\cite{dwork1960}.
+
+\subsection{Why the function is integral: complex multiplication}
+A CM elliptic curve really is used; the argument is not carried out with power series alone.
+\begin{statement}[\lean{CM2}]\label{st:cm2}
+Let $d$ be squarefree with $d\equiv3\pmod4$ and let $L$ be a lattice with complex
+multiplication by $\Z[(1+\sqrt{-d})/2]$. For every prime $\ell\ge5$ not dividing $d$ and every
+isomorphism $\iota\colon\C\cong\C_\ell$ there is $\lambda\ne0$ such that
+$\lambda^4\iota g_2(L)$ and $\lambda^6\iota g_3(L)$ are integral in the maximal unramified
+extension of $\Q_\ell$ and the discriminant of the resulting Weierstrass equation is a unit.
+\end{statement}
+\begin{statement}[\lean{CM3}]\label{st:cm3}
+In the situation of \cref{st:cm2}, suppose moreover that $-d$ is not a square modulo $\ell$.
+Then there is a unit $\eps$ of the maximal unramified extension of $\Q_\ell$ such that the
+local series of the curve, composed with $\eps\log_F$, has integral coefficients in that
+extension.
+\end{statement}
+\Cref{st:cm2} is good reduction \cite{serretate1968}; the archive derives it from global Artin
+reciprocity \lvS{} (\lean{cmGoodModel_of_globalArtinReciprocity}), which it also proves.
+\Cref{st:cm3} says that at an inert prime the formal group of the curve is the height-two group
+$F$, so that the complex uniformising coordinate $z$ is a unit times $\log_F$ of an integral
+parameter; this is Deuring's supersingular reduction \cite{deuring1941}.
+
+From these the archive proves, for every prime $p\ge5$ with $\bigl(\tfrac{-d}{p}\bigr)=-1$ and
+every embedding of $\overline\Q$ into $\C_p$, that the kernel of the theta lift attached to a
+pair of admitted lattices is integral \lvS{} (\lean{IntInert}). A \emph{jet} is the value at
+the origin of a differential operator applied to the Taylor series of the kernel; the periods
+of \cref{sec:adm} are expressed through jets, and that is how the divisibility reaches them.
+
+The jet theorem itself is applied to an arbitrary series satisfying the integrality hypothesis
+\lvP{} (\lean{prvF_of_orbitLetterBounds}); the work is in showing that the actual kernel
+satisfies it. The letters of the general theorem index the positions along an orbit of
+Frobenius at $\ell$ acting on the embeddings of the CM field.
+
+\subsection{Integrality of the periods}
+The periods themselves, for forms on the definite group, are finite sums over the classes of a
+genus. Their integrality rests on a statement about representations of $\GL_n$ \lvS{}
+(\lean{standard_weyl_lattices_fock_dual}): the integral forms of the Weyl module and of the
+dual Weyl module are exact duals of each other under the pairing of the polynomial (Fock)
+model; compare \cite{carterlusztig1974}. Denominators coming from orders of finite groups are
+controlled by Minkowski's theorem \cite{minkowski1887}, in the form \lvS{}
+(\lean{minkowski_bound_rat}): the order of a finite subgroup of $\GL_N(\Q)$ divides an
+explicit integer depending on $N$ alone.

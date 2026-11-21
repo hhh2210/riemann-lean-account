@@ -1,0 +1,854 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     6
+    ]
+   ],
+   "date-time": "2026-10-06T07:09:21Z",
+   "timestamp": 1791270561347,
+   "version": "4.1.0"
+  },
+  "reference-count": 69,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "2",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1984,
+       6,
+       1
+      ]
+     ],
+     "date-time": "1984-06-01T00:00:00Z",
+     "timestamp": 454896000000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Invent Math"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1984,
+     6
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01388599",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     4,
+     2
+    ]
+   ],
+   "date-time": "2005-04-02T06:35:41Z",
+   "timestamp": 1112423741000
+  },
+  "page": "179-330",
+  "source": "Crossref",
+  "is-referenced-by-count": 294,
+  "title": [
+   "Class fields of abelian extensions of Q"
+  ],
+  "prefix": "10.1007",
+  "volume": "76",
+  "author": [
+   {
+    "given": "B.",
+    "family": "Mazur",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "A.",
+    "family": "Wiles",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "CR1",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Artin, M.: Algebraization of formal moduli I. Global Analysis. Papers in honor of K. Kodaira Spencer, D.C., Iyanaga, S., (eds.) Univ. of Tokyo Press and Princeton Univ. Press, 21?71 1969",
+    "DOI": "10.1515/9781400871230-003"
+   },
+   {
+    "key": "CR2",
+    "doi-asserted-by": "crossref",
+    "first-page": "134",
+    "DOI": "10.1007/BF01359701",
+    "volume": "185",
+    "author": "A.O.L. Atkin",
+    "year": "1970",
+    "unstructured": "Atkin, A.O.L., Lehner, J.: Hecke operators on? 0(m). Math. Ann.185, 134?160 (1970)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "CR3",
+    "doi-asserted-by": "crossref",
+    "first-page": "221",
+    "DOI": "10.1007/BF01390245",
+    "volume": "43",
+    "author": "A.O.L. Atkin",
+    "year": "1978",
+    "unstructured": "Atkin, A.O.L., Li, W.: Twists of newforms and pseudo-eigenvalues ofW-operators. Invent. Math.43, 221?244 (1978)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR4",
+    "volume-title": "Groups, Rings, Modules",
+    "author": "M. Auslander",
+    "year": "1974",
+    "unstructured": "Auslander, M., Buchsbaum, D.: Groups, Rings, Modules. New York, Evanston, San Francisco, London: Harper & Row 1974"
+   },
+   {
+    "key": "CR5",
+    "doi-asserted-by": "crossref",
+    "first-page": "35",
+    "DOI": "10.1007/BF01406467",
+    "volume": "50",
+    "author": "P. Bayer",
+    "year": "1978",
+    "unstructured": "Bayer, P., Neukirch, J.: On values of zeta functions andl-adic Euler characteristics. Invent Math.50, 35?64 (1978)",
+    "journal-title": "Invent Math."
+   },
+   {
+    "key": "CR6",
+    "series-title": "Lecture Notes in Mathematics",
+    "first-page": "109",
+    "volume-title": "On representations ofGL 2 and the arithmetic of modular curves. (International Summer School on Modular functions, Antwerp 1972) Modular functions of one variable II",
+    "author": "W. Casselman",
+    "year": "1973",
+    "unstructured": "Casselman, W.: On representations ofGL 2 and the arithmetic of modular curves. (International Summer School on Modular functions, Antwerp 1972) Modular functions of one variable II. Lecture Notes in Mathematics Vol. 349, pp. 109?141. Berlin-Heidelberg-New York: Springer 1973"
+   },
+   {
+    "key": "CR7",
+    "volume-title": "Algebraic number theory",
+    "author": "J.W.S. Cassels",
+    "year": "1967",
+    "unstructured": "Cassels, J.W.S., Fröhlich, A.: Algebraic number theory. London-New York: Academic Press 1967"
+   },
+   {
+    "key": "CR8",
+    "volume-title": "Algebraic Number Fields",
+    "author": "J. Coates",
+    "year": "1977",
+    "unstructured": "Coates, J.:p-adicL-functions and Iwasawa's theory. In: Algebraic Number Fields, Fröhlich, A., (ed.) London-New York: Academic Press 1977"
+   },
+   {
+    "key": "CR9",
+    "series-title": "Lecture Notes in Mathematics",
+    "volume-title": "The Work of Mazur and Wiles on Cyclotomic Fields. Séminaire Bourbaki No. 575",
+    "author": "J. Coates",
+    "year": "1981",
+    "unstructured": "Coates, J.: The Work of Mazur and Wiles on Cyclotomic Fields. Séminaire Bourbaki No. 575, Lecture Notes in Mathematics Vol. 901. Berlin-Heidelberg-New York: Springer 1981"
+   },
+   {
+    "key": "CR10",
+    "series-title": "Lecture Notes in Mathematics",
+    "volume-title": "K-theory and Iwasawa's analogue of the Jacobian, in AlgebraicK-theory II",
+    "author": "J. Coates",
+    "year": "1973",
+    "unstructured": "Coates, J.:K-theory and Iwasawa's analogue of the Jacobian, in AlgebraicK-theory II. Lecture Notes in Mathematics Vol. 342. Berlin-Heidelberg-New York: Springer 1973"
+   },
+   {
+    "key": "CR11",
+    "doi-asserted-by": "crossref",
+    "first-page": "498",
+    "DOI": "10.2307/1970916",
+    "volume": "98",
+    "author": "J. Coates",
+    "year": "1973",
+    "unstructured": "Coates, J., Lichtenbaum, S.: Onl-adic zeta functions. Ann. of Math.98, 498?550 (1973)",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "CR12",
+    "doi-asserted-by": "crossref",
+    "first-page": "149",
+    "DOI": "10.1007/BF01404303",
+    "volume": "24",
+    "author": "J. Coates",
+    "year": "1974",
+    "unstructured": "Coates, J., Sinnott, W.: An analogue of Stickelberger's theorem for the higherK-groups. Invent. Math.24, 149?161 (1974)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR13",
+    "series-title": "Lecture Notes in Mathematics",
+    "first-page": "136",
+    "volume-title": "Formes modulaires et représentationsl-adiques, Séminaire Bourbaki 68/69 no. 355",
+    "author": "P. Deligne",
+    "year": "1971",
+    "unstructured": "Deligne, P.: Formes modulaires et représentationsl-adiques, Séminaire Bourbaki 68/69 no. 355. Lecture Notes in Mathematics Vol. 179, pp. 136?172. Berlin-Heidelberg-New York: Springer 1971"
+   },
+   {
+    "key": "CR14",
+    "doi-asserted-by": "crossref",
+    "first-page": "75",
+    "DOI": "10.1007/BF02684599",
+    "volume": "36",
+    "author": "P. Deligne",
+    "year": "1969",
+    "unstructured": "Deligne, P., Mumford, D.: The irreducibility of the space of curves of given genus. Publications Mathématiques I.H.E.S.,36, 75?109 (1969)",
+    "journal-title": "Publications Mathématiques I.H.E.S."
+   },
+   {
+    "key": "CR15",
+    "series-title": "Lecture Note in Mathematics",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/978-3-540-37855-6",
+    "volume-title": "Schémas de modules de courbes elliptiques",
+    "author": "P. Deligne",
+    "year": "1973",
+    "unstructured": "Deligne, P., Rapoport, M.: Schémas de modules de courbes elliptiques. Lecture Note in Mathematics Vol. 349. Berlin-Heidelberg-New York: Springer 1973"
+   },
+   {
+    "key": "CR16",
+    "series-title": "Lecture Notes in Mathematics",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0060741",
+    "volume-title": "Lectures onp-divisible groups",
+    "author": "M. Demazure",
+    "year": "1972",
+    "unstructured": "Demazure, M.: Lectures onp-divisible groups. Lecture Notes in Mathematics Vol. 302. Berlin-Heidelberg-New York: Springer 1972"
+   },
+   {
+    "key": "CR17",
+    "doi-asserted-by": "crossref",
+    "first-page": "443",
+    "DOI": "10.1007/BF01394254",
+    "volume": "62",
+    "author": "L. Federer",
+    "year": "1981",
+    "unstructured": "Federer, L., Gross, B.: Regulators and Iwasawa Modules. Invent. Math.62, 443?457 (1981)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR18",
+    "doi-asserted-by": "crossref",
+    "first-page": "91",
+    "DOI": "10.1007/BF01406470",
+    "volume": "50",
+    "author": "B. Ferrero",
+    "year": "1978",
+    "unstructured": "Ferrero, B., Greenberg, R.: On the behavior of thep-adicL-function ats=0. Invent. Math.50, 91?102 (1978)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR19",
+    "doi-asserted-by": "crossref",
+    "first-page": "377",
+    "DOI": "10.2307/1971116",
+    "volume": "109",
+    "author": "B. Ferrero",
+    "year": "1979",
+    "unstructured": "Ferrero, B., Washington, L.: The Iwasawa invariantµ p vanishes for abelian number fields. Ann. of Math.109, 377?396 (1979)",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "CR20",
+    "first-page": "1423",
+    "volume": "280",
+    "author": "J.-M. Fontaine",
+    "year": "1979",
+    "unstructured": "Fontaine, J.-M.: Groupes finis commutatifs sur les vecteurs de Witt. C. R. Acad. Sc. Paris t.280, (serie A) 1423?1425 (1979)",
+    "journal-title": "C. R. Acad. Sc. Paris t."
+   },
+   {
+    "key": "CR21",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.5802/aif.641",
+    "volume": "27",
+    "author": "G. Gras",
+    "year": "1977",
+    "unstructured": "Gras, G.: Classes d'idéaux des corps abéliens et nombres de Bernoulli généralisés. Ann. Inst. Fourier27, 1?66 (1977)",
+    "journal-title": "Ann. Inst. Fourier"
+   },
+   {
+    "key": "CR22",
+    "first-page": "198",
+    "volume": "21",
+    "author": "R. Greenberg",
+    "year": "1973",
+    "unstructured": "Greenberg, R.: On a certainl-adic representation. Invent. Math.,21, 198?205 (1973)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR23",
+    "doi-asserted-by": "crossref",
+    "first-page": "61",
+    "DOI": "10.1017/S002776300001638X",
+    "volume": "56",
+    "author": "R. Greenberg",
+    "year": "1974",
+    "unstructured": "Greenberg, R.: Onp-adicL-functions and cyclotomic fields. Nagoya Math. J.56 61?77 (1974)",
+    "journal-title": "Nagoya Math. J."
+   },
+   {
+    "key": "CR24",
+    "doi-asserted-by": "crossref",
+    "first-page": "139",
+    "DOI": "10.1017/S0027763000022583",
+    "volume": "67",
+    "author": "R. Greenberg",
+    "year": "1977",
+    "unstructured": "Greenberg, R.: Onp-adicL-functions and cyclotomic fields II. Nagoya Math. J.67, 139?158 (1977)",
+    "journal-title": "Nagoya Math. J."
+   },
+   {
+    "key": "CR25",
+    "doi-asserted-by": "crossref",
+    "first-page": "85",
+    "DOI": "10.1007/BF01609481",
+    "volume": "47",
+    "author": "R. Greenberg",
+    "year": "1978",
+    "unstructured": "Greenberg, R.: On the structure of certain Galois groups. Invent. Math.47, 85?99 (1978)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR26",
+    "series-title": "Lecture Notes in Mathematics",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0081551",
+    "volume-title": "Modéles de Néron et monodromie. SGA 7 I exposé IX",
+    "author": "A. Grothendieck",
+    "year": "1972",
+    "unstructured": "Grothendieck, A.: Modéles de Néron et monodromie. SGA 7 I exposé IX. Lecture Notes in Mathematics, Vol. 288. Berlin-Heidelberg-New York: Springer 1972"
+   },
+   {
+    "key": "CR27",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/978-1-4757-3849-0",
+    "volume-title": "Algebraic Geometry",
+    "author": "R. Hartshore",
+    "year": "1977",
+    "unstructured": "Hartshore, R.: Algebraic Geometry. Berlin-Heidelberg-New York: Springer 1977"
+   },
+   {
+    "key": "CR28",
+    "doi-asserted-by": "crossref",
+    "first-page": "561",
+    "DOI": "10.2307/2372914",
+    "volume": "81",
+    "author": "J. Igusa",
+    "year": "1959",
+    "unstructured": "Igusa, J.: Kroneckerian model of fields of elliptic modular functions. Amer. J. Math.81, 561?577 (1959)",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "CR29",
+    "doi-asserted-by": "crossref",
+    "first-page": "96",
+    "DOI": "10.2969/jmsj/02010096",
+    "volume": "20",
+    "author": "J. Igusa",
+    "year": "1968",
+    "unstructured": "Igusa, J.: On the algebraic theory of elliptic modular functions. J. Math. Soc. Japan20, 96?106 (1968)",
+    "journal-title": "J. Math. Soc. Japan"
+   },
+   {
+    "key": "CR30",
+    "doi-asserted-by": "crossref",
+    "first-page": "198",
+    "DOI": "10.2307/1970817",
+    "volume": "89",
+    "author": "K. Iwasawa",
+    "year": "1969",
+    "unstructured": "Iwasawa, K.: Onp-adicL-functions. Ann. Math.89, 198?205 (1969)",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "key": "CR31",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1515/9781400881703",
+    "volume-title": "Lectures onp-adicL-functions",
+    "author": "K. Iwasawa",
+    "year": "1972",
+    "unstructured": "Iwasawa, K.: Lectures onp-adicL-functions. Princeton: Princeton Univ. Press and Univ. of Tokyo Press 1972"
+   },
+   {
+    "key": "CR32",
+    "doi-asserted-by": "crossref",
+    "first-page": "246",
+    "DOI": "10.2307/1970784",
+    "volume": "98",
+    "author": "K. Iwasawa",
+    "year": "1973",
+    "unstructured": "Iwasawa, K.: OnZ l -extensions of algebraic number fields. Ann. of Math.98, 246?326 (1973)",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "CR33",
+    "unstructured": "Kamienny, S.: OnJ 1(p) and the arithmetic of the kernel of the Eisenstein ideal. Harvard Ph.D. Thesis, 1980"
+   },
+   {
+    "key": "CR34",
+    "series-title": "Lecture Notes in Mathematics",
+    "doi-asserted-by": "crossref",
+    "first-page": "69",
+    "DOI": "10.1007/978-3-540-37802-0_3",
+    "volume-title": "p-adic properties of modular schemes and modular forms, vol. III of the Proceedings of the International Summer School on Modular Functions, Antwerp (1972)",
+    "author": "N. Katz",
+    "year": "1973",
+    "unstructured": "Katz, N.:p-adic properties of modular schemes and modular forms, vol. III of the Proceedings of the International Summer School on Modular Functions, Antwerp (1972), Lecture Notes in Mathematics, Vol. 350, pp. 69?190. Berlin-Heidelberg-New York: Springer 1973"
+   },
+   {
+    "issue": "no. 2",
+    "key": "CR35",
+    "doi-asserted-by": "crossref",
+    "first-page": "332",
+    "DOI": "10.2307/1970994",
+    "volume": "101",
+    "author": "N. Katz",
+    "year": "1975",
+    "unstructured": "Katz, N.: Higher congruences between modular forms. Ann. of Math.101, (no. 2) 332?367 (1975)",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "CR36",
+    "unstructured": "Katz, N., Mazur, B.: Arithmetic moduli of elliptic curves. To appear in Annals of Math. Studies, Princeton U. Press."
+   },
+   {
+    "key": "CR37",
+    "series-title": "Lecture Notes in Mathematics",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0059750",
+    "volume-title": "Algebraic spaces",
+    "author": "D. Knutson",
+    "year": "1971",
+    "unstructured": "Knutson, D.: Algebraic spaces. Lecture Notes in Mathematics, Vol. 203. Berlin-Heidelberg-New York: Springer 1971"
+   },
+   {
+    "key": "CR38",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.1007/BF01364888",
+    "volume": "225",
+    "author": "D. Kubert",
+    "year": "1977",
+    "unstructured": "Kubert, D.: Quadratic relations for generators of units in the modular function fields. Math. Ann.225, 1?20 (1977)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "CR39",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/978-1-4757-1741-9",
+    "volume-title": "Modular Units",
+    "author": "D. Kubert",
+    "year": "1981",
+    "unstructured": "Kubert, D., Lang, S.: Modular Units. Berlin-Heidelberg-New York: Springer 1981"
+   },
+   {
+    "key": "CR40",
+    "volume-title": "Introduction to modular forms",
+    "author": "S. Lang",
+    "year": "1976",
+    "unstructured": "Lang, S.: Introduction to modular forms. Berlin-Heidelberg-New York: Springer 1976"
+   },
+   {
+    "key": "CR41",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/978-1-4612-9945-5",
+    "volume-title": "Cyclotomic fields",
+    "author": "S. Lang",
+    "year": "1978",
+    "unstructured": "Lang, S.: Cyclotomic fields. Berlin-Heidelberg-New York: Springer 1978"
+   },
+   {
+    "key": "CR42",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/978-1-4684-0086-1",
+    "volume-title": "Cyclotomic fields II",
+    "author": "S. Lang",
+    "year": "1980",
+    "unstructured": "Lang, S.: Cyclotomic fields II. Berlin-Heidelberg-New York: Springer 1980"
+   },
+   {
+    "key": "CR43",
+    "unstructured": "Lang, S.: Units and class numbers in Number theory and algebraic Geometry. Lecture notes distributed in conjunction with the colloquium lectures given at the 85-th summer meeting of the A.M.S., University of Pittsburgh, Pittsburgh, Pennsylvania, August 17?20, 1981"
+   },
+   {
+    "key": "CR44",
+    "series-title": "Lecture Notes in Mathematics",
+    "doi-asserted-by": "crossref",
+    "first-page": "361",
+    "DOI": "10.1007/978-3-540-37855-6_6",
+    "volume-title": "Modular forms andl-adic representations. (International Summer School on Modular Functions, Antwerp, 1972) Modular functions of one variable II",
+    "author": "R.P. Langlands",
+    "year": "1973",
+    "unstructured": "Langlands, R.P.: Modular forms andl-adic representations. (International Summer School on Modular Functions, Antwerp, 1972) Modular functions of one variable II, Lecture Notes in Mathematics, Vol. 349, pp. 361?500, Berlin-Heidelberg-New York: Springer 1973"
+   },
+   {
+    "key": "CR45",
+    "doi-asserted-by": "crossref",
+    "first-page": "285",
+    "DOI": "10.1007/BF01344466",
+    "volume": "212",
+    "author": "W. Li",
+    "year": "1975",
+    "unstructured": "Li, W.: Newforms and functional equations. Math. Ann.212, 285?315 (1975)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "issue": "no. 2",
+    "key": "CR46",
+    "doi-asserted-by": "crossref",
+    "first-page": "338",
+    "DOI": "10.2307/1970792",
+    "volume": "96",
+    "author": "S. Lichtenbaum",
+    "year": "1972",
+    "unstructured": "Lichtenbaum, S.: On the values of zeta andL-functions I. Ann. of Math.96 (no. 2) 338?360 (1972)",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "CR47",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Mazur, B.: Modular curves and the Eisenstein ideal. Publ. Math. I.H.E.S.47, (1948)",
+    "DOI": "10.1007/BF02684339"
+   },
+   {
+    "key": "CR48",
+    "doi-asserted-by": "crossref",
+    "first-page": "41",
+    "DOI": "10.1007/BF01425572",
+    "volume": "22",
+    "author": "B. Mazur",
+    "year": "1973",
+    "unstructured": "Mazur, B., Tate, J.: Points of order 13 on elliptic curves. Invent. Math.22, 41?49 (1973)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR49",
+    "doi-asserted-by": "crossref",
+    "first-page": "129",
+    "DOI": "10.1007/BF01390348",
+    "volume": "44",
+    "author": "B. Mazur",
+    "year": "1978",
+    "unstructured": "Mazur, B.: Rational isogenies of prime degree. Invent. Math.44, 129?162 (1978)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR50",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1017/CBO9780511565892",
+    "volume-title": "Finite free resolutions",
+    "author": "D.G. Northcott",
+    "year": "1976",
+    "unstructured": "Northcott, D.G.: Finite free resolutions. Cambridge Univ. Press, Cambridge-New York 1976"
+   },
+   {
+    "key": "CR51",
+    "series-title": "Lecture Notes in Mathematics",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0097479",
+    "volume-title": "Commutative group schemes",
+    "author": "F. Oort",
+    "year": "1966",
+    "unstructured": "Oort, F.: Commutative group schemes. Lecture Notes in Mathematics Vol. 15. Berlin-Heidelberg-New York: Springer 1966"
+   },
+   {
+    "key": "CR52",
+    "first-page": "1",
+    "volume": "3",
+    "author": "F. Oort",
+    "year": "1970",
+    "unstructured": "Oort, F., Tate, J.: Group schemes of prime order. Ann. Scient. Ec. Norm. Sup. (serie 4)3, 1?21 (1970)",
+    "journal-title": "Ann. Scient. Ec. Norm. Sup. (serie 4)"
+   },
+   {
+    "key": "CR53",
+    "first-page": "133",
+    "volume-title": "Passage au quotient par une relation d'équivalence plate",
+    "author": "M. Raynaud",
+    "year": "1967",
+    "unstructured": "Raynaud, M.: Passage au quotient par une relation d'équivalence plate. Proc. of a Conference on Local Fields, NUFFIC Summer School held at Driebergen in 1966, pp. 133?157, Berlin-Heidelberg-New York: Springer 1967"
+   },
+   {
+    "key": "CR54",
+    "doi-asserted-by": "crossref",
+    "first-page": "27",
+    "DOI": "10.1007/BF02684651",
+    "volume": "38",
+    "author": "M. Raynaud",
+    "year": "1970",
+    "unstructured": "Raynaud, M.: Spécialisation du foncteur de Picard. Publ. Math. I.H.E.S.38, 27?76 (1970)",
+    "journal-title": "Publ. Math. I.H.E.S."
+   },
+   {
+    "key": "CR55",
+    "doi-asserted-by": "crossref",
+    "first-page": "241",
+    "DOI": "10.24033/bsmf.1779",
+    "volume": "102",
+    "author": "M. Raynaud",
+    "year": "1974",
+    "unstructured": "Raynaud, M.: Schémas en groupes de type (p, ... p). Bull. Soc. Math. France102, 241?280 (1974)",
+    "journal-title": "Bull. Soc. Math. France"
+   },
+   {
+    "key": "CR56",
+    "doi-asserted-by": "crossref",
+    "first-page": "151",
+    "DOI": "10.1007/BF01403065",
+    "volume": "34",
+    "author": "K. Ribet",
+    "year": "1976",
+    "unstructured": "Ribet, K.: A modular construction of unramifiedp-extensions ofQ(µ p ). Invent. Math.34, 151?162 (1976)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR57",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Serre, J.-P.: Sur la topologie des variétés algébriques en caractéristique p. Symp. Int. de Top. Alg., Mexico, 1958",
+    "DOI": "10.2307/2372780"
+   },
+   {
+    "key": "CR58",
+    "unstructured": "Serre, J-P.: Classes des corps cyclotomiques, Séminaire Bourbaki. Exp.174 (1958?9)"
+   },
+   {
+    "key": "CR59",
+    "volume-title": "Lectures on minimal models and birational transformations of two-dimensional schemes",
+    "author": "I.R. Shafarevitch",
+    "year": "1966",
+    "unstructured": "Shafarevitch, I.R.: Lectures on minimal models and birational transformations of two-dimensional schemes. Tata Institute of fundamental research: Bombay 1966"
+   },
+   {
+    "key": "CR60",
+    "unstructured": "Shimura, G.: Introduction to the arithmetic theory of automorphic forms. Publ. Math. Soc. Japan11, Tokyo-Princeton (1971)"
+   },
+   {
+    "key": "CR61",
+    "doi-asserted-by": "crossref",
+    "first-page": "107",
+    "DOI": "10.2307/1970932",
+    "volume": "108",
+    "author": "W. Sinnott",
+    "year": "1978",
+    "unstructured": "Sinnott, W.: On the Stickelberger ideal and the circular units of a cyclotomic field. Ann. Math.108, 107?134 (1978)",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "key": "CR62",
+    "doi-asserted-by": "crossref",
+    "first-page": "181",
+    "DOI": "10.1007/BF01389158",
+    "volume": "62",
+    "author": "W. Sinnott",
+    "year": "1980",
+    "unstructured": "Sinnott, W.: On the Stickelberger ideal and the circular units of an abelian field. Invent. Math.62, 181?234 (1980)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR63",
+    "doi-asserted-by": "crossref",
+    "first-page": "251",
+    "DOI": "10.1007/BF01406843",
+    "volume": "55",
+    "author": "C. Soulé",
+    "year": "1979",
+    "unstructured": "Soulé, C.:K-theorie des anneaux d'entiers de corps de nombres et cohomologie étale. Invent. Math.55, 251?295 (1979)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR64",
+    "volume-title": "p-divisible groups. Proceedings of a conference on local fields (Driebergen 1966)",
+    "author": "J. Tate",
+    "year": "1967",
+    "unstructured": "Tate, J.:p-divisible groups. Proceedings of a conference on local fields (Driebergen 1966). Berlin-Heidelberg-New York: Springer 1967"
+   },
+   {
+    "key": "CR65",
+    "doi-asserted-by": "crossref",
+    "first-page": "257",
+    "DOI": "10.1007/BF01390012",
+    "volume": "36",
+    "author": "J. Tate",
+    "year": "1976",
+    "unstructured": "Tate, J.: Relations between K2 and Galois cohomology. Invent. Math.36, 257?274 (1976)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR66",
+    "doi-asserted-by": "crossref",
+    "first-page": "3",
+    "DOI": "10.1090/pspum/033.2/546607",
+    "volume": "33",
+    "author": "J. Tate",
+    "year": "1979",
+    "unstructured": "Tate, J.: Number theoretic background. Proceedings of Symposia in Pure Mathematics33, (part II) 3?26 (1979)",
+    "journal-title": "Proceedings of Symposia in Pure Mathematics"
+   },
+   {
+    "key": "CR67",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.1007/BF01402272",
+    "volume": "58",
+    "author": "A. Wiles",
+    "year": "1980",
+    "unstructured": "Wiles, A.: Modular curves and the class group ofQ(? p ). Invent. Math.58, 1?35 (1980)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR68",
+    "doi-asserted-by": "crossref",
+    "first-page": "197",
+    "DOI": "10.1007/BF01420083",
+    "volume": "252",
+    "author": "J. Yu",
+    "year": "1980",
+    "unstructured": "Yu, J.: A cuspidal class number formula for the modular curvesX 1(N). Math. Ann.252, 197?216 (1980)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "CR69",
+    "doi-asserted-by": "crossref",
+    "first-page": "492",
+    "DOI": "10.2307/1970722",
+    "volume": "88",
+    "author": "J-P. Serre",
+    "year": "1968",
+    "unstructured": "Serre, J-P., Tate, J.: Good reduction of abelian varieties. Ann. of Math.88, 492?517 (1968)",
+    "journal-title": "Ann. of Math."
+   }
+  ],
+  "container-title": [
+   "Inventiones Mathematicae"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01388599/fulltext.html",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01388599.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01388599/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01388599",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2023,
+     5,
+     2
+    ]
+   ],
+   "date-time": "2023-05-02T20:12:46Z",
+   "timestamp": 1683058366000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01388599"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1984,
+     6
+    ]
+   ]
+  },
+  "references-count": 69,
+  "journal-issue": {
+   "issue": "2",
+   "published-print": {
+    "date-parts": [
+     [
+      1984,
+      6
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01388599"
+  ],
+  "URL": "https://doi.org/10.1007/bf01388599",
+  "relation": {},
+  "ISSN": [
+   "0020-9910",
+   "1432-1297"
+  ],
+  "issn-type": [
+   {
+    "value": "0020-9910",
+    "type": "print"
+   },
+   {
+    "value": "1432-1297",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1984,
+     6
+    ]
+   ]
+  }
+ }
+}

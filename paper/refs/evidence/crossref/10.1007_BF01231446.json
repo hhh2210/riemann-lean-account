@@ -1,0 +1,371 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     6
+    ]
+   ],
+   "date-time": "2026-10-06T14:51:34Z",
+   "timestamp": 1791298294646,
+   "version": "4.1.0"
+  },
+  "reference-count": 20,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1995,
+       12,
+       1
+      ]
+     ],
+     "date-time": "1995-12-01T00:00:00Z",
+     "timestamp": 817776000000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Invent Math"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1995,
+     12
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01231446",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     2,
+     25
+    ]
+   ],
+   "date-time": "2005-02-25T23:35:48Z",
+   "timestamp": 1109374548000
+  },
+  "page": "291-308",
+  "source": "Crossref",
+  "is-referenced-by-count": 83,
+  "title": [
+   "Effective freeness and point separation for adjoint bundles"
+  ],
+  "prefix": "10.1007",
+  "volume": "122",
+  "author": [
+   {
+    "given": "Urban",
+    "family": "Angehrn",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Yum-Tong",
+    "family": "Siu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "CR1",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[A94] Angehrn, U.: An effective polynomial bound for base point freeness and point separation of adjoint bundles. Harvard thesis (1994)",
+    "DOI": "10.1007/BF01231446"
+   },
+   {
+    "key": "CR2",
+    "volume-title": "Algebraic Methods in the Global Theory of Complex Spaces",
+    "author": "C. Banica",
+    "year": "1976",
+    "unstructured": "[BS76] Banica, C., Stanasila, O.: Algebraic Methods in the Global Theory of Complex Spaces. New York: Wiley 1976"
+   },
+   {
+    "key": "CR3",
+    "doi-asserted-by": "crossref",
+    "first-page": "323",
+    "DOI": "10.4310/jdg/1214453680",
+    "volume": "37",
+    "author": "J.-P. Demailly",
+    "year": "1993",
+    "unstructured": "[D93] Demailly, J.-P.: A numerical criterion for very ample line bundles. J. Differ. Geom.37, 323?374 (1993)",
+    "journal-title": "J. Differ. Geom."
+   },
+   {
+    "key": "CR4",
+    "unstructured": "[D94] Demailly, J.-P.: Transcendental methods in algebraic geometry. C.I.M.E. lecture notes (1994)"
+   },
+   {
+    "key": "CR5",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[EKL94] Ein, L., Küchle, O., Lazarsfeld, R.: Local positivity of ample line bundles. (Preprint August 1994)",
+    "DOI": "10.4310/jdg/1214457231"
+   },
+   {
+    "key": "CR6",
+    "first-page": "875",
+    "volume": "6",
+    "author": "L. Ein",
+    "year": "1993",
+    "unstructured": "[EL93] Ein, L. and Lazarsfeld, R.: Global generation of pluricanonical and adjoint linear series on smooth projective threefolds. J. A.M.S.6, 875?903 (1993)",
+    "journal-title": "J. A.M.S."
+   },
+   {
+    "key": "CR7",
+    "unstructured": "[ELN94] Ein, L., Lazarsfeld, R., Nakamaye, M.: Zero-estimates, intersection theory, and a theorem of Demailly (Preprint 1995)"
+   },
+   {
+    "key": "CR8",
+    "doi-asserted-by": "crossref",
+    "first-page": "118",
+    "DOI": "10.1007/BF01425245",
+    "volume": "4",
+    "author": "J. Frisch",
+    "year": "1967",
+    "unstructured": "[Fr67] Frisch, J.: Points de platitude d'un morphisme d'espaces analytiques. Invent. Math.4, 118?138 (1967)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR9",
+    "doi-asserted-by": "crossref",
+    "first-page": "167",
+    "DOI": "10.2969/aspm/01010167",
+    "volume": "10",
+    "author": "T. Fujita",
+    "year": "1987",
+    "unstructured": "[Fu87] Fujita, T.: On polarized manifolds whose adjoint bundles are not semipositive. Algebraic Geometry. Sendai, Advanced Studies in Pure Math.10, 167?178 (1987)",
+    "journal-title": "Sendai, Advanced Studies in Pure Math."
+   },
+   {
+    "key": "CR10",
+    "doi-asserted-by": "crossref",
+    "first-page": "5",
+    "DOI": "10.1007/BF02684746",
+    "volume": "5",
+    "author": "H. Grauert",
+    "year": "1960",
+    "unstructured": "[G60] Grauert, H.: Ein Theorem der analytischen Garbentheorie und die Modulräume komplexer Strukturen. Publ. Math. IHES5, 5?64 (1960)",
+    "journal-title": "Publ. Math. IHES"
+   },
+   {
+    "key": "CR11",
+    "doi-asserted-by": "crossref",
+    "first-page": "43",
+    "DOI": "10.1007/BF01456407",
+    "volume": "261",
+    "author": "Y. Kawamata",
+    "year": "1982",
+    "unstructured": "[Ka82] Kawamata, Y.: A generalization of Kodaira-Ramanujam's vanishing theorem. Math. Ann.261, 43?46 (1982)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "CR12",
+    "doi-asserted-by": "crossref",
+    "first-page": "595",
+    "DOI": "10.1007/BF01445123",
+    "volume": "296",
+    "author": "J. Kollar",
+    "year": "1993",
+    "unstructured": "[Ko93] Kollar, J.: Effective base point freeness. Math. Ann.296, 595?605 (1993)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "CR13",
+    "doi-asserted-by": "crossref",
+    "first-page": "7299",
+    "DOI": "10.1073/pnas.86.19.7299",
+    "volume": "86",
+    "author": "A. Nadel",
+    "year": "1989",
+    "unstructured": "[N89] Nadel, A.: Multiplier ideal sheaves and the existence of Kähler-Einstein metrics of positive scalar curvature. Proc. Natl. Acad. Sci. USA86, 7299?7300 (1989); Ann. Math.132, 549?596 (1989)",
+    "journal-title": "Proc. Natl. Acad. Sci. USA"
+   },
+   {
+    "key": "CR14",
+    "doi-asserted-by": "crossref",
+    "first-page": "197",
+    "DOI": "10.1007/BF01166457",
+    "volume": "195",
+    "author": "T. Ohsawa",
+    "year": "1987",
+    "unstructured": "[OT87] Ohsawa, T., Takegoshi, K.: On the extension ofL 2 holomorphic functions. Math. Z.195, 197?204 (1987)",
+    "journal-title": "Math. Z."
+   },
+   {
+    "key": "CR15",
+    "doi-asserted-by": "crossref",
+    "first-page": "309",
+    "DOI": "10.2307/2007055",
+    "volume": "127",
+    "author": "I. Reider",
+    "year": "1988",
+    "unstructured": "[Re88] Reider, I.: Vector bundles of rank 2 and linear systems on algebraic surfaces. Ann. Math.127, 309?316 (1988)",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "key": "CR16",
+    "doi-asserted-by": "crossref",
+    "first-page": "40",
+    "DOI": "10.1007/BF01368159",
+    "volume": "187",
+    "author": "O. Riemenschneider",
+    "year": "1970",
+    "unstructured": "[Ri70] Riemenschneider, O.: Über die Anwendung algebraischer Methoden in der Deformationstheorie komplexer Räume. Math. Ann.187, 40?55 (1970)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "CR17",
+    "first-page": "591",
+    "volume": "19",
+    "author": "V. Shokurov",
+    "year": "1985",
+    "unstructured": "[Sh85] Shokurov, V.: The non-vanishing theorem. Math. U.S.S.R. Izv.19, 591?607 (1985)",
+    "journal-title": "Math. U.S.S.R. Izv."
+   },
+   {
+    "key": "CR18",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[S94a] Siu, Y.-T.: Effective very ampleness. Invent. Math. (to appear)",
+    "DOI": "10.1007/s002220050063"
+   },
+   {
+    "key": "CR19",
+    "unstructured": "[S94b] Siu, Y.-T.: Very ampleness criterion of double adjoints of ample line bundles. Proceedings of the 1992 Princeton Conference in Honor of Gunning and Kohn, Ann. Math. Studies (to appear)"
+   },
+   {
+    "key": "CR20",
+    "first-page": "1",
+    "volume": "335",
+    "author": "E. Viehweg",
+    "year": "1982",
+    "unstructured": "[V82] Viehweg, E.: Vanishing theorems. J. Reine Angew. Math.335, 1?8 (1982)",
+    "journal-title": "J. Reine Angew. Math."
+   }
+  ],
+  "container-title": [
+   "Inventiones Mathematicae"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01231446.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01231446/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01231446",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     6
+    ]
+   ],
+   "date-time": "2020-04-06T00:02:26Z",
+   "timestamp": 1586131346000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01231446"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1995,
+     12
+    ]
+   ]
+  },
+  "references-count": 20,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1995,
+      12
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01231446"
+  ],
+  "URL": "https://doi.org/10.1007/bf01231446",
+  "relation": {},
+  "ISSN": [
+   "0020-9910",
+   "1432-1297"
+  ],
+  "issn-type": [
+   {
+    "value": "0020-9910",
+    "type": "print"
+   },
+   {
+    "value": "1432-1297",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1995,
+     12
+    ]
+   ]
+  }
+ }
+}

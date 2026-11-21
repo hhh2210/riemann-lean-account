@@ -1,0 +1,436 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     8
+    ]
+   ],
+   "date-time": "2026-10-08T08:05:18Z",
+   "timestamp": 1791446718700,
+   "version": "4.3.3"
+  },
+  "reference-count": 41,
+  "publisher": "MathDoc/Centre Mersenne",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1991,
+       12,
+       7
+      ]
+     ],
+     "date-time": "1991-12-07T00:00:00Z",
+     "timestamp": 692064000000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "DOI": "10.1007/bf02699257",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2007,
+     9,
+     25
+    ]
+   ],
+   "date-time": "2007-09-25T11:35:26Z",
+   "timestamp": 1190720126000
+  },
+  "page": "97-145",
+  "source": "Crossref",
+  "is-referenced-by-count": 56,
+  "title": [
+   "Représentations galoisiennes associées aux représentations automorphes autoduales de\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mrow>\n                        <mml:mi>G</mml:mi>\n                        <mml:mi>L</mml:mi>\n                        <mml:mo>(</mml:mo>\n                        <mml:mi>n</mml:mi>\n                        <mml:mo>)</mml:mo>\n                      </mml:mrow>\n                    </mml:math>"
+  ],
+  "prefix": "10.5802",
+  "volume": "73",
+  "author": [
+   {
+    "given": "Laurent",
+    "family": "Clozel",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "3842",
+  "published-online": {
+   "date-parts": [
+    [
+     1991,
+     12,
+     7
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "key2026021712150267131_1",
+    "article-title": "Automorphic Forms, Representations, and L-functions, Proceedings of the Corvallis Conference",
+    "author": "A. BOREL",
+    "year": "1979",
+    "unstructured": "[C] Automorphic Forms, Representations, and L-functions, Proceedings of the Corvallis Conference, A. Borel et W. Casselman eds, Proc. Symp. Pure Math., 33, A.M.S., Providence, 1979, I, II."
+   },
+   {
+    "key": "key2026021712150267131_2",
+    "article-title": "Automorphic Forms, Shimura Varieties, and L-functions, Proceedings of the Ann Arbor Conference",
+    "author": "L. CLOZEL",
+    "year": "1990",
+    "unstructured": "[AA] Automorphic Forms, Shimura Varieties, and L-functions, Proceedings of the Ann Arbor Conference, L. Clozel et J. S. Milne eds, Academic Press, 1990, I, II."
+   },
+   {
+    "key": "key2026021712150267131_3",
+    "article-title": "Lifting of characters and Harish-Chandra's method of descent",
+    "author": "J. ADAMS",
+    "unstructured": "[1] J. Adams, D. Vogan, Lifting of characters and Harish-Chandra's method of descent, preprint."
+   },
+   {
+    "key": "key2026021712150267131_4",
+    "article-title": "A Paley-Wiener theorem for real reductive groups",
+    "author": "J. ARTHUR",
+    "year": "1983",
+    "unstructured": "[2] J. Arthur, A Paley-Wiener theorem for real reductive groups, Acta Math., 150 (1983), 1-89."
+   },
+   {
+    "key": "key2026021712150267131_5",
+    "article-title": "Simple Algebras, Base Change, and the Advanced Theory of the Trace Formula",
+    "author": "J. ARTHUR",
+    "year": "1989",
+    "unstructured": "[3] J. Arthur, L. Clozel, Simple Algebras, Base Change, and the Advanced Theory of the Trace Formula, Annals of Math. Studies, Princeton U. Press, 1989."
+   },
+   {
+    "key": "key2026021712150267131_6",
+    "article-title": "Automorphic forms and Galois representations : some examples",
+    "author": "D. BLASIUS",
+    "unstructured": "[4] D. Blasius, Automorphic forms and Galois representations : some examples, in [AA], II, 1-13."
+   },
+   {
+    "key": "key2026021712150267131_7",
+    "article-title": "Automorphic L-functions",
+    "author": "A. BOREL",
+    "unstructured": "[5] A. Borel, Automorphic L-functions, in [C], II, 27-62."
+   },
+   {
+    "key": "key2026021712150267131_8",
+    "article-title": "Continuous Cohomology, Discrete Subgroups, and Representations of Reductive Groups",
+    "author": "A. BOREL",
+    "year": "1980",
+    "unstructured": "[6] A. Borel, N. Wallach, Continuous Cohomology, Discrete Subgroups, and Representations of Reductive Groups, Annals of Math. Studies, Princeton U. Press, 1980."
+   },
+   {
+    "key": "key2026021712150267131_9",
+    "article-title": "Relèvement des caractères d'un groupe endoscopique pour le changement de base C/R",
+    "author": "A. BOUAZIZ",
+    "year": "1989",
+    "unstructured": "[7] A. Bouaziz, Relèvement des caractères d'un groupe endoscopique pour le changement de base C/R, Astérisque, 171-172 (1989), 163-194."
+   },
+   {
+    "key": "key2026021712150267131_10",
+    "article-title": "Changement de base pour les représentations tempérées des groupes réductifs réels",
+    "author": "L. CLOZEL",
+    "year": "1982",
+    "unstructured": "[8] L. Clozel, Changement de base pour les représentations tempérées des groupes réductifs réels, Ann. Sc. E.N.S. (4e sér.), 15 (1982), 45-115."
+   },
+   {
+    "key": "key2026021712150267131_11",
+    "article-title": "The fundamental lemma for stable base change",
+    "author": "L. CLOZEL",
+    "year": "1990",
+    "unstructured": "[9] L. Clozel, The fundamental lemma for stable base change, Duke Math. J., 61 (1990), 255-302."
+   },
+   {
+    "key": "key2026021712150267131_12",
+    "article-title": "On the cuspidal cohomology of arithmetic subgroups of GL(2n)",
+    "author": "L. CLOZEL",
+    "year": "1987",
+    "unstructured": "[10] L. Clozel, On the cuspidal cohomology of arithmetic subgroups of GL(2n)..., Duke Math. J., 55 (1987), 475-486."
+   },
+   {
+    "key": "key2026021712150267131_13",
+    "article-title": "Motifs et formes automorphes : applications du principe de fonctorialité",
+    "author": "L. CLOZEL",
+    "unstructured": "[11] L. Clozel, Motifs et formes automorphes : applications du principe de fonctorialité, in [AA], I, 77-159."
+   },
+   {
+    "key": "key2026021712150267131_14",
+    "article-title": "Le théorème de Paley-Wiener invariant pour les groupes de Lie réductifs II",
+    "author": "L. CLOZEL",
+    "year": "1990",
+    "unstructured": "[12] L. Clozel, P. Delorme, Le théorème de Paley-Wiener invariant pour les groupes de Lie réductifs II, Ann. Sc. E.N.S. (4e sér.), 23 (1990), 193-228."
+   },
+   {
+    "key": "key2026021712150267131_15",
+    "article-title": "Théorème de Paley-Wiener invariant tordu pour le changement de base C/R",
+    "author": "P. DELORME",
+    "unstructured": "[13] P. Delorme, Théorème de Paley-Wiener invariant tordu pour le changement de base C/R, preprint."
+   },
+   {
+    "key": "key2026021712150267131_16",
+    "article-title": "Relative Lie algebra cohomology and unitary representations of complex Lie groups",
+    "author": "T. ENRIGHT",
+    "year": "1979",
+    "unstructured": "[14] T. Enright, Relative Lie algebra cohomology and unitary representations of complex Lie groups, Duke Math. J., 46 (1979), 513-525."
+   },
+   {
+    "key": "key2026021712150267131_17",
+    "article-title": "Automorphic forms of ∂-cohomology type as coherent cohomology classes",
+    "author": "M. HARRIS",
+    "year": "1990",
+    "unstructured": "[15] M. Harris, Automorphic forms of ∂-cohomology type as coherent cohomology classes, J. Diff. Geom., 32 (1990), 1-63."
+   },
+   {
+    "key": "key2026021712150267131_18",
+    "article-title": "Ueber die Galoiskohomologie halbeinfacher Matrizengruppen II",
+    "author": "G. HARDER",
+    "year": "1966",
+    "unstructured": "[16] G. Harder, Ueber die Galoiskohomologie halbeinfacher Matrizengruppen II, Math. Zeitschrift, 92 (1966), 396-415."
+   },
+   {
+    "key": "key2026021712150267131_19",
+    "article-title": "Stable base change C/R of certain derived functor modules",
+    "author": "J. JOHNSON",
+    "year": "1990",
+    "unstructured": "[17] J. Johnson, Stable base change C/R of certain derived functor modules, Math. Ann., 287 (1990), 467-493."
+   },
+   {
+    "key": "key2026021712150267131_20",
+    "article-title": "Rational conjugacy classes in reductive groups",
+    "author": "R. KOTTWITZ",
+    "year": "1982",
+    "unstructured": "[18] R. Kottwitz, Rational conjugacy classes in reductive groups, Duke Math. J., 49 (1982), 785-806."
+   },
+   {
+    "key": "key2026021712150267131_21",
+    "article-title": "Shimura varieties and twisted orbital integrals",
+    "author": "R. KOTTWITZ",
+    "year": "1984",
+    "unstructured": "[19] R. Kottwitz, Shimura varieties and twisted orbital integrals, Math. Ann., 269 (1984), 287-300."
+   },
+   {
+    "key": "key2026021712150267131_22",
+    "article-title": "Stable trace formula : cuspidal tempered terms",
+    "author": "R. KOTTWITZ",
+    "year": "1984",
+    "unstructured": "[20] R. Kottwitz, Stable trace formula : cuspidal tempered terms, Duke Math. J., 51 (1984), 611-650."
+   },
+   {
+    "key": "key2026021712150267131_23",
+    "article-title": "Stable trace formula : elliptic singular terms",
+    "author": "R. KOTTWITZ",
+    "year": "1986",
+    "unstructured": "[21] R. Kottwitz, Stable trace formula : elliptic singular terms, Math. Ann., 275 (1986), 365-399."
+   },
+   {
+    "key": "key2026021712150267131_24",
+    "article-title": "Shimura varieties and λ-adic representations",
+    "author": "R. KOTTWITZ",
+    "unstructured": "[22] R. Kottwitz, Shimura varieties and λ-adic representations, in [AA], I, 161-209."
+   },
+   {
+    "key": "key2026021712150267131_25",
+    "unstructured": "[23] R. Kottwitz, en préparation."
+   },
+   {
+    "key": "key2026021712150267131_26",
+    "article-title": "On the λ-adic representations associated to some simple Shimura varieties",
+    "author": "R. KOTTWITZ",
+    "year": "1989",
+    "unstructured": "[24] R. Kottwitz, On the λ-adic representations associated to some simple Shimura varieties, preprint, 1989."
+   },
+   {
+    "key": "key2026021712150267131_27",
+    "article-title": "Pseudo-coefficients très cuspidaux et K-théorie",
+    "author": "J.-P. LABESSE",
+    "unstructured": "[25] J.-P. Labesse, Pseudo-coefficients très cuspidaux et K-théorie, preprint."
+   },
+   {
+    "key": "key2026021712150267131_28",
+    "article-title": "On liftings and cusp cohomology of arithmetic groups",
+    "author": "J.-P. LABESSE",
+    "year": "1983",
+    "unstructured": "[26] J.-P. Labesse, J. Schwermer, On liftings and cusp cohomology of arithmetic groups, Inv. Math., 83 (1983), 383-401."
+   },
+   {
+    "key": "key2026021712150267131_29",
+    "article-title": "Les débuts d'une formule des traces stable",
+    "author": "R. P. LANGLANDS",
+    "unstructured": "[27] R. P. Langlands, Les débuts d'une formule des traces stable, Publ. Math. Univ. Paris 7, Paris, s.d."
+   },
+   {
+    "key": "key2026021712150267131_30",
+    "article-title": "Automorphic representations, Shimura varieties, and motives, Ein Märchen",
+    "author": "R. P. LANGLANDS",
+    "unstructured": "[28] R. P. Langlands, Automorphic representations, Shimura varieties, and motives, Ein Märchen, in [C], II, 205-246."
+   },
+   {
+    "key": "key2026021712150267131_31",
+    "article-title": "On the classification of irreducible representations of real algebraic groups",
+    "author": "R. P. LANGLANDS",
+    "year": "1973",
+    "unstructured": "[29] R. P. Langlands, On the classification of irreducible representations of real algebraic groups, Institute for Advanced Study, Princeton, 1973."
+   },
+   {
+    "key": "key2026021712150267131_32",
+    "article-title": "Le spectre résiduel de GL(n)",
+    "author": "C. MOEGLIN",
+    "year": "1989",
+    "unstructured": "[30] C. Moeglin, J.-L. Waldspurger, Le spectre résiduel de GL(n), Ann. Sc. E.N.S. (4e sér.), 22 (1989), 605-674."
+   },
+   {
+    "key": "key2026021712150267131_33",
+    "article-title": "Automorphic representations of unitary groups of three variables",
+    "author": "J. ROGAWSKI",
+    "year": "1989",
+    "unstructured": "[31] J. Rogawski, Automorphic representations of unitary groups of three variables, Annals of Math. Studies, Princeton U. Press, 1989."
+   },
+   {
+    "key": "key2026021712150267131_34",
+    "article-title": "Quadratic and Hermitian Forms",
+    "author": "W. SCHARLAU",
+    "year": "1985",
+    "unstructured": "[32] W. Scharlau, Quadratic and Hermitian Forms, Springer-Verlag, 1985."
+   },
+   {
+    "key": "key2026021712150267131_35",
+    "article-title": "Characters and inner forms of quasi-split groups over R",
+    "author": "D. SHELSTAD",
+    "year": "1979",
+    "unstructured": "[33] D. Shelstad, Characters and inner forms of quasi-split groups over R, Compositio Math., 39 (1979), 11-45."
+   },
+   {
+    "key": "key2026021712150267131_36",
+    "article-title": "Base change and a matching theorem for real groups",
+    "author": "D. SHELSTAD",
+    "year": "1981",
+    "unstructured": "[34] D. Shelstad, Base change and a matching theorem for real groups, in Non commutative Harmonic Analysis and Lie Groups, Springer Lecture Notes, 880 (1981), 425-482."
+   },
+   {
+    "key": "key2026021712150267131_37",
+    "article-title": "Endoscopic groups and base change C/R",
+    "author": "D. SHELSTAD",
+    "year": "1984",
+    "unstructured": "[35] D. Shelstad, Endoscopic groups and base change C/R, Pacific J. Math., 110 (1984), 397-415."
+   },
+   {
+    "key": "key2026021712150267131_38",
+    "article-title": "Twisted endoscopic groups in the abelian case",
+    "author": "D. SHELSTAD",
+    "unstructured": "[36] D. Shelstad, Twisted endoscopic groups in the abelian case, non publié."
+   },
+   {
+    "key": "key2026021712150267131_39",
+    "article-title": "On the global correspondence between GL(n) and division algebras",
+    "author": "M.-F. VIGNÉRAS",
+    "year": "1984",
+    "unstructured": "[37] M.-F. Vignéras, On the global correspondence between GL(n) and division algebras, Institute for Advanced Study, Princeton, 1984."
+   },
+   {
+    "key": "key2026021712150267131_40",
+    "article-title": "Representations of real reductive Lie groups",
+    "author": "D. VOGAN",
+    "year": "1981",
+    "unstructured": "[38] D. Vogan, Representations of real reductive Lie groups, Birkhäuser, 1981."
+   },
+   {
+    "key": "key2026021712150267131_41",
+    "article-title": "Unitary representations with non-zero cohomology",
+    "author": "D. VOGAN",
+    "year": "1984",
+    "unstructured": "[39] D. Vogan, G. Zuckerman, Unitary representations with non-zero cohomology, Compositio Math., 53 (1984), 51-90."
+   }
+  ],
+  "container-title": [
+   "Publications Mathématiques de l'IHÉS"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://pmihes.centre-mersenne.org/item/10.1007/BF02699257.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     2,
+     17
+    ]
+   ],
+   "date-time": "2026-02-17T11:15:07Z",
+   "timestamp": 1771326907000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://pmihes.centre-mersenne.org/articles/10.1007/BF02699257/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1991,
+     12,
+     7
+    ]
+   ]
+  },
+  "references-count": 41,
+  "alternative-id": [
+   "10.1007/BF02699257"
+  ],
+  "URL": "https://doi.org/10.1007/bf02699257",
+  "relation": {},
+  "ISSN": [
+   "0073-8301",
+   "1618-1913"
+  ],
+  "issn-type": [
+   {
+    "value": "0073-8301",
+    "type": "print"
+   },
+   {
+    "value": "1618-1913",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1991,
+     12,
+     7
+    ]
+   ]
+  }
+ }
+}

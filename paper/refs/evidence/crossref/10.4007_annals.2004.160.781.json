@@ -1,0 +1,172 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     18
+    ]
+   ],
+   "date-time": "2026-11-18T00:36:20Z",
+   "timestamp": 1794962180873,
+   "version": "4.9.1"
+  },
+  "reference-count": 0,
+  "publisher": "Annals of Mathematics",
+  "issue": "2",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Ann. Math."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2004,
+     9,
+     1
+    ]
+   ]
+  },
+  "DOI": "10.4007/annals.2004.160.781",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2009,
+     4,
+     22
+    ]
+   ],
+   "date-time": "2009-04-22T11:57:09Z",
+   "timestamp": 1240401429000
+  },
+  "page": "781-793",
+  "source": "Crossref",
+  "is-referenced-by-count": 586,
+  "title": [
+   "PRIMES is in P"
+  ],
+  "prefix": "10.4007",
+  "volume": "160",
+  "author": [
+   {
+    "given": "Manindra",
+    "family": "Agrawal",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Neeraj",
+    "family": "Kayal",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Nitin",
+    "family": "Saxena",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "2422",
+  "published-online": {
+   "date-parts": [
+    [
+     2004,
+     9,
+     1
+    ]
+   ]
+  },
+  "container-title": [
+   "Annals of Mathematics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+   "date-parts": [
+    [
+     2011,
+     8,
+     23
+    ]
+   ],
+   "date-time": "2011-08-23T06:48:10Z",
+   "timestamp": 1314082090000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://annals.math.princeton.edu/2004/160-2/p12"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2004,
+     9,
+     1
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "2",
+   "published-online": {
+    "date-parts": [
+     [
+      2004
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.4007/annals.2004.160.781",
+  "relation": {},
+  "ISSN": [
+   "0003-486X"
+  ],
+  "issn-type": [
+   {
+    "value": "0003-486X",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2004,
+     9,
+     1
+    ]
+   ]
+  }
+ }
+}

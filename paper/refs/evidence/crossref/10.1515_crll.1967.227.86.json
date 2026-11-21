@@ -1,0 +1,134 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     2
+    ]
+   ],
+   "date-time": "2026-10-02T22:51:34Z",
+   "timestamp": 1790981494510,
+   "version": "4.1.0"
+  },
+  "reference-count": 0,
+  "publisher": "Walter de Gruyter GmbH",
+  "issue": "227",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     1967,
+     7,
+     1
+    ]
+   ]
+  },
+  "DOI": "10.1515/crll.1967.227.86",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2009,
+     12,
+     10
+    ]
+   ],
+   "date-time": "2009-12-10T09:12:01Z",
+   "timestamp": 1260436321000
+  },
+  "page": "86-110",
+  "source": "Crossref",
+  "is-referenced-by-count": 39,
+  "title": [
+   "On Epstein's Zeta-function."
+  ],
+  "prefix": "10.1515",
+  "volume": "1967",
+  "member": "374",
+  "container-title": [
+   "Journal für die reine und angewandte Mathematik (Crelles Journal)"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "http://www.degruyter.com/view/j/crll.1967.1967.issue-227/crll.1967.227.86/crll.1967.227.86.xml",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://www.degruyter.com/document/doi/10.1515/crll.1967.227.86/pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2021,
+     4,
+     21
+    ]
+   ],
+   "date-time": "2021-04-21T23:02:47Z",
+   "timestamp": 1619046167000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.degruyter.com/document/doi/10.1515/crll.1967.227.86/html"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1967,
+     7,
+     1
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "227"
+  },
+  "URL": "https://doi.org/10.1515/crll.1967.227.86",
+  "relation": {},
+  "ISSN": [
+   "0075-4102",
+   "1435-5345"
+  ],
+  "issn-type": [
+   {
+    "value": "0075-4102",
+    "type": "print"
+   },
+   {
+    "value": "1435-5345",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1967,
+     7,
+     1
+    ]
+   ]
+  }
+ }
+}

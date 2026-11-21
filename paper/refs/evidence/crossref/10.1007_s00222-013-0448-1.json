@@ -1,0 +1,989 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     14
+    ]
+   ],
+   "date-time": "2026-11-14T02:52:36Z",
+   "timestamp": 1794624756391,
+   "version": "4.9.1"
+  },
+  "reference-count": 78,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2013,
+       5,
+       23
+      ]
+     ],
+     "date-time": "2013-05-23T00:00:00Z",
+     "timestamp": 1369267200000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Invent. math."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2014,
+     1
+    ]
+   ]
+  },
+  "DOI": "10.1007/s00222-013-0448-1",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2013,
+     5,
+     22
+    ]
+   ],
+   "date-time": "2013-05-22T07:12:35Z",
+   "timestamp": 1369206755000
+  },
+  "page": "1-277",
+  "source": "Crossref",
+  "is-referenced-by-count": 161,
+  "title": [
+   "The Iwasawa Main Conjectures for GL2"
+  ],
+  "prefix": "10.1007",
+  "volume": "195",
+  "author": [
+   {
+    "given": "Christopher",
+    "family": "Skinner",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Eric",
+    "family": "Urban",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "published-online": {
+   "date-parts": [
+    [
+     2013,
+     5,
+     23
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "448_CR1",
+    "series-title": "Asterisque",
+    "first-page": "119",
+    "volume-title": "Distributions p-Adiques Associes aux Sries de Hecke",
+    "author": "Y. Amice",
+    "year": "1975",
+    "unstructured": "Amice, Y., Vélu, J.: Distributions p-Adiques Associes aux Sries de Hecke. Asterisque, vol. 24–25, pp. 119–131. Soc. Math. France, Paris (1975)"
+   },
+   {
+    "issue": "3",
+    "key": "448_CR2",
+    "doi-asserted-by": "crossref",
+    "first-page": "413",
+    "DOI": "10.1007/s002220050105",
+    "volume": "126",
+    "author": "M. Bertolini",
+    "year": "1996",
+    "unstructured": "Bertolini, M., Darmon, H.: Heegner points on Mumford-Tate curves. Invent. Math. 126(3), 413–456 (1996)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "issue": "1",
+    "key": "448_CR3",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.4007/annals.2005.162.1",
+    "volume": "162",
+    "author": "M. Bertolini",
+    "year": "2005",
+    "unstructured": "Bertolini, M., Darmon, H.: Iwasawa’s main conjecture for elliptic curves over anticyclotomic Z p -extensions. Ann. Math. (2) 162(1), 1–64 (2005)",
+    "journal-title": "Ann. Math. (2)"
+   },
+   {
+    "key": "448_CR4",
+    "doi-asserted-by": "crossref",
+    "first-page": "361",
+    "DOI": "10.1007/BF01444538",
+    "volume": "288",
+    "author": "S. Böcherer",
+    "year": "1990",
+    "unstructured": "Böcherer, S., Schulze-Pillot, R.: On a theorem of Waldspurger and on Eisenstein series of Klingen-type. Math. Ann. 288, 361–388 (1990)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "448_CR5",
+    "series-title": "Proc. Sympos. Pure Math.",
+    "doi-asserted-by": "crossref",
+    "first-page": "199",
+    "DOI": "10.1090/pspum/009/0207650",
+    "volume-title": "Algebraic Groups and Discontinuous Subgroups",
+    "author": "A. Borel",
+    "year": "1966",
+    "unstructured": "Borel, A.: Introduction to automorphic forms. In: Algebraic Groups and Discontinuous Subgroups, Boulder, CO, 1965. Proc. Sympos. Pure Math., vol. IX, pp. 199–210. Am. Math. Soc., Providence (1966)"
+   },
+   {
+    "key": "448_CR6",
+    "unstructured": "Casselman, W.: Introduction to the theory of admissible representations of p-adic groups. http://www.math.ubc.ca/~cass/research/pdf/padic-book.pdf"
+   },
+   {
+    "key": "448_CR7",
+    "doi-asserted-by": "crossref",
+    "first-page": "301",
+    "DOI": "10.1007/BF01428197",
+    "volume": "201",
+    "author": "W. Casselman",
+    "year": "1973",
+    "unstructured": "Casselman, W.: On some results of Atkin and Lehner. Math. Ann. 201, 301–314 (1973)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "448_CR8",
+    "first-page": "247",
+    "volume": "7",
+    "author": "C.-L. Chai",
+    "year": "2008",
+    "unstructured": "Chai, C.-L.: Methods for p-adic monodromy. J. Inst. Math. 7, 247–268 (2008)",
+    "journal-title": "J. Inst. Math."
+   },
+   {
+    "issue": "1",
+    "key": "448_CR9",
+    "doi-asserted-by": "crossref",
+    "first-page": "137",
+    "DOI": "10.2307/2118586",
+    "volume": "144",
+    "author": "F. Diamond",
+    "year": "1996",
+    "unstructured": "Diamond, F.: On deformation rings and Hecke rings. Ann. Math. (2) 144(1), 137–166 (1996)",
+    "journal-title": "Ann. Math. (2)"
+   },
+   {
+    "key": "448_CR10",
+    "series-title": "Ergebnisse der Math.",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/978-3-662-02632-8",
+    "volume-title": "Degeneration of Abelian Varieties",
+    "author": "G. Faltings",
+    "year": "1990",
+    "unstructured": "Faltings, G., Chai, C.-L.: Degeneration of Abelian Varieties. Ergebnisse der Math., vol. 22. Springer, Berlin (1990)"
+   },
+   {
+    "issue": "3",
+    "key": "448_CR11",
+    "doi-asserted-by": "crossref",
+    "first-page": "767",
+    "DOI": "10.4007/annals.2006.163.767",
+    "volume": "163",
+    "author": "T. Finis",
+    "year": "2006",
+    "unstructured": "Finis, T.: Divisibility of anticyclotomic L-functions and theta functions with complex multiplication. Ann. Math. (2) 163(3), 767–807 (2006)",
+    "journal-title": "Ann. Math. (2)"
+   },
+   {
+    "key": "448_CR12",
+    "unstructured": "Fujiwara, K.: Arithmetic compactifications of Shimura varieties. Preprint (1991)"
+   },
+   {
+    "key": "448_CR13",
+    "series-title": "Lecture Notes in Math.",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0078125",
+    "volume-title": "Explicit Constructions of Automorphic L-Functions",
+    "author": "S. Gelbart",
+    "year": "1987",
+    "unstructured": "Gelbart, S., Piatetski-Shapiro, I., Rallis, S.: Explicit Constructions of Automorphic L-Functions. Lecture Notes in Math., vol. 1254. Springer, Berlin (1987)"
+   },
+   {
+    "key": "448_CR14",
+    "first-page": "252",
+    "volume": "145",
+    "author": "S.G. Gindikin",
+    "year": "1962",
+    "unstructured": "Gindikin, S.G., Karpelevich, F.I.: Plancherel measure for symmetric Riemannian spaces of non-positive curvature. Dokl. Akad. Nauk SSSR 145, 252–255 (1962). English transl.: Soviet Math. Dokl. 3, 962–965 (1962)",
+    "journal-title": "Dokl. Akad. Nauk SSSR"
+   },
+   {
+    "key": "448_CR15",
+    "doi-asserted-by": "crossref",
+    "first-page": "61",
+    "DOI": "10.1017/S002776300001638X",
+    "volume": "56",
+    "author": "R. Greenberg",
+    "year": "1975",
+    "unstructured": "Greenberg, R.: On p-adic L-functions and cyclotomic fields. Nagoya Math. J. 56, 61–77 (1975)",
+    "journal-title": "Nagoya Math. J."
+   },
+   {
+    "key": "448_CR16",
+    "series-title": "Proc. Symp. Pure. Math.",
+    "doi-asserted-by": "crossref",
+    "first-page": "193",
+    "DOI": "10.1090/pspum/055.2/1265554",
+    "volume-title": "Motives",
+    "author": "R. Greenberg",
+    "year": "1994",
+    "unstructured": "Greenberg, R.: Iwasawa theory and p-adic Deformations of Motives. In: Motives, Seattle, WA, 1991. Proc. Symp. Pure. Math., vol. 55, Part 22, pp. 193–223. Am. Math. Soc., Providence (1994)"
+   },
+   {
+    "key": "448_CR17",
+    "series-title": "Lecture Notes in Math.",
+    "doi-asserted-by": "crossref",
+    "first-page": "51",
+    "DOI": "10.1007/BFb0093453",
+    "volume-title": "Arithmetic Theory of Elliptic Curves",
+    "author": "R. Greenberg",
+    "year": "1999",
+    "unstructured": "Greenberg, R.: Iwasawa theory for elliptic curves. In: Arithmetic Theory of Elliptic Curves, Cetraro, 1997. Lecture Notes in Math., vol. 1716, pp. 51–144. Springer, Berlin (1999)"
+   },
+   {
+    "key": "448_CR18",
+    "unstructured": "Greenberg, R.: On the structure of Selmer groups. Preprint. http://www.math.washington.edu/~greenber/Sel.pdf"
+   },
+   {
+    "issue": "2",
+    "key": "448_CR19",
+    "doi-asserted-by": "crossref",
+    "first-page": "407",
+    "DOI": "10.1007/BF01231294",
+    "volume": "111",
+    "author": "R. Greenberg",
+    "year": "1993",
+    "unstructured": "Greenberg, R., Stevens, G.: p-adic L-functions and p-adic periods of modular forms. Invent. Math. 111(2), 407–447 (1993)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "448_CR20",
+    "doi-asserted-by": "crossref",
+    "first-page": "17",
+    "DOI": "10.1007/s002220000080",
+    "volume": "142",
+    "author": "R. Greenberg",
+    "year": "2000",
+    "unstructured": "Greenberg, R., Vatsal, V.: On the Iwasawa invariants of elliptic curves. Invent. Math. 142, 17–63 (2000)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "448_CR21",
+    "series-title": "London Math. Soc. Lecture Note Ser.",
+    "doi-asserted-by": "crossref",
+    "first-page": "223",
+    "DOI": "10.1017/CBO9780511662010.006",
+    "volume-title": "Galois Representations in Arithmetic Algebraic Geometry",
+    "author": "B.H. Gross",
+    "year": "1998",
+    "unstructured": "Gross, B.H.: On the Satake isomorphism. In: Galois Representations in Arithmetic Algebraic Geometry, Durham, 1996. London Math. Soc. Lecture Note Ser., vol. 254, pp. 223–237. Cambridge Univ. Press, Cambridge (1998)"
+   },
+   {
+    "issue": "1",
+    "key": "448_CR22",
+    "doi-asserted-by": "crossref",
+    "first-page": "59",
+    "DOI": "10.2307/2006963",
+    "volume": "119",
+    "author": "M. Harris",
+    "year": "1984",
+    "unstructured": "Harris, M.: Eisenstein series on Shimura varieties. Ann. Math. (2) 119(1), 59–94 (1984)",
+    "journal-title": "Ann. Math. (2)"
+   },
+   {
+    "key": "448_CR23",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Harris, M.: Functorial properties of toroidal compactifications of locally symmetric varieties. Proc. Lond. Math. Soc. (3) 59 (1989)",
+    "DOI": "10.1112/plms/s3-59.1.1"
+   },
+   {
+    "key": "448_CR24",
+    "first-page": "75",
+    "volume": "483",
+    "author": "M. Harris",
+    "year": "1997",
+    "unstructured": "Harris, M.: L-functions and periods of polarized regular motives. J. Reine Angew. Math. 483, 75–161 (1997)",
+    "journal-title": "J. Reine Angew. Math."
+   },
+   {
+    "key": "448_CR25",
+    "unstructured": "Harris, M., Li, J.-S., Skinner, C.: p-adic L-functions for unitary groups II (in preparation)"
+   },
+   {
+    "issue": "2",
+    "key": "448_CR26",
+    "doi-asserted-by": "crossref",
+    "first-page": "225",
+    "DOI": "10.1007/BF01393877",
+    "volume": "63",
+    "author": "H. Hida",
+    "year": "1981",
+    "unstructured": "Hida, H.: Congruence of cusp forms and special values of their zeta functions. Invent. Math. 63(2), 225–261 (1981)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "issue": "1",
+    "key": "448_CR27",
+    "doi-asserted-by": "crossref",
+    "first-page": "159",
+    "DOI": "10.1007/BF01388661",
+    "volume": "79",
+    "author": "H. Hida",
+    "year": "1985",
+    "unstructured": "Hida, H.: A p-adic measure attached to the zeta functions associated with two elliptic modular forms. I. Invent. Math. 79(1), 159–195 (1985)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "448_CR28",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.5802/aif.1141",
+    "volume": "38",
+    "author": "H. Hida",
+    "year": "1988",
+    "unstructured": "Hida, H.: A p-adic measure attached to the zeta functions associated with two elliptic modular forms II. Ann. Inst. Fourier 38, 1–83 (1988)",
+    "journal-title": "Ann. Inst. Fourier"
+   },
+   {
+    "key": "448_CR29",
+    "first-page": "115",
+    "volume-title": "Algebraic Analysis, Geometry, and Number Theory",
+    "author": "H. Hida",
+    "year": "1989",
+    "unstructured": "Hida, H.: Nearly ordinary Hecke algebras and Galois representations of several variables. In: Algebraic Analysis, Geometry, and Number Theory, pp. 115–134. Johns Hopkins Univ. Press, Baltimore (1989)"
+   },
+   {
+    "issue": "2",
+    "key": "448_CR30",
+    "doi-asserted-by": "crossref",
+    "first-page": "323",
+    "DOI": "10.2307/2374505",
+    "volume": "110",
+    "author": "H. Hida",
+    "year": "1988",
+    "unstructured": "Hida, H.: Modules of congruence of Hecke algebras and L-functions associated with cusp forms. Am. J. Math. 110(2), 323–382 (1988)",
+    "journal-title": "Am. J. Math."
+   },
+   {
+    "issue": "1",
+    "key": "448_CR31",
+    "first-page": "1",
+    "volume": "1",
+    "author": "H. Hida",
+    "year": "2002",
+    "unstructured": "Hida, H.: Control theorems of coherent sheaves on Shimura varieties of PEL-type. J. Inst. Math. Jussieu 1(1), 1–76 (2002)",
+    "journal-title": "J. Inst. Math. Jussieu"
+   },
+   {
+    "key": "448_CR32",
+    "series-title": "Springer Monographs in Mathematics",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/978-1-4684-9390-0",
+    "volume-title": "p-Adic Automorphic Forms on Shimura Varieties",
+    "author": "H. Hida",
+    "year": "2004",
+    "unstructured": "Hida, H.: p-Adic Automorphic Forms on Shimura Varieties. Springer Monographs in Mathematics. Springer, New York (2004)"
+   },
+   {
+    "key": "448_CR33",
+    "series-title": "Clay Math. Proc.",
+    "first-page": "187",
+    "volume-title": "On Certain L-Functions",
+    "author": "H. Hida",
+    "year": "2011",
+    "unstructured": "Hida, H.: Irreducibility of the Igusa tower over unitary Shimura varieties. In: On Certain L-Functions. Clay Math. Proc., vol. 13, pp. 187–203. Am. Math. Soc., Providence (2011)"
+   },
+   {
+    "issue": "1",
+    "key": "448_CR34",
+    "doi-asserted-by": "crossref",
+    "first-page": "89",
+    "DOI": "10.1007/BF01232236",
+    "volume": "117",
+    "author": "H. Hida",
+    "year": "1994",
+    "unstructured": "Hida, H., Tilouine, J.: On the anticyclotomic main conjecture for CM fields. Invent. Math. 117(1), 89–147 (1994)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "448_CR35",
+    "first-page": "275",
+    "volume": "177",
+    "author": "R. Howe",
+    "year": "1973",
+    "unstructured": "Howe, R.: On the principal series of GL n over p-adic fields. Trans. Am. Math. Soc. 177, 275–286 (1973)",
+    "journal-title": "Trans. Am. Math. Soc."
+   },
+   {
+    "key": "448_CR36",
+    "series-title": "Asterisque",
+    "first-page": "117",
+    "volume-title": "Cohomologies p-Adiques et Applications Arithmetiques. III",
+    "author": "K. Kato",
+    "year": "2004",
+    "unstructured": "Kato, K.: p-adic Hodge theory and values of zeta functions of modular forms. In: Cohomologies p-Adiques et Applications Arithmetiques. III. Asterisque, vol. 295, pp. 117–290 (2004), ix"
+   },
+   {
+    "issue": "2",
+    "key": "448_CR37",
+    "doi-asserted-by": "crossref",
+    "first-page": "373",
+    "DOI": "10.1090/S0894-0347-1992-1124982-1",
+    "volume": "5",
+    "author": "R. Kottwitz",
+    "year": "1992",
+    "unstructured": "Kottwitz, R.: Points on some Shimura varieties over finite fields. J. Am. Math. Soc. 5(2), 373–444 (1992)",
+    "journal-title": "J. Am. Math. Soc."
+   },
+   {
+    "issue": "1–3",
+    "key": "448_CR38",
+    "doi-asserted-by": "crossref",
+    "first-page": "361",
+    "DOI": "10.1007/BF02773003",
+    "volume": "87",
+    "author": "S.S. Kudla",
+    "year": "1994",
+    "unstructured": "Kudla, S.S.: Splitting metaplectic covers of dual reductive pairs. Isr. J. Math. 87(1–3), 361–401 (1994)",
+    "journal-title": "Isr. J. Math."
+   },
+   {
+    "key": "448_CR39",
+    "unstructured": "Lan, K.-W.: Arithmetic compactifications of PEL-type Shimura varieties. Harvard PhD thesis (2008) (revised 2010)"
+   },
+   {
+    "key": "448_CR40",
+    "unstructured": "Lan, KW.: Comparison between analytic and algebraic construction of toroidal compactifications of PEL-type Shimura varieties. Preprint (2010)"
+   },
+   {
+    "key": "448_CR41",
+    "series-title": "Yale Mathematical Monographs",
+    "volume-title": "Euler Products",
+    "author": "R.P. Langlands",
+    "year": "1971",
+    "unstructured": "Langlands, R.P.: Euler Products. Yale Mathematical Monographs, vol. 1. Yale University Press, New Haven (1971)"
+   },
+   {
+    "key": "448_CR42",
+    "series-title": "Lecture Notes in Math.",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0079929",
+    "volume-title": "On the Functional Equations Satisfied by Eisenstein Series",
+    "author": "R.P. Langlands",
+    "year": "1976",
+    "unstructured": "Langlands, R.P.: On the Functional Equations Satisfied by Eisenstein Series. Lecture Notes in Math., vol. 544. Springer, Berlin (1976)"
+   },
+   {
+    "key": "448_CR43",
+    "series-title": "Ohio State Univ. Math. Res. Inst. Publ.",
+    "doi-asserted-by": "crossref",
+    "first-page": "309",
+    "DOI": "10.1515/9783110892703.309",
+    "volume-title": "Automorphic Representations, L-Functions and Applications: Progress and Prospects",
+    "author": "E. Lapid",
+    "year": "2005",
+    "unstructured": "Lapid, E., Rallis, S.: On the local factors of representations of classical groups. In: Automorphic Representations, L-Functions and Applications: Progress and Prospects. Ohio State Univ. Math. Res. Inst. Publ., vol. 11, pp. 309–359. de Gruyter, Berlin (2005)"
+   },
+   {
+    "key": "448_CR44",
+    "doi-asserted-by": "crossref",
+    "first-page": "183",
+    "DOI": "10.1007/BF01389815",
+    "volume": "18",
+    "author": "B. Mazur",
+    "year": "1972",
+    "unstructured": "Mazur, B.: Rational points of Abelian varieties with values in tower of number fields. Invent. Math. 18, 183–266 (1972)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "issue": "2",
+    "key": "448_CR45",
+    "doi-asserted-by": "crossref",
+    "first-page": "129",
+    "DOI": "10.1007/BF01390348",
+    "volume": "44",
+    "author": "B. Mazur",
+    "year": "1978",
+    "unstructured": "Mazur, B.: Rational isogenies of prime degree. Invent. Math. 44(2), 129–162 (1978)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "448_CR46",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.1007/BF01389997",
+    "volume": "25",
+    "author": "B. Mazur",
+    "year": "1974",
+    "unstructured": "Mazur, B., Swinnerton-Dyer, P.: Arithmetic of Weil curves. Invent. Math. 25, 1–61 (1974)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "issue": "1",
+    "key": "448_CR47",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.1007/BF01388731",
+    "volume": "84",
+    "author": "B. Mazur",
+    "year": "1986",
+    "unstructured": "Mazur, B., Tate, J., Teitelbaum, J.: On p-adic analogues of the conjectures of Birch and Swinnerton-Dyer. Invent. Math. 84(1), 1–48 (1986)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "448_CR48",
+    "doi-asserted-by": "crossref",
+    "first-page": "65",
+    "DOI": "10.1007/BF02699878",
+    "volume": "71",
+    "author": "B. Mazur",
+    "year": "1990",
+    "unstructured": "Mazur, B., Tilouine, J.: Representations galoisiennes, differentielles de Kähler et “conjectures principales”. Publ. Math. IHÉS 71, 65–103 (1990)",
+    "journal-title": "Publ. Math. IHÉS"
+   },
+   {
+    "key": "448_CR49",
+    "doi-asserted-by": "crossref",
+    "first-page": "179",
+    "DOI": "10.1007/BF01388599",
+    "volume": "76",
+    "author": "B. Mazur",
+    "year": "1984",
+    "unstructured": "Mazur, B., Wiles, A.: Class fields of Abelian extensions of Q. Invent. Math. 76, 179–330 (1984)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "448_CR50",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/3-540-29593-3",
+    "volume-title": "Modular Forms",
+    "author": "T. Miyake",
+    "year": "1989",
+    "unstructured": "Miyake, T.: Modular Forms. Springer, Berlin (1989)"
+   },
+   {
+    "key": "448_CR51",
+    "series-title": "Cambridge Tracts in Mathematics",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1017/CBO9780511470905",
+    "volume-title": "Spectral Decomposition and Eisenstein Series. Une Paraphrase de L’ecriture",
+    "author": "C. Mœglin",
+    "year": "1995",
+    "unstructured": "Mœglin, C., Waldspurger, J.-L.: Spectral Decomposition and Eisenstein Series. Une Paraphrase de L’ecriture. Cambridge Tracts in Mathematics, vol. 113. Cambridge Univ. Press, Cambridge (1995)"
+   },
+   {
+    "issue": "2",
+    "key": "448_CR52",
+    "doi-asserted-by": "crossref",
+    "first-page": "99",
+    "DOI": "10.1016/S0764-4442(00)01808-5",
+    "volume": "332",
+    "author": "J. Nekovář",
+    "year": "2001",
+    "unstructured": "Nekovář, J.: On the parity of ranks of Selmer groups. II. C. R. Acad. Sci. Paris Ser. I Math. 332(2), 99–104 (2001)",
+    "journal-title": "C. R. Acad. Sci. Paris Ser. I Math."
+   },
+   {
+    "issue": "5",
+    "key": "448_CR53",
+    "doi-asserted-by": "crossref",
+    "first-page": "1157",
+    "DOI": "10.1112/S0010437X06002223",
+    "volume": "142",
+    "author": "T. Ochiai",
+    "year": "2006",
+    "unstructured": "Ochiai, T.: On the two-variable Iwasawa main conjecture. Compos. Math. 142(5), 1157–1200 (2006)",
+    "journal-title": "Compos. Math."
+   },
+   {
+    "issue": "1",
+    "key": "448_CR54",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.1112/jlms/s2-38.1.1",
+    "volume": "38",
+    "author": "B. Perrin-Riou",
+    "year": "1988",
+    "unstructured": "Perrin-Riou, B.: Functions L p-adiques associées à une forme modulaire et à un corps quadratique imaginaire. J. Lond. Math. Soc. (2) 38(1), 1–32 (1988)",
+    "journal-title": "J. Lond. Math. Soc. (2)"
+   },
+   {
+    "issue": "3",
+    "key": "448_CR55",
+    "doi-asserted-by": "crossref",
+    "first-page": "151",
+    "DOI": "10.1007/BF01403065",
+    "volume": "34",
+    "author": "K. Ribet",
+    "year": "1976",
+    "unstructured": "Ribet, K.: A modular construction of unramified p-extensions of Q(μ p ). Invent. Math. 34(3), 151–162 (1976)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "issue": "2",
+    "key": "448_CR56",
+    "doi-asserted-by": "crossref",
+    "first-page": "431",
+    "DOI": "10.1007/BF01231195",
+    "volume": "100",
+    "author": "K. Ribet",
+    "year": "1990",
+    "unstructured": "Ribet, K.: On modular representations of $\\operatorname{Gal}(\\bar{\\mathbf {Q}}/\\mathbf{Q})$ arising from modular forms. Invent. Math. 100(2), 431–476 (1990)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "issue": "1",
+    "key": "448_CR57",
+    "doi-asserted-by": "crossref",
+    "first-page": "25",
+    "DOI": "10.1007/BF01239508",
+    "volume": "103",
+    "author": "K. Rubin",
+    "year": "1991",
+    "unstructured": "Rubin, K.: The “main conjectures” of Iwasawa theory for imaginary quadratic fields. Invent. Math. 103(1), 25–68 (1991)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "448_CR58",
+    "volume-title": "Abelian l-Adic Representations and Elliptic Curves",
+    "author": "J.-P. Serre",
+    "year": "1968",
+    "unstructured": "Serre, J.-P.: Abelian l-Adic Representations and Elliptic Curves. Benjamin, New York (1968). xvi+177 pp."
+   },
+   {
+    "issue": "2",
+    "key": "448_CR59",
+    "doi-asserted-by": "crossref",
+    "first-page": "297",
+    "DOI": "10.2307/2374219",
+    "volume": "103",
+    "author": "F. Shahidi",
+    "year": "1981",
+    "unstructured": "Shahidi, F.: On certain L-functions. Am. J. Math. 103(2), 297–355 (1981)",
+    "journal-title": "Am. J. Math."
+   },
+   {
+    "issue": "3",
+    "key": "448_CR60",
+    "doi-asserted-by": "crossref",
+    "first-page": "269",
+    "DOI": "10.1007/BF01461465",
+    "volume": "260",
+    "author": "G. Shimura",
+    "year": "1982",
+    "unstructured": "Shimura, G.: Confluent hypergeometric functions on tube domains. Math. Ann. 260(3), 269–302 (1982)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "issue": "3",
+    "key": "448_CR61",
+    "doi-asserted-by": "crossref",
+    "first-page": "539",
+    "DOI": "10.1007/BF01245192",
+    "volume": "119",
+    "author": "G. Shimura",
+    "year": "1995",
+    "unstructured": "Shimura, G.: Eisenstein series and zeta functions on symplectic groups. Invent. Math. 119(3), 539–584 (1995)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "448_CR62",
+    "series-title": "CBMS Regional Conference Series in Mathematics",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1090/cbms/093",
+    "volume-title": "Euler Products and Eisenstein Series",
+    "author": "G. Shimura",
+    "year": "1997",
+    "unstructured": "Shimura, G.: Euler Products and Eisenstein Series. CBMS Regional Conference Series in Mathematics, vol. 93. Am. Math. Soc., Providence (1997)"
+   },
+   {
+    "key": "448_CR63",
+    "series-title": "Mathematical Surveys and Monographs",
+    "volume-title": "Arithmeticity in the Theory of Automorphic Forms",
+    "author": "G. Shimura",
+    "year": "2000",
+    "unstructured": "Shimura, G.: Arithmeticity in the Theory of Automorphic Forms. Mathematical Surveys and Monographs, vol. 82. Am. Math. Soc., Providence (2000). x+302 pp."
+   },
+   {
+    "key": "448_CR64",
+    "doi-asserted-by": "crossref",
+    "first-page": "1697",
+    "DOI": "10.2140/ant.2012.6.1697",
+    "volume": "6–8",
+    "author": "C. Skinner",
+    "year": "2012",
+    "unstructured": "Skinner, C.: Galois representations associated with unitary groups over Q. Algebra Number Theory 6–8, 1697–1717 (2012).",
+    "journal-title": "Algebra Number Theory"
+   },
+   {
+    "issue": "7",
+    "key": "448_CR65",
+    "doi-asserted-by": "crossref",
+    "first-page": "581",
+    "DOI": "10.1016/S1631-073X(02)02540-2",
+    "volume": "335",
+    "author": "C.M. Skinner",
+    "year": "2002",
+    "unstructured": "Skinner, C.M., Urban, E.: Sur les déformations p-adiques des formes de Saito-Kurokawa. C. R. Math. Acad. Sci. Paris 335(7), 581–586 (2002)",
+    "journal-title": "C. R. Math. Acad. Sci. Paris"
+   },
+   {
+    "issue": "4",
+    "key": "448_CR66",
+    "doi-asserted-by": "crossref",
+    "first-page": "629",
+    "DOI": "10.1017/S147474800600003X",
+    "volume": "5",
+    "author": "C. Skinner",
+    "year": "2006",
+    "unstructured": "Skinner, C., Urban, E.: Sur les déformations p-adiques de certaines représentations automorphes. J. Inst. Math. Jussieu 5(4), 629–698 (2006)",
+    "journal-title": "J. Inst. Math. Jussieu"
+   },
+   {
+    "key": "448_CR67",
+    "doi-asserted-by": "crossref",
+    "first-page": "5",
+    "DOI": "10.1007/BF02698855",
+    "volume": "89",
+    "author": "C. Skinner",
+    "year": "1999",
+    "unstructured": "Skinner, C., Wiles, A.: Residually reducible representations and modular forms. Publ. Math. IHÉS 89, 5–126 (1999)",
+    "journal-title": "Publ. Math. IHÉS"
+   },
+   {
+    "issue": "2",
+    "key": "448_CR68",
+    "first-page": "519",
+    "volume": "291",
+    "author": "G. Stevens",
+    "year": "1985",
+    "unstructured": "Stevens, G.: The cuspidal subgroup and special values of L-functions. Trans. Am. Math. Soc. 291(2), 519–550 (1985)",
+    "journal-title": "Trans. Am. Math. Soc."
+   },
+   {
+    "issue": "2",
+    "key": "448_CR69",
+    "doi-asserted-by": "crossref",
+    "first-page": "281",
+    "DOI": "10.1215/S0012-7094-91-06312-X",
+    "volume": "63",
+    "author": "R. Taylor",
+    "year": "1991",
+    "unstructured": "Taylor, R.: Galois representations associated with Siegel modular forms of low weight. Duke Math. J. 63(2), 281–332 (1991)",
+    "journal-title": "Duke Math. J."
+   },
+   {
+    "issue": "3",
+    "key": "448_CR70",
+    "doi-asserted-by": "crossref",
+    "first-page": "553",
+    "DOI": "10.2307/2118560",
+    "volume": "141",
+    "author": "R. Taylor",
+    "year": "1995",
+    "unstructured": "Taylor, R., Wiles, A.: Ring-theoretic properties of certain Hecke algebras. Ann. Math. (2) 141(3), 553–572 (1995)",
+    "journal-title": "Ann. Math. (2)"
+   },
+   {
+    "issue": "4",
+    "key": "448_CR71",
+    "doi-asserted-by": "crossref",
+    "first-page": "499",
+    "DOI": "10.1016/S0012-9593(99)80021-4",
+    "volume": "32",
+    "author": "J. Tilouine",
+    "year": "1999",
+    "unstructured": "Tilouine, J., Urban, E.: Several-variable p-adic families of Siegel-Hilbert cusp eigensystems and their Galois representations. Ann. Sci. Éc. Norm. Super. (4) 32(4), 499–574 (1999)",
+    "journal-title": "Ann. Sci. Éc. Norm. Super. (4)"
+   },
+   {
+    "key": "448_CR72",
+    "unstructured": "Urban, E.: Groupes de Selmer et fonctions L p-adiques pour les représentations modulaires adjointes. Preprint"
+   },
+   {
+    "issue": "2",
+    "key": "448_CR73",
+    "doi-asserted-by": "crossref",
+    "first-page": "219",
+    "DOI": "10.1215/S0012-7094-03-11622-1",
+    "volume": "116",
+    "author": "V. Vatsal",
+    "year": "2003",
+    "unstructured": "Vatsal, V.: Special values of anticyclotomic L-functions. Duke Math. J. 116(2), 219–261 (2003)",
+    "journal-title": "Duke Math. J."
+   },
+   {
+    "key": "448_CR74",
+    "doi-asserted-by": "crossref",
+    "first-page": "216",
+    "DOI": "10.1070/SM1976v028n02ABEH001648",
+    "volume": "28",
+    "author": "M. Vishik",
+    "year": "1976",
+    "unstructured": "Vishik, M.: Nonarchemedean measures connected with Dirichlet series. Math. USSR Sb. 28, 216–228 (1976)",
+    "journal-title": "Math. USSR Sb."
+   },
+   {
+    "key": "448_CR75",
+    "series-title": "Pure and Applied Mathematics",
+    "volume-title": "Real Reductive Groups II",
+    "author": "N. Wallach",
+    "year": "1992",
+    "unstructured": "Wallach, N.: Real Reductive Groups II. Pure and Applied Mathematics, vol. 132-II. Academic Press, Boston (1992)"
+   },
+   {
+    "key": "448_CR76",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Wiles, A.: The Iwasawa conjecture for totally real fields. Ann. Math. 131 (1990)",
+    "DOI": "10.2307/1971468"
+   },
+   {
+    "key": "448_CR77",
+    "doi-asserted-by": "crossref",
+    "first-page": "443",
+    "DOI": "10.2307/2118559",
+    "volume": "141",
+    "author": "A. Wiles",
+    "year": "1995",
+    "unstructured": "Wiles, A.: Elliptic curves and Fermat’s Last Theorem. Ann. Math. 141, 443–551 (1995)",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "key": "448_CR78",
+    "unstructured": "Zhang, B.: Fourier-Jacobi coefficients of Eisenstein series on unitary groups. PhD thesis, Columbia University (2007)"
+   }
+  ],
+  "container-title": [
+   "Inventiones mathematicae"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/s00222-013-0448-1.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/s00222-013-0448-1/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/s00222-013-0448-1",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2023,
+     7,
+     1
+    ]
+   ],
+   "date-time": "2023-07-01T21:31:05Z",
+   "timestamp": 1688247065000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/s00222-013-0448-1"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2013,
+     5,
+     23
+    ]
+   ]
+  },
+  "references-count": 78,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      2014,
+      1
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "448"
+  ],
+  "URL": "https://doi.org/10.1007/s00222-013-0448-1",
+  "relation": {},
+  "ISSN": [
+   "0020-9910",
+   "1432-1297"
+  ],
+  "issn-type": [
+   {
+    "value": "0020-9910",
+    "type": "print"
+   },
+   {
+    "value": "1432-1297",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2013,
+     5,
+     23
+    ]
+   ]
+  }
+ }
+}

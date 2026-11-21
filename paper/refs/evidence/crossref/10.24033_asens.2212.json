@@ -1,0 +1,173 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     13
+    ]
+   ],
+   "date-time": "2026-10-13T05:04:21Z",
+   "timestamp": 1791867861481,
+   "version": "4.3.4"
+  },
+  "reference-count": 0,
+  "publisher": "Societe Mathematique de France",
+  "issue": "1",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Ann. Sci. École Norm. Sup."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2014
+    ]
+   ]
+  },
+  "DOI": "10.24033/asens.2212",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2017,
+     3,
+     25
+    ]
+   ],
+   "date-time": "2017-03-25T12:17:11Z",
+   "timestamp": 1490444231000
+  },
+  "page": "165-179",
+  "source": "Crossref",
+  "is-referenced-by-count": 22,
+  "title": [
+   "Local-global compatibility for $l=p$, II"
+  ],
+  "prefix": "10.24033",
+  "volume": "47",
+  "author": [
+   {
+    "given": "Thomas",
+    "family": "Barnet-Lamb",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Toby",
+    "family": "Gee",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "David",
+    "family": "Geraghty",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Richard",
+    "family": "Taylor",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "10121",
+  "container-title": [
+   "Annales scientifiques de l'École normale supérieure"
+  ],
+  "original-title": [],
+  "deposited": {
+   "date-parts": [
+    [
+     2017,
+     3,
+     25
+    ]
+   ],
+   "date-time": "2017-03-25T12:32:43Z",
+   "timestamp": 1490445163000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://smf4.emath.fr/Publications/AnnalesENS/4_47/html/ens_ann-sc_47_165-179.php"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2014
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      2014
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.24033/asens.2212",
+  "relation": {},
+  "ISSN": [
+   "0012-9593",
+   "1873-2151"
+  ],
+  "issn-type": [
+   {
+    "value": "0012-9593",
+    "type": "print"
+   },
+   {
+    "value": "1873-2151",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2014
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,378 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     9
+    ]
+   ],
+   "date-time": "2026-10-09T18:55:34Z",
+   "timestamp": 1791572134752,
+   "version": "4.3.4"
+  },
+  "reference-count": 40,
+  "publisher": "Duke University Press",
+  "issue": "12",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Duke Math. J."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2012,
+     9,
+     15
+    ]
+   ]
+  },
+  "abstract": "<jats:p>We strengthen the local-global compatibility of Langlands correspondences for GLn in the case when n is even and l≠p. Let L be a CM field, and let Π be a cuspidal automorphic representation of GLn(AL) which is conjugate self-dual. Assume that Π∞ is cohomological and not “slightly regular,” as defined by Shin. In this case, Chenevier and Harris constructed an l-adic Galois representation Rl(Π) and proved the local-global compatibility up to semisimplification at primes v not dividing l. We extend this compatibility by showing that the Frobenius semisimplification of the restriction of Rl(Π) to the decomposition group at v corresponds to the image of Πv via the local Langlands correspondence. We follow the strategy of Taylor and Yoshida, where it was assumed that Π is square-integrable at a finite place. To make the argument work, we study the action of the monodromy operator N on the complex of nearby cycles on a scheme which is locally étale over a product of strictly semistable schemes and we derive a generalization of the weight spectral sequence in this case. We also prove the Ramanujan–Petersson conjecture for Π as above.</jats:p>",
+  "DOI": "10.1215/00127094-1723706",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2012,
+     9,
+     6
+    ]
+   ],
+   "date-time": "2012-09-06T08:55:23Z",
+   "timestamp": 1346921723000
+  },
+  "page": "2311-2413",
+  "source": "Crossref",
+  "is-referenced-by-count": 70,
+  "title": [
+   "Local-global compatibility and the action of monodromy on nearby cycles"
+  ],
+  "prefix": "10.1215",
+  "volume": "161",
+  "author": [
+   {
+    "given": "Ana",
+    "family": "Caraiani",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "73",
+  "reference": [
+   {
+    "key": "1",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[A] J. Arthur, <i>The invariant trace formula, II: Global theory</i>, J. Amer. Math. Soc. <b>1</b> (1988), 501–554.",
+    "DOI": "10.1090/S0894-0347-1988-0939691-8"
+   },
+   {
+    "key": "2",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[AC] J. Arthur and L. Clozel, <i>Simple Algebras, Base Change, and the Advanced Theory of the Trace Formula</i>, Ann. of Math. Stud. <b>120</b>, Princeton Univ. Press, Princeton, 1989.",
+    "DOI": "10.1515/9781400882403"
+   },
+   {
+    "key": "3",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[AGV] M. Artin, A. Grothendieck, and J. L. Verdier, <i>Théorie des topos et cohomologie étale des schémas</i>, Séminaire de Géométrie Algébrique du Bois-Marie (SGA 4), Lecture Notes in Math. <b>305</b>, Springer, Berlin, 1973.",
+    "DOI": "10.1007/BFb0081551"
+   },
+   {
+    "key": "4",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[Bad] A. I. Badulescu, <i>Jacquet-Langlands et unitarisabilité</i>, J. Inst. Math. Jussieu <b>6</b> (2007), 349–379.",
+    "DOI": "10.1017/S1474748007000035"
+   },
+   {
+    "key": "5",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[B] A. A. Beĭlinson, “On the derived category of perverse sheaves” in <i>$K$-theory, Arithmetic and Geometry (Moscow, 1984–1986)</i>, Lecture Notes in Math. <b>1289</b>, Springer, Berlin, 1987, 27–41.",
+    "DOI": "10.1007/BFb0078365"
+   },
+   {
+    "key": "6",
+    "unstructured": "[BBD] A. A. Beĭlinson, J. Bernstein, and P. Deligne, “Faisceaux pervers” in <i>Analyse et topologie sur les espaces singuliers, I (Luminy, 1981)</i>, Astérisque <b>100</b>, Soc. Math. France, Paris, 1982, 5–171."
+   },
+   {
+    "key": "7",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[BZ] I. N. Bernstein and A. V. Zelevinsky, <i>Induced representations of reductive $p$-adic groups, I</i>, Ann. Sci. Éc. Norm. Supér. (4) <b>10</b> (1977), 441–472.",
+    "DOI": "10.24033/asens.1333"
+   },
+   {
+    "key": "8",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[Bor] A. Borel, “Automorphic $L$-functions” in <i>Automorphic Forms, Representations and $L$-functions (Corvallis, Ore., 1977)</i>, Proc. Sympos. Pure Math. <b>33</b>, Amer. Math. Soc., Providence, 1979, 27–61.",
+    "DOI": "10.1090/pspum/033.2/546608"
+   },
+   {
+    "key": "10",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[Cl1] L. Clozel, <i>Représentations galoisiennes associées aux représentations automorphes autoduales de $\\operatorname{GL}(n)$</i>, Publ. Math. Inst. Hautes Études Sci. <b>73</b> (1991), 97–145.",
+    "DOI": "10.1007/BF02699257"
+   },
+   {
+    "key": "12",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[D] V. G. Drinfeld, <i>Elliptic modules</i> (in Russian), Mat. Sb. (N.S.) <b>94(136)</b>, no. 4, 594–627; English translation in Math. USSR Sb. <b>23</b> (1974), 561–592.",
+    "DOI": "10.1070/SM1974v023n04ABEH001731"
+   },
+   {
+    "key": "13",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[E] T. Ekedahl, “On the adic formalism” in <i>The Grothendieck Festschrift, Vol. II</i>, Progr. Math. <b>87</b>, Birkhäuser, Boston, 1990, 197–218.",
+    "DOI": "10.1007/978-0-8176-4575-5_4"
+   },
+   {
+    "key": "14",
+    "unstructured": "[GDK] A. Grothendieck, P. Deligne, and N. Katz, <i>Groupes de monodromie en géométrie algébrique. I</i>, Séminaire de Géométrie Algébrique du Bois-Marie (SGA 7 I), Lecture Notes in Math. <b>288</b>, Springer, Berlin, 1972."
+   },
+   {
+    "key": "15",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[GD1] A. Grothendieck and J. Dieudonné, <i>Éléments de géométrie algébrique, III: Étude cohomologique des faisceaux cohérents, II</i>, Publ. Math. Inst. Hautes Études Sci. <b>17</b> (1963).",
+    "DOI": "10.1007/BF02684890"
+   },
+   {
+    "key": "16",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[GD2] A. Grothendieck and J. Dieudonné, <i>Éléments de géométrie algébrique, IV: Étude locale des schémas et des morphismes de schémas, IV</i>, Publ. Math. Inst. Hautes Études Sci. <b>32</b> (1967).",
+    "DOI": "10.1007/BF02732123"
+   },
+   {
+    "key": "17",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[HT] M. Harris and R. Taylor, <i>The Geometry and Cohomology of Some Simple Shimura Varieties</i>, with an appendix by V. G. Berkovich, Ann. of Math. Stud. <b>151</b>, Princeton Univ. Press, Princeton, 2001.",
+    "DOI": "10.1515/9781400837205"
+   },
+   {
+    "key": "18",
+    "unstructured": "[I1] L. Illusie, “Autour du théorème de monodromie locale” in <i>Périodes $p$-adiques (Bures-sur-Yvette, 1988)</i>, Astérisque <b>223</b>, Soc. Math. France, Paris, 1994, 9–57."
+   },
+   {
+    "key": "19",
+    "unstructured": "[I2] L. Illusie, “An overview of the work of K. Fujiwara, K. Kato, and C. Nakayama on logarithmic étale cohomology” in <i>Cohomologies $p$-adiques et applications arithmétiques, II</i>, Astérisque <b>279</b>, Soc. Math. France, Paris, 2002, 271–322."
+   },
+   {
+    "key": "20",
+    "unstructured": "[K] K. Kato, “Logarithmic structures of Fontaine-Illusie” in <i>Algebraic Analysis, Geometry, and Number Theory (Baltimore, 1988)</i>, Johns Hopkins Univ. Press, Baltimore, 1989."
+   },
+   {
+    "key": "21",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[KN] K. Kato and C. Nakayama, <i>Log Betti cohomology, log étale cohomology, and log de Rham cohomology of log schemes over $\\mathbb{C}$</i>, Kodai Math. J. <b>22</b> (1999), 161–186.",
+    "DOI": "10.2996/kmj/1138044041"
+   },
+   {
+    "key": "22",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[KM] N. M. Katz and B. Mazur, <i>Arithmetic Moduli of Elliptic Curves</i>, Ann. of Math. Stud. <b>108</b>, Princeton Univ. Press, Princeton, 1985.",
+    "DOI": "10.1515/9781400881710"
+   },
+   {
+    "key": "23",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[Ko1] R. E. Kottwitz, <i>On the $\\lambda$-adic representations associated to some simple Shimura varieties</i>, Invent. Math. <b>108</b> (1992), 653–665.",
+    "DOI": "10.1007/BF02100620"
+   },
+   {
+    "key": "24",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[Ko2] R. E. Kottwitz, <i>Points on some Shimura varieties over finite fields</i>, J. Amer. Math. Soc. <b>5</b> (1992), 373–444.",
+    "DOI": "10.1090/S0894-0347-1992-1124982-1"
+   },
+   {
+    "key": "25",
+    "unstructured": "[L] K.-W. Lan, <i>Arithmetic compactifications of PEL-type Shimura varieties</i>, Ph.D. dissertation, Harvard University, Cambridge, Mass., 2008."
+   },
+   {
+    "key": "26",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[Ma] E. Mantovan, <i>On the cohomology of certain PEL-type Shimura varieties</i>, Duke Math. J. <b>129</b> (2005), 573–610.",
+    "DOI": "10.1215/S0012-7094-05-12935-0"
+   },
+   {
+    "key": "27",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[Na] C. Nakayama, <i>Nearby cycles for log smooth families</i>, Compos. Math. <b>112</b> (1998), 45–75.",
+    "DOI": "10.1023/A:1000327225021"
+   },
+   {
+    "key": "28",
+    "unstructured": "[O] A. Ogus, <i>Relatively coherent log structures</i>, preprint, 2009."
+   },
+   {
+    "key": "29",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[RZ] M. Rapoport and Th. Zink, <i>Über die lokale Zetafunktion von Shimuravarietäten. Monodromiefiltration und verschwindende Zyklen in ungleicher Charakteristik</i>, Invent. Math. <b>68</b> (1982), 21–101.",
+    "DOI": "10.1007/BF01394268"
+   },
+   {
+    "key": "30",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[Re] R. Reich, <i>Notes on Beilinson’s “How to glue perverse sheaves</i>,<i>”</i> J. Singul. <b>1</b> (2010), 94–115.",
+    "DOI": "10.5427/jsing.2010.1g"
+   },
+   {
+    "key": "31",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[S] M. Saito, <i>Modules de Hodge polarisables</i>, Publ. Res. Inst. Math. Sci. <b>24</b> (1988), 849–995.",
+    "DOI": "10.2977/prims/1195173930"
+   },
+   {
+    "key": "32",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[Sa] T. Saito, <i>Weight spectral sequences and independence of $l$</i>, J. Inst. Math. Jussieu <b>2</b> (2003), 583–634.",
+    "DOI": "10.1017/S1474748003000173"
+   },
+   {
+    "key": "33",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[She] D. Shelstad, <i>$L$-indistinguishability for real groups</i>, Math. Ann. <b>259</b> (1982), 385–430.",
+    "DOI": "10.1007/BF01456950"
+   },
+   {
+    "key": "34",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[Sh1] S. W. Shin, <i>Counting points on Igusa varieties</i>, Duke Math. J. <b>146</b> (2009), 509–568.",
+    "DOI": "10.1215/00127094-2009-004"
+   },
+   {
+    "key": "35",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[Sh2] S. W. Shin, <i>A stable trace formula for Igusa varieties</i>, J. Inst. Math. Jussieu <b>9</b> (2010), 847–895.",
+    "DOI": "10.1017/S1474748010000046"
+   },
+   {
+    "key": "36",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[Sh3] S. W. Shin, <i>Galois representations arising from some compact Shimura varieties</i>, Ann. of Math. (2) <b>173</b> (2011), 1645–1741.",
+    "DOI": "10.4007/annals.2011.173.3.9"
+   },
+   {
+    "key": "37",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[Tad] M. Tadic, <i>Classification of unitary representations in irreducible representations of general linear group (non-Archimedean case)</i>, Ann. Sci. Éc. Norm. Supér. (4) <b>19</b> (1986), 335–382.",
+    "DOI": "10.24033/asens.1510"
+   },
+   {
+    "key": "38",
+    "unstructured": "[Tat] J. Tate, “Classes d’isogenie des variétés abéliennes sur un corps fini” in <i>Séminaire Bourbaki, 1968/1969</i>, no. 352, Lecture Notes in Math. <b>179</b>, Springer, Berlin, 1971."
+   },
+   {
+    "key": "39",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[TY] R. Taylor and T. Yoshida, <i>Compatibility of local and global Langlands correspondences</i>, J. Amer. Math. Soc. <b>20</b> (2007), 467–493.",
+    "DOI": "10.1090/S0894-0347-06-00542-X"
+   },
+   {
+    "key": "40",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[Y] T. Yoshida, “On non-abelian Lubin-Tate theory via vanishing cycles” in <i>Algebraic and Arithmetic Structures of Moduli Spaces (Sapporo, 2007)</i>, Adv. Stud. Pure Math. <b>58</b>, Math. Soc. Japan, Tokyo, 2010, 361–402.",
+    "DOI": "10.2969/aspm/05810361"
+   },
+   {
+    "key": "9",
+    "unstructured": "[CH] G. Chenevier and M. Harris, <i>Construction of automorphic Galois representations, II</i>, preprint, <a href=\"http://people.math.jussieu.fr/~harris/\">http://people.math.jussieu.fr/~harris/</a> (accessed 24 July 2012)."
+   },
+   {
+    "key": "11",
+    "doi-asserted-by": "publisher",
+    "unstructured": "[Cl2] Clozel, L., <i>Purity reigns supreme</i>, to appear in Int. Math. Res. Not. IMRN, preprint, <a href=\"http://fa.institut.math.jussieu.fr/node/45\">http://fa.institut.math.jussieu.fr/node/45</a> (accessed 24 July 2012).",
+    "DOI": "10.1155/S1073792804132649"
+   }
+  ],
+  "container-title": [
+   "Duke Mathematical Journal"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "https://projecteuclid.org/journalArticle/Download?urlid=10.1215/00127094-1723706",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     9
+    ]
+   ],
+   "date-time": "2026-10-09T18:40:44Z",
+   "timestamp": 1791571244000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://projecteuclid.org/journals/duke-mathematical-journal/volume-161/issue-12/Local-global-compatibility-and-the-action-of-monodromy-on-nearby/10.1215/00127094-1723706.full"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2012,
+     9,
+     15
+    ]
+   ]
+  },
+  "references-count": 40,
+  "journal-issue": {
+   "issue": "12",
+   "published-online": {
+    "date-parts": [
+     [
+      2012,
+      9,
+      15
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.1215/00127094-1723706",
+  "relation": {},
+  "ISSN": [
+   "0012-7094",
+   "1547-7398"
+  ],
+  "issn-type": [
+   {
+    "value": "0012-7094",
+    "type": "print"
+   },
+   {
+    "value": "1547-7398",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2012,
+     9,
+     15
+    ]
+   ]
+  }
+ }
+}

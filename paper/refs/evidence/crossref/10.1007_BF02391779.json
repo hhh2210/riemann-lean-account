@@ -1,0 +1,291 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     6,
+     18
+    ]
+   ],
+   "date-time": "2026-06-18T04:54:12Z",
+   "timestamp": 1781758452013,
+   "version": "3.54.5"
+  },
+  "reference-count": 15,
+  "publisher": "International Press of Boston",
+  "issue": "0",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Acta Math."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1965
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf02391779",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2006,
+     5,
+     10
+    ]
+   ],
+   "date-time": "2006-05-10T06:35:16Z",
+   "timestamp": 1147242916000
+  },
+  "page": "241-318",
+  "source": "Crossref",
+  "is-referenced-by-count": 131,
+  "title": [
+   "Discrete series for semisimple Lie groups I: Construction of invariant eigendistributions"
+  ],
+  "prefix": "10.4310",
+  "volume": "113",
+  "author": [
+   {
+    "family": "Harish-Chandra",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "2902",
+  "reference": [
+   {
+    "key": "BF02391779_CR1",
+    "doi-asserted-by": "crossref",
+    "first-page": "485",
+    "DOI": "10.2307/1970210",
+    "volume": "75",
+    "author": "A. Borel",
+    "year": "1962",
+    "unstructured": "Borel, A., &Harish-Chandra, Arithmetic subgroups of algebraic groups.Ann. of Math., 75 (1962), 485–535.",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "BF02391779_CR2",
+    "doi-asserted-by": "crossref",
+    "first-page": "564",
+    "DOI": "10.2307/2372674",
+    "volume": "78",
+    "author": "Harish-Chandra",
+    "year": "1956",
+    "unstructured": "Harish-Chandra, Representations of semisimple Lie groups, VI.Amer. J. Math., 78 (1956), 564–628.",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "BF02391779_CR3",
+    "doi-asserted-by": "crossref",
+    "first-page": "98",
+    "DOI": "10.1090/S0002-9947-1956-0080875-7",
+    "volume": "83",
+    "author": "Harish-Chandra",
+    "year": "1956",
+    "unstructured": "—, The characters of semisimple Lie groups.Trans. Amer. Math. Soc., 83 (1956), 98–163.",
+    "journal-title": "Trans. Amer. Math. Soc."
+   },
+   {
+    "key": "BF02391779_CR4",
+    "doi-asserted-by": "crossref",
+    "first-page": "87",
+    "DOI": "10.2307/2372387",
+    "volume": "79",
+    "author": "Harish-Chandra",
+    "year": "1957",
+    "unstructured": "—, Differential operators on a semisimple Lie algebra.Amer. J. Math., 79 (1957), 87–120.",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "BF02391779_CR5",
+    "doi-asserted-by": "crossref",
+    "first-page": "193",
+    "DOI": "10.2307/2372680",
+    "volume": "79",
+    "author": "Harish-Chandra",
+    "year": "1957",
+    "unstructured": "—, Fourier transforms on a semisimple Lie algebra, I.Amer. J. Math., 79 (1957), 193–257.",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "BF02391779_CR6",
+    "doi-asserted-by": "crossref",
+    "first-page": "653",
+    "DOI": "10.2307/2372569",
+    "volume": "79",
+    "author": "Harish-Chandra",
+    "year": "1957",
+    "unstructured": "—, Fourier transforms on a semisimple Lie algebra, II.Amer. J. Math. 79 (1957), 653–686.",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "BF02391779_CR7",
+    "doi-asserted-by": "crossref",
+    "first-page": "733",
+    "DOI": "10.2307/2372432",
+    "volume": "79",
+    "author": "Harish-Chandra",
+    "year": "1957",
+    "unstructured": "—, A formula for semisimple Lie groups.Amer. J. Math., 79 (1957), 733–760.",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "BF02391779_CR8",
+    "doi-asserted-by": "crossref",
+    "first-page": "241",
+    "DOI": "10.2307/2372786",
+    "volume": "80",
+    "author": "Harish-Chandra",
+    "year": "1958",
+    "unstructured": "—, Spherical functions on a semisimple Lie group, I.Amer. J. Math., 80 (1958), 241–310.",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "BF02391779_CR9",
+    "doi-asserted-by": "crossref",
+    "first-page": "117",
+    "DOI": "10.1090/S0002-9904-1963-10889-7",
+    "volume": "69",
+    "author": "Harish-Chandra",
+    "year": "1963",
+    "unstructured": "—, Invariant eigendistributions on semisimple Lie groups.Bull. Amer. Math. Soc., 69 (1963), 117–123.",
+    "journal-title": "Bull. Amer. Math. Soc."
+   },
+   {
+    "key": "BF02391779_CR10",
+    "doi-asserted-by": "crossref",
+    "first-page": "271",
+    "DOI": "10.2307/2373165",
+    "volume": "86",
+    "author": "Harish-Chandra",
+    "year": "1964",
+    "unstructured": "—, Invariant distributions on Lie algebras.Amer. J. Math., 86 (1964), 271–309.",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "BF02391779_CR11",
+    "doi-asserted-by": "crossref",
+    "first-page": "534",
+    "DOI": "10.2307/2373023",
+    "volume": "86",
+    "author": "Harish-Chandra",
+    "year": "1964",
+    "unstructured": "—, Invariant differential operators and distributions on a semisimple Lie algebra.Amer. J. Math., 86 (1964), 534–564.",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "BF02391779_CR12",
+    "doi-asserted-by": "crossref",
+    "first-page": "551",
+    "DOI": "10.2307/1970664",
+    "volume": "80",
+    "author": "Harish-Chandra",
+    "year": "1964",
+    "unstructured": "—, Some results on an invariant integral on a semisimple Lie algebra.Ann. of Math., 80 (1964), 551–593.",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "BF02391779_CR13",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Harish-Chandra Invariant eigendistributions on a semisimple Lie algebra.Pub. Math. I.H.E.S., No. 27.",
+    "DOI": "10.1007/BF02684374"
+   },
+   {
+    "key": "BF02391779_CR14",
+    "unstructured": "Harish-Chandra, Invariant eigendistributions on a semisimple Lie group.Trans. Amer. Math. Soc. To appear."
+   },
+   {
+    "key": "BF02391779_CR15",
+    "volume-title": "Théorie des distributions",
+    "author": "L. Schwartz",
+    "year": "1951",
+    "unstructured": "Schwartz L.,Théorie des distributions, II. Paris, Hermann, 1951."
+   }
+  ],
+  "container-title": [
+   "Acta Mathematica"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://www.springerlink.com/index/pdf/10.1007/BF02391779",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     4,
+     18
+    ]
+   ],
+   "date-time": "2019-04-18T15:13:02Z",
+   "timestamp": 1555600382000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://projecteuclid.org/euclid.acta/1485889417"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1965
+    ]
+   ]
+  },
+  "references-count": 15,
+  "journal-issue": {
+   "issue": "0",
+   "published-print": {
+    "date-parts": [
+     [
+      1965
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.1007/bf02391779",
+  "relation": {},
+  "ISSN": [
+   "0001-5962"
+  ],
+  "issn-type": [
+   {
+    "value": "0001-5962",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1965
+    ]
+   ]
+  }
+ }
+}

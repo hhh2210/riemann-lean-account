@@ -1,0 +1,157 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     30
+    ]
+   ],
+   "date-time": "2026-09-30T05:53:19Z",
+   "timestamp": 1790747599517,
+   "version": "4.1.0"
+  },
+  "reference-count": 0,
+  "publisher": "Steklov Mathematical Institute",
+  "issue": "6",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Math. USSR Izv."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1969,
+     12,
+     31
+    ]
+   ]
+  },
+  "DOI": "10.1070/im1969v003n06abeh000838",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     11,
+     1
+    ]
+   ],
+   "date-time": "2005-11-01T14:45:59Z",
+   "timestamp": 1130856359000
+  },
+  "page": "1139-1147",
+  "source": "Crossref",
+  "is-referenced-by-count": 25,
+  "title": [
+   "THE PROBLEM OF STRONG APPROXIMATION AND THE KNESER-TITS CONJECTURE FOR ALGEBRAIC GROUPS"
+  ],
+  "prefix": "10.4213",
+  "volume": "3",
+  "author": [
+   {
+    "given": "V P",
+    "family": "Platonov",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "2731",
+  "published-online": {
+   "date-parts": [
+    [
+     2007,
+     10,
+     18
+    ]
+   ]
+  },
+  "container-title": [
+   "Mathematics of the USSR-Izvestiya"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "http://stacks.iop.org/0025-5726/3/i=6/a=A01/pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2024,
+     10,
+     4
+    ]
+   ],
+   "date-time": "2024-10-04T08:13:04Z",
+   "timestamp": 1728029584000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.mathnet.ru/eng/im2220"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1969,
+     12,
+     31
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "6",
+   "published-print": {
+    "date-parts": [
+     [
+      1969,
+      12,
+      31
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.1070/im1969v003n06abeh000838",
+  "relation": {},
+  "ISSN": [
+   "0025-5726"
+  ],
+  "issn-type": [
+   {
+    "value": "0025-5726",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1969,
+     12,
+     31
+    ]
+   ]
+  }
+ }
+}

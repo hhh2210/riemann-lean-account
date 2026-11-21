@@ -1,0 +1,350 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     3,
+     11
+    ]
+   ],
+   "date-time": "2026-03-11T12:07:41Z",
+   "timestamp": 1773230861478,
+   "version": "3.50.1"
+  },
+  "reference-count": 37,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "4",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1906,
+       12,
+       1
+      ]
+     ],
+     "date-time": "1906-12-01T00:00:00Z",
+     "timestamp": -1990828800000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Math. Ann."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1906,
+     12
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01449495",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     4,
+     12
+    ]
+   ],
+   "date-time": "2005-04-12T23:48:10Z",
+   "timestamp": 1113349690000
+  },
+  "page": "527-550",
+  "source": "Crossref",
+  "is-referenced-by-count": 39,
+  "title": [
+   "�ber einen Satz von Tschebyschef"
+  ],
+  "prefix": "10.1007",
+  "volume": "61",
+  "author": [
+   {
+    "given": "Edmund",
+    "family": "Landau",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "CR1",
+    "unstructured": "?Beweis des Satzes, daß jede unbegrenzte arithmetische Progression, deren erstes Glied und Differenz ganze Zahlen ohne gemeinschaftlichen Factor sind, unendlich viele Primzahlen enthält?, Abhandlungen der Könighlich Preußischen Akademie der Wissenschaften zu Berlin, 1837, S. 45; Werke, Bd. 1, 1889, S. 315."
+   },
+   {
+    "key": "CR2",
+    "unstructured": "?Recherches analytiques sur la théorie des nombres premiers?, Annales de la Société Scientifique de Bruxelles, Bd. 20, Teil 2, 1896, S. 281?362."
+   },
+   {
+    "key": "CR3",
+    "unstructured": "l. c., ?Recherches analytiques sur la théorie des nombres premiers?, Annales de la Société Scientifique de Bruxelles, Bd. 20, Teil 2, 1896, S. 360, Gleichung (13)."
+   },
+   {
+    "key": "CR4",
+    "unstructured": "?Über die Primzahlen einer arithmetischen Progression?, Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften in Wien, mathematisch-naturwissenschaftliche Klasse, Bd. 112, Abt. 2*, 1903, S. 532, Gleichung (48)."
+   },
+   {
+    "key": "CR5",
+    "unstructured": "?Lettre de M. le professeur Tchébychev à M. Fuss, sur un nouveau théorème relatif aux nombres premiers contenus dans les formes 4n+1 et 4n+3?, Bulletin de la classe physico-mathématique de l'Académie Impériale des Sciences, Bd. 11, St. Petersburg, S. 208; ?uvres, Bd. 1, 1899, S. 697."
+   },
+   {
+    "key": "CR6",
+    "unstructured": "?Sur le logarithme intégral et al fonctionf(x) de Riemann?, Öfversigt af Kongl. Vetenskaps-Akademiens Förhandlingar, Stockholm, Bd. 48, S. 599?616."
+   },
+   {
+    "key": "CR7",
+    "unstructured": "?Nouvelles recherches sur les nombres premiers (suite)?, Comptes rendus hebdomadaires des séances de l'Académie des Sciences, Paris, Bd. 49, S. 386?387."
+   },
+   {
+    "key": "CR8",
+    "unstructured": "?Sulla distribuzione dei numeri primi?, Rendiconti dell' Accademia delle scienze fisiche e matematiche di Napoli, Ser. 3, Bd. 2, S. 297 ff."
+   },
+   {
+    "key": "CR9",
+    "doi-asserted-by": "crossref",
+    "unstructured": "?Ein Beitrag zur analytischen Zahlentheorie?, Journal für die reine und angewandte Mathematik, Bd. 78, 1874, S. 55?56.",
+    "DOI": "10.1515/crll.1874.78.46"
+   },
+   {
+    "key": "CR10",
+    "unstructured": "Vergl. die auf S. 527, Anm. **) zitierte Arbeit, ?Sulla distribuzione dei numeri primi?, Rendiconti dell' Accademia delle scienze fisiche e matematiche di Napoli, Ser. 3, Bd. 2, S. 361. Es folgt ohne weiteres aus dem dort mit 5o bezeichneten Satze."
+   },
+   {
+    "key": "CR11",
+    "unstructured": "l. c., ?Sulla distribuzione dei numeri primi?, Rendiconti dell' Accademia delle scienze fisiche e matematiche di Napoli, Ser. 3, Bd. 2, S. 297."
+   },
+   {
+    "key": "CR12",
+    "unstructured": "?Sur une transformation de séries numériques?, Nouvelle correspondance mathématique, Bd. 4, 1878, S. 305 ff."
+   },
+   {
+    "key": "CR13",
+    "unstructured": "L'intermédiaire des mathématiciens, Bd. 7, 1900, S. 386?387."
+   },
+   {
+    "key": "CR14",
+    "unstructured": "?Introductio in analysin infinitorum?, Bd. 1, Lausanne, 1748, S. 241."
+   },
+   {
+    "key": "CR15",
+    "unstructured": "?De summa seriei ex numeris primis formatae 1/3?1/5+1/7+1/11?1/13?1/17+1/19+1/23?1/29+1/31 etc. ubi numeri primi formae 4n?1 habent signum positivum, formae autem 4n+1 signum negativum?, Opuscula analytica, Bd. 2, St. Petersburg, 1785, S. 240ff.; commentationes arithmeticae collectae, Bd. 2, St. Petersburg, 1849, S. 116 ff."
+   },
+   {
+    "key": "CR16",
+    "unstructured": "?Note sur différentes séries?, Journal de mathématiques pures et appliquées, Ser. 1, Bd. 16, S. 343?346; ?uvres, Bd. 1, S. 105?108."
+   },
+   {
+    "key": "CR17",
+    "unstructured": "Dieser Wert findet sich auch schon in der auf S. 530, Anm. ?) zitierten Eulerschen Abhandlung auf S. 254 bezw. S. 125."
+   },
+   {
+    "key": "CR18",
+    "unstructured": "s. S. 529."
+   },
+   {
+    "key": "CR19",
+    "unstructured": "?Sulla totalità dei numeri primi fino ad un limite assegnato?, Atti della R. Accademia delle science fisiche e matematiche di Napoli, Ser. 2, Bd. 11, 1901."
+   },
+   {
+    "key": "CR20",
+    "unstructured": "Im vorliegenden Fall istM=4."
+   },
+   {
+    "key": "CR21",
+    "unstructured": "Dies bemerkt Herr Torelli nieht einmal und schließt (l. c., S. 158) aus (7) nur: ?alle Nullstellen der Reihe (9), deren reeller Teil zwischen 0 und 1 liegt, sind nicht reell.?"
+   },
+   {
+    "key": "CR22",
+    "unstructured": "l. c., S. 157, Z. 9?10."
+   },
+   {
+    "key": "CR23",
+    "unstructured": "Sur un théorème de Lejeune-Dirichlet?, Comptes rendus hebdomadaires des séances de l'Académie des Sciences, Paris, Bd. 136, 1903, S. 1235?1236."
+   },
+   {
+    "key": "CR24",
+    "unstructured": "l. c. (vergl. S. 528, Anm. *)), S. 533?535."
+   },
+   {
+    "key": "CR25",
+    "unstructured": "Vergl. auch die entsprechende Mitteilung Herrn Torellis am Ende der Rezension von Herrn Vecchi über sein Buch, Bollettino di bibliografia e storia delle scienze matematiche, Bd. 6, 1903, S. 48."
+   },
+   {
+    "key": "CR26",
+    "doi-asserted-by": "crossref",
+    "unstructured": "?Sur quelques théorèmes de M. Poincaré sur les idéaux premiers?, Rendiconti del circolo matematico di Palermo, Bd. 16, S. 100.",
+    "DOI": "10.1007/BF03012935"
+   },
+   {
+    "key": "CR27",
+    "first-page": "25",
+    "volume": "8",
+    "author": "M. Tchebicheff",
+    "year": "1892",
+    "unstructured": "?Extension aux nombres premiers complexes des théorèmes de M. Tchebicheff?, Journal de mathématiques pures et appliquées, Ser. 4, Bd. 8, 1892, S. 25 ff.",
+    "journal-title": "Journal de mathématiques pures et appliquées"
+   },
+   {
+    "key": "CR28",
+    "unstructured": "?Sulle serie di potenze?, Rivista di matematica, Bd. 3, S. 112."
+   },
+   {
+    "key": "CR29",
+    "doi-asserted-by": "crossref",
+    "unstructured": "?Über Functionen, welche in gewissen Punkten endliche Differentialquotienten jeder endlichen Ordnung, aber keine Taylorsche Reihenentwickelung besitzen?, Mathematische Annalen, Bd. 44, 1894, S. 42.",
+    "DOI": "10.1007/BF01446970"
+   },
+   {
+    "key": "CR30",
+    "unstructured": "?La série de Taylor et son prolongement analytique?, Paris 1901, S 21."
+   },
+   {
+    "key": "CR31",
+    "unstructured": "?Teoria delle funzioni analitiche?, Mailand 1901, S. 369?370; deutsche Ausgabe von Gutzmer (Leipzig, 1906), S. 399."
+   },
+   {
+    "key": "CR32",
+    "unstructured": "Vergl. S. 531?532."
+   },
+   {
+    "key": "CR33",
+    "doi-asserted-by": "crossref",
+    "unstructured": "?Über die Anzahl der Primzahlen unter gegebener Grenze?, Mathematische Annalen, Bd. 57, 1903, S. 195?204. Herrn Schmidts Sätze verschärfen die ähnlich lautenden Ungleichungen, zu denen vordem schon Herr Phragmén gelangt war, vergl. dessen auf S. 528, Anm. ***) zitierte Abhandlung und seine Arbeit: ?Sur une loi de symmétrie relative à certaines formules asymptotiques?, Öfversigt af Kongl. Vetenskaps-Akademiens Förhandlingar, Bd. 58, 1901, S. 189?202.",
+    "DOI": "10.1007/BF01444344"
+   },
+   {
+    "key": "CR34",
+    "doi-asserted-by": "crossref",
+    "unstructured": "?Sur la distribution des nombres premiers?, Acta mathematica, Bd. 24, 1901, S. 182.",
+    "DOI": "10.1007/BF02403071"
+   },
+   {
+    "key": "CR35",
+    "doi-asserted-by": "crossref",
+    "unstructured": "l. c.?Sur la distribution des nombres premiers?, Acta mathematica, Bd. 24, 1901, S. 200, Gleichung (7).",
+    "DOI": "10.1007/BF02403071"
+   },
+   {
+    "key": "CR36",
+    "unstructured": "S. seine auf S. 528, Anm. ***) zitierte Abhandlung und auch seine Note ?Sur la distribution des nombres premiers?, Comptes rendus hebdomadaires des séances de l'Académie des Sciences, Paris. Bd. 114, 1892, S. 337?340."
+   },
+   {
+    "key": "CR37",
+    "unstructured": "Vergl. die auf S. 544, Anm. *) zitierte Arbeit."
+   }
+  ],
+  "container-title": [
+   "Mathematische Annalen"
+  ],
+  "original-title": [],
+  "language": "de",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01449495.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01449495/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01449495",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     6
+    ]
+   ],
+   "date-time": "2020-04-06T20:14:10Z",
+   "timestamp": 1586204050000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01449495"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1906,
+     12
+    ]
+   ]
+  },
+  "references-count": 37,
+  "journal-issue": {
+   "issue": "4",
+   "published-print": {
+    "date-parts": [
+     [
+      1906,
+      12
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01449495"
+  ],
+  "URL": "https://doi.org/10.1007/bf01449495",
+  "relation": {},
+  "ISSN": [
+   "0025-5831",
+   "1432-1807"
+  ],
+  "issn-type": [
+   {
+    "value": "0025-5831",
+    "type": "print"
+   },
+   {
+    "value": "1432-1807",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1906,
+     12
+    ]
+   ]
+  }
+ }
+}

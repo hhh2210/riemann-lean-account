@@ -1,0 +1,886 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     4
+    ]
+   ],
+   "date-time": "2026-11-04T18:10:31Z",
+   "timestamp": 1793815831863,
+   "version": "4.6.1"
+  },
+  "reference-count": 65,
+  "publisher": "MathDoc/Centre Mersenne",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2018,
+       11,
+       9
+      ]
+     ],
+     "date-time": "2018-11-09T00:00:00Z",
+     "timestamp": 1541721600000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [
+    "link.springer.com"
+   ],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "abstract": "<jats:p>\n                    We construct a new cohomology theory for proper smooth (formal) schemes over the ring of integers of\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:msub>\n                        <mml:mi>𝐂</mml:mi>\n                        <mml:mi>p</mml:mi>\n                      </mml:msub>\n                    </mml:math>\n                    . It takes values in a mixed-characteristic analogue of Dieudonné modules, which was previously defined by Fargues as a version of Breuil–Kisin modules. Notably, this cohomology theory specializes to all other known\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>p</mml:mi>\n                    </mml:math>\n                    -adic cohomology theories, such as crystalline, de Rham and étale cohomology, which allows us to prove strong integral comparison theorems.\n                  </jats:p>\n                  <jats:p>\n                    The construction of the cohomology theory relies on Faltings’ almost purity theorem, along with a certain functor\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mrow>\n                        <mml:mi>L</mml:mi>\n                        <mml:mi>η</mml:mi>\n                      </mml:mrow>\n                    </mml:math>\n                    on the derived category, defined previously by Berthelot–Ogus. On affine pieces, our cohomology theory admits a relation to the theory of de Rham–Witt complexes of Langer–Zink, and can be computed as a\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>q</mml:mi>\n                    </mml:math>\n                    -deformation of de Rham cohomology.\n                  </jats:p>",
+  "DOI": "10.1007/s10240-019-00102-z",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2019,
+     1,
+     16
+    ]
+   ],
+   "date-time": "2019-01-16T10:25:56Z",
+   "timestamp": 1547634356000
+  },
+  "page": "219-397",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 133,
+  "title": [
+   "Integral\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>p</mml:mi>\n                    </mml:math>\n                    -adic Hodge theory"
+  ],
+  "prefix": "10.5802",
+  "volume": "128",
+  "author": [
+   {
+    "given": "Bhargav",
+    "family": "Bhatt",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Matthew",
+    "family": "Morrow",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Peter",
+    "family": "Scholze",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "3842",
+  "published-online": {
+   "date-parts": [
+    [
+     2018,
+     11,
+     9
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "key2026021712171537332_1",
+    "unstructured": "[1.] The Stacks Project, available at http://stacks.math.columbia.edu."
+   },
+   {
+    "key": "key2026021712171537332_2",
+    "volume": "193",
+    "author": "Abbes, A.",
+    "year": "2015",
+    "unstructured": "[2.] Abbes, A.; Gros, M. Topos co-évanescents et généralisations, 193, 2015",
+    "journal-title": "Topos co-évanescents et généralisations"
+   },
+   {
+    "key": "key2026021712171537332_3",
+    "doi-asserted-by": "publisher",
+    "first-page": "77",
+    "DOI": "10.1017/S1474748012000643",
+    "article-title": "Comparison isomorphisms for smooth formal schemes",
+    "volume": "12",
+    "author": "Andreatta, F.",
+    "year": "2013",
+    "unstructured": "[3.] Andreatta, F.; Iovita, A. Comparison isomorphisms for smooth formal schemes, J. Inst. Math. Jussieu, Volume 12 (2013), pp. 77-151",
+    "journal-title": "J. Inst. Math. Jussieu"
+   },
+   {
+    "key": "key2026021712171537332_4",
+    "first-page": "335",
+    "article-title": "Un lemme de descente",
+    "volume": "320",
+    "author": "Beauville, A.",
+    "year": "1995",
+    "unstructured": "[4.] Beauville, A.; Laszlo, Y. Un lemme de descente, C. R. Acad. Sci., Sér. 1 Math., Volume 320 (1995), pp. 335-340",
+    "journal-title": "C. R. Acad. Sci., Sér. 1 Math."
+   },
+   {
+    "key": "key2026021712171537332_5",
+    "first-page": "A955",
+    "article-title": "Sur le “théorème de Lefschetz faible” en cohomologie cristalline",
+    "volume": "277",
+    "author": "Berthelot, P.",
+    "year": "1973",
+    "unstructured": "[5.] Berthelot, P. Sur le “théorème de Lefschetz faible” en cohomologie cristalline, C. R. Acad. Sci. Paris, Sér. A-B, Volume 277 (1973), p. A955-A958",
+    "journal-title": "C. R. Acad. Sci. Paris, Sér. A-B"
+   },
+   {
+    "key": "key2026021712171537332_6",
+    "author": "Berthelot, P.",
+    "year": "1978",
+    "unstructured": "[6.] Berthelot, P.; Ogus, A. Notes on Crystalline Cohomology, Princeton University Press/University of Tokyo Press, Princeton/Tokyo, 1978",
+    "journal-title": "Notes on Crystalline Cohomology"
+   },
+   {
+    "key": "key2026021712171537332_7",
+    "doi-asserted-by": "publisher",
+    "first-page": "159",
+    "DOI": "10.1007/BF01389319",
+    "article-title": "<span class=\"mathjax-formula\" data-tex=\"$F$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi></math></span>-isocrystals and de Rham cohomology. I",
+    "volume": "72",
+    "author": "Berthelot, P.",
+    "year": "1983",
+    "unstructured": "[7.] Berthelot, P.; Ogus, A. F-isocrystals and de Rham cohomology. I, Invent. Math., Volume 72 (1983), pp. 159-199",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "key2026021712171537332_8",
+    "unstructured": "[8.] B. Bhatt, M. Morrow and P. Scholze, Topological Hochschild homology and integral p-adic Hodge theory, available at"
+   },
+   {
+    "key": "key2026021712171537332_9",
+    "doi-asserted-by": "publisher",
+    "first-page": "1601",
+    "DOI": "10.4310/MRL.2015.v22.n6.a3",
+    "article-title": "Integral <span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>-adic Hodge theory—announcement",
+    "volume": "22",
+    "author": "Bhatt, B.",
+    "year": "2015",
+    "unstructured": "[9.] Bhatt, B.; Morrow, M.; Scholze, P. Integral p-adic Hodge theory—announcement, Math. Res. Lett., Volume 22 (2015), pp. 1601-1612",
+    "journal-title": "Math. Res. Lett."
+   },
+   {
+    "key": "key2026021712171537332_10",
+    "unstructured": "[10.] B. Bhatt and P. Scholze, Prisms and prismatic cohomology, in preparation."
+   },
+   {
+    "key": "key2026021712171537332_11",
+    "first-page": "99",
+    "article-title": "The pro-étale topology for schemes",
+    "volume": "369",
+    "author": "Bhatt, B.",
+    "year": "2015",
+    "unstructured": "[11.] Bhatt, B.; Scholze, P. The pro-étale topology for schemes, Astérisque, Volume 369 (2015), pp. 99-201",
+    "journal-title": "Astérisque"
+   },
+   {
+    "key": "key2026021712171537332_12",
+    "doi-asserted-by": "publisher",
+    "first-page": "107",
+    "DOI": "10.1007/BF02831624",
+    "article-title": "<span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>-adic étale cohomology",
+    "volume": "63",
+    "author": "Bloch, S.",
+    "year": "1986",
+    "unstructured": "[12.] Bloch, S.; Kato, K. p-adic étale cohomology, Publ. Math. IHÉS, Volume 63 (1986), pp. 107-152",
+    "journal-title": "Publ. Math. IHÉS"
+   },
+   {
+    "key": "key2026021712171537332_13",
+    "doi-asserted-by": "publisher",
+    "first-page": "197",
+    "DOI": "10.1007/BF01390138",
+    "article-title": "Enriques’ classification of surfaces in char. <span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>. III",
+    "volume": "35",
+    "author": "Bombieri, E.",
+    "year": "1976",
+    "unstructured": "[13.] Bombieri, E.; Mumford, D. Enriques’ classification of surfaces in char. p. III, Invent. Math., Volume 35 (1976), pp. 197-232",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "key2026021712171537332_14",
+    "doi-asserted-by": "publisher",
+    "first-page": "231",
+    "DOI": "10.2140/ant.2011.5.231",
+    "article-title": "The basic geometry of Witt vectors, I: The affine case",
+    "volume": "5",
+    "author": "Borger, J.",
+    "year": "2011",
+    "unstructured": "[14.] Borger, J. The basic geometry of Witt vectors, I: The affine case, Algebra Number Theory, Volume 5 (2011), pp. 231-285",
+    "journal-title": "Algebra Number Theory"
+   },
+   {
+    "key": "key2026021712171537332_15",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/978-3-642-52229-1",
+    "volume": "261",
+    "author": "Bosch, S.",
+    "year": "1984",
+    "unstructured": "[15.] Bosch, S.; Güntzer, U.; Remmert, R. Non-Archimedean Analysis, 261, Springer, Berlin, 1984 (A systematic approach to rigid analytic geometry)",
+    "journal-title": "Non-Archimedean Analysis"
+   },
+   {
+    "key": "key2026021712171537332_16",
+    "doi-asserted-by": "publisher",
+    "first-page": "291",
+    "DOI": "10.1007/BF01444889",
+    "article-title": "Formal and rigid geometry. I. Rigid spaces",
+    "volume": "295",
+    "author": "Bosch, S.",
+    "year": "1993",
+    "unstructured": "[16.] Bosch, S.; Lütkebohmert, W. Formal and rigid geometry. I. Rigid spaces, Math. Ann., Volume 295 (1993), pp. 291-317",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "key2026021712171537332_17",
+    "doi-asserted-by": "publisher",
+    "first-page": "489",
+    "DOI": "10.2307/2661391",
+    "article-title": "Groupes <span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>-divisibles, groupes finis et modules filtrés",
+    "volume": "152",
+    "author": "Breuil, C.",
+    "year": "2000",
+    "unstructured": "[17.] Breuil, C. Groupes p-divisibles, groupes finis et modules filtrés, Ann. Math., Volume 152 (2000), pp. 489-549",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "key": "key2026021712171537332_18",
+    "volume": "112",
+    "author": "Brinon, O.",
+    "year": "2008",
+    "unstructured": "[18.] Brinon, O. Représentations p-adiques cristallines et de de Rham dans le cas relatif, Mém. Soc. Math. Fr. (N. S.), 112, 2008 (vi+159 pp.)",
+    "journal-title": "Représentations <span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>-adiques cristallines et de de Rham dans le cas relatif"
+   },
+   {
+    "key": "key2026021712171537332_19",
+    "doi-asserted-by": "publisher",
+    "first-page": "629",
+    "DOI": "10.1007/s00222-007-0091-9",
+    "article-title": "Conjecture de l’inertie modérée de Serre",
+    "volume": "171",
+    "author": "Caruso, X.",
+    "year": "2008",
+    "unstructured": "[19.] Caruso, X. Conjecture de l’inertie modérée de Serre, Invent. Math., Volume 171 (2008), pp. 629-699",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "key2026021712171537332_20",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1007/s00222-016-0683-3",
+    "article-title": "Syntomic complexes and <span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>-adic nearby cycles",
+    "volume": "208",
+    "author": "Colmez, P.",
+    "year": "2017",
+    "unstructured": "[20.] Colmez, P.; Nizioł, W. Syntomic complexes and p-adic nearby cycles, Invent. Math., Volume 208 (2017), pp. 1-108",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "key2026021712171537332_21",
+    "unstructured": "[21.] B. Conrad and O. Gabber, Spreading out of rigid-analytic varieties, in preparation."
+   },
+   {
+    "key": "key2026021712171537332_22",
+    "doi-asserted-by": "publisher",
+    "first-page": "2211",
+    "DOI": "10.1090/S0002-9939-2014-11953-8",
+    "article-title": "On the Witt vector Frobenius",
+    "volume": "142",
+    "author": "Davis, C.",
+    "year": "2014",
+    "unstructured": "[22.] Davis, C.; Kedlaya, K. S. On the Witt vector Frobenius, Proc. Am. Math. Soc., Volume 142 (2014), pp. 2211-2226",
+    "journal-title": "Proc. Am. Math. Soc."
+   },
+   {
+    "key": "key2026021712171537332_23",
+    "doi-asserted-by": "publisher",
+    "first-page": "51",
+    "DOI": "10.1007/BF02698644",
+    "article-title": "Smoothness, semi-stability and alterations",
+    "volume": "83",
+    "author": "de Jong, A. J.",
+    "year": "1996",
+    "unstructured": "[23.] de Jong, A. J. Smoothness, semi-stability and alterations, Publ. Math. IHÉS, Volume 83 (1996), pp. 51-93",
+    "journal-title": "Publ. Math. IHÉS"
+   },
+   {
+    "key": "key2026021712171537332_24",
+    "doi-asserted-by": "publisher",
+    "first-page": "247",
+    "DOI": "10.1007/BF01389078",
+    "article-title": "Relèvements modulo <span class=\"mathjax-formula\" data-tex=\"$p^{2}$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>p</mi> <mn>2</mn> </msup></math></span> et décomposition du complexe de de Rham",
+    "volume": "89",
+    "author": "Deligne, P.",
+    "year": "1987",
+    "unstructured": "[24.] Deligne, P.; Illusie, L. Relèvements modulo p 2  et décomposition du complexe de de Rham, Invent. Math., Volume 89 (1987), pp. 247-270",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "key2026021712171537332_25",
+    "unstructured": "[25.] T. Ekedahl, Answer on Mathoverflow, http://mathoverflow.net/questions/21023/liftability-of-enriques-surfaces-from-char-p-to-zero."
+   },
+   {
+    "key": "key2026021712171537332_26",
+    "doi-asserted-by": "publisher",
+    "first-page": "553",
+    "DOI": "10.24033/asens.1258",
+    "article-title": "Solutions d’équations à coefficients dans un anneau hensélien",
+    "volume": "6",
+    "author": "Elkik, R.",
+    "year": "1973",
+    "unstructured": "[26.] Elkik, R. Solutions d’équations à coefficients dans un anneau hensélien, Ann. Sci. Éc. Norm. Supér., Volume 6 (1973), pp. 553-603",
+    "journal-title": "Ann. Sci. Éc. Norm. Supér."
+   },
+   {
+    "key": "key2026021712171537332_27",
+    "first-page": "255",
+    "article-title": "<span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>-adic Hodge theory",
+    "volume": "1",
+    "author": "Faltings, G.",
+    "year": "1988",
+    "unstructured": "[27.] Faltings, G. p-adic Hodge theory, J. Am. Math. Soc., Volume 1 (1988), pp. 255-299",
+    "journal-title": "J. Am. Math. Soc."
+   },
+   {
+    "key": "key2026021712171537332_28",
+    "doi-asserted-by": "publisher",
+    "first-page": "117",
+    "DOI": "10.1090/S0894-0347-99-00273-8",
+    "article-title": "Integral crystalline cohomology over very ramified valuation rings",
+    "volume": "12",
+    "author": "Faltings, G.",
+    "year": "1999",
+    "unstructured": "[28.] Faltings, G. Integral crystalline cohomology over very ramified valuation rings, J. Am. Math. Soc., Volume 12 (1999), pp. 117-144",
+    "journal-title": "J. Am. Math. Soc."
+   },
+   {
+    "key": "key2026021712171537332_29",
+    "first-page": "185",
+    "article-title": "Almost étale extensions",
+    "volume": "279",
+    "author": "Faltings, G.",
+    "year": "2002",
+    "unstructured": "[29.] Faltings, G. Almost étale extensions, Astérisque, Volume 279 (2002), pp. 185-270 (Cohomologies \n                                 p\n                              -adiques et applications arithmétiques, II)",
+    "journal-title": "Astérisque"
+   },
+   {
+    "key": "key2026021712171537332_30",
+    "first-page": "325",
+    "article-title": "Quelques résultats et conjectures concernant la courbe",
+    "volume": "369",
+    "author": "Fargues, L.",
+    "year": "2015",
+    "unstructured": "[30.] Fargues, L. Quelques résultats et conjectures concernant la courbe, Astérisque, Volume 369 (2015), pp. 325-374",
+    "journal-title": "Astérisque"
+   },
+   {
+    "key": "key2026021712171537332_31",
+    "unstructured": "[31.] L. Fargues and J.-M. Fontaine, Courbes et fibrés vectoriels en théorie de Hodge p-adique, available at http://webusers.imj-prg.fr/~laurent.fargues/Courbe_fichier_principal.pdf."
+   },
+   {
+    "key": "key2026021712171537332_32",
+    "doi-asserted-by": "publisher",
+    "first-page": "529",
+    "DOI": "10.2307/2007012",
+    "article-title": "Sur certains types de représentations <span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>-adiques du groupe de Galois d’un corps local; construction d’un anneau de Barsotti-Tate",
+    "volume": "115",
+    "author": "Fontaine, J.-M.",
+    "year": "1982",
+    "unstructured": "[32.] Fontaine, J.-M. Sur certains types de représentations p-adiques du groupe de Galois d’un corps local; construction d’un anneau de Barsotti-Tate, Ann. Math., Volume 115 (1982), pp. 529-577",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "key": "key2026021712171537332_33",
+    "first-page": "509",
+    "article-title": "Perfectoïdes, presque pureté et monodromie-poids (d’après Peter Scholze)",
+    "volume": "352",
+    "author": "Fontaine, J.-M.",
+    "year": "2013",
+    "unstructured": "[33.] Fontaine, J.-M. Perfectoïdes, presque pureté et monodromie-poids (d’après Peter Scholze), Astérisque, Volume 352 (2013), pp. 509-534 (Exp. No. 1057, x. Séminaire Bourbaki. Vol. 2011/2012. Exposés 1043–1058)",
+    "journal-title": "Astérisque"
+   },
+   {
+    "key": "key2026021712171537332_34",
+    "doi-asserted-by": "publisher",
+    "first-page": "179",
+    "DOI": "10.1090/conm/067/902593",
+    "article-title": "<span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>-adic periods and <span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>-adic étale cohomology",
+    "volume": "67",
+    "author": "Fontaine, J.-M.",
+    "year": "1987",
+    "unstructured": "[34.] Fontaine, J.-M.; Messing, W. p-adic periods and p-adic étale cohomology, Current Trends in Arithmetical Algebraic Geometry, Volume 67 (1987), pp. 179-207",
+    "journal-title": "Current Trends in Arithmetical Algebraic Geometry"
+   },
+   {
+    "key": "key2026021712171537332_35",
+    "unstructured": "[35.] J.-M. Fontaine and Y. Ouyang, Theory of p-adic Galois representations, available at https://www.math.u-psud.fr/~fontaine/galoisrep.pdf."
+   },
+   {
+    "key": "key2026021712171537332_36",
+    "doi-asserted-by": "publisher",
+    "first-page": "1192",
+    "DOI": "10.1007/s00039-001-8228-2",
+    "article-title": "On space filling curves and Albanese varieties",
+    "volume": "11",
+    "author": "Gabber, O.",
+    "year": "2001",
+    "unstructured": "[36.] Gabber, O. On space filling curves and Albanese varieties, Geom. Funct. Anal., Volume 11 (2001), pp. 1192-1200",
+    "journal-title": "Geom. Funct. Anal."
+   },
+   {
+    "key": "key2026021712171537332_37",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/b10047",
+    "volume": "1800",
+    "author": "Gabber, O.",
+    "year": "2003",
+    "unstructured": "[37.] Gabber, O.; Ramero, L. Almost Ring Theory, 1800, Springer, Berlin, 2003 (vi+307 pp.)",
+    "journal-title": "Almost Ring Theory"
+   },
+   {
+    "key": "key2026021712171537332_38",
+    "unstructured": "[38.] O. Gabber and L. Ramero, Foundations of almost ring theory, http://math.univ-lille1.fr/~ramero/hodge.pdf."
+   },
+   {
+    "key": "key2026021712171537332_39",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1090/S0894-0347-05-00505-9",
+    "article-title": "The de Rham-Witt complex and <span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>-adic vanishing cycles",
+    "volume": "19",
+    "author": "Geisser, T.",
+    "year": "2006",
+    "unstructured": "[39.] Geisser, T.; Hesselholt, L. The de Rham-Witt complex and p-adic vanishing cycles, J. Am. Math. Soc., Volume 19 (2006), pp. 1-36",
+    "journal-title": "J. Am. Math. Soc."
+   },
+   {
+    "key": "key2026021712171537332_40",
+    "doi-asserted-by": "publisher",
+    "first-page": "133",
+    "DOI": "10.1090/conm/399/07517",
+    "volume": "399",
+    "author": "Hesselholt, L.",
+    "year": "2006",
+    "unstructured": "[40.] Hesselholt, L. On the topological cyclic homology of the algebraic closure of a local field, An Alpine Anthology of Homotopy Theory, 399, Am. Math. Soc., Providence, 2006, pp. 133-162",
+    "journal-title": "On the topological cyclic homology of the algebraic closure of a local field"
+   },
+   {
+    "key": "key2026021712171537332_41",
+    "doi-asserted-by": "publisher",
+    "first-page": "513",
+    "DOI": "10.1007/BF02571959",
+    "article-title": "A generalization of formal schemes and rigid analytic varieties",
+    "volume": "217",
+    "author": "Huber, R.",
+    "year": "1994",
+    "unstructured": "[41.] Huber, R. A generalization of formal schemes and rigid analytic varieties, Math. Z., Volume 217 (1994), pp. 513-551",
+    "journal-title": "Math. Z."
+   },
+   {
+    "key": "key2026021712171537332_42",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/978-3-663-09991-8",
+    "volume": "E30",
+    "author": "Huber, R.",
+    "year": "1996",
+    "unstructured": "[42.] Huber, R. Étale Cohomology of Rigid Analytic Varieties and Adic Spaces, E30, Vieweg, Braunschweig, 1996",
+    "journal-title": "Étale Cohomology of Rigid Analytic Varieties and Adic Spaces"
+   },
+   {
+    "key": "key2026021712171537332_43",
+    "doi-asserted-by": "publisher",
+    "first-page": "501",
+    "DOI": "10.24033/asens.1374",
+    "article-title": "Complexe de de Rham-Witt et cohomologie cristalline",
+    "volume": "12",
+    "author": "Illusie, L.",
+    "year": "1979",
+    "unstructured": "[43.] Illusie, L. Complexe de de Rham-Witt et cohomologie cristalline, Ann. Sci. Éc. Norm. Supér., Volume 12 (1979), pp. 501-661",
+    "journal-title": "Ann. Sci. Éc. Norm. Supér."
+   },
+   {
+    "key": "key2026021712171537332_44",
+    "doi-asserted-by": "publisher",
+    "first-page": "73",
+    "DOI": "10.1007/BF02698774",
+    "article-title": "Les suites spectrales associées au complexe de de Rham-Witt",
+    "volume": "57",
+    "author": "Illusie, L.",
+    "year": "1983",
+    "unstructured": "[44.] Illusie, L.; Raynaud, M. Les suites spectrales associées au complexe de de Rham-Witt, Publ. Math. IHÉS, Volume 57 (1983), pp. 73-212",
+    "journal-title": "Publ. Math. IHÉS"
+   },
+   {
+    "key": "key2026021712171537332_45",
+    "doi-asserted-by": "publisher",
+    "first-page": "69",
+    "DOI": "10.1007/978-3-540-37802-0_3",
+    "volume": "350",
+    "author": "Katz, N. M.",
+    "year": "1973",
+    "unstructured": "[45.] Katz, N. M. p-adic properties of modular schemes and modular forms, Modular Functions of One Variable III, 350, 1973, pp. 69-190",
+    "journal-title": "<span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>-adic properties of modular schemes and modular forms"
+   },
+   {
+    "key": "key2026021712171537332_46",
+    "doi-asserted-by": "publisher",
+    "first-page": "111",
+    "DOI": "10.1017/S0027763000010692",
+    "article-title": "Nonarchimedean geometry of Witt vectors",
+    "volume": "209",
+    "author": "Kedlaya, K. S.",
+    "year": "2013",
+    "unstructured": "[46.] Kedlaya, K. S. Nonarchimedean geometry of Witt vectors, Nagoya Math. J., Volume 209 (2013), pp. 111-165",
+    "journal-title": "Nagoya Math. J."
+   },
+   {
+    "key": "key2026021712171537332_47",
+    "unstructured": "[47.] K. S. Kedlaya, Some ring-theoretic properties of A_inf,"
+   },
+   {
+    "key": "key2026021712171537332_48",
+    "first-page": "239",
+    "article-title": "Relative <span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>-adic Hodge theory: foundations",
+    "volume": "371",
+    "author": "Kedlaya, K. S.",
+    "year": "2015",
+    "unstructured": "[48.] Kedlaya, K. S.; Liu, R. Relative p-adic Hodge theory: foundations, Astérisque, Volume 371 (2015), p. 239",
+    "journal-title": "Astérisque"
+   },
+   {
+    "key": "key2026021712171537332_49",
+    "doi-asserted-by": "publisher",
+    "first-page": "459",
+    "DOI": "10.1007/978-0-8176-4532-8_7",
+    "volume": "253",
+    "author": "Kisin, M.",
+    "year": "2006",
+    "unstructured": "[49.] Kisin, M. Crystalline representations and F-crystals, Algebraic Geometry and Number Theory, 253, Birkhäuser Boston, Boston, 2006, pp. 459-496",
+    "journal-title": "Crystalline representations and <span class=\"mathjax-formula\" data-tex=\"$F$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi></math></span>-crystals"
+   },
+   {
+    "key": "key2026021712171537332_50",
+    "doi-asserted-by": "publisher",
+    "first-page": "967",
+    "DOI": "10.1090/S0894-0347-10-00667-3",
+    "article-title": "Integral models for Shimura varieties of Abelian type",
+    "volume": "23",
+    "author": "Kisin, M.",
+    "year": "2010",
+    "unstructured": "[50.] Kisin, M. Integral models for Shimura varieties of Abelian type, J. Am. Math. Soc., Volume 23 (2010), pp. 967-1012",
+    "journal-title": "J. Am. Math. Soc."
+   },
+   {
+    "key": "key2026021712171537332_51",
+    "doi-asserted-by": "publisher",
+    "first-page": "45",
+    "DOI": "10.1007/BF01456935",
+    "article-title": "On Enriques surfaces in characteristic <span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>. I",
+    "volume": "265",
+    "author": "Lang, W. E.",
+    "year": "1983",
+    "unstructured": "[51.] Lang, W. E. On Enriques surfaces in characteristic p. I, Math. Ann., Volume 265 (1983), pp. 45-65",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "key2026021712171537332_52",
+    "doi-asserted-by": "publisher",
+    "first-page": "231",
+    "DOI": "10.1017/S1474748004000088",
+    "article-title": "De Rham-Witt cohomology for a proper and smooth morphism",
+    "volume": "3",
+    "author": "Langer, A.",
+    "year": "2004",
+    "unstructured": "[52.] Langer, A.; Zink, T. De Rham-Witt cohomology for a proper and smooth morphism, J. Inst. Math. Jussieu, Volume 3 (2004), pp. 231-314",
+    "journal-title": "J. Inst. Math. Jussieu"
+   },
+   {
+    "key": "key2026021712171537332_53",
+    "doi-asserted-by": "crossref",
+    "first-page": "35",
+    "DOI": "10.1515/crelle-2013-0068",
+    "article-title": "Arithmetic moduli and lifting of Enriques surfaces",
+    "volume": "706",
+    "author": "Liedtke, C.",
+    "year": "2015",
+    "unstructured": "[53.] Liedtke, C. Arithmetic moduli and lifting of Enriques surfaces, J. Reine Angew. Math., Volume 706 (2015), pp. 35-65",
+    "journal-title": "J. Reine Angew. Math."
+   },
+   {
+    "key": "key2026021712171537332_54",
+    "doi-asserted-by": "publisher",
+    "first-page": "341",
+    "DOI": "10.1007/BF01453580",
+    "article-title": "Formal-algebraic and rigid-analytic geometry",
+    "volume": "286",
+    "author": "Lütkebohmert, W.",
+    "year": "1990",
+    "unstructured": "[54.] Lütkebohmert, W. Formal-algebraic and rigid-analytic geometry, Math. Ann., Volume 286 (1990), pp. 341-371",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "key2026021712171537332_55",
+    "doi-asserted-by": "publisher",
+    "first-page": "1099",
+    "DOI": "10.4007/annals.2004.160.1099",
+    "article-title": "Bertini theorems over finite fields",
+    "volume": "160",
+    "author": "Poonen, B.",
+    "year": "2004",
+    "unstructured": "[55.] Poonen, B. Bertini theorems over finite fields, Ann. Math., Volume 160 (2004), pp. 1099-1127",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "key": "key2026021712171537332_56",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1007/BF01390094",
+    "article-title": "Critères de platitude et de projectivité. Techniques de “platification” d’un module",
+    "volume": "13",
+    "author": "Raynaud, M.",
+    "year": "1971",
+    "unstructured": "[56.] Raynaud, M.; Gruson, L. Critères de platitude et de projectivité. Techniques de “platification” d’un module, Invent. Math., Volume 13 (1971), pp. 1-89",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "key2026021712171537332_57",
+    "doi-asserted-by": "publisher",
+    "first-page": "208",
+    "DOI": "10.1090/S0002-9947-1968-0217093-3",
+    "article-title": "Functors of Artin rings",
+    "volume": "130",
+    "author": "Schlessinger, M.",
+    "year": "1968",
+    "unstructured": "[57.] Schlessinger, M. Functors of Artin rings, Trans. Am. Math. Soc., Volume 130 (1968), pp. 208-222",
+    "journal-title": "Trans. Am. Math. Soc."
+   },
+   {
+    "key": "key2026021712171537332_58",
+    "doi-asserted-by": "publisher",
+    "first-page": "245",
+    "DOI": "10.1007/s10240-012-0042-x",
+    "article-title": "Perfectoid spaces",
+    "volume": "116",
+    "author": "Scholze, P.",
+    "year": "2012",
+    "unstructured": "[58.] Scholze, P. Perfectoid spaces, Publ. Math. Inst. Hautes Études Sci., Volume 116 (2012), pp. 245-313",
+    "journal-title": "Publ. Math. Inst. Hautes Études Sci."
+   },
+   {
+    "key": "key2026021712171537332_59",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/fmp.2013.1",
+    "article-title": "<span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>-adic Hodge theory for rigid-analytic varieties",
+    "volume": "1",
+    "author": "Scholze, P.",
+    "year": "2013",
+    "unstructured": "[59.] Scholze, P. p-adic Hodge theory for rigid-analytic varieties, Forum Math. Pi, Volume 1 (2013) (77)",
+    "journal-title": "Forum Math. Pi"
+   },
+   {
+    "key": "key2026021712171537332_60",
+    "first-page": "193",
+    "author": "Scholze, P.",
+    "year": "2013",
+    "unstructured": "[60.] Scholze, P. Perfectoid spaces: a survey, Current Developments in Mathematics 2012, International Press, Somerville, 2013, pp. 193-227",
+    "journal-title": "Perfectoid spaces: a survey"
+   },
+   {
+    "key": "key2026021712171537332_61",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/fmp.2016.4",
+    "article-title": "<span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>-adic Hodge theory for rigid-analytic varieties—corrigendum [MR3090230]",
+    "volume": "4",
+    "author": "Scholze, P.",
+    "year": "2016",
+    "unstructured": "[61.] Scholze, P. p-adic Hodge theory for rigid-analytic varieties—corrigendum [MR3090230], Forum Math. Pi, Volume 4 (2016) (4)",
+    "journal-title": "Forum Math. Pi"
+   },
+   {
+    "key": "key2026021712171537332_62",
+    "unstructured": "[62.] P. Scholze and J. Weinstein, p-adic geometry, Lecture notes from course at UC Berkeley in Fall 2014, available at https://www.math.uni-bonn.de/people/scholze/Berkeley.pdf."
+   },
+   {
+    "key": "key2026021712171537332_63",
+    "unstructured": "[63.] F. Tan and J. Tong, Crystalline comparison isomorphisms in p-adic hodge theory: the absolutely unramified case, available at"
+   },
+   {
+    "key": "key2026021712171537332_64",
+    "doi-asserted-by": "publisher",
+    "first-page": "233",
+    "DOI": "10.1007/s002220050330",
+    "article-title": "<span class=\"mathjax-formula\" data-tex=\"$p$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span>-adic étale cohomology and crystalline cohomology in the semi-stable reduction case",
+    "volume": "137",
+    "author": "Tsuji, T.",
+    "year": "1999",
+    "unstructured": "[64.] Tsuji, T. p-adic étale cohomology and crystalline cohomology in the semi-stable reduction case, Invent. Math., Volume 137 (1999), pp. 233-411",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "key2026021712171537332_65",
+    "doi-asserted-by": "publisher",
+    "first-page": "405",
+    "DOI": "10.1007/BF01162716",
+    "article-title": "Descent for the <span class=\"mathjax-formula\" data-tex=\"$K$\"><math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi></math></span>-theory of polynomial rings",
+    "volume": "191",
+    "author": "van der Kallen, W.",
+    "year": "1986",
+    "unstructured": "[65.] van der Kallen, W. Descent for the K-theory of polynomial rings, Math. Z., Volume 191 (1986), pp. 405-415",
+    "journal-title": "Math. Z."
+   }
+  ],
+  "container-title": [
+   "Publications Mathématiques de l'IHÉS"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/s10240-019-00102-z.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "https://pmihes.centre-mersenne.org/item/10.1007/s10240-019-00102-z.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     2,
+     17
+    ]
+   ],
+   "date-time": "2026-02-17T11:17:40Z",
+   "timestamp": 1771327060000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://pmihes.centre-mersenne.org/articles/10.1007/s10240-019-00102-z/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     11,
+     9
+    ]
+   ]
+  },
+  "references-count": 65,
+  "alternative-id": [
+   "10.1007/s10240-019-00102-z"
+  ],
+  "URL": "https://doi.org/10.1007/s10240-019-00102-z",
+  "relation": {},
+  "ISSN": [
+   "0073-8301",
+   "1618-1913"
+  ],
+  "issn-type": [
+   {
+    "value": "0073-8301",
+    "type": "print"
+   },
+   {
+    "value": "1618-1913",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2018,
+     11,
+     9
+    ]
+   ]
+  },
+  "assertion": [
+   {
+    "value": "18 March 2016",
+    "order": 1,
+    "name": "received",
+    "label": "Received",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   },
+   {
+    "value": "15 September 2018",
+    "order": 2,
+    "name": "revised",
+    "label": "Revised",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   },
+   {
+    "value": "8 January 2019",
+    "order": 3,
+    "name": "accepted",
+    "label": "Accepted",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   },
+   {
+    "value": "16 January 2019",
+    "order": 4,
+    "name": "first_online",
+    "label": "First Online",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,440 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     2
+    ]
+   ],
+   "date-time": "2026-11-02T20:25:15Z",
+   "timestamp": 1793651115365,
+   "version": "4.5.1"
+  },
+  "reference-count": 28,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "3",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1986,
+       10,
+       1
+      ]
+     ],
+     "date-time": "1986-10-01T00:00:00Z",
+     "timestamp": 528508800000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Invent Math"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1986,
+     10
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01390329",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     4,
+     2
+    ]
+   ],
+   "date-time": "2005-04-02T13:48:54Z",
+   "timestamp": 1112449734000
+  },
+  "page": "545-613",
+  "source": "Crossref",
+  "is-referenced-by-count": 196,
+  "title": [
+   "Galois representations into GL2 (Z p [[X]]) attached to ordinary cusp forms"
+  ],
+  "prefix": "10.1007",
+  "volume": "85",
+  "author": [
+   {
+    "given": "Haruzo",
+    "family": "Hida",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "CR1",
+    "volume-title": "Commutative algebra",
+    "author": "N. Bourbaki",
+    "year": "1972",
+    "unstructured": "Bourbaki, N.: Commutative algebra. Paris: Hermann 1972"
+   },
+   {
+    "key": "CR2",
+    "doi-asserted-by": "crossref",
+    "first-page": "301",
+    "DOI": "10.1007/BF01428197",
+    "volume": "201",
+    "author": "W. Casselman",
+    "year": "1973",
+    "unstructured": "Casselman, W.: On some results of Atkin and Lehner. Math. Ann.201, 301?304 (1973)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "CR3",
+    "series-title": "Pure and Applied Math.",
+    "volume-title": "Representation theory of finite groups and associative algebras",
+    "author": "C.W. Curtis",
+    "year": "1962",
+    "unstructured": "Curtis, C.W., Reiner, I.: Representation theory of finite groups and associative algebras. Pure and Applied Math.11, New York: Interscience 1962"
+   },
+   {
+    "key": "CR4",
+    "unstructured": "Deligne, P.: Formes modulaires et représentationsl-adiques. Sém. Bourbaki. Exp. 355 (1969)"
+   },
+   {
+    "key": "CR5",
+    "first-page": "507",
+    "volume": "7",
+    "author": "P. Deligne",
+    "year": "1974",
+    "unstructured": "Deligne, P., Serre, J.-P.: Formes modulaires de poids 1. Ann. Sci. Ec. Norm. Super. 4ème série,7, 507?530 (1974)",
+    "journal-title": "Ann. Sci. Ec. Norm. Super. 4ème série"
+   },
+   {
+    "key": "CR6",
+    "volume-title": "Automorphic forms and number theory",
+    "author": "K. Doi",
+    "year": "1976",
+    "unstructured": "Doi, K., Miyake, T.: Automorphic forms and number theory. (in Japanese), Tokyo: Kinokuniya Shoten 1976"
+   },
+   {
+    "key": "CR7",
+    "first-page": "471",
+    "volume": "11",
+    "author": "S. Gelbart",
+    "year": "1978",
+    "unstructured": "Gelbart, S., Jacquet, H.: A relation between automorphic representations of GL(2) and GL(3). Ann. Sci. Ec. Norm. Super, 4ème série11, 471?542 (1978)",
+    "journal-title": "Ann. Sci. Ec. Norm. Super, 4ème série"
+   },
+   {
+    "key": "CR8",
+    "doi-asserted-by": "crossref",
+    "first-page": "199",
+    "DOI": "10.1007/BF02952521",
+    "volume": "5",
+    "author": "E. Hecke",
+    "year": "1927",
+    "unstructured": "Hecke, E.: Theorie der Eisensteinschen Reihen höherer Stufe und ihre Anwendung auf Funktionentheorie und Arithmetik. Abh. Math. Semin. Hamb.5, 199?224 (1927)",
+    "journal-title": "Abh. Math. Semin. Hamb."
+   },
+   {
+    "key": "CR9",
+    "doi-asserted-by": "crossref",
+    "first-page": "225",
+    "DOI": "10.1007/BF01393877",
+    "volume": "63",
+    "author": "H. Hida",
+    "year": "1981",
+    "unstructured": "Hida, H.: Congruences of cusp forms and special values of their zeta functions. Invent. Math.63, 225?261 (1981)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR10",
+    "doi-asserted-by": "crossref",
+    "first-page": "221",
+    "DOI": "10.1007/BF01389169",
+    "volume": "64",
+    "author": "H. Hida",
+    "year": "1981",
+    "unstructured": "Hida, H.: On congruence divisors of cusp forms as factors of the special values of their zeta functions. Invent. Math.64, 221?262 (1981)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR11",
+    "doi-asserted-by": "crossref",
+    "first-page": "415",
+    "DOI": "10.1007/BF01389222",
+    "volume": "66",
+    "author": "H. Hida",
+    "year": "1982",
+    "unstructured": "Hida, H.: Kummer's criterion for the special values of HeckeL-functions of imaginary quadratic fields and congruences among cusp forms. Invent. Math.66, 415?459 (1982)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR12",
+    "doi-asserted-by": "crossref",
+    "first-page": "159",
+    "DOI": "10.1007/BF01388661",
+    "volume": "79",
+    "author": "H. Hida",
+    "year": "1985",
+    "unstructured": "Hida, H.: Ap-adic measure attached to the zeta functions associated with two elliptic modular forms, I. Invent. Math.79, 159?195 (1985)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR13",
+    "unstructured": "Hida, H.: Iwasawa modules attached to congruences of cusp forms. (To appear in Ann. Sci. Ec. Norm. Super.)"
+   },
+   {
+    "key": "CR14",
+    "unstructured": "Hida, H.: Congruences of cusp forms and Hecke algebras. Sém. Théorie des Nombres, Paris, 1983?84"
+   },
+   {
+    "key": "CR15",
+    "series-title": "Lect. Notes Math.",
+    "doi-asserted-by": "crossref",
+    "first-page": "361",
+    "DOI": "10.1007/978-3-540-37855-6_6",
+    "volume-title": "Modular functions of one variable, II",
+    "author": "R.P. Langlands",
+    "year": "1973",
+    "unstructured": "Langlands, R.P.: Modular forms andl-adic representations. In: Modular functions of one variable, II, Lect. Notes Math.349, pp. 361?500. Berlin-Heidelberg-New York: Springer 1973"
+   },
+   {
+    "key": "CR16",
+    "doi-asserted-by": "crossref",
+    "first-page": "179",
+    "DOI": "10.1007/BF01388599",
+    "volume": "76",
+    "author": "B. Mazur",
+    "year": "1984",
+    "unstructured": "Mazur, B., Wiles, A.: Class fields of abelian extensions ofQ. Invent. Math.76, 179?330 (1984)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR17",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.4099/math1924.8.1",
+    "volume": "8",
+    "author": "M. Ohta",
+    "year": "1982",
+    "unstructured": "Ohta, M.: Onl-adic representations attached to automorphic forms. Jap. J. Math.8 (new series), 1?47 (1982)",
+    "journal-title": "Jap. J. Math."
+   },
+   {
+    "key": "CR18",
+    "series-title": "Lect. Notes Math.",
+    "first-page": "17",
+    "volume-title": "Modular functions of one variable, V",
+    "author": "K.A. Ribet",
+    "year": "1977",
+    "unstructured": "Ribet, K.A.: Galois representations attached to eigenforms with Nehentypus. In: Modular functions of one variable, V, Lect. Notes Math.601, pp. 17?52. Berlin-Heidelberg-New York: Springer 1977"
+   },
+   {
+    "key": "CR19",
+    "doi-asserted-by": "crossref",
+    "first-page": "492",
+    "DOI": "10.2307/1970722",
+    "volume": "88",
+    "author": "J.-P. Serre",
+    "year": "1968",
+    "unstructured": "Serre, J.-P., Tate, J.: Good reduction of abelian varieties. Ann. Math.88, 492?517 (1968)",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "key": "CR20",
+    "doi-asserted-by": "crossref",
+    "first-page": "291",
+    "DOI": "10.2969/jmsj/01140291",
+    "volume": "11",
+    "author": "G. Shimura",
+    "year": "1959",
+    "unstructured": "Shimura, G.: Sur les intégrales attachées aux formes automorphes. J. Math. Soc. Japan11, 291?311 (1959)",
+    "journal-title": "J. Math. Soc. Japan"
+   },
+   {
+    "key": "CR21",
+    "doi-asserted-by": "crossref",
+    "first-page": "523",
+    "DOI": "10.2969/jmsj/02530523",
+    "volume": "25",
+    "author": "G. Shimura",
+    "year": "1973",
+    "unstructured": "Shimura, G.: On the factors of the jacobian variety of a modular function field. J. Math. Soc. Japan25, 523?544 (1973)",
+    "journal-title": "J. Math. Soc. Japan"
+   },
+   {
+    "key": "CR22",
+    "doi-asserted-by": "crossref",
+    "first-page": "79",
+    "DOI": "10.1112/plms/s3-31.1.79",
+    "volume": "31",
+    "author": "G. Shimura",
+    "year": "1975",
+    "unstructured": "Shimura, G.: On the holomorphy of certain Dirichlet series. Proc. Lond. Math. Soc.31, 79?98 (1975)",
+    "journal-title": "Proc. Lond. Math. Soc."
+   },
+   {
+    "key": "CR23",
+    "first-page": "605",
+    "volume": "28",
+    "author": "G. Shimura",
+    "year": "1982",
+    "unstructured": "Shimura, G.: The periods of certain automorphic forms of arithmetic type. J. Fac. Sci. Univ. Tokyo, Sec. IA,28, 605?632 (1982)",
+    "journal-title": "J. Fac. Sci. Univ. Tokyo, Sec. IA"
+   },
+   {
+    "key": "CR24",
+    "unstructured": "Shimura, G.: Anl-adic method in the theory of automorphic forms. (Unpublished (1968))"
+   },
+   {
+    "key": "CR25",
+    "volume-title": "Introduction to the arithmetic theory of automorphic functions",
+    "author": "G. Shimura",
+    "year": "1971",
+    "unstructured": "Shimura, G.: Introduction to the arithmetic theory of automorphic functions. Tokyo: Iwanami Shoten and Princeton Univ. Press 1971"
+   },
+   {
+    "key": "CR26",
+    "doi-asserted-by": "crossref",
+    "first-page": "219",
+    "DOI": "10.2307/2374237",
+    "volume": "102",
+    "author": "J. Sturm",
+    "year": "1980",
+    "unstructured": "Sturm, J.: Special values of zeta functions, and Eisenstein series of half integral weight. Amer. J. Math.102, 219?240 (1980)",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "CR27",
+    "doi-asserted-by": "crossref",
+    "first-page": "158",
+    "DOI": "10.1007/978-3-642-87942-5_12",
+    "volume-title": "Proceeding of a Conference on local fields",
+    "author": "J. Tate",
+    "year": "1967",
+    "unstructured": "Tate, J.:p-divisible groups. In: Proceeding of a Conference on local fields, pp. 158?183. Berlin-Heidelberg-New York: Springer 1967"
+   },
+   {
+    "key": "CR28",
+    "unstructured": "Hida, H.: Hecke algebras for GL(1) and GL(2). Séminaire de Théorie des Nombres, Paris, 1984?85"
+   }
+  ],
+  "container-title": [
+   "Inventiones Mathematicae"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01390329/fulltext.html",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01390329.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01390329/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01390329",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     2
+    ]
+   ],
+   "date-time": "2019-05-02T16:25:38Z",
+   "timestamp": 1556814338000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01390329"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1986,
+     10
+    ]
+   ]
+  },
+  "references-count": 28,
+  "journal-issue": {
+   "issue": "3",
+   "published-print": {
+    "date-parts": [
+     [
+      1986,
+      10
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01390329"
+  ],
+  "URL": "https://doi.org/10.1007/bf01390329",
+  "relation": {},
+  "ISSN": [
+   "0020-9910",
+   "1432-1297"
+  ],
+  "issn-type": [
+   {
+    "value": "0020-9910",
+    "type": "print"
+   },
+   {
+    "value": "1432-1297",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1986,
+     10
+    ]
+   ]
+  }
+ }
+}

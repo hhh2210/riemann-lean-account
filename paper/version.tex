@@ -1,0 +1,53 @@
+% Version, date and the measured numbers quoted in the text. One place to change each.
+\newcommand{\paperdate}{21 November 2026}
+\newcommand{\paperversion}{1.0}
+
+% The archive.
+\newcommand{\filecount}{175{,}187}
+\newcommand{\linecount}{17{,}374{,}215}
+\newcommand{\archivebytes}{239{,}275{,}554}
+\newcommand{\archivesha}{9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc}
+\newcommand{\mathlibrev}{0df444a360eaa60ab8c11dca51a86af692955474}
+\newcommand{\leanversion}{4.33.1}
+
+% The build.
+\newcommand{\buildjobs}{183{,}893}
+\newcommand{\buildhours}{13.4}
+% The literature file: 186 theorems returning named statements; 184 distinct statements, of
+% which 100 general, 74 special cases, 5 variants, 3 internal to the archive, one empty slot
+% and one the conclusion itself (tools/rows_to_tex.py prints these counts).
+\newcommand{\literaturerows}{186}
+\newcommand{\rowsdistinct}{184}
+\newcommand{\rowspublished}{179}
+\newcommand{\rowsgeneral}{100}
+\newcommand{\rowsspecial}{74}
+\newcommand{\rowsother}{5}
+
+% The dependency cone of riemannHypothesis (filled from results/cut-result.txt).
+\newcommand{\conesize}{1{,}478{,}219}
+\newcommand{\coneprojtheorems}{1{,}093{,}609}
+\newcommand{\projtheorems}{1{,}588{,}253}
+\newcommand{\coneprojdefs}{178{,}298}
+\newcommand{\projdefs}{331{,}347}
+\newcommand{\coneprojmodules}{147{,}489}
+\newcommand{\projmodules}{175{,}014}
+\newcommand{\conemathlib}{203{,}325}
+\newcommand{\hubtheorems}{198}
+
+% The kernel replay (from verify/results/replay-summary.txt).
+\newcommand{\replaymodules}{186{,}200}
+\newcommand{\replaydecls}{2{,}695{,}292}
+\newcommand{\replayminutes}{57}
+\newcommand{\replaystatus}{%
+The kernel accepted every one of them: 2{,}084{,}256 theorems, 556{,}318 definitions,
+3{,}882 opaque constants, 7 axioms and 15{,}769 inductive types, whose 19{,}159 constructors and
+15{,}897 recursors agree with the ones the kernel generated. There was no failure. The run took
+\replayminutes{} minutes on 28 threads. The seven axioms are all declared in Lean's core
+library; the archive declares none, and the five theorems depend on three of them. In
+40{,}595 cases a name is declared in more than one module, which Lean's import accepts when
+the statements agree; every version was checked, and no two versions of a name differ in their
+statement. Not replayed, as in Lean's own replay, are 5{,}840 declarations that Lean marks unsafe
+or partial: 5{,}008 are the compiled forms of recursive definitions and the rest are programs.
+The kernel never checks such declarations and no theorem can depend on them.}
+% The cone of all five theorems of Main (results/cut-result.txt, cut-five-extra.txt).
+\newcommand{\conefive}{1{,}478{,}243}

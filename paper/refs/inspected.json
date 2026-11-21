@@ -1,0 +1,13 @@
+{
+ "alpoge2026remark": "PDF fetched and read by the authors on 2026-11-20; binary file, so the text match cannot run",
+ "alpoge2026lean": "archive fetched, hashed and built by the authors; binary file",
+ "dirichlet1837beweis": "no database record exists; checked by the researcher against page scans of the 1837 volume (HathiTrust), see the record's note",
+ "riemann1859anzahl": "no database record exists; checked by the researcher against the scan of the 1859 Monatsberichte (Google Books), see the record's note",
+ "stepanov1969number": "Math-Net.Ru English page read by the authors: Math. USSR-Izv. 3:5 (1969), 1103-1114; Russian original Izv. 33 (1969), 1171-1181",
+ "zarhin1977endomorphisms": "Math-Net.Ru English page read by the authors: Mat. Zametki 21:6 (1977), 737-744; Math. Notes 21:6 (1977), 415-419",
+ "chow1937algebraischen": "Crossref gives the series title only; the subtitle is from zbMATH",
+ "lazarsfeld2004positivity": "Crossref title is the short form of the same book",
+ "barnetlamb2012local": "Ann. Fac. Sci. Toulouse Math. (6) 21 (2012), no. 1; zbMATH gives 2012, Crossref's 2014 is the date of deposit",
+ "kollar2007lectures": "Annals of Mathematics Studies 166, Princeton University Press, 2007 (zbMATH); Crossref's 2009 is the e-book registration",
+ "lelong1957integration": "Bull. Soc. Math. France 85 (1957), 239-262, as on Numdam (BSMF_1957__85__239_0); Crossref's volume 79 is wrong"
+}

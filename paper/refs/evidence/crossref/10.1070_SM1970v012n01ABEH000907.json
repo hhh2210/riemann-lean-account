@@ -1,0 +1,157 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     7,
+     8
+    ]
+   ],
+   "date-time": "2026-07-08T01:54:42Z",
+   "timestamp": 1783475682638,
+   "version": "3.55.0"
+  },
+  "reference-count": 0,
+  "publisher": "Steklov Mathematical Institute",
+  "issue": "1",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Math. USSR Sb."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1970,
+     2,
+     28
+    ]
+   ]
+  },
+  "DOI": "10.1070/sm1970v012n01abeh000907",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     11,
+     9
+    ]
+   ],
+   "date-time": "2005-11-09T10:44:11Z",
+   "timestamp": 1131533051000
+  },
+  "page": "13-39",
+  "source": "Crossref",
+  "is-referenced-by-count": 15,
+  "title": [
+   "REPRESENTATIONS OF THE FULL LINEAR GROUP OVER A FINITE FIELD"
+  ],
+  "prefix": "10.4213",
+  "volume": "12",
+  "author": [
+   {
+    "given": "S I",
+    "family": "Gel'fand",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "2731",
+  "published-online": {
+   "date-parts": [
+    [
+     2007,
+     10,
+     18
+    ]
+   ]
+  },
+  "container-title": [
+   "Mathematics of the USSR-Sbornik"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "http://stacks.iop.org/0025-5734/12/i=1/a=A02/pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2024,
+     10,
+     4
+    ]
+   ],
+   "date-time": "2024-10-04T08:13:13Z",
+   "timestamp": 1728029593000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.mathnet.ru/eng/sm3499"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1970,
+     2,
+     28
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1970,
+      9,
+      1
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.1070/sm1970v012n01abeh000907",
+  "relation": {},
+  "ISSN": [
+   "0025-5734"
+  ],
+  "issn-type": [
+   {
+    "value": "0025-5734",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1970,
+     2,
+     28
+    ]
+   ]
+  }
+ }
+}

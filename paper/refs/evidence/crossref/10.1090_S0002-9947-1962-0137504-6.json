@@ -1,0 +1,356 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     10
+    ]
+   ],
+   "date-time": "2026-10-10T20:44:53Z",
+   "timestamp": 1791665093451,
+   "version": "4.3.4"
+  },
+  "reference-count": 18,
+  "publisher": "American Mathematical Society (AMS)",
+  "issue": "1",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Trans. Amer. Math. Soc."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1962
+    ]
+   ]
+  },
+  "DOI": "10.1090/s0002-9947-1962-0137504-6",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2010,
+     6,
+     30
+    ]
+   ],
+   "date-time": "2010-06-30T16:20:08Z",
+   "timestamp": 1277914808000
+  },
+  "page": "149-167",
+  "source": "Crossref",
+  "is-referenced-by-count": 365,
+  "title": [
+   "Linear symmetries of free boson fields"
+  ],
+  "prefix": "10.1090",
+  "volume": "103",
+  "author": [
+   {
+    "given": "David",
+    "family": "Shale",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "14",
+  "reference": [
+   {
+    "key": "1",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.2307/1969831",
+    "article-title": "On unitary ray representations of continuous groups",
+    "volume": "59",
+    "author": "Bargmann, V.",
+    "year": "1954",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "issue": "2",
+    "key": "2",
+    "doi-asserted-by": "publisher",
+    "first-page": "425",
+    "DOI": "10.2307/2371218",
+    "article-title": "Spinors in 𝑛 Dimensions",
+    "volume": "57",
+    "author": "Brauer, Richard",
+    "year": "1935",
+    "journal-title": "Amer. J. Math.",
+    "ISSN": "https://id.crossref.org/issn/0002-9327",
+    "issn-type": "print"
+   },
+   {
+    "key": "3",
+    "doi-asserted-by": "publisher",
+    "first-page": "222",
+    "DOI": "10.2307/1990880",
+    "article-title": "The mathematics of second quantization",
+    "volume": "74",
+    "author": "Cook, J. M.",
+    "year": "1953",
+    "journal-title": "Trans. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9947",
+    "issn-type": "print"
+   },
+   {
+    "key": "4",
+    "doi-asserted-by": "publisher",
+    "first-page": "342",
+    "DOI": "10.2307/1993405",
+    "article-title": "Examples of non-Gaussian quasi-invariant distributions in Hilbert space",
+    "volume": "99",
+    "author": "Feldman, Jacob",
+    "year": "1961",
+    "journal-title": "Trans. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9947",
+    "issn-type": "print"
+   },
+   {
+    "key": "5",
+    "doi-asserted-by": "publisher",
+    "first-page": "185",
+    "DOI": "10.2307/1990730",
+    "article-title": "Representations of a semisimple Lie group on a Banach space. I",
+    "volume": "75",
+    "author": "Harish-Chandra",
+    "year": "1953",
+    "journal-title": "Trans. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9947",
+    "issn-type": "print"
+   },
+   {
+    "key": "6",
+    "doi-asserted-by": "publisher",
+    "first-page": "273",
+    "DOI": "10.1073/pnas.43.3.273",
+    "article-title": "Irreducible operator algebras",
+    "volume": "43",
+    "author": "Kadison, Richard V.",
+    "year": "1957",
+    "journal-title": "Proc. Nat. Acad. Sci. U.S.A.",
+    "ISSN": "https://id.crossref.org/issn/0027-8424",
+    "issn-type": "print"
+   },
+   {
+    "key": "7",
+    "doi-asserted-by": "publisher",
+    "first-page": "106",
+    "DOI": "10.2307/1992855",
+    "article-title": "Tensor algebras over Hilbert spaces. I",
+    "volume": "81",
+    "author": "Segal, I. E.",
+    "year": "1956",
+    "journal-title": "Trans. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9947",
+    "issn-type": "print"
+   },
+   {
+    "key": "8",
+    "doi-asserted-by": "publisher",
+    "first-page": "297",
+    "DOI": "10.2307/1970001",
+    "article-title": "Ergodic subgroups of the orthogonal group on a real Hilbert space",
+    "volume": "66",
+    "author": "Segal, I. E.",
+    "year": "1957",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "9",
+    "doi-asserted-by": "publisher",
+    "first-page": "197",
+    "DOI": "10.2307/2032839",
+    "article-title": "The structure of a class of representations of the unitary group on a Hilbert space",
+    "volume": "8",
+    "author": "Segal, I. E.",
+    "year": "1957",
+    "journal-title": "Proc. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9939",
+    "issn-type": "print"
+   },
+   {
+    "key": "10",
+    "doi-asserted-by": "publisher",
+    "first-page": "12",
+    "DOI": "10.2307/1993234",
+    "article-title": "Distributions in Hilbert space and canonical systems of operators",
+    "volume": "88",
+    "author": "Segal, I. E.",
+    "year": "1958",
+    "journal-title": "Trans. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9947",
+    "issn-type": "print"
+   },
+   {
+    "issue": "12",
+    "key": "11",
+    "first-page": "39",
+    "article-title": "Foundations of the theory of dynamical systems of infinitely many degrees of freedom. I",
+    "volume": "31",
+    "author": "Segal, I. E.",
+    "year": "1959",
+    "journal-title": "Mat.-Fys. Medd. Danske Vid. Selsk.",
+    "ISSN": "https://id.crossref.org/issn/0023-3323",
+    "issn-type": "print"
+   },
+   {
+    "key": "12",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.4153/CJM-1961-001-7",
+    "article-title": "Foundations of the theory of dyamical systems of in- finitely many degrees of freedom. II",
+    "volume": "13",
+    "author": "Segal, I. E.",
+    "year": "1961",
+    "journal-title": "Canadian J. Math.",
+    "ISSN": "https://id.crossref.org/issn/0008-414X",
+    "issn-type": "print"
+   },
+   {
+    "key": "13",
+    "unstructured": "\\bysame, The characterisation of the physical vacuum, to appear."
+   },
+   {
+    "key": "14",
+    "doi-asserted-by": "crossref",
+    "unstructured": "B. Sz.Nagy, Spectraldarstellungen linearer Transformationen des hilbertschen Räume, Springer-Verlag, Berlin, 1942.",
+    "DOI": "10.1007/978-3-642-99166-0"
+   },
+   {
+    "key": "15",
+    "unstructured": "L. van Hove, Sur certaines représentations unitaires d’un groupe infini de transformations, Mémoires de Acad. Roy. de Belg. No. 1618 (1951)."
+   },
+   {
+    "issue": "1",
+    "key": "16",
+    "doi-asserted-by": "publisher",
+    "first-page": "570",
+    "DOI": "10.1007/BF01457956",
+    "article-title": "Die Eindeutigkeit der Schrödingerschen Operatoren",
+    "volume": "104",
+    "author": "v. Neumann, J.",
+    "year": "1931",
+    "journal-title": "Math. Ann.",
+    "ISSN": "https://id.crossref.org/issn/0025-5831",
+    "issn-type": "print"
+   },
+   {
+    "key": "17",
+    "unstructured": "H. Weyl, Gruppentheorie und Quantenmechanik, 2d ed., Leipzig, 1931."
+   },
+   {
+    "key": "18",
+    "unstructured": "N. Wiener, The Fourier integral, Dover, New York, 1951."
+   }
+  ],
+  "container-title": [
+   "Transactions of the American Mathematical Society"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://www.ams.org/tran/1962-103-01/S0002-9947-1962-0137504-6/S0002-9947-1962-0137504-6.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "https://www.ams.org/tran/1962-103-01/S0002-9947-1962-0137504-6/S0002-9947-1962-0137504-6.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     4,
+     5
+    ]
+   ],
+   "date-time": "2026-04-05T16:38:00Z",
+   "timestamp": 1775407080000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.ams.org/tran/1962-103-01/S0002-9947-1962-0137504-6/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1962
+    ]
+   ]
+  },
+  "references-count": 18,
+  "aliases": [
+   "10.2307/1993745"
+  ],
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1962
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "S0002-9947-1962-0137504-6"
+  ],
+  "URL": "https://doi.org/10.1090/s0002-9947-1962-0137504-6",
+  "archive": [
+   "CLOCKSS",
+   "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+   "1088-6850",
+   "0002-9947"
+  ],
+  "issn-type": [
+   {
+    "value": "1088-6850",
+    "type": "electronic"
+   },
+   {
+    "value": "0002-9947",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1962
+    ]
+   ]
+  }
+ }
+}

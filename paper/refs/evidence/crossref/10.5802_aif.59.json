@@ -1,0 +1,274 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     21
+    ]
+   ],
+   "date-time": "2026-10-21T12:45:09Z",
+   "timestamp": 1792586709812,
+   "version": "4.5.0"
+  },
+  "reference-count": 20,
+  "publisher": "MathDoc/Centre Mersenne",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "abstract": "<jats:p>\n                    Toute variété algébrique\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>X</mml:mi>\n                    </mml:math>\n                    sur le corps des nombres complexes peut être munie, de façon canonique, d’une structure d’espace analytique ; tout faisceau algébrique cohérent sur\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>X</mml:mi>\n                    </mml:math>\n                    détermine un faisceau analytique cohérent. Lorsque\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>X</mml:mi>\n                    </mml:math>\n                    est une variété projective, nous montrons que, réciproquement, tout faisceau analytique cohérent sur\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>X</mml:mi>\n                    </mml:math>\n                    peut être obtenu ainsi, et de façon unique ; de plus, cette correspondance préserve les groupes de cohomologie. Ces résultats contiennent comme cas particuliers des théorèmes classiques de Chow et Lefschetz, et permettent d’aborder la comparaison entre espaces fibrés algébriques et espaces fibrés analytiques de base une variété algébrique projective.\n                  </jats:p>",
+  "DOI": "10.5802/aif.59",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2011,
+     9,
+     5
+    ]
+   ],
+   "date-time": "2011-09-05T05:10:02Z",
+   "timestamp": 1315199402000
+  },
+  "page": "1-42",
+  "source": "Crossref",
+  "is-referenced-by-count": 434,
+  "title": [
+   "Géométrie algébrique et géométrie analytique"
+  ],
+  "prefix": "10.5802",
+  "volume": "6",
+  "author": [
+   {
+    "given": "Jean-Pierre",
+    "family": "Serre",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "3842",
+  "published-online": {
+   "date-parts": [
+    [
+     1956
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "key2025101015530397367_1",
+    "article-title": "Idéaux et modules de fonctions analytiques de variables complexes",
+    "author": "H. CARTAN",
+    "year": "1950",
+    "unstructured": "[1] H. Cartan. Idéaux et modules de fonctions analytiques de variables complexes. Bull. Soc. Math. France, 78, 1950, pp. 29-64."
+   },
+   {
+    "key": "key2025101015530397367_2",
+    "article-title": "Séminaire E. N. S.",
+    "author": "H. CARTAN",
+    "year": "1951",
+    "unstructured": "[2] H. Cartan. Séminaire E. N. S., 1951-1952."
+   },
+   {
+    "key": "key2025101015530397367_3",
+    "article-title": "Séminaire E. N. S.",
+    "author": "H. CARTAN",
+    "year": "1953",
+    "unstructured": "[3] H. Cartan. Séminaire E. N. S., 1953-1954."
+   },
+   {
+    "key": "key2025101015530397367_4",
+    "article-title": "Séminaire E. N. S.",
+    "author": "H. CARTAN",
+    "year": "1955",
+    "unstructured": "[4] H. Cartan et C. Chevalley. Séminaire E. N. S., 1955-1956."
+   },
+   {
+    "key": "key2025101015530397367_5",
+    "article-title": "Un théorème de finitude concernant les variétés analytiques compactes",
+    "author": "H. CARTAN",
+    "year": "1953",
+    "unstructured": "[5] H. Cartan et J.-P. Serre. Un théorème de finitude concernant les variétés analytiques compactes. C. R., 237, 1953, pp. 128-130."
+   },
+   {
+    "key": "key2025101015530397367_6",
+    "article-title": "On compact complex analytic varieties",
+    "author": "W-L. CHOW",
+    "year": "1949",
+    "unstructured": "[6] W-L. Chow. On compact complex analytic varieties. Amer. J. of Maths., 71, 1949, pp. 893-914."
+   },
+   {
+    "key": "key2025101015530397367_7",
+    "article-title": "On the projective embedding of homogeneous varieties",
+    "author": "W-L. CHOW",
+    "year": "1956",
+    "unstructured": "[7] W-L. Chow. On the projective embedding of homogeneous varieties. Lefschetz's volume, Princeton, 1956."
+   },
+   {
+    "key": "key2025101015530397367_8",
+    "article-title": "Sur la cohomologie des variétés analytiques complexes",
+    "author": "P. DOLBEAULT",
+    "year": "1953",
+    "unstructured": "[8] P. Dolbeault. Sur la cohomologie des variétés analytiques complexes. C. R., 236, 1953, pp. 175-177."
+   },
+   {
+    "key": "key2025101015530397367_9",
+    "article-title": "Cohomologie à valeurs dans un faisceau non abélien",
+    "author": "J. FRENKEL",
+    "year": "1955",
+    "unstructured": "[9] J. Frenkel. Cohomologie à valeurs dans un faisceau non abélien. C. R., 240, 1955, pp. 2368-2370."
+   },
+   {
+    "key": "key2025101015530397367_10",
+    "article-title": "A general theory of fibre spaces with structure sheaf",
+    "author": "A. GROTHENDIECK",
+    "year": "1955",
+    "unstructured": "[10] A. Grothendieck. A general theory of fibre spaces with structure sheaf. Kansas Univ., 1955."
+   },
+   {
+    "key": "key2025101015530397367_11",
+    "article-title": "On Kähler varieties of restricted type (an intrinsic characterization of algebraic varieties)",
+    "author": "K. KODAIRA",
+    "year": "1954",
+    "unstructured": "[11] K. Kodaira. On Kähler varieties of restricted type (an intrinsic characterization of algebraic varieties). Ann. of Maths., 60, 1954, pp. 28-48."
+   },
+   {
+    "key": "key2025101015530397367_12",
+    "article-title": "Divisor class groups on algebraic varieties",
+    "author": "K. KODAIRA",
+    "year": "1953",
+    "unstructured": "[12] K. Kodaira and D. C. Spencer. Divisor class groups on algebraic varieties. Proc. Nat. Acad. Sci. U. S. A., 39, 1953, pp. 872-877."
+   },
+   {
+    "key": "key2025101015530397367_13",
+    "article-title": "Some basic theorems on algebraic groups",
+    "author": "M. ROSENLICHT",
+    "year": "1956",
+    "unstructured": "[13] M. Rosenlicht. Some basic theorems on algebraic groups. Amer J. of Maths., 78, 1956, pp. 401-443."
+   },
+   {
+    "key": "key2025101015530397367_14",
+    "article-title": "Zum Eliminationsproblem der Potenzreihenideale",
+    "author": "W. RÜCKERT",
+    "year": "1933",
+    "unstructured": "[14] W. Rückert. Zum Eliminationsproblem der Potenzreihenideale. Math. Ann., 107, 1933, pp. 259-281."
+   },
+   {
+    "key": "key2025101015530397367_15",
+    "article-title": "Commutative Algebra (Notes by D. Herzig)",
+    "author": "P. SAMUEL",
+    "year": "1953",
+    "unstructured": "[15] P. Samuel. Commutative Algebra (Notes by D. Herzig). Cornell Univ., 1953."
+   },
+   {
+    "key": "key2025101015530397367_16",
+    "article-title": "Algèbre locale",
+    "author": "P. SAMUEL",
+    "year": "1953",
+    "unstructured": "[16] P. Samuel. Algèbre locale. Mém. Sci. Math., 123, Paris, 1953."
+   },
+   {
+    "key": "key2025101015530397367_17",
+    "article-title": "Méthodes d'algèbre abstraite en géométrie algébrique",
+    "author": "P. SAMUEL",
+    "year": "1955",
+    "unstructured": "[17] P. Samuel. Méthodes d'algèbre abstraite en géométrie algébrique. Ergebn. der Math., Springer, 1955."
+   },
+   {
+    "key": "key2025101015530397367_18",
+    "article-title": "Faisceaux algébriques cohérents",
+    "author": "J.-P. SERRE",
+    "year": "1955",
+    "unstructured": "[18] J.-P. Serre. Faisceaux algébriques cohérents. Ann. of Maths., 61, 1955, pp. 197-278."
+   },
+   {
+    "key": "key2025101015530397367_19",
+    "article-title": "Sur la cohomologie des variétés algébriques",
+    "author": "J.-P. SERRE",
+    "year": "1956",
+    "unstructured": "[19] J.-P. Serre. Sur la cohomologie des variétés algébriques. J. de Maths. Pures et Appl., 35, 1956."
+   },
+   {
+    "key": "key2025101015530397367_20",
+    "article-title": "Fibre-spaces in algebraic geometry",
+    "author": "A. WEIL",
+    "year": "1952",
+    "unstructured": "[20] A. Weil. Fibre-spaces in algebraic geometry (Notes by A. Wallace). Chicago Univ., 1952."
+   }
+  ],
+  "container-title": [
+   "Annales de l'Institut Fourier"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://aif.centre-mersenne.org/item/10.5802/aif.59.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2025,
+     10,
+     10
+    ]
+   ],
+   "date-time": "2025-10-10T13:53:09Z",
+   "timestamp": 1760104389000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://aif.centre-mersenne.org/articles/10.5802/aif.59/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1956
+    ]
+   ]
+  },
+  "references-count": 20,
+  "alternative-id": [
+   "10.5802/aif.59"
+  ],
+  "URL": "https://doi.org/10.5802/aif.59",
+  "relation": {},
+  "ISSN": [
+   "1777-5310"
+  ],
+  "issn-type": [
+   {
+    "value": "1777-5310",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1956
+    ]
+   ]
+  }
+ }
+}

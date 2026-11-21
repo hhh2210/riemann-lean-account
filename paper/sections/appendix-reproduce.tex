@@ -1,0 +1,43 @@
+\section{Reproducing the verification}\label{app:reproduce}
+
+Everything needed to repeat \cref{sec:verification} is in the repository
+\begin{center}
+\url{https://github.com/vincitamore/riemann-lean-account}
+\end{center}
+together with the source of this paper, the reading notes, the delegated reports and the audit.
+The archive itself is not redistributed there; it is fetched from the author's site and checked
+against the hash of \cref{sec:verification}.
+
+\subsection*{Requirements}
+A Linux machine with at least 32 cores, 128\,GB of memory and 150\,GB of free disk gives the
+times quoted here. The scripts in \lean{verify/} assume only a shell, \lean{curl}, and
+\lean{elan}.
+
+\subsection*{Steps}
+\begin{enumerate}
+\item \lean{setup.sh} downloads the fourteen parts, concatenates them, checks the SHA-256,
+  unpacks, installs the pinned toolchain and fetches the Mathlib build cache for the pinned
+  commit.
+\item \lean{build.sh} runs \lean{lake build Main} with every log line time-stamped and records
+  the exit code.
+\item \lean{janitor.sh} must run beside the build. Lake writes, for every module, a file listing
+  the module's whole import closure; for this tree those files would total about 900\,GB. The
+  script deletes each one once its module's compiled file exists, which Lake tolerates. With it
+  the disk peaks near 110\,GB.
+\item \lean{check.sh} prints the statement of the main theorem, the module in which Mathlib's
+  statement is declared, and the axioms of the five theorems.
+\item \lean{cut.sh} builds and runs the program \lean{cut/CutMain.lean}, which computes the
+  dependency cone of \cref{sec:cone} and writes the list of every declaration of the archive
+  inside it and outside it.
+\item \lean{replay.sh} builds and runs the program \lean{replay/ReplayMain.lean}, the kernel
+  replay of \cref{sec:verification}.
+\end{enumerate}
+The outputs of our own run are in \lean{verify/results/}: the head and tail of the build log,
+the output of the check, the cone summary with the complete lists of declarations inside and
+outside the cone (compressed), the replay summary with the lists of axioms and of
+declarations not replayed, and the output of the corollaries file.
+
+\subsection*{Cost}
+The build took \buildhours{} hours of wall time on 32 cores, the cone about ten minutes and the
+replay \replayminutes{} minutes. On rented hardware the whole verification cost about thirty US
+dollars.

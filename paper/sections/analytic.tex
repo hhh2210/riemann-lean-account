@@ -1,0 +1,174 @@
+\section{The analytic half}\label{sec:analytic}
+
+\subsection{Landau on windows}\label{sec:landau}
+For a Dirichlet character $\chi$ and $y>0$ put \lvS
+\begin{equation}\label{eq:G}
+G_\chi(y)=
+\begin{cases}
+\displaystyle\sum_{n\le y}\Lambda(n)\Bigl(\frac yn-1\Bigr)-y\log y+(1+\gamma)\,y, & \chi=1,\\[1.2em]
+\displaystyle\sum_{n\le y}\Lambda(n)\chi(n)\Bigl(\frac yn-1\Bigr)+y\,\frac{L'}{L}(1,\chi), & \chi\neq1,
+\end{cases}
+\end{equation}
+where $\Lambda$ is the von Mangoldt function and $\gamma$ Euler's constant. This is a prime
+sum with the smooth weight $(y/n-1)_+$, less its expected main term; by the explicit formula
+\cite{montgomery2007multiplicative}
+it is a sum of $-y^{\rho}/(\rho(\rho-1))$ over zeros $\rho$, plus lower-order terms. We write
+$G=G_1$. A \emph{family} $F$ is a finite set of characters $\chi_i$, each either non-trivial or
+of modulus~$1$, with positive weights $a_i$, and
+$G_F(y)=\sum_i a_i\,\re G_{\chi_i}(y)$.
+
+\begin{statement}[\lean{zeroFree_of_rpow_window}]\label{st:landau}
+Let $0<\theta<1$, $\delta>0$ and $C$ be real. Suppose that for every $Y_0$ there is $Y\ge Y_0$
+with $G_F(y)\le C\,y^{\theta}$ for all $y\in[Y,Y^{1+\delta}]$. Then $L(s,\chi_i)\neq0$ for
+every $i$ and every $s$ with $\re s>\theta$.
+\end{statement}
+
+In the application the family is a \emph{level} $\Lambda$ \lvS: a finite set $K$ of primitive
+characters that contains the trivial character and is closed under inversion, at most one
+distinguished odd real character $\psi_K\in K$, and an integer $o\ge1$, with
+\begin{equation}\label{eq:level}
+G_\Lambda(y)=G(y)+\sum_{\psi\in K,\ \psi\neq1}\mathrm{wt}(\psi)\,\re G_\psi(y),\qquad
+\mathrm{wt}(\psi)=\begin{cases}1,&\psi=\psi_K,\\ (3o+1)^{-1},&\text{otherwise}\end{cases}
+\end{equation}
+(\lean{Level.Gm}). The theorem is proved level by level (\lean{zeroFreeOn_of_levels}).
+
+Landau's classical theorem \cite{landau1905} concerns a Dirichlet series with non-negative
+coefficients and needs the bound for all large $x$. The windowed form is what lets the rest of
+the proof work only at scales where suitable auxiliary fields exist. Its proof
+takes the Laplace transform of $u\mapsto G(e^u)$ and looks at its $k$-th Taylor
+coefficient at a real point $\sigma$; that coefficient is an integral of $G$ against a Gamma
+kernel which, for $k\approx(1+\delta/2)\sigma\log Y$, is concentrated in the window. A zero to
+the right of $\theta$ contributes a residue of a definite sign and makes these coefficients
+grow; a two-case argument on whether the zero nearest to $\sigma$ is real handles complex
+zeros. The only input from the theory of $L$-functions is non-vanishing on $\re s\ge1$.
+
+The theorem is applied with $\delta=\tfrac12$, that is on windows $[Y,Y^{3/2}]$, and with
+$\theta=\tfrac12+C\eps$ for every small $\eps$.
+
+\subsection{An exact identity}\label{sec:identity}
+Let $H$ be a finite abelian group and $\mathfrak G=(\Z/2)^2\times H$; in the application
+$\mathfrak G$ is the Galois group of an abelian CM field $E/\Q$, the \emph{host}
+(\cref{sec:hosts}). Let $\Phi\subset\mathfrak G$ be the set of elements whose first coordinate
+is $0$, a CM type. Every rational prime $p$ has a Frobenius element and an inertia group in
+$\mathfrak G$, and every character $\psi$ of $\mathfrak G$ is a Dirichlet character with its own
+function $G_\psi$. The host is required to satisfy the following \lvS{}
+(\lean{HostFactsS}): there are a prime $d$ and a finite set $S$ of primes containing $2$ and a
+second prime $q$, with $d\notin S$, such that every prime outside $S\cup\{d\}$ is unramified,
+the inertia group and the Frobenius element of every prime of $S$ lie in $\Phi$, and the inertia
+group at $d$ is $\{0,\sigma\}$ for a fixed element $\sigma$.
+
+Fix a size $a>0$, a translate $t\in H$, and a weight $w(\rho)>0$ for each $\rho\in\Phi$. A fixed
+bijection, depending on $t$, pairs each $g\notin\Phi$ with a partner $\rho_g\in\Phi$. Put
+\begin{align}
+\ASK &= \sum_{p}2\log p\sum_{\substack{i\ge1\\ \Frob_p^{\,i}\notin\Phi}}
+        \max\!\Bigl(\frac{a}{p^{i}}-w(\rho_{p,i}),\,0\Bigr)\ +\ (\text{a term at } d),
+        \label{eq:ask}\\
+\MAIN &= a\Bigl(\log a-1-\gamma+\frac{L'}{L}(1,\chi_\Phi)
+        -\frac1{\abs\Phi}\sum_{\rho\in\Phi}\log w(\rho)\Bigr),\label{eq:main}
+\end{align}
+where $\rho_{p,i}$ is the partner of $\Frob_p^{\,i}$ and $\chi_\Phi$ is the quadratic character
+that cuts out $\Phi$.
+
+\begin{statement}[\lean{ch_balance}]\label{st:balance}
+For a host satisfying the conditions above,
+\[
+\ASK-\MAIN\;=\;\frac1{\abs\Phi}\sum_{g\notin\Phi}\ \sum_{\psi\in\widehat{\mathfrak G}}
+\overline{\psi}(g)\,w(\rho_g)\,G_\psi\!\Bigl(\frac{a}{w(\rho_g)}\Bigr).
+\]
+\end{statement}
+This is orthogonality of characters applied to the count; nothing is estimated. Its meaning is
+that $\ASK$, a count of prime powers $p^i\le a/w$ whose Frobenius avoids $\Phi$, weighted so
+that each contributes about $a/p^i$, has an explicit main term, and that its deviation from the
+main term is a combination of the sums $G_\psi$ at the points $a/w(\rho)$. An \emph{upper}
+bound for $\ASK$ is therefore a one-sided statement about those sums.
+
+\subsection{From the count to $G$}\label{sec:reduction}
+Let $A_0\subset H$ be a subgroup, and let $\Psi(A_0)$ be the set of characters of
+$\mathfrak G$ that are trivial on $A_0$. Take a set $TT\subset H$ of sizes with
+$\abs{a_t/b-x}\le1$, a set $T_2\subset A_0$, and $m$ systems of weights
+$w_{u_0,j}$, indexed by $j=1,\dots,m$ and by a translate $u_0\in A_0$. The weights are of two
+kinds \lvS{} (\lean{SizesA}):
+\begin{itemize}
+\item on the \emph{thick} places, the images of $T_2+u_0$, the weight lies in $[b,\,b+\eta+1]$,
+  so that $a/w\approx x$, the scale of interest;
+\item on the other places of $\Phi$ the weight is at most $2b'$, with $b'X'\le xb$, so that
+  $a/w\ge X'/3$, a scale at which every $G_\psi$ is assumed negligible:
+  $\abs{G_\psi(y)}\le\theta y$ for $y\ge X'/3$, with $\theta\le(2\abs\Phi\,x(x+1))^{-1}$
+  (\lean{ThinScales}, \lean{CostWindows}). In the application $X'=\exp(x^{\eps/3})$ and
+  $\theta=\exp(-c\,x^{\eps/8})$ \lvS{} (\lean{Char_at}), the quality of the classical
+  zero-free region.
+\end{itemize}
+Let $K'\subset\Psi(A_0)$ be a set of \emph{kept} characters, containing the trivial one, each
+with $\psi(\sigma)=1$, and let $\abs c\le1$. Put
+\[
+G_{K'}(x)=\sum_{\psi\in K'}\mathrm{wt}_c(\psi)\,\re G_\psi(x),\qquad
+\Sigma_{K'}(x)=\sum_{\psi\in\Psi(A_0)\setminus K'}\abs{G_\psi(x)},
+\]
+where $\mathrm{wt}_c(\psi)$ is $1$ if $\psi$ is trivial on $H$ and $c$ otherwise.
+
+\begin{statement}[\lean{ch_core}]\label{st:core}
+Let $C\ge0$, $\eps>0$, $\abs c\le1$ and constants $M$, $K_o$, $C_E$ be given. For all
+sufficiently large $x$ the following holds. Assume the conditions on the host and the sizes
+above, the size conditions of \cref{sec:balance}, and
+\begin{enumerate}
+\item $\abs{\Psi(A_0)}\le M$, and for each kept $\psi$ that is not trivial on $H$,
+  $\bigl|\sum_{t\in TT}\psi(0,t)-c\,\abs{TT}\bigr|\le M\,x^{-1+\eps}\abs{TT}$;
+\item $\abs{\tfrac{L'}{L}(1,\psi)}\le K_o$ for kept $\psi\neq1$, and $\le C_E\log x$ for the
+  other $\psi\in\Psi(A_0)$;
+\item for every translate $u_0\in A_0$,
+  \[
+  \sum_{t\in TT}\sum_{j=1}^{m}\bigl(\ASK-\re\MAIN\bigr)(a_t,t,w_{u_0,j})\ \le\ x^{C\eps}\,\mathrm{Br},
+  \]
+  where $\mathrm{Br}$ is the bracket of \cref{sec:balance}.
+\end{enumerate}
+Then $G_{K'}(x)\le x^{1/2+(C+3)\eps}+\Sigma_{K'}(x)$.
+\end{statement}
+
+The proof applies \cref{st:balance} to each term of (3). Condition (1) says that the sizes
+$TT$ see each kept character with the same weight $c$, which is what turns the sum over
+$t\in TT$ of $\psi(1,t)\,G_\psi(a_t/b)$ into $\abs{TT}\,\mathrm{wt}_c(\psi)\,G_\psi(x)$ up to an
+error; the characters that are not kept are bounded by their absolute values. The outcome is
+\begin{equation}\label{eq:reduction}
+\abs{TT}\,m\,b\,\frac{\delta}{2}\,\Bigl(G_{K'}(x)-\Sigma_{K'}(x)-4x^{1/2+\eps}\Bigr)\ \le\
+x^{C\eps}\,\mathrm{Br}+\frac{2\abs{TT}\,m\,b}{x},
+\end{equation}
+where $\delta=\abs{T_2}/\abs H$ is the density of the thick set, and \cref{sec:balance} converts
+this into the statement.
+
+For a level $\Lambda$ and a host adapted to it, $K'$ is the image of the level's characters,
+$c=(3o+1)^{-1}$ and $M=4o$; then $G_{K'}=G_\Lambda$ (\lean{gmA_eq}) and
+$\Sigma_{K'}(x)\le4o\,x^{1/2+\eps}$ (\lean{sigA_le}), the latter because the host is chosen so
+that its other characters satisfy $\abs{G_\psi(x)}\le x^{1/2+\eps}$ at the single point $x$;
+\cref{sec:hosts} explains why this is not circular. Hence \lvP{} (\lean{core_gm})
+\begin{equation}\label{eq:coregm}
+G_\Lambda(x)\ \le\ x^{1/2+(e_D+e_L+7)\eps},
+\end{equation}
+with $e_D$ and $e_L$ the exponents of the divisibility and loss clauses of the record of
+\cref{sec:cast}. Condition (3) is the lattice inequality of \cref{sec:lattices}, applied to
+each translate (\lean{ch_top}).
+
+\subsection{Three costs and the exponent $\tfrac12$}\label{sec:balance}
+The size conditions \lvS{} (\lean{SizeWindows}) involve a rank parameter $k$ with
+$xm\le k\le n^2x^{1/2-\eps}$, where $n=\abs H$. The bracket of \cref{st:core} is
+\[
+\mathrm{Br}=\abs{TT}\,a_E\,\bigl(1+\tfrac{m^2}{k}\bigr)
+   +m\,\bigl(2nmb\,x^{\eps}+\abs{T_2}\,k\,b\,x^{2\eps}/n^2\bigr),\qquad a_E\le 2xb,
+\]
+and we write $\Err=x^{C\eps}\,\mathrm{Br}$.
+Divided by the normalisation $\abs{TT}\,m\,b\,\delta$ on the left of \eqref{eq:reduction}, the
+three terms are of sizes
+\[
+\frac{x}{m},\qquad m,\qquad \frac{k}{n^{2}},
+\]
+up to factors $x^{O(\eps)}$. The first falls with the number of lifts and the second rises with
+it. At $m\approx\sqrt x$, with $k\le n^2\sqrt x$, all three are $x^{1/2+O(\eps)}$ and
+\eqref{eq:reduction} gives $G_{K'}(x)-\Sigma_{K'}(x)\le x^{1/2+(C+3)\eps}$ \lvS{}
+(\lean{GrowthSizeBound}).
+
+\begin{remark}
+This is the only place where $\tfrac12$ is produced. Everything that follows is devoted to
+proving one inequality, $\ASK\le\MAIN+\Err$ with $\Err$ of the size above, and the three terms
+of $\Err$ have clear origins there: $x/m$ is the main term of a single lattice computation
+spread over $m$ lifts; $m$ is the price of each lift; and $k/n^2$ comes from a dimension count
+(\cref{sec:period}).
+\end{remark}

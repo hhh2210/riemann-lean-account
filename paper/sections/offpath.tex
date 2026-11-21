@@ -1,0 +1,71 @@
+\section{What the final theorem does not use}\label{sec:offpath}
+
+Nearly every file of the archive imports nearly every other, so the import graph says nothing
+about what depends on what. The statements of this section are instead computed from the
+compiled archive: the \emph{cone} of \lean{riemannHypothesis} is the set of all declarations
+reachable from it through the type and the value of every declaration reached
+(\cref{sec:cone}). It has \conesize{} declarations, of which \conemathlib{} belong to
+Mathlib. The other four theorems of \lean{Main.lean} are derived from the same statement for
+all characters, by short arguments of their own: the cone of all five has \conefive{}
+declarations, twenty-four more.
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{@{}lrrr@{}}
+\toprule
+ & in the archive & in the cone & share\\
+\midrule
+Theorems & \projtheorems & \coneprojtheorems & 69\%\\
+Definitions & \projdefs & \coneprojdefs & 54\%\\
+Modules that declare something & \projmodules & \coneprojmodules & 84\%\\
+\bottomrule
+\end{tabular}
+\caption{The archive and the cone of \texttt{riemannHypothesis}. A module is counted in the
+cone if it declares at least one declaration of the cone.}\label{tab:cone}
+\end{table}
+
+So about a third of the archive's theorems, 494{,}644 of them, are not used by the final
+theorem. They are compiled and checked by the kernel like the rest
+(\cref{sec:verification}); they are simply not on the path. By top-level directory the unused
+modules number 22{,}037 of 141{,}928 in \lean{Development}, 3{,}224 of 18{,}254 in
+\lean{Formalism}, 1{,}814 of 8{,}507 in \lean{GroundTheory}, 360 of 3{,}845 in
+\lean{ReciprocityTheory}, 140 of 2{,}027 in \lean{CompanionTheory} and 106 of 449 in
+\lean{PositivityTheory}.
+
+What is unused includes earlier and parallel forms of steps that are on the path. Each of the
+following was confirmed outside the cone by its full name.
+\begin{itemize}
+\item \emph{Conditional reductions.} Several statements of the form ``if such data exist at
+  every scale, then the Riemann Hypothesis holds'':
+  \begin{center}\small
+  \begin{tabular}{@{}ll@{}}
+  \lean{RiemannHypothesisOfLowerBounds} & \lean{RiemannHypothesisOfHalfLinks}\\
+  \lean{WeightedSieveImpliesRH} & \lean{WeightedSieveImpliesRHThreeParameter}\\
+  \lean{GrowthBoundGivesRiemannHypothesis} & \lean{RiemannHypothesisOfBalanceAndGrowthData}
+  \end{tabular}
+  \end{center}
+  One more of this kind, \lean{ZetaQuarterPowerCorollary}, takes the number of lifts
+  $m\approx x^{1/4}$ and concludes only that $\zeta(s)\neq0$ for $\re s>\tfrac34$.
+\item \emph{A first form of the analytic half.} The identity of \cref{st:balance} and the
+  reduction of \cref{sec:reduction} exist a second time, as \lean{AskMainBalance} (proved as
+  \lean{colour_balance}) and \lean{GrowthInequalityForm}, for hosts ramified at most at $2$
+  and two odd primes. The path uses the versions that allow a set $S$ of primes in place of
+  $2$ and the first odd prime (\lean{ch_balance}, \lean{ch_core}).
+\item \emph{Two further copies of the gain formula} of \cref{sec:adm}, in other namespaces.
+\item \emph{Other forms of single steps:} the jet statement \lean{thmBGauss}; a second form
+  of the mean bound, \lean{MeanBoundSecondForm}; the determinant statements \lean{DetGain}
+  (if $g_p\le v_p(\Delta)$ on a set of primes then $\sum g_p\log p\le\log\abs\Delta$),
+  \lean{DetChain} and \lean{DetBlocks}; a Bessel period
+  statement \lean{BesselPeriodGGP}; the congruence-number statements for $\GSp_4$
+  (\lean{NumberSp4}) and the first form for $\U(3)$ (\lean{CongruenceNumberRankThree});
+  and one of the derivations of the lower bound for the scalar of the lifts,
+  \lean{lamLow_of_classicalTheorems}.
+\end{itemize}
+
+In the other direction, every theorem declared in the file that collects the results taken from
+the literature (\cref{sec:literature}), \hubtheorems{} in all with the auxiliary ones, is in the cone. None of that
+library is decoration.
+
+The archive declares no axiom of its own, on the path or off it: among its 1{,}945{,}519
+declarations there are theorems, definitions, inductive types with their constructors and
+recursors, and two opaque constants, and nothing else.

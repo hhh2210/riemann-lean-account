@@ -1,0 +1,371 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     6
+    ]
+   ],
+   "date-time": "2026-10-06T03:52:12Z",
+   "timestamp": 1791258732539,
+   "version": "4.1.0"
+  },
+  "reference-count": 30,
+  "publisher": "MathDoc/Centre Mersenne",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1970,
+       1,
+       7
+      ]
+     ],
+     "date-time": "1970-01-07T00:00:00Z",
+     "timestamp": 518400000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "DOI": "10.1007/bf02684654",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2007,
+     8,
+     16
+    ]
+   ],
+   "date-time": "2007-08-16T01:20:04Z",
+   "timestamp": 1187227204000
+  },
+  "page": "125-180",
+  "source": "Crossref",
+  "is-referenced-by-count": 166,
+  "title": [
+   "Periods of integrals on algebraic manifolds, III (Some global differential-geometric properties of the period mapping)"
+  ],
+  "prefix": "10.5802",
+  "volume": "38",
+  "author": [
+   {
+    "given": "Phillip A.",
+    "family": "Griffiths",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "3842",
+  "published-online": {
+   "date-parts": [
+    [
+     1970,
+     1,
+     7
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "key2026021712133849672_1",
+    "article-title": "The signature of fibre-bundles",
+    "author": "M. F. ATIYAH",
+    "year": "1969",
+    "unstructured": "[1] M. F. Atiyah, The signature of fibre-bundles, Global Analysis (papers in honor of K. Kodaira), Princeton Univ. Press (1969), 73-89."
+   },
+   {
+    "key": "key2026021712133849672_2",
+    "article-title": "Sur les variétés analytiques complexes",
+    "author": "A. BLANCHARD",
+    "year": "1956",
+    "unstructured": "[2] A. Blanchard, Sur les variétés analytiques complexes, Ann. Sci. École Norm. Sup., 73 (1956), 157-202."
+   },
+   {
+    "key": "key2026021712133849672_3",
+    "article-title": "Curvature and Betti Numbers",
+    "author": "S. BOCHNER",
+    "year": "1953",
+    "unstructured": "[3] S. Bochner and K. Yano, Curvature and Betti Numbers, Princeton Univ. Press, 1953."
+   },
+   {
+    "key": "key2026021712133849672_4",
+    "article-title": "Arithmetic subgroups of algebraic groups",
+    "author": "A. BOREL",
+    "year": "1962",
+    "unstructured": "[4] A. Borel and Harish-Chandra, Arithmetic subgroups of algebraic groups, Ann. of Math., 75 (1962), 485-535."
+   },
+   {
+    "key": "key2026021712133849672_5",
+    "article-title": "Uniqueness conditions for certain holomorphic mappings",
+    "author": "A. BOREL",
+    "year": "1966",
+    "unstructured": "[5] A. Borel and R. Narasimhan, Uniqueness conditions for certain holomorphic mappings, Invent. Math., 2 (1966), 247-255."
+   },
+   {
+    "key": "key2026021712133849672_6",
+    "article-title": "Leçons sur la géométrie des espaces de Riemann",
+    "author": "E. CARTAN",
+    "year": "1951",
+    "unstructured": "[6] E. Cartan, Leçons sur la géométrie des espaces de Riemann, Paris, Gauthier-Villars, 1951."
+   },
+   {
+    "key": "key2026021712133849672_7",
+    "article-title": "On holomorphic mappings of Hermitian manifolds of the same dimension",
+    "author": "S. S. CHERN",
+    "year": "1968",
+    "unstructured": "[7] S. S. Chern, On holomorphic mappings of Hermitian manifolds of the same dimension, Proc. Symp. in Pure Math., 11, American Mathematical Society, 1968."
+   },
+   {
+    "key": "key2026021712133849672_8",
+    "article-title": "Characteristic classes of Hermitian manifolds",
+    "author": "S. S. CHERN",
+    "year": "1946",
+    "unstructured": "[8] S. S. Chern, Characteristic classes of Hermitian manifolds, Ann. of Math., 47 (1946), 85-121."
+   },
+   {
+    "key": "key2026021712133849672_9",
+    "article-title": "Théorie de Hodge",
+    "author": "P. DELIGNE",
+    "unstructured": "[9] P. Deligne, Théorie de Hodge, to appear in Publ. I.H.E.S."
+   },
+   {
+    "key": "key2026021712133849672_10",
+    "article-title": "Über Modifikationen und exzeptionelle analytische Mengen",
+    "author": "H. GRAUERT",
+    "year": "1962",
+    "unstructured": "[10] H. Grauert, Über Modifikationen und exzeptionelle analytische Mengen, Math. Annalen, 146 (1962), 331-368."
+   },
+   {
+    "key": "key2026021712133849672_11",
+    "article-title": "Periods of integrals on algebraic manifolds, I and II",
+    "author": "P. A. GRIFFITHS",
+    "year": "1968",
+    "unstructured": "[11] P. A. Griffiths, Periods of integrals on algebraic manifolds, I and II, Amer. Jour. Math., 90 (1968), 568-626 and 805-865."
+   },
+   {
+    "key": "key2026021712133849672_12",
+    "article-title": "Monodromy of homology and periods of integrals on algebraic manifolds",
+    "author": "P. A. GRIFFITHS",
+    "year": "1968",
+    "unstructured": "[12] P. A. Griffiths, Monodromy of homology and periods of integrals on algebraic manifolds, lecture notes available from Princeton University, 1968."
+   },
+   {
+    "key": "key2026021712133849672_13",
+    "article-title": "Periods of integrals on algebraic manifolds",
+    "author": "P. A. GRIFFITHS",
+    "year": "1970",
+    "unstructured": "[13] P. A. Griffiths, Periods of integrals on algebraic manifolds, Bull. Amer. Math. Soc., 75 (1970), 228-296."
+   },
+   {
+    "key": "key2026021712133849672_14",
+    "article-title": "Some results on algebraic cycles on algebraic manifolds",
+    "author": "P. A. GRIFFITHS",
+    "year": "1969",
+    "unstructured": "[14] P. A. Griffiths, Some results on algebraic cycles on algebraic manifolds, Algebraic Geometry (papers presented at Bombay Colloquium), Oxford University Press, 1969, 93-191."
+   },
+   {
+    "key": "key2026021712133849672_15",
+    "article-title": "Periods of certain rational integrals",
+    "author": "P. A. GRIFFITHS",
+    "year": "1969",
+    "unstructured": "[15] P. A. Griffiths, Periods of certain rational integrals, Ann. of Math., 90 (1969), 460-541."
+   },
+   {
+    "key": "key2026021712133849672_16",
+    "article-title": "Locally homogeneous complex manifolds",
+    "author": "P. A. GRIFFITHS",
+    "year": "1970",
+    "unstructured": "[16] P. A. Griffiths and W. Schmid, Locally homogeneous complex manifolds, Acta Math., 123 (1970), 253-302."
+   },
+   {
+    "key": "key2026021712133849672_17",
+    "article-title": "Un théorème sur les homomorphismes de schémas abéliens",
+    "author": "A. GROTHENDIECK",
+    "year": "1966",
+    "unstructured": "[17] A. Grothendieck, Un théorème sur les homomorphismes de schémas abéliens, Invent. Math., 2 (1966), 59-78."
+   },
+   {
+    "key": "key2026021712133849672_18",
+    "article-title": "On the de Rham cohomology of algebraic varieties",
+    "author": "A. GROTHENDIECK",
+    "year": "1966",
+    "unstructured": "[18] A. Grothendieck, On the de Rham cohomology of algebraic varieties, Publ. Math. I.H.E.S., 29 (1966), 95-103."
+   },
+   {
+    "key": "key2026021712133849672_19",
+    "article-title": "Analytic Functions of Several Variables",
+    "author": "R. GUNNING",
+    "year": "1965",
+    "unstructured": "[19] R. Gunning and H. Rossi, Analytic Functions of Several Variables, Prentice-Hall, 1965."
+   },
+   {
+    "key": "key2026021712133849672_20",
+    "article-title": "Resolution of singularities of an algebraic variety over a field of characteristic zero, I and II",
+    "author": "H. HIRONAKA",
+    "year": "1964",
+    "unstructured": "[20] H. Hironaka, Resolution of singularities of an algebraic variety over a field of characteristic zero, I and II, Ann. of Math., 79 (1964), 109-326."
+   },
+   {
+    "key": "key2026021712133849672_21",
+    "article-title": "Neue Topologische Methoden in der Algebraischen Geometrie",
+    "author": "F. HIRZEBRUCH",
+    "year": "1956",
+    "unstructured": "[21] F. Hirzebruch, Neue Topologische Methoden in der Algebraischen Geometrie, Springer-Verlag, 1956."
+   },
+   {
+    "key": "key2026021712133849672_22",
+    "article-title": "The Theory and Applications of Harmonic Integrals",
+    "author": "W. V. D. HODGE",
+    "year": "1959",
+    "unstructured": "[22] W. V. D. Hodge, The Theory and Applications of Harmonic Integrals, Cambridge University Press, 1959."
+   },
+   {
+    "key": "key2026021712133849672_23",
+    "article-title": "Families of intermediate Jacobians",
+    "author": "J. KING",
+    "year": "1969",
+    "unstructured": "[23] J. King, Families of intermediate Jacobians, thesis at University of California, Berkeley, 1969."
+   },
+   {
+    "key": "key2026021712133849672_24",
+    "article-title": "On deformations of complex analytic structures, I and II",
+    "author": "K. KODAIRA",
+    "year": "1958",
+    "unstructured": "[24] K. Kodaira and D. C. Spencer, On deformations of complex analytic structures, I and II, Ann. of Math., 67 (1958), 328-466."
+   },
+   {
+    "key": "key2026021712133849672_25",
+    "article-title": "Generalization of the big Picard theorem",
+    "author": "M. H. KWACK",
+    "year": "1969",
+    "unstructured": "[25] M. H. Kwack, Generalization of the big Picard theorem, Ann. of Math., 90 (1969), 13-22."
+   },
+   {
+    "key": "key2026021712133849672_26",
+    "article-title": "L'Analysis Situs et la Géométrie Algébrique",
+    "author": "S. LEFSCHETZ",
+    "year": "1924",
+    "unstructured": "[26] S. Lefschetz, L'Analysis Situs et la Géométrie Algébrique, Paris, Gauthier-Villars, 1924."
+   },
+   {
+    "key": "key2026021712133849672_27",
+    "article-title": "Higher Picard varieties",
+    "author": "D. LIEBERMAN",
+    "year": "1968",
+    "unstructured": "[27] D. Lieberman, Higher Picard varieties, Amer. Jour. Math., 90 (1968), 1165-1199."
+   },
+   {
+    "key": "key2026021712133849672_28",
+    "article-title": "On the compactness of arithmetically defined homogeneous spaces",
+    "author": "G. MOSTOW",
+    "year": "1962",
+    "unstructured": "[28] G. Mostow and T. Tamagawa, On the compactness of arithmetically defined homogeneous spaces, Ann. of Math., 76 (1962), 446-463."
+   },
+   {
+    "key": "key2026021712133849672_29",
+    "article-title": "Analytic functions of several complex variables",
+    "author": "C. L. SIEGEL",
+    "year": "1962",
+    "unstructured": "[29] C. L. Siegel, Analytic functions of several complex variables, lecture notes from Institute for Advanced Study, Princeton, 1962."
+   },
+   {
+    "key": "key2026021712133849672_30",
+    "article-title": "Variétés Kähleriennes",
+    "author": "A. WEIL",
+    "year": "1958",
+    "unstructured": "[30] A. Weil, Variétés Kähleriennes, Paris, Hermann, 1958."
+   }
+  ],
+  "container-title": [
+   "Publications Mathématiques de l'IHÉS"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://pmihes.centre-mersenne.org/item/10.1007/BF02684654.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     2,
+     17
+    ]
+   ],
+   "date-time": "2026-02-17T11:13:43Z",
+   "timestamp": 1771326823000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://pmihes.centre-mersenne.org/articles/10.1007/BF02684654/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1970,
+     1,
+     7
+    ]
+   ]
+  },
+  "references-count": 30,
+  "alternative-id": [
+   "10.1007/BF02684654"
+  ],
+  "URL": "https://doi.org/10.1007/bf02684654",
+  "relation": {},
+  "ISSN": [
+   "0073-8301",
+   "1618-1913"
+  ],
+  "issn-type": [
+   {
+    "value": "0073-8301",
+    "type": "print"
+   },
+   {
+    "value": "1618-1913",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1970,
+     1,
+     7
+    ]
+   ]
+  }
+ }
+}

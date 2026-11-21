@@ -1,0 +1,386 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     7
+    ]
+   ],
+   "date-time": "2026-10-07T05:22:00Z",
+   "timestamp": 1791350520228,
+   "version": "4.3.1"
+  },
+  "reference-count": 18,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "6",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2017,
+       4,
+       10
+      ]
+     ],
+     "date-time": "2017-04-10T00:00:00Z",
+     "timestamp": 1491782400000
+    },
+    "content-version": "unspecified",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [
+    "link.springer.com"
+   ],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Sci. China Math."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2017,
+     6
+    ]
+   ]
+  },
+  "DOI": "10.1007/s11425-017-9066-0",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2017,
+     4,
+     9
+    ]
+   ],
+   "date-time": "2017-04-09T22:42:26Z",
+   "timestamp": 1491777746000
+  },
+  "page": "949-962",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 41,
+  "title": [
+   "A general extension theorem for cohomology classes on non reduced analytic subspaces"
+  ],
+  "prefix": "10.1007",
+  "volume": "60",
+  "author": [
+   {
+    "given": "JunYan",
+    "family": "Cao",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jean-Pierre",
+    "family": "Demailly",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Shin-ichi",
+    "family": "Matsumura",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "published-online": {
+   "date-parts": [
+    [
+     2017,
+     4,
+     10
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "9066_CR1",
+    "doi-asserted-by": "publisher",
+    "first-page": "457",
+    "DOI": "10.24033/asens.1434",
+    "volume": "15",
+    "author": "J-P Demailly",
+    "year": "1982",
+    "unstructured": "Demailly J-P. Estimations L\n                                    2 pour l’opérateur \n$$\\bar \\partial $$\n\n\n                                            \n\n∂\n¯\n\n\n\n d’un fibré vectoriel holomorphe semi-positif au-dessus d’une variété kählérienne complète. Ann Sci École Norm Sup (4), 1982, 15: 457–511",
+    "journal-title": "Ann Sci École Norm Sup (4)"
+   },
+   {
+    "key": "9066_CR2",
+    "volume-title": "Complex Analytic and Differential Geometry",
+    "author": "J-P Demailly",
+    "year": "2009",
+    "unstructured": "Demailly J-P. Complex Analytic and Differential Geometry. Https://www-fourier.ujf-grenoble.fr/~demailly/manu scripts/agbook.pdf, 2009"
+   },
+   {
+    "key": "9066_CR3",
+    "volume-title": "Analytic Methods in Algebraic Geometry",
+    "author": "J-P Demailly",
+    "year": "2012",
+    "unstructured": "Demailly J-P. Analytic Methods in Algebraic Geometry. Somerville: International Press, 2012; Beijing: Higher Education Press, 2012"
+   },
+   {
+    "key": "9066_CR4",
+    "doi-asserted-by": "publisher",
+    "first-page": "51",
+    "DOI": "10.1007/978-3-319-20337-9_4",
+    "volume-title": "Complex Geometry and Dynamics. Abel Symposia",
+    "author": "J-P Demailly",
+    "year": "2015",
+    "unstructured": "Demailly J-P. On the cohomology of pseudoeffective line bundles. In: Fornaess J, Irgens M, Wold E, eds. Complex Geometry and Dynamics. Abel Symposia, vol. 10. Cham: Springer, 2015, 51–99"
+   },
+   {
+    "key": "9066_CR5",
+    "volume-title": "The Legacy of Bernhard Riemann after One Hundred and Fifty Years",
+    "author": "J-P Demailly",
+    "year": "2015",
+    "unstructured": "Demailly J-P. Extension of holomorphic functions defined on non reduced analytic subvarieties. In: The Legacy of Bernhard Riemann after One Hundred and Fifty Years. Advanced Lectures in Mathematics, vol. 35.1. ArXiv:1510.05230v1, 2015"
+   },
+   {
+    "key": "9066_CR6",
+    "doi-asserted-by": "publisher",
+    "first-page": "689",
+    "DOI": "10.1142/S0129167X01000861",
+    "volume": "6",
+    "author": "J-P Demailly",
+    "year": "2001",
+    "unstructured": "Demailly J-P, Peternell T, Schneider M. Pseudo-effective line bundles on compact Kähler manifolds. Internat J Math, 2001, 6: 689–741",
+    "journal-title": "Internat J Math"
+   },
+   {
+    "key": "9066_CR7",
+    "doi-asserted-by": "publisher",
+    "first-page": "593",
+    "DOI": "10.2307/2006983",
+    "volume": "118",
+    "author": "H Donnelly",
+    "year": "1983",
+    "unstructured": "Donnelly H, Fefferman C. L\n                                    2-cohomology and index theorem for the Bergman metric. Ann of Math (2), 1983, 118: 593–618",
+    "journal-title": "Ann of Math (2)"
+   },
+   {
+    "key": "9066_CR8",
+    "volume-title": "The Neumann Problem for the Cauchy-Riemann Complex",
+    "author": "G B Folland",
+    "year": "1972",
+    "unstructured": "Folland G B, Kohn J J. The Neumann Problem for the Cauchy-Riemann Complex. Princeton: Princeton University Press, 1972; Tokyo: University of Tokyo Press, 1972"
+   },
+   {
+    "key": "9066_CR9",
+    "first-page": "149",
+    "volume": "681",
+    "author": "O Fujino",
+    "year": "2013",
+    "unstructured": "Fujino O. A transcendental approach to Kollár’s injectivity theorem II. J Reine Angew Math, 2013, 681: 149–174",
+    "journal-title": "J Reine Angew Math"
+   },
+   {
+    "key": "9066_CR10",
+    "volume-title": "Injectivity theorem for pseudo-effective line bundles and its applications",
+    "author": "O Fujino",
+    "year": "2016",
+    "unstructured": "Fujino O, Matsumura S. Injectivity theorem for pseudo-effective line bundles and its applications. ArXiv:1605.02284v1, 2016"
+   },
+   {
+    "key": "9066_CR11",
+    "doi-asserted-by": "publisher",
+    "first-page": "605",
+    "DOI": "10.4007/annals.2015.182.2.5",
+    "volume": "182",
+    "author": "Q Guan",
+    "year": "2015",
+    "unstructured": "Guan Q, Zhou X. A proof of Demailly’s strong openness conjecture. Ann of Math, 2015, 182: 605–616",
+    "journal-title": "Ann of Math"
+   },
+   {
+    "key": "9066_CR12",
+    "doi-asserted-by": "publisher",
+    "first-page": "283",
+    "DOI": "10.1016/j.crma.2014.02.010",
+    "volume": "352",
+    "author": "P H Hiêp",
+    "year": "2014",
+    "unstructured": "Hiêp P H. The weighted log canonical threshold. C R Math Acad Sci Paris, 2014, 352: 283–288",
+    "journal-title": "C R Math Acad Sci Paris"
+   },
+   {
+    "key": "9066_CR13",
+    "doi-asserted-by": "publisher",
+    "first-page": "297",
+    "DOI": "10.2977/prims/1195181609",
+    "volume": "20",
+    "author": "H Kazama",
+    "year": "1984",
+    "unstructured": "Kazama H. \n$$\\bar \\partial $$\n\n\n                                            \n\n∂\n¯\n\n\n\n-cohomology of (H,C)-groups. Publ Res Inst Math Sci, 1984, 20: 297–317",
+    "journal-title": "Publ Res Inst Math Sci"
+   },
+   {
+    "key": "9066_CR14",
+    "volume-title": "Modules of square integrable holomorphic germs",
+    "author": "L Lempert",
+    "year": "2014",
+    "unstructured": "Lempert L. Modules of square integrable holomorphic germs. ArXiv:1404.0407v2, 2014"
+   },
+   {
+    "key": "9066_CR15",
+    "volume-title": "An injectivity theorem with multiplier ideal sheaves of singular metrics with transcendental singularities. J Algebraic Geom",
+    "author": "S Matsumura",
+    "year": "2013",
+    "unstructured": "Matsumura S. An injectivity theorem with multiplier ideal sheaves of singular metrics with transcendental singularities. J Algebraic Geom, in press, arXiv:1308.2033v4, 2013"
+   },
+   {
+    "key": "9066_CR16",
+    "volume-title": "An injectivity theorem with multiplier ideal sheaves for higher direct images under Kähler morphisms",
+    "author": "S Matsumura",
+    "year": "2016",
+    "unstructured": "Matsumura S. An injectivity theorem with multiplier ideal sheaves for higher direct images under Kähler morphisms. ArXiv:1607.05554v1, 2016"
+   },
+   {
+    "key": "9066_CR17",
+    "doi-asserted-by": "publisher",
+    "first-page": "565",
+    "DOI": "10.2977/prims/1145475223",
+    "volume": "41",
+    "author": "T Ohsawa",
+    "year": "2005",
+    "unstructured": "Ohsawa T. On a curvature condition that implies a cohomology injectivity theorem of Kollár-Skoda type. Publ Res Inst Math Sci, 2005, 41: 565–577",
+    "journal-title": "Publ Res Inst Math Sci"
+   },
+   {
+    "key": "9066_CR18",
+    "doi-asserted-by": "publisher",
+    "first-page": "197",
+    "DOI": "10.1007/BF01166457",
+    "volume": "195",
+    "author": "T Ohsawa",
+    "year": "1987",
+    "unstructured": "Ohsawa T, Takegoshi K. On the extension of L\n                                    2 holomorphic functions. Math Z, 1987, 195: 197–204",
+    "journal-title": "Math Z"
+   }
+  ],
+  "container-title": [
+   "Science China Mathematics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/article/10.1007/s11425-017-9066-0/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/s11425-017-9066-0.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/s11425-017-9066-0.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2017,
+     5,
+     6
+    ]
+   ],
+   "date-time": "2017-05-06T01:49:22Z",
+   "timestamp": 1494035362000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/s11425-017-9066-0"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2017,
+     4,
+     10
+    ]
+   ]
+  },
+  "references-count": 18,
+  "journal-issue": {
+   "issue": "6",
+   "published-print": {
+    "date-parts": [
+     [
+      2017,
+      6
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "9066"
+  ],
+  "URL": "https://doi.org/10.1007/s11425-017-9066-0",
+  "relation": {},
+  "ISSN": [
+   "1674-7283",
+   "1869-1862"
+  ],
+  "issn-type": [
+   {
+    "value": "1674-7283",
+    "type": "print"
+   },
+   {
+    "value": "1869-1862",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2017,
+     4,
+     10
+    ]
+   ]
+  }
+ }
+}

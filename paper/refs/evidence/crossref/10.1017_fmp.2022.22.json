@@ -1,0 +1,510 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     24
+    ]
+   ],
+   "date-time": "2026-10-24T02:29:52Z",
+   "timestamp": 1792808992651,
+   "version": "4.5.0"
+  },
+  "reference-count": 54,
+  "publisher": "Cambridge University Press (CUP)",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2023,
+       1,
+       6
+      ]
+     ],
+     "date-time": "2023-01-06T00:00:00Z",
+     "timestamp": 1672963200000
+    },
+    "content-version": "unspecified",
+    "delay-in-days": 5,
+    "URL": "https://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "content-domain": {
+   "domain": [
+    "cambridge.org"
+   ],
+   "crossmark-restriction": true
+  },
+  "short-container-title": [
+   "Forum of Mathematics, Pi"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>We define, for each quasisyntomic ring<jats:italic>R</jats:italic>(in the sense of Bhatt et al.,<jats:italic>Publ. Math. IHES</jats:italic><jats:bold>129</jats:bold>(2019), 199–310), a category<jats:inline-formula><jats:alternatives><jats:inline-graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" mime-subtype=\"png\" xlink:href=\"S2050508622000221_inline1.png\"/><jats:tex-math>$\\mathrm {DM}^{\\mathrm {adm}}(R)$</jats:tex-math></jats:alternatives></jats:inline-formula>of<jats:italic>admissible prismatic Dieudonné crystals over R</jats:italic>and a functor from<jats:italic>p</jats:italic>-divisible groups over<jats:italic>R</jats:italic>to<jats:inline-formula><jats:alternatives><jats:inline-graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" mime-subtype=\"png\" xlink:href=\"S2050508622000221_inline2.png\"/><jats:tex-math>$\\mathrm {DM}^{\\mathrm {adm}}(R)$</jats:tex-math></jats:alternatives></jats:inline-formula>. We prove that this functor is an antiequivalence. Our main cohomological tool is the prismatic formalism recently developed by Bhatt and Scholze.</jats:p>",
+  "DOI": "10.1017/fmp.2022.22",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2023,
+     1,
+     6
+    ]
+   ],
+   "date-time": "2023-01-06T10:12:48Z",
+   "timestamp": 1672999968000
+  },
+  "update-policy": "https://doi.org/10.1017/policypage",
+  "source": "Crossref",
+  "is-referenced-by-count": 20,
+  "title": [
+   "Prismatic Dieudonné Theory"
+  ],
+  "prefix": "10.1017",
+  "volume": "11",
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-0644-2534",
+    "authenticated-orcid": false,
+    "given": "Johannes",
+    "family": "Anschütz",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-1676-8749",
+    "authenticated-orcid": false,
+    "given": "Arthur-César",
+    "family": "Le Bras",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "56",
+  "published-online": {
+   "date-parts": [
+    [
+     2023,
+     1,
+     6
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "S2050508622000221_r18",
+    "unstructured": "[18] Cesnavic̆ius, K. and Scholze, P. , ‘Purity for flat cohomology’, In preparation."
+   },
+   {
+    "key": "S2050508622000221_r27",
+    "first-page": "177",
+    "volume": "7",
+    "author": "Joyal",
+    "year": "1985",
+    "journal-title": "R. Math. Rep. Acad. Sci. Canada"
+   },
+   {
+    "key": "S2050508622000221_r32",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.2307/2373351"
+   },
+   {
+    "key": "S2050508622000221_r20",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BF01232664"
+   },
+   {
+    "key": "S2050508622000221_r13",
+    "unstructured": "[13] Bhatt, B. and Scholze, P. , ‘Prisms and prismatic cohomology’. URL: http://www.math.uni-bonn.de/people/scholze/Publikationen.html."
+   },
+   {
+    "key": "S2050508622000221_r25",
+    "volume-title": "Lecture Notes in Mathematics",
+    "author": "Illusie",
+    "year": "1971"
+   },
+   {
+    "key": "S2050508622000221_r37",
+    "unstructured": "[36] Lau, E. , ‘Dieudonné theory over semiperfect rings and perfectoid rings’, Preprint, 2016, arXiv:1603.07831."
+   },
+   {
+    "key": "S2050508622000221_r39",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.5802/jtnb.852"
+   },
+   {
+    "key": "S2050508622000221_r47",
+    "unstructured": "[46] Mondal, S. , ‘A computation of prismatic Dieudonné module’, Preprint, 2022, URL: http://www-personal.umich.edu/~smondal/."
+   },
+   {
+    "key": "S2050508622000221_r49",
+    "unstructured": "[48] Scholze, P. , ‘Lectures on condensed mathematics’, 2019, URL: https://www.math.uni-bonn.de/people/scholze/Condensed.pdf."
+   },
+   {
+    "key": "S2050508622000221_r9",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1080/00927872.2018.1524009"
+   },
+   {
+    "key": "S2050508622000221_r44",
+    "author": "Mazur",
+    "year": "1974"
+   },
+   {
+    "key": "S2050508622000221_r11",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s10240-019-00102-z"
+   },
+   {
+    "key": "S2050508622000221_r17",
+    "unstructured": "[17] Cais, B. and Lau, E. , ‘Dieudonné crystals and Wach modules for $p$ -divisible groups’, Preprint, 2014, arXiv:1412.3174."
+   },
+   {
+    "key": "S2050508622000221_r22",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.24033/asens.1258"
+   },
+   {
+    "key": "S2050508622000221_r12",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s10240-019-00106-9"
+   },
+   {
+    "key": "S2050508622000221_r38",
+    "unstructured": "[37] Lau, E. , ‘Divided Dieudonné crystals’, Preprint, 2018, arXiv:1811.09439."
+   },
+   {
+    "key": "S2050508622000221_r2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.2307/121087"
+   },
+   {
+    "key": "S2050508622000221_r14",
+    "unstructured": "[14] Bhatt, B. and Scholze, P. , ‘Prismatic $f$ -crystals and crystalline Galois representations’, Preprint, 2021, arXiv:2106.14735."
+   },
+   {
+    "key": "S2050508622000221_r3",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BF02100606"
+   },
+   {
+    "key": "S2050508622000221_r6",
+    "volume-title": "Lecture Notes in Mathematics",
+    "author": "Berthelot",
+    "year": "1982"
+   },
+   {
+    "key": "S2050508622000221_r31",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/978-0-8176-4532-8_7"
+   },
+   {
+    "key": "S2050508622000221_r35",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1090/S0894-0347-2012-00744-9"
+   },
+   {
+    "key": "S2050508622000221_r36",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.2140/ant.2014.8.2201"
+   },
+   {
+    "key": "S2050508622000221_r33",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s00222-007-0090-x"
+   },
+   {
+    "key": "S2050508622000221_r8",
+    "unstructured": "[8] Bhatt, B. , ‘Lectures on prismatic cohomology’, (2018). URL: http://www-personal.umich.edu/bhattb/teaching/prismatic-columbia/."
+   },
+   {
+    "key": "S2050508622000221_r4",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.24033/asens.1381"
+   },
+   {
+    "key": "S2050508622000221_r19",
+    "unstructured": "[19] Clausen, D. , Mathew, A. and Morrow, M. , ‘K-theory and topological cyclic homology of Henselian pairs’, Preprint, 2018, arXiv:1803.10897."
+   },
+   {
+    "key": "S2050508622000221_r40",
+    "unstructured": "[39] Lurie, J. , ‘Higher algebra’. 2017, URL: http://www.math.harvard.edu/lurie/."
+   },
+   {
+    "key": "S2050508622000221_r30",
+    "unstructured": "[29] Kim, W. , ‘The classification of $p$ -divisible groups over 2-adic discrete valuation rings’, Preprint, 2010, arXiv:1007.1904."
+   },
+   {
+    "key": "S2050508622000221_r34",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[33] Lau, E. , ‘Frames and finite group schemes over complete regular local rings’, Preprint, 2009, arXiv:0908.4588.",
+    "DOI": "10.4171/dm/306"
+   },
+   {
+    "key": "S2050508622000221_r5",
+    "unstructured": "[5] Berthelot, P. , ‘Cohomologie cristalline des schémas de caractéristique $p>0$ ’, in Lecture Notes in Mathematics, vol. 407 (Springer, Berlin, 2006)."
+   },
+   {
+    "key": "S2050508622000221_r42",
+    "unstructured": "[41] Lurie, J. A. . Elliptic cohomology I: Spectral abelian varieties. Preprint, 2017."
+   },
+   {
+    "key": "S2050508622000221_r1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.2140/akt.2020.5.539"
+   },
+   {
+    "key": "S2050508622000221_r46",
+    "first-page": "1",
+    "author": "Mondal",
+    "year": "2021"
+   },
+   {
+    "key": "S2050508622000221_r41",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1515/9781400830558"
+   },
+   {
+    "key": "S2050508622000221_r15",
+    "unstructured": "[15] Breuil, C. , ‘Schémas en groupes et corps de normes’, 13 pages, 1998. URL: https://www.imo.universite-paris-saclay.fr/~christophe.breuil/publications.html."
+   },
+   {
+    "key": "S2050508622000221_r43",
+    "volume-title": "Commutative Ring Theory",
+    "author": "Matsumura",
+    "year": "1989"
+   },
+   {
+    "key": "S2050508622000221_r52",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.4310/CJM.2013.v1.n2.a1"
+   },
+   {
+    "key": "S2050508622000221_r54",
+    "unstructured": "[52] The Stacks Project Authors, Project, Stacks . URL: http://stacks.math.columbia.edu, 2017."
+   },
+   {
+    "key": "S2050508622000221_r24",
+    "first-page": "47",
+    "volume-title": "Société Mathématique de France",
+    "author": "Fontaine",
+    "year": "1977"
+   },
+   {
+    "key": "S2050508622000221_r23",
+    "unstructured": "[22] Fargues, L. , ‘Quelques résultats et conjectures concernant la courbe’, Preprint, 2015, URL: https://webusers.imj-prg.fr/laurent.fargues/AuDela.pdf."
+   },
+   {
+    "key": "S2050508622000221_r26",
+    "first-page": "151",
+    "article-title": "Déformations de groupes de Barsotti-Tate (d’après A. Grothendieck)",
+    "volume": "127",
+    "author": "Illusie",
+    "year": "1985",
+    "journal-title": "Seminar on arithmetic bundles: the Mordell conjecture"
+   },
+   {
+    "key": "S2050508622000221_r55",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1090/S0002-9947-1971-0269659-2"
+   },
+   {
+    "key": "S2050508622000221_r56",
+    "first-page": "127",
+    "article-title": "The display of a formal $p$ -divisible group",
+    "volume": "278",
+    "author": "Zink",
+    "year": "2002",
+    "journal-title": "Astérisque"
+   },
+   {
+    "key": "S2050508622000221_r45",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BFb0058307"
+   },
+   {
+    "key": "S2050508622000221_r53",
+    "author": "Scholze",
+    "year": "2020"
+   },
+   {
+    "key": "S2050508622000221_r16",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.2307/2661391"
+   },
+   {
+    "key": "S2050508622000221_r29",
+    "unstructured": "[28] Kedlaya, K. S. and Liu, R. , ‘Relative $p$ -adic Hodge theory: Foundations’, Preprint, 2013, arXiv:1301.0792v5."
+   },
+   {
+    "key": "S2050508622000221_r48",
+    "first-page": "265",
+    "article-title": "Finite group schemes, local moduli for abelian varieties, and lifting problems",
+    "volume": "23",
+    "author": "Oort",
+    "year": "1971",
+    "journal-title": "Compositio Math."
+   },
+   {
+    "key": "S2050508622000221_r50",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.2139/ssrn.3542189"
+   },
+   {
+    "key": "S2050508622000221_r10",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.4007/annals.2022.196.3.5"
+   },
+   {
+    "key": "S2050508622000221_r28",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/978-3-540-37802-0_3"
+   },
+   {
+    "key": "S2050508622000221_r7",
+    "first-page": "173",
+    "volume-title": "A collection of articles written in honor of the 60th birthday of Alexander Grothendieck, modern Birkhäuser classics, The Grothendieck Festschrift, Vol. I",
+    "author": "Berthelot",
+    "year": "1990"
+   }
+  ],
+  "updated-by": [
+   {
+    "DOI": "10.1017/fmp.2024.30",
+    "type": "correction",
+    "label": "Correction",
+    "source": "publisher",
+    "updated": {
+     "date-parts": [
+      [
+       2023,
+       1,
+       6
+      ]
+     ],
+     "date-time": "2023-01-06T00:00:00Z",
+     "timestamp": 1672963200000
+    }
+   }
+  ],
+  "container-title": [
+   "Forum of Mathematics, Pi"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S2050508622000221",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2023,
+     3,
+     20
+    ]
+   ],
+   "date-time": "2023-03-20T01:48:14Z",
+   "timestamp": 1679276894000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.cambridge.org/core/product/identifier/S2050508622000221/type/journal_article"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "references-count": 54,
+  "alternative-id": [
+   "S2050508622000221"
+  ],
+  "URL": "https://doi.org/10.1017/fmp.2022.22",
+  "relation": {
+   "correction": [
+    {
+     "id-type": "doi",
+     "id": "10.1017/fmp.2024.30",
+     "asserted-by": "object"
+    }
+   ]
+  },
+  "ISSN": [
+   "2050-5086"
+  ],
+  "issn-type": [
+   {
+    "value": "2050-5086",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "assertion": [
+   {
+    "value": "© The Author(s), 2023. Published by Cambridge University Press",
+    "name": "copyright",
+    "label": "Copyright",
+    "group": {
+     "name": "copyright_and_licensing",
+     "label": "Copyright and Licensing"
+    }
+   },
+   {
+    "value": "This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence (https://creativecommons.org/licenses/by/4.0/), which permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+    "name": "license",
+    "label": "License",
+    "group": {
+     "name": "copyright_and_licensing",
+     "label": "Copyright and Licensing"
+    }
+   },
+   {
+    "value": "This content has been made available to all.",
+    "name": "free",
+    "label": "Free to read"
+   }
+  ],
+  "article-number": "e2"
+ }
+}

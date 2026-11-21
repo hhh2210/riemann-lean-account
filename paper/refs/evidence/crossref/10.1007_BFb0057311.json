@@ -1,0 +1,145 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     10
+    ]
+   ],
+   "date-time": "2026-11-10T20:07:03Z",
+   "timestamp": 1794341223147,
+   "version": "4.9.0"
+  },
+  "publisher-location": "Berlin/Heidelberg",
+  "reference-count": 3,
+  "publisher": "Springer-Verlag",
+  "isbn-type": [
+   {
+    "value": "3540067965",
+    "type": "print"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "DOI": "10.1007/bfb0057311",
+  "type": "book-chapter",
+  "created": {
+   "date-parts": [
+    [
+     2006,
+     7,
+     31
+    ]
+   ],
+   "date-time": "2006-07-31T00:41:42Z",
+   "timestamp": 1154306502000
+  },
+  "page": "234-241",
+  "source": "Crossref",
+  "is-referenced-by-count": 28,
+  "title": [
+   "Counting points on curves over finite fields"
+  ],
+  "prefix": "10.1007",
+  "author": [
+   {
+    "given": "Enrico",
+    "family": "Bombieri",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "13_CR1",
+    "unstructured": "H. STARK-On the Riemann hypothesis in hyperelliptic function fields, to appear."
+   },
+   {
+    "key": "13_CR2",
+    "first-page": "1103",
+    "volume": "33",
+    "author": "S. A. Stepanov",
+    "year": "1969",
+    "unstructured": "S. A. STEPANOV-On the number of points of a hyperelliptic curve over a finite prime field, Izv. Akad. Nauk SSSR, Ser. Mat. 33 (1969) 1103–1114.",
+    "journal-title": "Izv. Akad. Nauk SSSR, Ser. Mat."
+   },
+   {
+    "key": "13_CR3",
+    "volume-title": "Sur les courbes algébriques et les variétés qui s'en déduisent",
+    "author": "A. Weil",
+    "year": "1948",
+    "unstructured": "A. WEIL-Sur les courbes algébriques et les variétés qui s'en déduisent, Hermann (Paris), 1948."
+   }
+  ],
+  "container-title": [
+   "Lecture Notes in Mathematics",
+   "Séminaire Bourbaki vol. 1972/73 Exposés 418–435"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BFb0057311.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2020,
+     12,
+     9
+    ]
+   ],
+   "date-time": "2020-12-09T17:01:00Z",
+   "timestamp": 1607533260000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BFb0057311"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     null
+    ]
+   ]
+  },
+  "ISBN": [
+   "3540067965"
+  ],
+  "references-count": 3,
+  "URL": "https://doi.org/10.1007/bfb0057311",
+  "relation": {
+   "is-part-of": [
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0057298",
+     "asserted-by": "object"
+    }
+   ]
+  },
+  "subject": []
+ }
+}

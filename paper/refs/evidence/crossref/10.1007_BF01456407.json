@@ -1,0 +1,229 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     24
+    ]
+   ],
+   "date-time": "2026-09-24T17:26:41Z",
+   "timestamp": 1790270801795,
+   "version": "4.1.0"
+  },
+  "reference-count": 5,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1982,
+       3,
+       1
+      ]
+     ],
+     "date-time": "1982-03-01T00:00:00Z",
+     "timestamp": 383788800000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Math. Ann."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1982,
+     3
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01456407",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     4,
+     12
+    ]
+   ],
+   "date-time": "2005-04-12T20:59:58Z",
+   "timestamp": 1113339598000
+  },
+  "page": "43-46",
+  "source": "Crossref",
+  "is-referenced-by-count": 193,
+  "title": [
+   "A generalization of Kodaira-Ramanujam's vanishing theorem"
+  ],
+  "prefix": "10.1007",
+  "volume": "261",
+  "author": [
+   {
+    "given": "Yujiro",
+    "family": "Kawamata",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "CR1",
+    "doi-asserted-by": "crossref",
+    "first-page": "34",
+    "DOI": "10.3792/pjaa.56.34",
+    "volume": "56 A",
+    "author": "Y. Kawamata",
+    "year": "1980",
+    "unstructured": "Kawamata, Y.: On the cohomology of ?-divisors. Proc. Japan. Acad.56 A, 34?35 (1980)",
+    "journal-title": "Proc. Japan. Acad."
+   },
+   {
+    "key": "CR2",
+    "first-page": "253",
+    "volume": "43",
+    "author": "Y. Kawamata",
+    "year": "1981",
+    "unstructured": "Kawamata, Y.: Characterization of abelian varieties. Compositio Math.43, 253?276 (1981)",
+    "journal-title": "Compositio Math."
+   },
+   {
+    "key": "CR3",
+    "doi-asserted-by": "crossref",
+    "first-page": "107",
+    "DOI": "10.3792/pjaa.54.107",
+    "volume": "54 A",
+    "author": "Y. Norimatsu",
+    "year": "1978",
+    "unstructured": "Norimatsu, Y.: Kodaira vanishing theorem and Chern classes for ?-manifolds. Proc. Japan. Acad.54 A, 107?108 (1978)",
+    "journal-title": "Proc. Japan. Acad."
+   },
+   {
+    "key": "CR4",
+    "first-page": "121",
+    "volume": "38",
+    "author": "C.P. Ramanujam",
+    "year": "1974",
+    "unstructured": "Ramanujam, C.P.: Supplement to the article ?Remarks on the Kodaira vanishing theorem?. J. Indian Math. Soc.38, 121?124 (1974)",
+    "journal-title": "J. Indian Math. Soc."
+   },
+   {
+    "key": "CR5",
+    "unstructured": "E. Viehweg: Vanishing theorems (to appear in J. Reine Angew. Math.)"
+   }
+  ],
+  "container-title": [
+   "Mathematische Annalen"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01456407.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01456407/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01456407",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     2
+    ]
+   ],
+   "date-time": "2019-05-02T14:31:18Z",
+   "timestamp": 1556807478000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01456407"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1982,
+     3
+    ]
+   ]
+  },
+  "references-count": 5,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1982,
+      3
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01456407"
+  ],
+  "URL": "https://doi.org/10.1007/bf01456407",
+  "relation": {},
+  "ISSN": [
+   "0025-5831",
+   "1432-1807"
+  ],
+  "issn-type": [
+   {
+    "value": "0025-5831",
+    "type": "print"
+   },
+   {
+    "value": "1432-1807",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1982,
+     3
+    ]
+   ]
+  }
+ }
+}

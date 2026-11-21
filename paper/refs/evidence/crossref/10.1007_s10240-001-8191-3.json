@@ -1,0 +1,530 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     7
+    ]
+   ],
+   "date-time": "2026-10-07T18:08:01Z",
+   "timestamp": 1791396481931,
+   "version": "4.3.3"
+  },
+  "reference-count": 51,
+  "publisher": "MathDoc/Centre Mersenne",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2001,
+       9,
+       7
+      ]
+     ],
+     "date-time": "2001-09-07T00:00:00Z",
+     "timestamp": 999820800000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "abstract": "<jats:p>\n                    We prove an algebraicity criterion for leaves of algebraic foliations defined over number fields. Namely, consider a number field\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>K</mml:mi>\n                    </mml:math>\n                    embedded in\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>C</mml:mi>\n                    </mml:math>\n                    , a smooth algebraic variety\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>X</mml:mi>\n                    </mml:math>\n                    over\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>K</mml:mi>\n                    </mml:math>\n                    , equipped with a\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mrow>\n                        <mml:mi>K</mml:mi>\n                        <mml:mo>-</mml:mo>\n                      </mml:mrow>\n                    </mml:math>\n                    rational point\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>P</mml:mi>\n                    </mml:math>\n                    , and\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>F</mml:mi>\n                    </mml:math>\n                    an algebraic subbundle of the its tangent bundle\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:msub>\n                        <mml:mi>T</mml:mi>\n                        <mml:mi>X</mml:mi>\n                      </mml:msub>\n                    </mml:math>\n                    , defined over\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>K</mml:mi>\n                    </mml:math>\n                    . Assume moreover that the vector bundle\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>F</mml:mi>\n                    </mml:math>\n                    is involutive, i.e., closed under Lie bracket. Then it defines an holomorphic foliation of the analytic manifold\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mrow>\n                        <mml:mi>X</mml:mi>\n                        <mml:mo>(</mml:mo>\n                        <mml:mi>C</mml:mi>\n                        <mml:mo>)</mml:mo>\n                      </mml:mrow>\n                    </mml:math>\n                    , and one may consider its leaf\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>F</mml:mi>\n                    </mml:math>\n                    through\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>P</mml:mi>\n                    </mml:math>\n                    . We prove that F is algebraic if the following local conditions are satisfied:\ni) For almost every prime ideal\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>p</mml:mi>\n                    </mml:math>\n                    of the ring of integers\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mrow>\n                        <mml:mi>𝒪</mml:mi>\n                        <mml:mi>K</mml:mi>\n                      </mml:mrow>\n                    </mml:math>\n                    of the number field K, the\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>p</mml:mi>\n                    </mml:math>\n                    -curvature of the reduction modulo\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>p</mml:mi>\n                    </mml:math>\n                    of the involutive bundle F vanishes at P (where p denotes the characteristic of the residue field O K/p). ii) The analytic manifold F satisfies the Liouville property; this arises, in particular, if F is the image by some holomorphic map of the complement in a complex algebraic variety of a closed analytic subset. This algebraicity criterion unifies and extends various results of D. V. and G. V. Chudnovsky, André, and Graftieaux, and also admits new consequences. For instance, applied to an algebraic group G over K, it shows that a K-Lie subalgebra h of Lie G is algebraic if and only if for almost every non-zero prime ideal p of O K, of residue characteristic p, the reduction modulo p of h is a restricted Lie subalgebra of the reduction modulo p of Lie G (i.e., is stable under p-th powers). This solves a conjecture of Ekedahl and Shepherd-Barron. The algebraicity criterion above follows from a more basic algebraicity criterion concerning smooth formal germs in algebraic varieties over number fields. The proof of the latter relies on “transcendence techniques”, recast in a modern geometric version involving elementary concepts of Arakelov geometry, and on some analytic estimates, related to the First Main Theorem of higher-dimensional Nevanlinna theory.\n                  </jats:p>",
+  "DOI": "10.1007/s10240-001-8191-3",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2003,
+     3,
+     24
+    ]
+   ],
+   "date-time": "2003-03-24T12:04:40Z",
+   "timestamp": 1048507480000
+  },
+  "page": "161-221",
+  "source": "Crossref",
+  "is-referenced-by-count": 57,
+  "title": [
+   "Algebraic leaves of algebraic foliations over number fields"
+  ],
+  "prefix": "10.5802",
+  "volume": "93",
+  "author": [
+   {
+    "given": "Jean-Benoît",
+    "family": "Bost",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Département de Mathématiques, Université Paris-Sud, Bâtiment 425, 91405 Orsay cedex, France."
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "3842",
+  "published-online": {
+   "date-parts": [
+    [
+     2001,
+     9,
+     7
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "key2026021712154654761_1",
+    "article-title": "Théorie du potentiel sur les graphes et les variétés,",
+    "author": "ANCONA, A.",
+    "year": "1990",
+    "unstructured": "[Anc90] A. Ancona, Théorie du potentiel sur les graphes et les variétés, in École d'été de Probabilités de Saint-Flour XVIII-1988, Lectures Notes in Mathematics 1427, pages 1-112, Berlin, Springer, 1990."
+   },
+   {
+    "key": "key2026021712154654761_2",
+    "article-title": "G-functions and geometry,",
+    "author": "ANDRÉ, Y.",
+    "year": "1989",
+    "unstructured": "[And89] Y. André, G-functions and geometry, Braunschweig, Friedr. Vieweg &amp; Sohn, 1989."
+   },
+   {
+    "key": "key2026021712154654761_3",
+    "unstructured": "[And99] Y. ANDRÉ, Sur la conjecture des p-courbures de Grothendieck et Katz, Preprint, Institut de Mathématiques de Jussieu, 1999."
+   },
+   {
+    "key": "key2026021712154654761_4",
+    "article-title": "Riemann surfaces,",
+    "author": "AHLFORS, L. V.",
+    "year": "1960",
+    "unstructured": "[AS60] L. V. Ahlfors and L. Sario, Riemann surfaces, Princeton, N.J., Princeton University Press, 1960, Princeton Mathematical Series, No. 26."
+   },
+   {
+    "key": "key2026021712154654761_5",
+    "unstructured": "[BMQ01] F. A. BOGOMOLOV and M. L. MCQUILLAN, Rational curves on foliated varieties, Preprint, IHES, 2001."
+   },
+   {
+    "key": "key2026021712154654761_6",
+    "article-title": "On G-functions,",
+    "author": "BOMBIERI, E.",
+    "year": "1981",
+    "unstructured": "[Bom81] E. Bombieri, On G-functions, in Recent progress in analytic number theory, Vol. 2 (Durham, 1979), pages 1-67. London, Academic Press, 1981."
+   },
+   {
+    "key": "key2026021712154654761_7",
+    "article-title": "D. Masser et G. Wüstholz)",
+    "author": "BOST, J.-B.",
+    "year": "1996",
+    "unstructured": "[Bos96] J.-B. Bost, Périodes et isogénies des variétés abéliennes sur les corps de nombres (d'après D. Masser et G. Wüstholz), Séminaire Bourbaki, 1994 1995, Exposé N° 795, Astérisque, 237 (1996), 115-161."
+   },
+   {
+    "key": "key2026021712154654761_8",
+    "unstructured": "[Bos98] J.-B. BOST, µmax(SkE) kE) k[µmax(E) + C(rk E)], Letter to P. Graftieaux, December 1998."
+   },
+   {
+    "key": "key2026021712154654761_9",
+    "first-page": "903",
+    "article-title": "Heights of projective varieties and positive Green forms,",
+    "volume": "7",
+    "author": "BOST, J.-B.",
+    "year": "1994",
+    "unstructured": "[BGS94] J.-B. Bost, H. Gillet, and C. Soulé, Heights of projective varieties and positive Green forms, J. Amer. Math. Soc., 7 (1994), 903-1027."
+   },
+   {
+    "key": "key2026021712154654761_10",
+    "article-title": "Théorèmes d'algébricité en géométrie diophantienne (d'après J.-B. Bost, Y. André, D. et G. Chudnovsky),",
+    "author": "CHAMBERT-LOIR, A.",
+    "unstructured": "[CB01] A. Chambert-Loir, Théorèmes d'algébricité en géométrie diophantienne (d'après J.-B. Bost, Y. André, D. et G. Chudnovsky), Séminaire Bourbaki, Exposé 886, mars 2001."
+   },
+   {
+    "key": "key2026021712154654761_11",
+    "article-title": "Applications of Padé approximations to the Grothendieck conjecture on linear differential equations,",
+    "author": "CHUDNOVSKY, D. V.",
+    "year": "1985",
+    "unstructured": "[CC85a] D. V. Chudnovsky and G. V. Chudnovsky, Applications of Padé approximations to the Grothendieck conjecture on linear differential equations, in Number theory (New York, 1983-84), Lectures Notes in Mathematics 1135, pages 52-100, Berlin, Springer, 1985."
+   },
+   {
+    "key": "key2026021712154654761_12",
+    "first-page": "2212",
+    "article-title": "Padé approximations and Diophantine geometry,",
+    "volume": "82",
+    "author": "CHUDNOVSKY, D. V.",
+    "year": "1985",
+    "unstructured": "[CC85b] D. V. Chudnovsky and G. V. Chudnovsky, Padé approximations and Diophantine geometry, Proc. Nat. Acad. Sci. U.S.A., 82 (1985), 2212-2216."
+   },
+   {
+    "key": "key2026021712154654761_13",
+    "article-title": "An introduction to G-functions,",
+    "author": "DWORK, B.",
+    "year": "1994",
+    "unstructured": "[DGS94] B. Dwork, G. Gerotto, and F. J. Sullivan, An introduction to G-functions, Princeton, N.J., Princeton, University Press, 1994."
+   },
+   {
+    "key": "key2026021712154654761_14",
+    "article-title": "Foliations and inseparable morphisms,",
+    "author": "EKEDAHL, T.",
+    "year": "1987",
+    "unstructured": "[Eke87] T. Ekedahl, Foliations and inseparable morphisms, in Algebraic geometry - Bowdoin 1985, Proc. Symp. Pure Math. 46-2, pages 139-149, Amer. Math. Soc., Providence, RI, 1987."
+   },
+   {
+    "key": "key2026021712154654761_15",
+    "unstructured": "[ESB99] T. EKEDAHL and N. I SHEPHERD-BARRON, A conjecture on the existence of compact leaves of algebraic foliations, Preprint, April 1999."
+   },
+   {
+    "key": "key2026021712154654761_16",
+    "article-title": "Endlichkeitssätze für abelsche Varietäten über Zahlkörpern,",
+    "author": "FALTINGS, G.",
+    "year": "1983",
+    "unstructured": "[Fal83] G. Faltings, Endlichkeitssätze für abelsche Varietäten über Zahlkörpern, Invent. Math., 73 (1983), 349-366."
+   },
+   {
+    "key": "key2026021712154654761_17",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[Gr98] P. GRAFTIEAUX, Groupes formels et critères d'isogénie, Thèse, Université Paris VI, March 1998.",
+    "DOI": "10.1016/S0764-4442(97)82704-8"
+   },
+   {
+    "key": "key2026021712154654761_18",
+    "first-page": "81",
+    "article-title": "Formal groups and the isogeny theorem,",
+    "volume": "106",
+    "author": "GRAFTIEAUX, P.",
+    "year": "2001",
+    "unstructured": "[Gr01a] P. Graftieaux, Formal groups and the isogeny theorem, Duke Math. J., 106 (2001), 81-121."
+   },
+   {
+    "key": "key2026021712154654761_19",
+    "article-title": "Formal subgroups of abelian varieties,",
+    "volume": "145",
+    "author": "GRAFTIEAUX, P.",
+    "year": "2001",
+    "unstructured": "[Gr01b] P. Graftieaux, Formal subgroups of abelian varieties, Invent. Math., 145 (2001), 1-17."
+   },
+   {
+    "key": "key2026021712154654761_20",
+    "first-page": "145",
+    "article-title": "Nevanlinna theory and holomorphic mappings between algebraic varieties,",
+    "volume": "130",
+    "author": "GRIFFITHS, P.",
+    "year": "1973",
+    "unstructured": "[GK73] P. Griffiths and J. King, Nevanlinna theory and holomorphic mappings between algebraic varieties, Acta Math., 130 (1973), 145-220."
+   },
+   {
+    "key": "key2026021712154654761_21",
+    "first-page": "135",
+    "article-title": "Analytic and geometric background of recurrence and non-explosion of the Brownian motion on Riemannian manifolds,",
+    "volume": "36",
+    "author": "GRIGOR'YAN, A.",
+    "year": "1999",
+    "unstructured": "[Gri99] A. Grigor'Yan, Analytic and geometric background of recurrence and non-explosion of the Brownian motion on Riemannian manifolds, Bull. Amer. Math. Soc. (N.S.), 36 (1999), 135-249."
+   },
+   {
+    "key": "key2026021712154654761_22",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[Gro71] A. GROTHENDIECK, Revêtements Étales et Groupe Fondamental, S.G.A.1, Lecture Notes in Mathematics 224, Berlin, Springer-Verlag, 1971.",
+    "DOI": "10.1007/BFb0058657"
+   },
+   {
+    "key": "key2026021712154654761_23",
+    "first-page": "473",
+    "article-title": "An arithmetic Riemann-Roch theorem,",
+    "volume": "110",
+    "author": "GILLET, H.",
+    "year": "1992",
+    "unstructured": "[GS92] H. Gillet and C. Soulé, An arithmetic Riemann-Roch theorem, Invent. Math., 110 (1992), 473-543."
+   },
+   {
+    "key": "key2026021712154654761_24",
+    "article-title": "Cohomological dimension of algebraic varieties,",
+    "author": "HARTSHORNE, R.",
+    "year": "1968",
+    "unstructured": "[Har68] R. Hartshorne, Cohomological dimension of algebraic varieties, Ann. Math., 88 (1968), 403-450."
+   },
+   {
+    "key": "key2026021712154654761_25",
+    "first-page": "587",
+    "article-title": "On some formal imbeddings,",
+    "volume": "12",
+    "author": "HIRONAKA, H.",
+    "year": "1968",
+    "unstructured": "[Hir68] H. Hironaka, On some formal imbeddings, Illinois J. Math., 12 (1968), 587-812."
+   },
+   {
+    "key": "key2026021712154654761_26",
+    "first-page": "52",
+    "article-title": "Formal functions and formal embeddings,",
+    "volume": "20",
+    "author": "HIRONAKA, H.",
+    "year": "1968",
+    "unstructured": "[HM68] H. Hironaka and H. Matsumura, Formal functions and formal embeddings, J. Math. Soc. Japan, 20 (1968), 52-82."
+   },
+   {
+    "key": "key2026021712154654761_27",
+    "first-page": "199",
+    "article-title": "Formal groups and zeta-functions,",
+    "volume": "5",
+    "author": "HONDA, T.",
+    "year": "1968",
+    "unstructured": "[Hon68] T. Honda, Formal groups and zeta-functions, Osaka J. Math., 5 (1968), 199-213."
+   },
+   {
+    "key": "key2026021712154654761_28",
+    "article-title": "Notions of convexity,",
+    "author": "HÖRMANDER, L.",
+    "year": "1994",
+    "unstructured": "[Hör94] L. Hörmander, Notions of convexity, Boston, MA, Birkhäuser Boston Inc., 1994."
+   },
+   {
+    "key": "key2026021712154654761_29",
+    "first-page": "175",
+    "article-title": "Nilpotent connections and the monodromy theorem: applications of a result of Turrittin,",
+    "volume": "39",
+    "author": "KATZ, N.",
+    "year": "1970",
+    "unstructured": "[Kat70] N. Katz, Nilpotent connections and the monodromy theorem: applications of a result of Turrittin, Publ. Math. IHES, 39 (1970), 175-232."
+   },
+   {
+    "key": "key2026021712154654761_30",
+    "first-page": "1",
+    "article-title": "Algebraic solutions of differential equations (p-curvature and the Hodge filtration),",
+    "volume": "18",
+    "author": "KATZ, N.",
+    "year": "1972",
+    "unstructured": "[Kat72] N. Katz, Algebraic solutions of differential equations (p-curvature and the Hodge filtration), Invent. Math., 18 (1972), 1-118."
+   },
+   {
+    "key": "key2026021712154654761_31",
+    "article-title": "Une formule de congruence pour la fonction ,",
+    "author": "KATZ, N.",
+    "year": "1973",
+    "unstructured": "[Kat73] N. Katz, Exposé XXII: Une formule de congruence pour la fonction , in Groupes de monodromie en géométrie algébrique II, SGA 7 II, Lecture Notes in Mathematics 340, pages 401-438. Berlin, Springer-Verlag, 1973."
+   },
+   {
+    "key": "key2026021712154654761_32",
+    "first-page": "203",
+    "article-title": "A conjecture in the arithmetic theory of differential equations,",
+    "volume": "110",
+    "author": "KATZ, N.",
+    "year": "1982",
+    "unstructured": "[Kat82] N. Katz, A conjecture in the arithmetic theory of differential equations, Bull. Soc. Math. France, 110 (1982), 203-239 and 347-348."
+   },
+   {
+    "key": "key2026021712154654761_33",
+    "article-title": "Arithmetic moduli of elliptic curves,",
+    "author": "KATZ, N.",
+    "year": "1985",
+    "unstructured": "[KM85] N. Katz and B. Mazur, Arithmetic moduli of elliptic curves, Princeton, N.J., Princeton University Press, 1985."
+   },
+   {
+    "key": "key2026021712154654761_34",
+    "article-title": "Pluripotential theory,",
+    "author": "KLIMEK, M.",
+    "year": "1991",
+    "unstructured": "[Kli91] M. Klimek, Pluripotential theory, New York, The Clarendon Press - Oxford University Press, 1991."
+   },
+   {
+    "key": "key2026021712154654761_35",
+    "article-title": "Foundations of Differential Geometry,",
+    "author": "KOBAYASHI, S.",
+    "unstructured": "[KN63] S. Kobayashi and K. Nomizu, Foundations of Differential Geometry, New York, John Wiley &amp; Sons, 1963."
+   },
+   {
+    "key": "key2026021712154654761_36",
+    "article-title": "Über die Irreductibilität von Gleichungen,",
+    "author": "KRONECKER, L.",
+    "unstructured": "[Kro80] L. Kronecker, Über die Irreductibilität von Gleichungen, Monatsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin, pages 155-162, 1880."
+   },
+   {
+    "key": "key2026021712154654761_37",
+    "article-title": "Deformations of a morphism along a foliation and applications,",
+    "author": "MIYAOKA, Y.",
+    "year": "1987",
+    "unstructured": "[Miy87] Y. Miyaoka, Deformations of a morphism along a foliation and applications, in Algebraic geometry-Bowdoin 1985, Proc. Symp. Pure Math. 46-1, pages 245-268. Amer. Math. Soc., Providence, RI, 1987."
+   },
+   {
+    "key": "key2026021712154654761_38",
+    "article-title": "Geometry of higher-dimensional algebraic varieties,",
+    "author": "MIYAOKA, Y.",
+    "year": "1997",
+    "unstructured": "[MP97] Y. Miyaoka and T. Peternell, Geometry of higher-dimensional algebraic varieties, Basel, Birkhäuser Verlag, 1997."
+   },
+   {
+    "key": "key2026021712154654761_39",
+    "article-title": "Abelian varieties,",
+    "author": "MUMFORD, D.",
+    "year": "1970",
+    "unstructured": "[Mum70] D. Mumford, Abelian varieties, Tata Institute of Fundamental Research Studies in Mathematics, No. 5, Bombay, 1970."
+   },
+   {
+    "key": "key2026021712154654761_40",
+    "unstructured": "[Ser58] J.-P. SERRE, Espaces fibrés algébriques, in Séminaire C. Chevalley, Secrétariat Mathématique, Paris, 1958."
+   },
+   {
+    "key": "key2026021712154654761_41",
+    "article-title": "Groupes algébriques et corps de classes,",
+    "author": "SERRE, J.-P.",
+    "unstructured": "[Ser59] J.-P. Serre, Groupes algébriques et corps de classes, Paris, Herman, 1959."
+   },
+   {
+    "key": "key2026021712154654761_42",
+    "article-title": "Abelian l-adic representations and elliptic curves,",
+    "author": "SERRE, J.-P.",
+    "year": "1968",
+    "unstructured": "[Ser68] J.-P. Serre, Abelian l-adic representations and elliptic curves, W. A. Benjamin, Inc., New York-Amsterdam, 1968."
+   },
+   {
+    "key": "key2026021712154654761_43",
+    "article-title": "Distribution of values of holomorphic mappings,",
+    "author": "SHABAT, B. V.",
+    "year": "1985",
+    "unstructured": "[Sha85] B. V. Shabat, Distribution of values of holomorphic mappings, American Mathematical Society, Providence, RI, 1985."
+   },
+   {
+    "key": "key2026021712154654761_44",
+    "article-title": "Miyaoka's theorems on the generic seminegativity of TX and on the Kodaira dimension of minimal regular threefolds,",
+    "author": "SHEPHERD-BARRON, N.",
+    "year": "1992",
+    "unstructured": "[SB92] N. Shepherd-Barron, Miyaoka's theorems on the generic seminegativity of TX and on the Kodaira dimension of minimal regular threefolds, Astérisque, 211 (1992), 103-114."
+   },
+   {
+    "key": "key2026021712154654761_45",
+    "first-page": "155",
+    "article-title": "Nevanlinna defect relations for singular divisors,",
+    "volume": "31",
+    "author": "SHIFFMAN, B.",
+    "year": "1975",
+    "unstructured": "[Shi75] B. Shiffman, Nevanlinna defect relations for singular divisors, Invent. Math., 31 (1975), 155-182."
+   },
+   {
+    "key": "key2026021712154654761_46",
+    "article-title": "Über einige Anwendungen diophantischer Approximationen,",
+    "author": "SIEGEL, C. L.",
+    "unstructured": "[Sie29] C. L. Siegel, Über einige Anwendungen diophantischer Approximationen, Abh. Preuss. Akad. Wiss., 1, 1929."
+   },
+   {
+    "key": "key2026021712154654761_47",
+    "article-title": "Hermitian vector bundles on arithmetic varieties,",
+    "author": "SOULÉ, C.",
+    "year": "1997",
+    "unstructured": "[Sou97] C. Soulé, Hermitian vector bundles on arithmetic varieties, in Algebraic geometry-Santa Cruz 1995, Proc. Symp. Pure Math. 62-1, pages 383-419, Amer. Math. Soc., Providence, RI, 1997."
+   },
+   {
+    "key": "key2026021712154654761_48",
+    "first-page": "166",
+    "article-title": "Aspects of value distribution theory in several complex variables,",
+    "volume": "83",
+    "author": "STOLL, W.",
+    "year": "1977",
+    "unstructured": "[Sto77] W. Stoll, Aspects of value distribution theory in several complex variables, Bull. Amer. Math. Soc., 83 (1977), 166-183."
+   },
+   {
+    "key": "key2026021712154654761_49",
+    "unstructured": "[Szp85] L. SZPIRO, Degrés, intersections, hauteurs, Astérisque, 127 (1985), 11-28."
+   },
+   {
+    "key": "key2026021712154654761_50",
+    "first-page": "301",
+    "article-title": "A Liouville theorem on an analytic space,",
+    "volume": "45",
+    "author": "TAKEGOSHI, K.",
+    "year": "1993",
+    "unstructured": "[Tak93] K. Takegoshi, A Liouville theorem on an analytic space, J. Math. Soc. Japan, 45 (1993), 301-311."
+   },
+   {
+    "key": "key2026021712154654761_51",
+    "first-page": "217",
+    "article-title": "Small points and Arakelov theory,",
+    "author": "ZHANG, S.-W.",
+    "unstructured": "[Zha98] S.-W. Zhang, Small points and Arakelov theory, in Proceedings of the International Congress of Mathematicians, Vol. II (Berlin, 1998), pages 217-225, 1998."
+   }
+  ],
+  "container-title": [
+   "Publications Mathématiques de l'IHÉS"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://pmihes.centre-mersenne.org/item/10.1007/s10240-001-8191-3.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     2,
+     17
+    ]
+   ],
+   "date-time": "2026-02-17T11:15:52Z",
+   "timestamp": 1771326952000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://pmihes.centre-mersenne.org/articles/10.1007/s10240-001-8191-3/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2001,
+     9,
+     7
+    ]
+   ]
+  },
+  "references-count": 51,
+  "alternative-id": [
+   "10.1007/s10240-001-8191-3"
+  ],
+  "URL": "https://doi.org/10.1007/s10240-001-8191-3",
+  "relation": {},
+  "ISSN": [
+   "0073-8301",
+   "1618-1913"
+  ],
+  "issn-type": [
+   {
+    "value": "0073-8301",
+    "type": "print"
+   },
+   {
+    "value": "1618-1913",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2001,
+     9,
+     7
+    ]
+   ]
+  }
+ }
+}

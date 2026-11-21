@@ -1,0 +1,258 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     15
+    ]
+   ],
+   "date-time": "2026-10-15T13:32:45Z",
+   "timestamp": 1792071165314,
+   "version": "4.4.0"
+  },
+  "reference-count": 6,
+  "publisher": "Wiley",
+  "issue": "2",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1965,
+       12,
+       1
+      ]
+     ],
+     "date-time": "1965-12-01T00:00:00Z",
+     "timestamp": -128908800000
+    },
+    "content-version": "vor",
+    "delay-in-days": 0,
+    "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+   },
+   {
+    "start": {
+     "date-parts": [
+      [
+       1965,
+       12,
+       1
+      ]
+     ],
+     "date-time": "1965-12-01T00:00:00Z",
+     "timestamp": -128908800000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Mathematika"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1965,
+     12
+    ]
+   ]
+  },
+  "DOI": "10.1112/s0025579300005313",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2010,
+     3,
+     1
+    ]
+   ],
+   "date-time": "2010-03-01T09:37:15Z",
+   "timestamp": 1267436235000
+  },
+  "page": "201-225",
+  "source": "Crossref",
+  "is-referenced-by-count": 182,
+  "title": [
+   "On the large sieve"
+  ],
+  "prefix": "10.1112",
+  "volume": "12",
+  "author": [
+   {
+    "given": "E.",
+    "family": "Bombieri",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Istituto MatematicoVia C. Saldini 50Milan"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "311",
+  "published-online": {
+   "date-parts": [
+    [
+     1965,
+     12
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "S0025579300005313_ref001",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1112/S0025579300005088"
+   },
+   {
+    "key": "S0025579300005313_ref005",
+    "volume-title": "The theory of the Riemann zeta-function",
+    "author": "Titchmarsh",
+    "year": "1951"
+   },
+   {
+    "key": "S0025579300005313_ref004",
+    "volume-title": "Primzahlverteilung",
+    "author": "Prachar",
+    "year": "1957"
+   },
+   {
+    "key": "S0025579300005313_ref002",
+    "first-page": "292",
+    "article-title": "The large sieve",
+    "volume": "30",
+    "author": "Linnik",
+    "year": "1941",
+    "journal-title": "Doklady Akad. Nauk SSSR"
+   },
+   {
+    "key": "S0025579300005313_ref003",
+    "first-page": "57",
+    "article-title": "On the representation of an even number as the sum of a single prime and an almost prime number",
+    "volume": "12",
+    "author": "Rényi",
+    "year": "1948",
+    "journal-title": "Izv. Akad. Nauk SSSR"
+   },
+   {
+    "key": "S0025579300005313_ref006",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1112/jlms/s1-2.2.112"
+   }
+  ],
+  "container-title": [
+   "Mathematika"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1112/S0025579300005313",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1112/S0025579300005313",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2021,
+     7,
+     21
+    ]
+   ],
+   "date-time": "2021-07-21T08:54:10Z",
+   "timestamp": 1626857650000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1112/S0025579300005313"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1965,
+     12
+    ]
+   ]
+  },
+  "references-count": 6,
+  "journal-issue": {
+   "issue": "2",
+   "published-online": {
+    "date-parts": [
+     [
+      1965,
+      12
+     ]
+    ]
+   },
+   "published-print": {
+    "date-parts": [
+     [
+      1965,
+      12
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "10.1112/S0025579300005313"
+  ],
+  "URL": "https://doi.org/10.1112/s0025579300005313",
+  "archive": [
+   "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+   "0025-5793",
+   "2041-7942"
+  ],
+  "issn-type": [
+   {
+    "value": "0025-5793",
+    "type": "print"
+   },
+   {
+    "value": "2041-7942",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1965,
+     12
+    ]
+   ]
+  }
+ }
+}

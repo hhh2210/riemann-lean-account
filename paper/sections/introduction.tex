@@ -1,0 +1,95 @@
+\section{Introduction}\label{sec:intro}
+
+On 20 November 2026 Levent Alp\"oge released a proof of the Riemann Hypothesis
+\cite{riemann1859anzahl}, and of the generalised Riemann Hypothesis for the $L$-functions of
+Dirichlet \cite{dirichlet1837beweis}, formalised in Lean~4
+\cite{demoura2021lean4} on top of Mathlib \cite{mathlib2020}. The release consists of the Lean
+source \cite{alpoge2026lean}, \filecount{} files and \linecount{} lines, and a four-page note
+\cite{alpoge2026remark}
+with a timeline of twenty steps. The note says that no human-readable proof has been written.
+
+This paper does two things. It reports that the proof is correct as a formal object: we built
+the archive, it compiles, its five top theorems rest on the three standard axioms and
+nothing else, and the kernel accepts a replay of every declaration from an empty environment
+(\cref{sec:verification}). And it says what the argument is. We read the proof
+from its last line upward through the Lean source, transcribed what each layer states, and
+followed every input until it reached a theorem of the published literature. The result is an
+account of how the proof goes, which the release does not contain.
+
+\subsection{The argument}
+Fix a primitive Dirichlet character $\chi$. The proof has four movements.
+
+\emph{Reduction to a one-sided bound on windows.} A windowed form of Landau's theorem reduces
+the non-vanishing of $L(s,\chi)$ for $\re s>\tfrac12$ to a bound $G(x)\le x^{1/2+\eps}$ for a
+smoothed sum over prime powers, required only for $x$ in long windows (\cref{sec:landau}).
+
+\emph{An exact identity.} For an auxiliary abelian CM field with CM type $\Phi$, a weighted
+count $\ASK$ of the prime powers whose Frobenius lies outside $\Phi$ equals a main term
+$\MAIN$ plus a combination of such sums (\cref{sec:identity}). After averaging, an
+\emph{upper} bound
+\[
+\ASK\ \le\ \MAIN+\Err
+\]
+becomes the bound on $G$, and the error has three parts of sizes $x/m$, $m$ and a rank term,
+where $m$ is a parameter. At $m\approx\sqrt x$ they balance. This is the only place where
+$\tfrac12$ is produced (\cref{sec:balance}).
+
+\emph{A squeeze between two slopes.} The upper bound is proved with Hermitian lattices. For
+each of many indices $u$ there is a lattice $M_u$ of algebraic modular forms on a definite
+unitary group, and a map $B_u$ sending a form to the periods of its $m$-fold iterated theta
+lift; $m$ is the number of lifts. At a prime $p$ inert in the CM field those periods are
+divisible by about $p^{a/p+a/p^3+\cdots}$, because a CM elliptic curve has a formal group of
+height two there (\cref{sec:divisibility}). So $B_u$ still maps a larger lattice
+$N_u\supset M_u$ into the lattice $P$ of periods, and the slope of $N_u$ exceeds that of $M_u$
+by at least the count $\ASK$. The maps $B_u$ form a nearly tight frame, by a relative trace
+formula for Bessel--Poincar\'e series (\cref{sec:frame}), and a slope inequality for such
+frames bounds the slope of $P$ from below by the mean slope of the $N_u$ (\cref{sec:slope}).
+From above, the slope of $P$ is computed: it is $m$ times $\log(a!/\Omega^a)$ with $\Omega$ a
+CM period, and the Chowla--Selberg formula turns this into exactly $\MAIN$
+(\cref{sec:period}).
+
+\emph{Three inputs.} The construction needs a bound on Galois cohomology in a cyclotomic tower,
+which the note calls a weakening of Vandiver's conjecture (\cref{sec:cohomology}); the
+existence of suitable auxiliary fields at every scale in the windows (\cref{sec:hosts}); and a
+body of theorems on unitary groups, Shimura varieties and Arakelov geometry, each of which the
+archive proves for itself (\cref{sec:literature}).
+
+The shape $x/m+m$ is that of Stepanov's method \cite{stepanov1969,bombieri1974,schmidt1976equations}, where a
+polynomial is made to vanish to order $m$ at the points to be counted. Here the multiplicity is
+the length of a chain of theta lifts, and the degree bound is replaced by slopes of lattices in
+the sense of Bost \cite{bost1996,bost2001,chambertloir2002theoremes}.
+
+\subsection{Findings}
+Beyond the outline, the reading establishes the following.
+\begin{enumerate}[label=(\roman*)]
+\item The statement proved is Mathlib's \lean{RiemannHypothesis}, and the statements for
+  Dirichlet $L$-functions cover every character of every modulus (\cref{sec:statements}).
+\item The final theorem uses \coneprojtheorems{} of the archive's \projtheorems{} theorems.
+  The rest includes complete earlier forms of several steps, among them a conditional
+  statement that reaches only $\re s>\tfrac34$ (\cref{sec:offpath}).
+\item The central inequality is a theorem about Hermitian lattices alone, a slope inequality
+  for nearly tight frames of maps, which we state in full (\cref{st:F}).
+\item The period side returns the analytic main term identically; there is no discrepancy term
+  (\cref{st:key}).
+\item The slope argument depends on arithmetic intersection theory on a Shimura variety,
+  through the covolume of lattices of integral forms; this is why resolution of singularities
+  and an arithmetic Hilbert--Samuel theorem are among the results the archive formalises
+  (\cref{sec:period}).
+\item The cohomological bound is needed only in the weak form ``at most $\exp(x^\eps)$''. The
+  archive proves more, by a route through congruences between cusp forms and Eisenstein
+  classes on $\U(3)$; no statement of the main conjecture of Iwasawa theory appears among the
+  results it takes from the literature (\cref{sec:cohomology}).
+\item The Galois representations the proof needs are constructed in the archive from theta
+  lifts between definite unitary groups, with less local--global compatibility than the
+  literature provides, and the argument is arranged to need no more (\cref{sec:galois}).
+\item The proof contains its own formalisations of \rowspublished{} named results of the
+  literature, among them global class field theory, the Siegel--Weil formula and Hironaka's
+  theorem, and beside these of the theorem of Ferrero and Washington and of Kato's Euler system
+  (\cref{sec:literature}).
+\end{enumerate}
+
+\subsection{Scope}
+This is an exposition of Alp\"oge's proof, written from its source; the mathematics is his and
+that of the model he worked with. We do not reprove the theorem, and the certificate of its
+truth is the kernel's, not ours. \Cref{sec:method} states how the reading was done, and
+\cref{app:audit} records where each statement of this paper was read.

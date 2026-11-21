@@ -1,0 +1,153 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     21
+    ]
+   ],
+   "date-time": "2026-10-21T15:55:27Z",
+   "timestamp": 1792598127516,
+   "version": "4.5.0"
+  },
+  "reference-count": 0,
+  "publisher": "Duke University Press",
+  "issue": "2",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Duke Math. J."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1949,
+     6,
+     1
+    ]
+   ]
+  },
+  "DOI": "10.1215/s0012-7094-49-01631-2",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2004,
+     11,
+     9
+    ]
+   ],
+   "date-time": "2004-11-09T22:12:00Z",
+   "timestamp": 1100038320000
+  },
+  "page": "313-326",
+  "source": "Crossref",
+  "is-referenced-by-count": 126,
+  "title": [
+   "A theorem of Stone and von Neumann"
+  ],
+  "prefix": "10.1215",
+  "volume": "16",
+  "author": [
+   {
+    "given": "George W.",
+    "family": "Mackey",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "73",
+  "container-title": [
+   "Duke Mathematical Journal"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "https://projecteuclid.org/journalArticle/Download?urlid=10.1215/S0012-7094-49-01631-2",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     21
+    ]
+   ],
+   "date-time": "2026-10-21T15:25:22Z",
+   "timestamp": 1792596322000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://projecteuclid.org/journals/duke-mathematical-journal/volume-16/issue-2/A-theorem-of-Stone-and-von-Neumann/10.1215/S0012-7094-49-01631-2.full"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1949,
+     6,
+     1
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "2",
+   "published-online": {
+    "date-parts": [
+     [
+      1949,
+      6,
+      1
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.1215/s0012-7094-49-01631-2",
+  "relation": {},
+  "ISSN": [
+   "0012-7094",
+   "1547-7398"
+  ],
+  "issn-type": [
+   {
+    "value": "0012-7094",
+    "type": "print"
+   },
+   {
+    "value": "1547-7398",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1949,
+     6,
+     1
+    ]
+   ]
+  }
+ }
+}

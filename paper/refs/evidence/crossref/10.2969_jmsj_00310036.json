@@ -1,0 +1,145 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     31
+    ]
+   ],
+   "date-time": "2026-10-31T07:17:51Z",
+   "timestamp": 1793431071076,
+   "version": "4.5.0"
+  },
+  "reference-count": 0,
+  "publisher": "Mathematical Society of Japan (Project Euclid)",
+  "issue": "1",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "J. Math. Soc. Japan"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1951,
+     5,
+     1
+    ]
+   ]
+  },
+  "DOI": "10.2969/jmsj/00310036",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2009,
+     12,
+     25
+    ]
+   ],
+   "date-time": "2009-12-25T04:57:12Z",
+   "timestamp": 1261717032000
+  },
+  "page": "36-44",
+  "source": "Crossref",
+  "is-referenced-by-count": 74,
+  "title": [
+   "Deux Théorèmes d'Arithmétique"
+  ],
+  "prefix": "10.2969",
+  "volume": "3",
+  "author": [
+   {
+    "given": "Claude",
+    "family": "CHEVALLEY",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "1529",
+  "container-title": [
+   "Journal of the Mathematical Society of Japan"
+  ],
+  "original-title": [],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     20
+    ]
+   ],
+   "date-time": "2026-10-20T23:09:58Z",
+   "timestamp": 1792537798000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://projecteuclid.org/journals/journal-of-the-mathematical-society-of-japan/volume-3/issue-1/Deux-Th%C3%A9or%C3%A8mes-dArithm%C3%A9tique/10.2969/jmsj/00310036.full"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1951,
+     5,
+     1
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "1",
+   "published-online": {
+    "date-parts": [
+     [
+      1951,
+      5,
+      1
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.2969/jmsj/00310036",
+  "relation": {},
+  "ISSN": [
+   "0025-5645",
+   "1881-1167"
+  ],
+  "issn-type": [
+   {
+    "value": "0025-5645",
+    "type": "print"
+   },
+   {
+    "value": "1881-1167",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1951,
+     5,
+     1
+    ]
+   ]
+  }
+ }
+}

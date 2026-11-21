@@ -1,0 +1,211 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     20
+    ]
+   ],
+   "date-time": "2026-09-20T17:21:07Z",
+   "timestamp": 1789924867631,
+   "version": "4.0.1"
+  },
+  "reference-count": 7,
+  "publisher": "MathDoc/Centre Mersenne",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1962,
+       12,
+       7
+      ]
+     ],
+     "date-time": "1962-12-07T00:00:00Z",
+     "timestamp": -223084800000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "DOI": "10.1007/bf02684275",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2007,
+     8,
+     16
+    ]
+   ],
+   "date-time": "2007-08-16T00:51:27Z",
+   "timestamp": 1187225487000
+  },
+  "page": "5-68",
+  "source": "Crossref",
+  "is-referenced-by-count": 115,
+  "title": [
+   "On the zeta function of a hypersurface"
+  ],
+  "prefix": "10.5802",
+  "volume": "12",
+  "author": [
+   {
+    "given": "Bernard",
+    "family": "Dwork",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "3842",
+  "published-online": {
+   "date-parts": [
+    [
+     1962,
+     12,
+     7
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "key2026021712130164418_1",
+    "article-title": "On the rationality of the zeta function of an algebraic variety",
+    "author": "B. DWORK",
+    "year": "1960",
+    "unstructured": "[1] B. Dwork, On the rationality of the zeta function of an algebraic variety, Amer. J. Math., vol. 82 (1960), pp. 631-648."
+   },
+   {
+    "key": "key2026021712130164418_2",
+    "article-title": "Rationalité des fonctions zêta des variétés algébriques",
+    "author": "J.-P. SERRE",
+    "year": "1959",
+    "unstructured": "[2] J.-P. Serre, Rationalité des fonctions zêta des variétés algébriques, Séminaire Bourbaki, 1959-1960, n° 198."
+   },
+   {
+    "key": "key2026021712130164418_3",
+    "article-title": "Numbers of solutions of equations in finite fields",
+    "author": "A. WEIL",
+    "year": "1949",
+    "unstructured": "[3] A. Weil, Numbers of solutions of equations in finite fields, Bull. Amer. Math. Soc., vol. 55 (1949), pp. 497-508."
+   },
+   {
+    "key": "key2026021712130164418_4",
+    "article-title": "Algebraic numbers and algebraic functions",
+    "author": "E. ARTIN",
+    "year": "1950",
+    "unstructured": "[4] E. Artin, Algebraic numbers and algebraic functions, Princeton University, New York University, 1950-1951 (Mimeographed notes)."
+   },
+   {
+    "key": "key2026021712130164418_5",
+    "article-title": "Moderne Algebraische Geometrie",
+    "author": "W. GRÖBNER",
+    "year": "1949",
+    "unstructured": "[5] W. Gröbner, Moderne Algebraische Geometrie, Wien, Springer, 1949."
+   },
+   {
+    "key": "key2026021712130164418_6",
+    "article-title": "On the congruence properties of the zeta function of algebraic varieties",
+    "author": "B. DWORK",
+    "year": "1960",
+    "unstructured": "[6] B. Dwork, On the congruence properties of the zeta function of algebraic varieties, J. Reine angew. Math., vol. 23 (1960), pp. 130-142."
+   },
+   {
+    "key": "key2026021712130164418_7",
+    "article-title": "Introduction to algebraic geometry",
+    "author": "S. LANG",
+    "year": "1958",
+    "unstructured": "[7] S. Lang, Introduction to algebraic geometry, Interscience Tracts, n° 5, New York, 1958."
+   }
+  ],
+  "container-title": [
+   "Publications Mathématiques de l'IHÉS"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://pmihes.centre-mersenne.org/item/10.1007/BF02684275.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     2,
+     17
+    ]
+   ],
+   "date-time": "2026-02-17T11:13:06Z",
+   "timestamp": 1771326786000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://pmihes.centre-mersenne.org/articles/10.1007/BF02684275/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1962,
+     12,
+     7
+    ]
+   ]
+  },
+  "references-count": 7,
+  "alternative-id": [
+   "10.1007/BF02684275"
+  ],
+  "URL": "https://doi.org/10.1007/bf02684275",
+  "relation": {},
+  "ISSN": [
+   "0073-8301",
+   "1618-1913"
+  ],
+  "issn-type": [
+   {
+    "value": "0073-8301",
+    "type": "print"
+   },
+   {
+    "value": "1618-1913",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1962,
+     12,
+     7
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     3
+    ]
+   ],
+   "date-time": "2026-10-03T21:24:21Z",
+   "timestamp": 1791062661182,
+   "version": "4.1.0"
+  },
+  "reference-count": 0,
+  "publisher": "JSTOR",
+  "issue": "1",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "American Journal of Mathematics"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1956,
+     1
+    ]
+   ]
+  },
+  "DOI": "10.2307/2372481",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2006,
+     7,
+     20
+    ]
+   ],
+   "date-time": "2006-07-20T18:22:15Z",
+   "timestamp": 1153419735000
+  },
+  "page": "1",
+  "source": "Crossref",
+  "is-referenced-by-count": 101,
+  "title": [
+   "Representations of Semisimple Lie Groups, V"
+  ],
+  "prefix": "10.2307",
+  "volume": "78",
+  "author": [
+   {
+    "family": "Harish-Chandra",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "1121",
+  "container-title": [
+   "American Journal of Mathematics"
+  ],
+  "original-title": [],
+  "deposited": {
+   "date-parts": [
+    [
+     2018,
+     4,
+     18
+    ]
+   ],
+   "date-time": "2018-04-18T01:28:21Z",
+   "timestamp": 1524014901000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.jstor.org/stable/2372481?origin=crossref"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1956,
+     1
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1956,
+      1
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.2307/2372481",
+  "relation": {},
+  "ISSN": [
+   "0002-9327"
+  ],
+  "issn-type": [
+   {
+    "value": "0002-9327",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1956,
+     1
+    ]
+   ]
+  }
+ }
+}

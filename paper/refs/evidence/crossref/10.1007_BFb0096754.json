@@ -1,0 +1,212 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     10
+    ]
+   ],
+   "date-time": "2026-11-10T21:36:12Z",
+   "timestamp": 1794346572527,
+   "version": "4.9.0"
+  },
+  "publisher-location": "Berlin, Heidelberg",
+  "reference-count": 0,
+  "publisher": "Springer Berlin Heidelberg",
+  "isbn-type": [
+   {
+    "value": "9783540097433",
+    "type": "print"
+   },
+   {
+    "value": "9783540385752",
+    "type": "electronic"
+   }
+  ],
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1980,
+       1,
+       1
+      ]
+     ],
+     "date-time": "1980-01-01T00:00:00Z",
+     "timestamp": 315532800000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     1980
+    ]
+   ]
+  },
+  "DOI": "10.1007/bfb0096754",
+  "type": "book",
+  "created": {
+   "date-parts": [
+    [
+     2006,
+     11,
+     24
+    ]
+   ],
+   "date-time": "2006-11-24T14:19:57Z",
+   "timestamp": 1164377997000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 89,
+  "title": [
+   "Arithmetic on Elliptic Curves with Complex Multiplication"
+  ],
+  "prefix": "10.1007",
+  "author": [
+   {
+    "given": "Benedict H.",
+    "family": "Gross",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "container-title": [
+   "Lecture Notes in Mathematics"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BFb0096754.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BFb0096754",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     4,
+     7
+    ]
+   ],
+   "date-time": "2019-04-07T06:39:34Z",
+   "timestamp": 1554619174000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BFb0096754"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1980
+    ]
+   ]
+  },
+  "ISBN": [
+   "9783540097433",
+   "9783540385752"
+  ],
+  "references-count": 0,
+  "URL": "https://doi.org/10.1007/bfb0096754",
+  "relation": {
+   "has-part": [
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0096757",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0096758",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0096762",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0096760",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0096759",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0096755",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0096756",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0096761",
+     "asserted-by": "subject"
+    }
+   ]
+  },
+  "ISSN": [
+   "0075-8434",
+   "1617-9692"
+  ],
+  "issn-type": [
+   {
+    "value": "0075-8434",
+    "type": "print"
+   },
+   {
+    "value": "1617-9692",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1980
+    ]
+   ]
+  }
+ }
+}

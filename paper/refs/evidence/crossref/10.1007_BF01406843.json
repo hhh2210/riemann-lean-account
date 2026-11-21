@@ -1,0 +1,573 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     1
+    ]
+   ],
+   "date-time": "2026-10-01T10:17:48Z",
+   "timestamp": 1790849868009,
+   "version": "4.1.0"
+  },
+  "reference-count": 57,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "3",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1979,
+       10,
+       1
+      ]
+     ],
+     "date-time": "1979-10-01T00:00:00Z",
+     "timestamp": 307584000000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Invent Math"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1979,
+     10
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01406843",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     4,
+     3
+    ]
+   ],
+   "date-time": "2005-04-03T03:23:27Z",
+   "timestamp": 1112498607000
+  },
+  "page": "251-295",
+  "source": "Crossref",
+  "is-referenced-by-count": 199,
+  "title": [
+   "K-th�orie des anneaux d'entiers de corps de nombres et cohomologie �tale"
+  ],
+  "prefix": "10.1007",
+  "volume": "55",
+  "author": [
+   {
+    "given": "C.",
+    "family": "Soul�",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "CR1",
+    "unstructured": "Artin, M.: Grothendieck Topologies. Springer 1962"
+   },
+   {
+    "key": "CR2",
+    "unstructured": "Artin, M., Verdier, J.L.: Seminar on Etale Cohomology of number fields. AMS Summer Institute on Algebraic geometry 1964"
+   },
+   {
+    "key": "CR3",
+    "doi-asserted-by": "crossref",
+    "first-page": "35",
+    "DOI": "10.1007/BF01406467",
+    "volume": "50",
+    "author": "P. Bayer",
+    "year": "1978",
+    "unstructured": "Bayer, P., Neukirch, J.: On values of zeta functions and ?-adic Euler characteristics. Inventiones math.50, 35?64 (1978)",
+    "journal-title": "Inventiones math."
+   },
+   {
+    "key": "CR4",
+    "volume-title": "AlgebraicK-theory",
+    "author": "H. Bass",
+    "year": "1968",
+    "unstructured": "Bass, H.: AlgebraicK-theory. New York: Benjamin 1968"
+   },
+   {
+    "key": "CR5",
+    "series-title": "Lecture Notes in Mathematics",
+    "volume-title": "The Milnor ring of a global field. ?AlgebraicK-theory II?",
+    "author": "H. Bass",
+    "year": "1973",
+    "unstructured": "Bass, H., Tate, J.: The Milnor ring of a global field. ?AlgebraicK-theory II?. Lecture Notes in Mathematics no. 342. Berlin-Heidelberg-New York: Springer 1973"
+   },
+   {
+    "key": "CR6",
+    "unstructured": "Bloch, S.: Higher regulators, AlgebraicK-theory, and zeta functions of elliptic curves. Preprint"
+   },
+   {
+    "key": "CR7",
+    "first-page": "187",
+    "volume": "47",
+    "author": "S. Bloch",
+    "year": "1978",
+    "unstructured": "Bloch, S.: AlgebraicK-theory and crystalline cohomology, I.H.E.S., no 47, 187?268 (1978)",
+    "journal-title": "I.H.E.S."
+   },
+   {
+    "key": "CR8",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Bloch, S.: Some formulas pertaining to theK-theory of commutative groupschemes. Preprint, 1977",
+    "DOI": "10.1016/0021-8693(78)90277-6"
+   },
+   {
+    "key": "CR9",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Bloch, S., Ogus, A.: Gersten's Conjecture and the homology of schemes. Ann. Scient. Ec. Norm. Sup.,7, fasc. 2 (1974)",
+    "DOI": "10.24033/asens.1266"
+   },
+   {
+    "key": "CR10",
+    "first-page": "235",
+    "volume": "7",
+    "author": "A. Borel",
+    "year": "1974",
+    "unstructured": "Borel, A.: Stable real cohomology of arithmetic groups. Ann. Scient. Ec. Norm. Sup., 4è série,7, 235?272 (1974)",
+    "journal-title": "Ann. Scient. Ec. Norm. Sup., 4è série"
+   },
+   {
+    "key": "CR11",
+    "series-title": "Lecture notes in Mathematics",
+    "volume-title": "AlgebraicK-theory with coefficientsZ/p, dans ?Geometry applications of Homotopy Theory I?",
+    "author": "W. Browder",
+    "year": "1978",
+    "unstructured": "Browder, W.: AlgebraicK-theory with coefficientsZ/p, dans ?Geometry applications of Homotopy Theory I?. Lecture notes in Mathematics no. 657. Berlin-Heidelberg-New York: Springer 1978"
+   },
+   {
+    "key": "CR12",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Cartan, E., Eilenberg, S.: Homological Algebra, Princeton University Press, 1956",
+    "DOI": "10.1515/9781400883844"
+   },
+   {
+    "key": "CR13",
+    "volume-title": "Algebraic Number Theory",
+    "author": "J.W. Cassels",
+    "year": "1967",
+    "unstructured": "Cassels, J.W., Fröhlich, A.: Algebraic Number Theory. New York-London: Academic Press, 1967"
+   },
+   {
+    "key": "CR14",
+    "unstructured": "Charney, R.: Homology Stability forGL n of a Dedekind domain, à paraître"
+   },
+   {
+    "key": "CR15",
+    "doi-asserted-by": "crossref",
+    "first-page": "498",
+    "DOI": "10.2307/1970916",
+    "volume": "98",
+    "author": "J. Coates",
+    "year": "1973",
+    "unstructured": "Coates, J., Lichtenbaum, S.: On ?-adic zêta functions. Annals of Maths.,98, 498?550 (1973)",
+    "journal-title": "Annals of Maths."
+   },
+   {
+    "key": "CR16",
+    "unstructured": "Deligne, P., Ribet, K.: Values of abelianL-functions at negative integers, à paraître aux Inventiones math."
+   },
+   {
+    "key": "CR17",
+    "unstructured": "Farrell, F.T., Hsiang, W.C.: On the rational homotopy groups of the diffeomorphisms groups of discs, spheres and aspherical manifolds."
+   },
+   {
+    "key": "CR18",
+    "unstructured": "Ferrero, B., Washington, L.C.: The Iwasawa invariant? p for abelian number fields. A paraître aux Annals of Maths."
+   },
+   {
+    "key": "CR19",
+    "unstructured": "Gillet, H.: The applications of AlgebraicK-theory to intersection theory. Thèse, preprint"
+   },
+   {
+    "key": "CR20",
+    "series-title": "Lecture notes in Mathematics",
+    "volume-title": "Higher AlgebraicK-theory II",
+    "author": "D. Grayson",
+    "year": "1976",
+    "unstructured": "Grayson, D.: Higher AlgebraicK-theory II. Lecture notes in Mathematics no 551. Berlin-Heidelberg-New York: Springer 1976"
+   },
+   {
+    "key": "CR21",
+    "volume-title": "Dans «10 exposés sur la cohomologie des schémas",
+    "author": "A. Grothendieck",
+    "year": "1968",
+    "unstructured": "Grothendieck, A.: Classes de Chern et représentations linéaires des groupes discrets. Dans «10 exposés sur la cohomologie des schémas». Masson: North-Holland 1968"
+   },
+   {
+    "key": "CR22",
+    "unstructured": "Grothendieck, A.: Eléments de Géométrie Algébrique, Chapitre 0, §13, Publications I.H.E.S. no 11, 1961"
+   },
+   {
+    "key": "CR23",
+    "doi-asserted-by": "crossref",
+    "first-page": "20",
+    "DOI": "10.2307/1970984",
+    "volume": "101",
+    "author": "B. Harris",
+    "year": "1975",
+    "unstructured": "Harris, B., Segal, G.:K i of rings of algebraic integers. Ann. of Maths.101, 20?33 (1975)",
+    "journal-title": "Ann. of Maths."
+   },
+   {
+    "key": "CR24",
+    "unstructured": "Hiller, H.: ?-rings and algebraicK-theory. Preprint"
+   },
+   {
+    "key": "CR25",
+    "unstructured": "Illusie, L.: Lettre à Gersten, 24/2/1974"
+   },
+   {
+    "key": "CR26",
+    "unstructured": "Karoubi, M.: A paraître"
+   },
+   {
+    "key": "CR27",
+    "doi-asserted-by": "crossref",
+    "first-page": "140",
+    "DOI": "10.3792/pjaa.53.140",
+    "volume": "53",
+    "author": "K. Kato",
+    "year": "1977",
+    "unstructured": "Kato, K.: A generalization of local class field theory by usingK-groups, I et II. Proc. Japan Acad.53, 140?143 (1977)54, 250?255 (1979)",
+    "journal-title": "Proc. Japan Acad."
+   },
+   {
+    "key": "CR28",
+    "unstructured": "Kratzer, C.: Opérations d'Adams enK-théorie algébrique, Note aux C.R. Acad. Sc. Paris,287, Série A, 297 (1978) et article en préparation"
+   },
+   {
+    "key": "CR29",
+    "doi-asserted-by": "crossref",
+    "first-page": "31",
+    "DOI": "10.2307/1971055",
+    "volume": "104",
+    "author": "R. Lee",
+    "year": "1976",
+    "unstructured": "Lee, R., Szczarba, R.H.: The groupK 3(?) is cyclic of order 48, Ann. of Math.,104, 31?60 (1976)",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "CR30",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Lee, R., Szczarba, R.H.: On the torsion inK 4(?) andK 5(?). Duke Journal, 1978",
+    "DOI": "10.1215/S0012-7094-78-04508-8"
+   },
+   {
+    "key": "CR31",
+    "doi-asserted-by": "crossref",
+    "first-page": "338",
+    "DOI": "10.2307/1970792",
+    "volume": "96",
+    "author": "S. Lichtenbaum",
+    "year": "1972",
+    "unstructured": "Lichtenbaum, S.: On the values of zéta andL-functions, I. Ann. of Maths.,96, 338?360 (1972)",
+    "journal-title": "Ann. of Maths."
+   },
+   {
+    "key": "CR32",
+    "series-title": "Lecture notes in Mathematics",
+    "volume-title": "Values of zeta functions, étale cohomology, and algebraicK-theory. Dans ?Alg.K-theory II?",
+    "author": "S. Lichtenbaum",
+    "year": "1973",
+    "unstructured": "Lichtenbaum, S.: Values of zeta functions, étale cohomology, and algebraicK-theory. Dans ?Alg.K-theory II?. Lecture notes in Mathematics no 342. Berlin-Heidelberg-New York: Springer 1973"
+   },
+   {
+    "key": "CR33",
+    "first-page": "309",
+    "volume": "9",
+    "author": "J.L. Loday",
+    "year": "1976",
+    "unstructured": "Loday, J.L.:K-théorie et représentations de groupes. Ann. Scient. Ec. Norm. Sup. 4ème série,9, 309?377 (1976)",
+    "journal-title": "Ann. Scient. Ec. Norm. Sup. 4ème série"
+   },
+   {
+    "key": "CR34",
+    "first-page": "707",
+    "volume": "288",
+    "author": "H. Maazen",
+    "year": "1979",
+    "unstructured": "Maazen, H.: Stabilité de l'homologie deGL n . C.R. Acad. Sc. Paris,288, 707?708 (1979)",
+    "journal-title": "C.R. Acad. Sc. Paris"
+   },
+   {
+    "key": "CR35",
+    "unstructured": "Milnor, J.: Introduction to AlgebraicK-theory. Annals of Maths. Studies no 72. Princeton"
+   },
+   {
+    "key": "CR36",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Milnor, J., Stasheff, J.D.: Characteristic classes; Appendice, Annals of Maths. Studies, no67, 1974",
+    "DOI": "10.1515/9781400881826"
+   },
+   {
+    "key": "CR37",
+    "first-page": "253",
+    "volume": "1",
+    "author": "A.I. Parshin",
+    "year": "1975",
+    "unstructured": "Parshin, A.I.: Corps de classes etK-théorie algébrique, Ouspekhi Math. N.T. 30,1, 253?254 (1975) (en russe), et «Class Field Theory for Arthmetical schemes», preprint",
+    "journal-title": "Ouspekhi Math. N.T. 30"
+   },
+   {
+    "key": "CR38",
+    "unstructured": "Quillen, D.: AlgebraicK-theory I. Lecture Notes no 341"
+   },
+   {
+    "key": "CR39",
+    "doi-asserted-by": "crossref",
+    "first-page": "552",
+    "DOI": "10.2307/1970825",
+    "volume": "96",
+    "author": "D. Quillen",
+    "year": "1972",
+    "unstructured": "Quillen, D.: On the cohomology andK-theory of the general linear groups over a finite field. Annals of Maths.,96, 552?586 (1972)",
+    "journal-title": "Annals of Maths."
+   },
+   {
+    "key": "CR40",
+    "series-title": "Lecture Notes in Mathematics",
+    "volume-title": "Lettre à Milnor sur $$\\operatorname{Im} (\\pi _i O\\mathop \\to \\limits^J \\pi _i^s \\to K_i \\mathbb{Z})$$",
+    "author": "D. Quillen",
+    "year": "1976",
+    "unstructured": "Quillen, D.: Lettre à Milnor sur $$\\operatorname{Im} (\\pi _i O\\mathop \\to \\limits^J \\pi _i^s \\to K_i \\mathbb{Z})$$ . Lecture Notes in Mathematics no 551. Berlin-Heidelberg-New York: Springer 1976"
+   },
+   {
+    "key": "CR41",
+    "series-title": "Lecture Notes in Mathematics",
+    "doi-asserted-by": "crossref",
+    "first-page": "179",
+    "DOI": "10.1007/BFb0067056",
+    "volume-title": "Finite generation of the groupsK i of rings of algebraic integers",
+    "author": "D. Quillen",
+    "year": "1973",
+    "unstructured": "Quillen, D.: Finite generation of the groupsK i of rings of algebraic integers. Lecture Notes in Mathematics no 341, pp. 179?210. Berlin-Heidelberg-New York: Springer 1973"
+   },
+   {
+    "key": "CR42",
+    "unstructured": "Quillen, D.: Cours à M.I.T., 1974?75"
+   },
+   {
+    "key": "CR43",
+    "unstructured": "Raynaud, M.: Caractéristique d'Euler Poincaré d'un faisceau et cohomologie des variétés abéliennes, dans «dix exposés sur la cohomologie des schémas», north Holland: Masson 1968"
+   },
+   {
+    "key": "CR44",
+    "unstructured": "Séminaire de Géométrie Algébrique IV: Exposé VIII, A. Grothendieck, Lecture notes in Mathematics no 270. Berlin-Heidelberg-New York: Springer 1972"
+   },
+   {
+    "key": "CR45",
+    "unstructured": "S.G.A. IV 1/2: Cohomologie étale: les points de départ, par P. Deligne, rédigé par J.F. Boutot. Lecture notes in Mathematics no 569. Berlin-Heidelberg-New York: Springer 1977"
+   },
+   {
+    "key": "CR46",
+    "unstructured": "Serre, J-P.: Corps locaux. Hermann, Act. Scient. et Ind., 1968"
+   },
+   {
+    "key": "CR47",
+    "series-title": "Lecture notes in Mathematics",
+    "volume-title": "Cohomologie galoisienne",
+    "author": "J-P. Serre",
+    "year": "1964",
+    "unstructured": "Serre, J-P.: Cohomologie galoisienne. Lecture notes in Mathematics no. 5. Berlin-Heidelberg-New York: Springer 1964"
+   },
+   {
+    "issue": "2",
+    "key": "CR48",
+    "doi-asserted-by": "crossref",
+    "first-page": "425",
+    "DOI": "10.2307/1969485",
+    "volume": "54",
+    "author": "J-P. Serre",
+    "year": "1951",
+    "unstructured": "Serre, J-P.: Homologie singulière des espaces fibrés. Applications. Ann. of Maths. (2)54, 425?505 (1951)",
+    "journal-title": "Applications. Ann. of Maths."
+   },
+   {
+    "key": "CR49",
+    "unstructured": "Serre, J-P.: Facteurs locaux des fonctions zêta des variétés algébriques (définitions et conjectures). Séminaire Delange-Poitou-Pisot no 19, 1969/70"
+   },
+   {
+    "key": "CR50",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Soulé, C.: Addendum to the article «On the torsion inK *(?)». Duke Journal, pp. 131?132 (1978)",
+    "DOI": "10.1215/S0012-7094-78-04509-X"
+   },
+   {
+    "key": "CR51",
+    "first-page": "1009",
+    "volume": "284",
+    "author": "C. Soulé",
+    "year": "1977",
+    "unstructured": "Soulé, C.: Classes de torsion dans la cohomologie des groupes arithmétiques. C.R. Acad. Sc. Paris,284, 1009?1011 (1977)",
+    "journal-title": "C.R. Acad. Sc. Paris"
+   },
+   {
+    "key": "CR52",
+    "first-page": "1179",
+    "volume": "286",
+    "author": "C. Soulé",
+    "year": "1978",
+    "unstructured": "Soulé, C.:K-théorie de ? et cohomologie étale. C.R. Acad. Sc. Paris,286, 1179?1181 (1978)",
+    "journal-title": "C.R. Acad. Sc. Paris"
+   },
+   {
+    "key": "CR53",
+    "unstructured": "Soulé, C.: Groupes arithmétiques etK-théorie des anneaux d'entiers de corps de nombres. Thèse, Paris VII, 1978"
+   },
+   {
+    "key": "CR54",
+    "doi-asserted-by": "crossref",
+    "first-page": "257",
+    "DOI": "10.1007/BF01390012",
+    "volume": "36",
+    "author": "J. Tate",
+    "year": "1976",
+    "unstructured": "Tate, J.: Relations betweenK 2 and Galois cohomology. Inventiones Math.,36, 257?274 (1976)",
+    "journal-title": "Inventiones Math."
+   },
+   {
+    "key": "CR55",
+    "unstructured": "Tate, J.: Algebraic cycles and poles of zeta functions, dans «Arithmetical Algebraic Geometry» (O.F.G. Schilling ed.), p. 93, 1963"
+   },
+   {
+    "key": "CR56",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Wagstaff, S.: The irregular primes to 125000. Math. Computations, p. 583, A.M.S. 1978",
+    "DOI": "10.2307/2006167"
+   },
+   {
+    "key": "CR57",
+    "doi-asserted-by": "crossref",
+    "first-page": "135",
+    "DOI": "10.2307/1971165",
+    "volume": "108",
+    "author": "F. Waldhausen",
+    "year": "1978",
+    "unstructured": "Waldhausen, F.: AlgebraicK-theory of generalized free products, I et II. Annals of Maths.,108, 135?204, 205?256 (1978)",
+    "journal-title": "Annals of Maths."
+   }
+  ],
+  "container-title": [
+   "Inventiones Mathematicae"
+  ],
+  "original-title": [],
+  "language": "fr",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01406843.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01406843/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01406843",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2021,
+     7,
+     7
+    ]
+   ],
+   "date-time": "2021-07-07T22:24:57Z",
+   "timestamp": 1625696697000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01406843"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1979,
+     10
+    ]
+   ]
+  },
+  "references-count": 57,
+  "journal-issue": {
+   "issue": "3",
+   "published-print": {
+    "date-parts": [
+     [
+      1979,
+      10
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01406843"
+  ],
+  "URL": "https://doi.org/10.1007/bf01406843",
+  "relation": {},
+  "ISSN": [
+   "0020-9910",
+   "1432-1297"
+  ],
+  "issn-type": [
+   {
+    "value": "0020-9910",
+    "type": "print"
+   },
+   {
+    "value": "1432-1297",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1979,
+     10
+    ]
+   ]
+  }
+ }
+}

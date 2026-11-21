@@ -1,0 +1,38 @@
+{
+ "stepanov1969number": {
+  "title": "On the number of points of a hyperelliptic curve over a finite prime field",
+  "venue": "Izv. Akad. Nauk SSSR Ser. Mat.",
+  "bibnote": "In Russian. English translation: Math. USSR-Izv. 3 (1969), 1103--1114",
+  "reason": "The paper cannot typeset Cyrillic; title given as in the journal's own English translation (Math-Net.Ru Mi im2197, read 2026-11-21)."
+ },
+ "zarhin1977endomorphisms": {
+  "title": "Endomorphisms of abelian varieties and points of finite order in characteristic $p$",
+  "venue": "Mat. Zametki",
+  "bibnote": "In Russian. English translation: Math. Notes 21 (1977), 415--419",
+  "reason": "As above (Math-Net.Ru Mi mzm8004, read 2026-11-21)."
+ },
+ "alpoge2026remark": {
+  "title": "[Note announcing a formal proof of the Riemann Hypothesis and of GRH for Dirichlet $L$-functions]",
+  "venue": "Four pages, untitled, dated 20 November 2026",
+  "reason": "The PDF carries no title or byline; the bracketed title is descriptive."
+ },
+ "alpoge2026lean": {
+  "title": "[Lean 4 source of the proof, \\texttt{lean.tar.gz}, in fourteen parts]",
+  "venue": "SHA-256 \\texttt{9631b4f0\\ldots 49c7fc}",
+  "reason": "Descriptive title for an untitled archive; hash from our download."
+ },
+ "mathlib2020lean": {
+  "authors": [
+   "{The mathlib Community}"
+  ],
+  "reason": "A corporate author; the braces keep the name whole."
+ },
+ "lean4checker": {
+  "authors": [
+   "Morrison, Kim",
+   "Ullrich, Sebastian"
+  ],
+  "bibnote": "Shipped with Lean as leanchecker since version 4.28.0",
+  "reason": "Authors as in the header of LeanChecker.lean in the Lean 4.33.1 toolchain, read 2026-11-21."
+ }
+}

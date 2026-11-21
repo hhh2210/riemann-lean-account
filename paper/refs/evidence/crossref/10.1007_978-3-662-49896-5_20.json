@@ -1,0 +1,659 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     12
+    ]
+   ],
+   "date-time": "2026-11-12T20:58:42Z",
+   "timestamp": 1794517122908,
+   "version": "4.9.1"
+  },
+  "publisher-location": "Berlin, Heidelberg",
+  "reference-count": 45,
+  "publisher": "Springer Berlin Heidelberg",
+  "isbn-type": [
+   {
+    "value": "9783662498958",
+    "type": "print"
+   },
+   {
+    "value": "9783662498965",
+    "type": "electronic"
+   }
+  ],
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2016,
+       1,
+       1
+      ]
+     ],
+     "date-time": "2016-01-01T00:00:00Z",
+     "timestamp": 1451606400000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [
+    "link.springer.com"
+   ],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     2016
+    ]
+   ]
+  },
+  "DOI": "10.1007/978-3-662-49896-5_20",
+  "type": "book-chapter",
+  "created": {
+   "date-parts": [
+    [
+     2016,
+     4,
+     27
+    ]
+   ],
+   "date-time": "2016-04-27T00:45:32Z",
+   "timestamp": 1461717932000
+  },
+  "page": "559-585",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 105,
+  "title": [
+   "Recovering Short Generators of Principal Ideals in Cyclotomic Rings"
+  ],
+  "prefix": "10.1007",
+  "author": [
+   {
+    "given": "Ronald",
+    "family": "Cramer",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Léo",
+    "family": "Ducas",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Chris",
+    "family": "Peikert",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Oded",
+    "family": "Regev",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "published-online": {
+   "date-parts": [
+    [
+     2016,
+     4,
+     28
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "20_CR1",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Aggarwal, D., Dadush, D., Stephens-Davidowitz, N.: Solving the closest vector problem in $$2^n$$ time - the discrete Gaussian strikes again! In: FOCS, pp. 563–582 (2015)",
+    "DOI": "10.1109/FOCS.2015.41"
+   },
+   {
+    "issue": "1",
+    "key": "20_CR2",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1007/BF02579403",
+    "volume": "6",
+    "author": "L Babai",
+    "year": "1986",
+    "unstructured": "Babai, L.: On Lovász’ lattice reduction, the nearest lattice point problem. Combinatorica 6(1), 1–13 (1986). Preliminary version in STACS 1985",
+    "journal-title": "Combinatorica"
+   },
+   {
+    "issue": "4",
+    "key": "20_CR3",
+    "doi-asserted-by": "publisher",
+    "first-page": "625",
+    "DOI": "10.1007/BF01445125",
+    "volume": "296",
+    "author": "W Banaszczyk",
+    "year": "1993",
+    "unstructured": "Banaszczyk, W.: New bounds in some transference theorems in the geometry of numbers. Math. Ann. 296(4), 625–635 (1993)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "issue": "4",
+    "key": "20_CR4",
+    "doi-asserted-by": "publisher",
+    "first-page": "351",
+    "DOI": "10.1002/(SICI)1098-2418(199807)12:4<351::AID-RSA3>3.0.CO;2-S",
+    "volume": "12",
+    "author": "W Banaszczyk",
+    "year": "1998",
+    "unstructured": "Banaszczyk, W.: Balancing vectors and gaussian measures of $$n$$ -dimensional convex bodies. Random Struct. Algorithms 12(4), 351–360 (1998)",
+    "journal-title": "Random Struct. Algorithms"
+   },
+   {
+    "key": "20_CR5",
+    "unstructured": "Bernstein, D.: Personal Communication. June 2014"
+   },
+   {
+    "key": "20_CR6",
+    "unstructured": "Bernstein, D.: A subfield-logarithm attack against ideal lattices. http://blog.cr.yp.to/20140213-ideal.html , Febuary 2014"
+   },
+   {
+    "issue": "suppl. A",
+    "key": "20_CR7",
+    "doi-asserted-by": "publisher",
+    "first-page": "385",
+    "DOI": "10.1112/S1461157014000345",
+    "volume": "17",
+    "author": "J-F Biasse",
+    "year": "2014",
+    "unstructured": "Biasse, J.-F., Fieker, C.: Subexponential class group, unit group computation in large degree number fields. LMS J. Comput. Math. 17(suppl. A), 385–403 (2014)",
+    "journal-title": "LMS J. Comput. Math."
+   },
+   {
+    "issue": "4",
+    "key": "20_CR8",
+    "doi-asserted-by": "publisher",
+    "first-page": "407",
+    "DOI": "10.3934/amc.2014.8.407",
+    "volume": "8",
+    "author": "J-F Biasse",
+    "year": "2014",
+    "unstructured": "Biasse, J.-F.: Subexponential time relations in the class group of large degree number fields. Adv. Math. Commun. 8(4), 407–425 (2014)",
+    "journal-title": "Adv. Math. Commun."
+   },
+   {
+    "key": "20_CR9",
+    "first-page": "149",
+    "volume": "41",
+    "author": "J Buhler",
+    "year": "2004",
+    "unstructured": "Buhler, J., Pomerance, C., Robertson, L.: Heuristics for class numbers of prime-power real cyclotomic fields. Fields Inst. Commun 41, 149–157 (2004)",
+    "journal-title": "Fields Inst. Commun"
+   },
+   {
+    "issue": "3",
+    "key": "20_CR10",
+    "doi-asserted-by": "publisher",
+    "first-page": "283",
+    "DOI": "10.1007/PL00009294",
+    "volume": "17",
+    "author": "W Banaszczyk",
+    "year": "1997",
+    "unstructured": "Banaszczyk, W., Szarek, S.J.: Lattice coverings and Gaussian measures of $$n$$ -dimensional convex bodies. Discrete Comput. Geom. 17(3), 283–286 (1997)",
+    "journal-title": "Discrete Comput. Geom."
+   },
+   {
+    "key": "20_CR11",
+    "unstructured": "Biasse, J.-F., Song, F.: A note on the quantum attacks against schemes relying on the hardness of finding a short generator of an ideal in $$\\mathbb{Q}(\\zeta _{2^n})$$ . In: Technical report –12, The University of Waterloo, Revision of September 28th 2015"
+   },
+   {
+    "key": "20_CR12",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Biasse, J.-F., Song, F.: A polynomial time quantum algorithm for computing class groups and solving the principal ideal problem in arbitrary degree number fields. In: SODA (2016)",
+    "DOI": "10.1137/1.9781611974331.ch64"
+   },
+   {
+    "key": "20_CR13",
+    "unstructured": "Campbell, P., Groves, M., Shepherd, D.: Soliloquy: a cautionary tale. In: ETSI 2nd Quantum-Safe Crypto Workshop, 2014. Available at http://docbox.etsi.org/Workshop/2014/201410_CRYPTO/S07_Systems_and_Attacks/S07_Groves_Annex.pdf"
+   },
+   {
+    "key": "20_CR14",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Eisenträger, K., Hallgren, S., Kitaev, A., Song, F.: A quantum algorithm for computing the unit group of an arbitrary degree number field. In: STOC, pp. 293–302. ACM (2014)",
+    "DOI": "10.1145/2591796.2591860"
+   },
+   {
+    "key": "20_CR15",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Gentry, C.: Fully homomorphic encryption using ideal lattices. In: STOC, pp. 169–178 (2009)",
+    "DOI": "10.1145/1536414.1536440"
+   },
+   {
+    "key": "20_CR16",
+    "series-title": "Lecture Notes in Computer Science",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1007/978-3-642-38348-9_1",
+    "volume-title": "Advances in Cryptology – EUROCRYPT 2013",
+    "author": "S Garg",
+    "year": "2013",
+    "unstructured": "Garg, S., Gentry, C., Halevi, S.: Candidate multilinear maps from ideal lattices. In: Johansson, T., Nguyen, P.Q. (eds.) EUROCRYPT 2013. LNCS, vol. 7881, pp. 1–17. Springer, Heidelberg (2013)"
+   },
+   {
+    "key": "20_CR17",
+    "series-title": "Lecture Notes in Computer Science",
+    "doi-asserted-by": "publisher",
+    "first-page": "299",
+    "DOI": "10.1007/3-540-46035-7_20",
+    "volume-title": "Advances in Cryptology - EUROCRYPT 2002",
+    "author": "C Gentry",
+    "year": "2002",
+    "unstructured": "Gentry, C., Szydlo, M.: Cryptanalysis of the revised NTRU signature scheme. In: Knudsen, L.R. (ed.) EUROCRYPT 2002. LNCS, vol. 2332, p. 299. Springer, Heidelberg (2002)"
+   },
+   {
+    "key": "20_CR18",
+    "series-title": "Lecture Notes in Computer Science",
+    "doi-asserted-by": "publisher",
+    "first-page": "267",
+    "DOI": "10.1007/BFb0054868",
+    "volume-title": "Algorithmic Number Theory",
+    "author": "J Hoffstein",
+    "year": "1998",
+    "unstructured": "Hoffstein, J., Pipher, J., Silverman, J.H.: NTRU: a ring-based public key cryptosystem. In: Buhler, J.P. (ed.) ANTS 1998. LNCS, vol. 1423, pp. 267–288. Springer, Heidelberg (1998)"
+   },
+   {
+    "key": "20_CR19",
+    "doi-asserted-by": "crossref",
+    "first-page": "26",
+    "DOI": "10.1515/crll.1927.157.26",
+    "volume": "157",
+    "author": "E Landau",
+    "year": "1927",
+    "unstructured": "Landau, E.: Über Dirichletsche Reihen mit komplexen Charakteren. Journal für die reine und angewandte Mathematik 157, 26–32 (1927)",
+    "journal-title": "Journal für die reine und angewandte Mathematik"
+   },
+   {
+    "key": "20_CR20",
+    "series-title": "Graduate Texts in Mathematics",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/978-1-4613-0041-0",
+    "volume-title": "Algebra",
+    "author": "S Lang",
+    "year": "2002",
+    "unstructured": "Lang, S.: Algebra. Graduate Texts in Mathematics, vol. 211, 3rd edn. Springer, New York (2002)",
+    "edition": "3"
+   },
+   {
+    "key": "20_CR21",
+    "series-title": "Lecture Notes in Computer Science",
+    "doi-asserted-by": "publisher",
+    "first-page": "32",
+    "DOI": "10.1007/3-540-11607-9_4",
+    "volume-title": "Computer Algebra",
+    "author": "AK Lenstra",
+    "year": "1982",
+    "unstructured": "Lenstra, A.K.: Lattices and factorization of polynomials over algebraic number fields. In: Calmet, J. (ed.) EUROCAM ’1982. LNCS, vol. 144, pp. 32–39. Springer, Heidelberg (1982)"
+   },
+   {
+    "issue": "4",
+    "key": "20_CR22",
+    "doi-asserted-by": "publisher",
+    "first-page": "515",
+    "DOI": "10.1007/BF01457454",
+    "volume": "261",
+    "author": "AK Lenstra",
+    "year": "1982",
+    "unstructured": "Lenstra, A.K., Lenstra Jr., H.W., Lovász, L.: Factoring polynomials with rational coefficients. Math. Ann. 261(4), 515–534 (1982)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "issue": "295",
+    "key": "20_CR23",
+    "doi-asserted-by": "publisher",
+    "first-page": "2391",
+    "DOI": "10.1090/S0025-5718-2015-02925-1",
+    "volume": "84",
+    "author": "Y Lamzouri",
+    "year": "2015",
+    "unstructured": "Lamzouri, Y., Li, X., Soundararajan, K.: Conditional bounds for the least quadratic non-residue and related problems. Math. Comp. 84(295), 2391–2412 (2015)",
+    "journal-title": "Math. Comp."
+   },
+   {
+    "key": "20_CR24",
+    "series-title": "Lecture Notes in Computer Science",
+    "doi-asserted-by": "publisher",
+    "first-page": "54",
+    "DOI": "10.1007/978-3-540-71039-4_4",
+    "volume-title": "Fast Software Encryption",
+    "author": "V Lyubashevsky",
+    "year": "2008",
+    "unstructured": "Lyubashevsky, V., Micciancio, D., Peikert, C., Rosen, A.: SWIFFT: a modest proposal for FFT hashing. In: Nyberg, K. (ed.) FSE 2008. LNCS, vol. 5086, pp. 54–72. Springer, Heidelberg (2008)"
+   },
+   {
+    "issue": "1",
+    "key": "20_CR25",
+    "first-page": "101",
+    "volume": "30",
+    "author": "S Louboutin",
+    "year": "2015",
+    "unstructured": "Louboutin, S.: An explicit lower bound on moduli of Dirichlet $$L$$ -functions at $$s=1$$ . J. Ramanujan Math. Soc. 30(1), 101–113 (2015)",
+    "journal-title": "J. Ramanujan Math. Soc."
+   },
+   {
+    "issue": "6",
+    "key": "20_CR26",
+    "doi-asserted-by": "publisher",
+    "first-page": "43:1",
+    "DOI": "10.1145/2535925",
+    "volume": "60",
+    "author": "V Lyubashevsky",
+    "year": "2013",
+    "unstructured": "Lyubashevsky, V., Peikert, C., Regev, O.: On ideal lattices, learning with errors over rings. J. ACM 60(6), 43:1–43:35 (2013)",
+    "journal-title": "J. ACM"
+   },
+   {
+    "key": "20_CR27",
+    "series-title": "Lecture Notes in Computer Science",
+    "doi-asserted-by": "publisher",
+    "first-page": "35",
+    "DOI": "10.1007/978-3-642-38348-9_3",
+    "volume-title": "Advances in Cryptology EUROCRYPT 2013",
+    "author": "V Lyubashevsky",
+    "year": "2013",
+    "unstructured": "Lyubashevsky, V., Peikert, C., Regev, O.: A toolkit for ring-LWE cryptography. In: Johansson, T., Nguyen, P.Q. (eds.) EUROCRYPT 2013. LNCS, vol. 7881, pp. 35–54. Springer, Heidelberg (2013)"
+   },
+   {
+    "key": "20_CR28",
+    "series-title": "Lecture Notes in Computer Science",
+    "doi-asserted-by": "crossref",
+    "first-page": "239",
+    "DOI": "10.1007/978-3-642-55220-5_14",
+    "volume-title": "Advances in Cryptology-EUROCRYPT",
+    "author": "A Langlois",
+    "year": "2014",
+    "unstructured": "Langlois, A., Stehlé, D., Steinfeld, R.: GGHLite: more efficient multilinear maps from ideal lattices. In: Nguyen, P.Q., Oswald, E. (eds.) EUROCRYPT 2014. LNCS, vol. 8441, pp. 239–256. Springer, Heidelberg (2014)"
+   },
+   {
+    "issue": "4",
+    "key": "20_CR29",
+    "doi-asserted-by": "publisher",
+    "first-page": "365",
+    "DOI": "10.1007/s00037-007-0234-9",
+    "volume": "16",
+    "author": "D Micciancio",
+    "year": "2007",
+    "unstructured": "Micciancio, D.: Generalized compact knapsacks, cyclic lattices, efficient one-way functions. Comput. Complex. 16(4), 365–411 (2007). Preliminary version in FOCS 2002",
+    "journal-title": "Comput. Complex."
+   },
+   {
+    "issue": "4",
+    "key": "20_CR30",
+    "doi-asserted-by": "publisher",
+    "first-page": "381",
+    "DOI": "10.4064/aa164-4-4",
+    "volume": "164",
+    "author": "JC Miller",
+    "year": "2014",
+    "unstructured": "Miller, J.C.: Class numbers of totally real fields and applications to the weber class number problem. Acta Arith. 164(4), 381–398 (2014)",
+    "journal-title": "Acta Arith."
+   },
+   {
+    "issue": "295",
+    "key": "20_CR31",
+    "doi-asserted-by": "publisher",
+    "first-page": "2459",
+    "DOI": "10.1090/S0025-5718-2015-02924-X",
+    "volume": "84",
+    "author": "JC Miller",
+    "year": "2015",
+    "unstructured": "Miller, J.C.: Real cyclotomic fields of prime conductor and their class numbers. Math. Comp. 84(295), 2459–2469 (2015)",
+    "journal-title": "Math. Comp."
+   },
+   {
+    "issue": "1",
+    "key": "20_CR32",
+    "doi-asserted-by": "publisher",
+    "first-page": "267",
+    "DOI": "10.1137/S0097539705447360",
+    "volume": "37",
+    "author": "D Micciancio",
+    "year": "2007",
+    "unstructured": "Micciancio, D., Regev, O.: Worst-case to average-case reductions based on Gaussian measures. SIAM J. Comput. 37(1), 267–302 (2007). Preliminary version in FOCS 2004",
+    "journal-title": "SIAM J. Comput."
+   },
+   {
+    "key": "20_CR33",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/CBO9780511618314",
+    "volume-title": "Multiplicative Number Theory I",
+    "author": "HL Montgomery",
+    "year": "2006",
+    "unstructured": "Montgomery, H.L., Vaughan, R.C.: Multiplicative Number Theory I. Cambridge University Press, Cambridge (2006)"
+   },
+   {
+    "key": "20_CR34",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Micciancio, D., Voulgaris, P.: A deterministic single exponential time algorithm for most lattice problems based on Voronoi cell computations. In: STOC, pp. 351–358 (2010)",
+    "DOI": "10.1145/1806689.1806739"
+   },
+   {
+    "key": "20_CR35",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/CBO9781139814782",
+    "volume-title": "Analysis of Boolean Functions",
+    "author": "R O’Donnell",
+    "year": "2014",
+    "unstructured": "O’Donnell, R.: Analysis of Boolean Functions. Cambridge University Press, Cambridge (2014)"
+   },
+   {
+    "key": "20_CR36",
+    "series-title": "Lecture Notes in Computer Science",
+    "doi-asserted-by": "publisher",
+    "first-page": "80",
+    "DOI": "10.1007/978-3-642-14623-7_5",
+    "volume-title": "Advances in Cryptology – CRYPTO 2010",
+    "author": "C Peikert",
+    "year": "2010",
+    "unstructured": "Peikert, C.: An efficient and parallel gaussian sampler for lattices. In: Rabin, T. (ed.) CRYPTO 2010. LNCS, vol. 6223, pp. 80–97. Springer, Heidelberg (2010)"
+   },
+   {
+    "key": "20_CR37",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Peikert, C., Rosen, A.: Lattices that admit logarithmic worst-case to average-case connection factors. In: STOC, pp. 478–487 (2007)",
+    "DOI": "10.1145/1250790.1250860"
+   },
+   {
+    "key": "20_CR38",
+    "volume-title": "Algebraic Theory of Numbers",
+    "author": "P Samuel",
+    "year": "1970",
+    "unstructured": "Samuel, P.: Algebraic Theory of Numbers. Hermann, Paris (1970)"
+   },
+   {
+    "key": "20_CR39",
+    "doi-asserted-by": "publisher",
+    "first-page": "201",
+    "DOI": "10.1016/0304-3975(87)90064-8",
+    "volume": "53",
+    "author": "C-P Schnorr",
+    "year": "1987",
+    "unstructured": "Schnorr, C.-P.: A hierarchy of polynomial time lattice basis reduction algorithms. Theor. Comput. Sci. 53, 201–224 (1987)",
+    "journal-title": "Theor. Comput. Sci."
+   },
+   {
+    "issue": "242",
+    "key": "20_CR40",
+    "doi-asserted-by": "publisher",
+    "first-page": "913",
+    "DOI": "10.1090/S0025-5718-02-01432-1",
+    "volume": "72",
+    "author": "R Schoof",
+    "year": "2003",
+    "unstructured": "Schoof, R.: Class numbers of real cyclotomic fields of prime conductor. Math. Comput. 72(242), 913–937 (2003)",
+    "journal-title": "Math. Comput."
+   },
+   {
+    "key": "20_CR41",
+    "unstructured": "Schank, J.: LogCvp, Pari implementation of CVP in Log $$\\mathbb{Z}[\\zeta _{2^n}]^*$$ , March 2015. https://github.com/jschanck-si/logcvp"
+   },
+   {
+    "key": "20_CR42",
+    "unstructured": "Shepherd, D.: Personal communication, December 2014"
+   },
+   {
+    "key": "20_CR43",
+    "series-title": "Lecture Notes in Computer Science",
+    "doi-asserted-by": "crossref",
+    "first-page": "420",
+    "DOI": "10.1007/978-3-642-13013-7_25",
+    "volume-title": "Public Key Cryptography",
+    "author": "NP Smart",
+    "year": "2010",
+    "unstructured": "Smart, N.P., Vercauteren, F.: Fully homomorphic encryption with relatively small key and ciphertext sizes. In: Nguyen, P.Q., Pointcheval, D. (eds.) Public Key Cryptography. LNCS, vol. 6056, pp. 420–443. Springer, Heidelberg (2010)"
+   },
+   {
+    "key": "20_CR44",
+    "unstructured": "Vershynin, R.: Introduction to the non-asymptotic analysis of random matrices. In: Compressed sensing, pp. 210–268. Cambridge University Press, Cambridge (2012). http://www-personal.umich.edu/~romanv/papers/non-asymptotic-rmt-plain.pdf"
+   },
+   {
+    "key": "20_CR45",
+    "series-title": "Graduate Texts in Mathematics",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/978-1-4612-1934-7",
+    "volume-title": "Introduction to Cyclotomic Fields",
+    "author": "L Washington",
+    "year": "1997",
+    "unstructured": "Washington, L.: Introduction to Cyclotomic Fields. Graduate Texts in Mathematics. Springer, New York (1997)"
+   }
+  ],
+  "container-title": [
+   "Lecture Notes in Computer Science",
+   "Advances in Cryptology – EUROCRYPT 2016"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/978-3-662-49896-5_20",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2023,
+     8,
+     17
+    ]
+   ],
+   "date-time": "2023-08-17T15:56:51Z",
+   "timestamp": 1692287811000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/978-3-662-49896-5_20"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2016
+    ]
+   ]
+  },
+  "ISBN": [
+   "9783662498958",
+   "9783662498965"
+  ],
+  "references-count": 45,
+  "URL": "https://doi.org/10.1007/978-3-662-49896-5_20",
+  "relation": {
+   "is-part-of": [
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-3-662-49896-5",
+     "asserted-by": "object"
+    }
+   ]
+  },
+  "ISSN": [
+   "0302-9743",
+   "1611-3349"
+  ],
+  "issn-type": [
+   {
+    "value": "0302-9743",
+    "type": "print"
+   },
+   {
+    "value": "1611-3349",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2016
+    ]
+   ]
+  },
+  "assertion": [
+   {
+    "value": "28 April 2016",
+    "order": 1,
+    "name": "first_online",
+    "label": "First Online",
+    "group": {
+     "name": "ChapterHistory",
+     "label": "Chapter History"
+    }
+   },
+   {
+    "value": "This content has been made available to all.",
+    "name": "free",
+    "label": "Free to read"
+   }
+  ]
+ }
+}

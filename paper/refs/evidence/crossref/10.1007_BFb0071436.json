@@ -1,0 +1,417 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     10
+    ]
+   ],
+   "date-time": "2026-11-10T20:56:54Z",
+   "timestamp": 1794344214059,
+   "version": "4.9.0"
+  },
+  "publisher-location": "Berlin, Heidelberg",
+  "reference-count": 26,
+  "publisher": "Springer Berlin Heidelberg",
+  "isbn-type": [
+   {
+    "value": "9783540127253",
+    "type": "print"
+   },
+   {
+    "value": "9783540387091",
+    "type": "electronic"
+   }
+  ],
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1983,
+       1,
+       1
+      ]
+     ],
+     "date-time": "1983-01-01T00:00:00Z",
+     "timestamp": 410227200000
+    },
+    "content-version": "unspecified",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     1983
+    ]
+   ]
+  },
+  "DOI": "10.1007/bfb0071436",
+  "type": "book-chapter",
+  "created": {
+   "date-parts": [
+    [
+     2006,
+     11,
+     23
+    ]
+   ],
+   "date-time": "2006-11-23T12:22:48Z",
+   "timestamp": 1164284568000
+  },
+  "page": "287-369",
+  "source": "Crossref",
+  "is-referenced-by-count": 50,
+  "title": [
+   "Asymptotic expansions of generalized matrix entries of representations of real reductive groups"
+  ],
+  "prefix": "10.1007",
+  "author": [
+   {
+    "given": "Nolan R.",
+    "family": "Wallach",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "published-online": {
+   "date-parts": [
+    [
+     2006,
+     9,
+     6
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "7_CR1",
+    "doi-asserted-by": "publisher",
+    "first-page": "869",
+    "DOI": "10.1215/S0012-7094-82-04943-2",
+    "volume": "49",
+    "author": "W. Casselman",
+    "year": "1982",
+    "unstructured": "W. Casselman and D. Miličic, Asymptotic behavior of matrix coefficients of admissible representations, Duke Math. J., 49 (1982), 869–930.",
+    "journal-title": "Duke Math. J."
+   },
+   {
+    "key": "7_CR2",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1515/9783112765111",
+    "volume-title": "Enveloping algebras",
+    "author": "J. Dixmier",
+    "year": "1977",
+    "unstructured": "J. Dixmier, \"Enveloping algebras,\" North-Holland, Amsterdam, 1977."
+   },
+   {
+    "key": "7_CR3",
+    "doi-asserted-by": "publisher",
+    "first-page": "199",
+    "DOI": "10.1016/0022-1236(80)90013-0",
+    "volume": "39",
+    "author": "R. Goodman",
+    "year": "1980",
+    "unstructured": "R. Goodman and N. R. Wallach, Whittaker vectors and conical vectors, J. Func. Anal., 39 (1980), 199–279.",
+    "journal-title": "J. Func. Anal."
+   },
+   {
+    "key": "7_CR4",
+    "doi-asserted-by": "publisher",
+    "first-page": "185",
+    "DOI": "10.1090/S0002-9947-1953-0056610-2",
+    "volume": "75",
+    "author": "Harish-Chandra",
+    "year": "1953",
+    "unstructured": "Harish-Chandra, Representations of semi-simple Lie groups, I., Trans. Amer. Math. Soc., 75 (1953), 185–243.",
+    "journal-title": "Trans. Amer. Math. Soc."
+   },
+   {
+    "key": "7_CR5",
+    "doi-asserted-by": "publisher",
+    "first-page": "26",
+    "DOI": "10.1090/S0002-9947-1954-0058604-0",
+    "volume": "76",
+    "author": "Harish-Chandra",
+    "year": "1954",
+    "unstructured": "____, Representations of semi-simple Lie groups, II., Trans. Amer. Math. Soc., 76 (1954), 26–65.",
+    "journal-title": "Trans. Amer. Math. Soc."
+   },
+   {
+    "key": "7_CR6",
+    "doi-asserted-by": "publisher",
+    "first-page": "241",
+    "DOI": "10.2307/2372786",
+    "volume": "80",
+    "author": "Harish-Chandra",
+    "year": "1958",
+    "unstructured": "____, Spherical functions on a semi-simple Lie group I, Amer. J. Math., 80 (1958), 241–310.",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "7_CR7",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1016/0001-8708(70)90037-X",
+    "volume": "5",
+    "author": "S. Helgason",
+    "year": "1970",
+    "unstructured": "S. Helgason, A duality for symmetric spaces with applications to group representations, Advances in Math., 5 (1970), 1–154.",
+    "journal-title": "Advances in Math."
+   },
+   {
+    "key": "7_CR8",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.2307/1971253",
+    "volume": "107",
+    "author": "M. Kashiwara",
+    "year": "1978",
+    "unstructured": "M. Kashiwara, A. Koroata, K. Minemura, K. Okamoto, T. Oshima and M. Tanaka, Eigenfunctions of invariant differential operators on a symmetric space, Ann. of Math., 107 (1978), 1–39.",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "7_CR9",
+    "doi-asserted-by": "publisher",
+    "first-page": "627",
+    "DOI": "10.1090/S0002-9904-1969-12235-4",
+    "volume": "75",
+    "author": "B. Kostant",
+    "year": "1969",
+    "unstructured": "B. Kostant, On the existence and irreducibility of certain series of representations, Bull. Amer. Math. Soc., 75 (1969), 627–642.",
+    "journal-title": "Bull. Amer. Math. Soc."
+   },
+   {
+    "key": "7_CR10",
+    "doi-asserted-by": "publisher",
+    "first-page": "101",
+    "DOI": "10.1007/BF01390249",
+    "volume": "48",
+    "author": "B. Kostant",
+    "year": "1978",
+    "unstructured": "____, On Whittaker vectors and representation theory, Invent. Math., 48 (1978), 101–184.",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "7_CR11",
+    "doi-asserted-by": "publisher",
+    "first-page": "884",
+    "DOI": "10.1090/S0002-9904-1969-12339-6",
+    "volume": "75",
+    "author": "B. Kostant",
+    "year": "1969",
+    "unstructured": "B. Kostant and S. Rallis, On representations associated with symmetric spaces, Bull. Amer. Math. Soc., 75 (1969), 884–888.",
+    "journal-title": "Bull. Amer. Math. Soc."
+   },
+   {
+    "key": "7_CR12",
+    "unstructured": "R. P. Langlands, On the classification of irreducible representations of real algebraic groups, preprint, Institute for Advanced Study, 1973."
+   },
+   {
+    "key": "7_CR13",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1090/S0002-9947-1973-0346093-X",
+    "volume": "176",
+    "author": "J. Lepowsky",
+    "year": "1973",
+    "unstructured": "J. Lepowsky, Algebraic results on representations of semi-simple Lie groups, Trans. Amer. Math. Soc., 176 (1973), 1–44.",
+    "journal-title": "Trans. Amer. Math. Soc."
+   },
+   {
+    "key": "7_CR14",
+    "first-page": "223",
+    "volume": "184",
+    "author": "J. Lepowsky",
+    "year": "1973",
+    "unstructured": "J. Lepowsky and N. R. Wallach, Finite and infinite dimensional representations of linear semi-simple Lie groups, Trans. Amer. Math. Soc., 184 (1973), 223–246.",
+    "journal-title": "Trans. Amer. Math. Soc."
+   },
+   {
+    "key": "7_CR15",
+    "unstructured": "C. Rader, Thesis, University of Washington, 1971."
+   },
+   {
+    "key": "7_CR16",
+    "doi-asserted-by": "crossref",
+    "first-page": "3",
+    "DOI": "10.24033/bsmf.1711",
+    "volume": "99",
+    "author": "G. Schiffmann",
+    "year": "1971",
+    "unstructured": "G. Schiffmann, Integrales d'entrelacement et fonctions de Whittaker, Bull. Soc. Math. France, 99 (1971), 3–72.",
+    "journal-title": "Bull. Soc. Math. France"
+   },
+   {
+    "key": "7_CR17",
+    "doi-asserted-by": "publisher",
+    "first-page": "330",
+    "DOI": "10.1090/S0002-9947-1982-0656493-1",
+    "volume": "272",
+    "author": "J. T. Stafford",
+    "year": "1982",
+    "unstructured": "J. T. Stafford and N. R. Wallach, The restriction of admissible modules to parabolic subalgebras, Trans. Amer. Math. Soc., 272 (1982), 330–350.",
+    "journal-title": "Trans. Amer. Math. Soc."
+   },
+   {
+    "key": "7_CR18",
+    "volume-title": "Topological Vector Spaces, Distributions and Kernels",
+    "author": "F. Treves",
+    "year": "1975",
+    "unstructured": "F. Treves, \"Topological Vector Spaces, Distributions and Kernels,\" Academic Press, N.Y. 1975."
+   },
+   {
+    "key": "7_CR19",
+    "doi-asserted-by": "publisher",
+    "first-page": "57",
+    "DOI": "10.2307/2374008",
+    "volume": "99",
+    "author": "P. C. Trombi",
+    "year": "1977",
+    "unstructured": "P. C. Trombi, The tempered spectrum of a real semi-simple Lie group, Amer. J. Math., 99 (1977), 57–75.",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "7_CR20",
+    "volume-title": "Harmonic analysis on homogeneous spaces",
+    "author": "N. R. Wallach",
+    "year": "1973",
+    "unstructured": "N. R. Wallach, \"Harmonic analysis on homogeneous spaces,\" Marcel Dekker, New York, 1973."
+   },
+   {
+    "issue": "4",
+    "key": "7_CR21",
+    "doi-asserted-by": "crossref",
+    "first-page": "81",
+    "DOI": "10.24033/asens.1304",
+    "volume": "9",
+    "author": "N. R. Wallach",
+    "year": "1976",
+    "unstructured": "____, On the Enright-Varadarajan modules, a construction of the discrete series, Ann. Sci. Éc. Norm. Sup., (4) 9 (1976), 81–102.",
+    "journal-title": "Ann. Sci. Éc. Norm. Sup."
+   },
+   {
+    "key": "7_CR22",
+    "unstructured": "____, Representations of semi-simple Lie groups, Proc. Canad. Math. Soc. Math. Cong., 1977, 154–245."
+   },
+   {
+    "key": "7_CR23",
+    "unstructured": "____, \"Representation theory and harmonic analysis on real reductive groups,\" to appear."
+   },
+   {
+    "key": "7_CR24",
+    "doi-asserted-by": "crossref",
+    "unstructured": "G. Warner, \"Harmonic analysis on semi-simple Lie groups I,\" Grund. Math. Wiss., 188, Springer, 1972.",
+    "DOI": "10.1007/978-3-642-50275-0"
+   },
+   {
+    "key": "7_CR25",
+    "unstructured": "____, \"Harmonic analysis on semi-simple Lie groups, II,\" Grund. Math. Wiss., 189, Springer, 1972."
+   },
+   {
+    "key": "7_CR26",
+    "first-page": "307",
+    "volume": "102",
+    "author": "J. Dixmier",
+    "year": "1978",
+    "unstructured": "J. Dixmier and P. Malliavin, Factorisations de fonctions et de vecteurs indéfiniment différentiables, Bull. Sci. Math., 102 (1978), 307–330.",
+    "journal-title": "Bull. Sci. Math."
+   }
+  ],
+  "container-title": [
+   "Lecture Notes in Mathematics",
+   "Lie Group Representations I"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BFb0071436",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2025,
+     1,
+     11
+    ]
+   ],
+   "date-time": "2025-01-11T22:09:43Z",
+   "timestamp": 1736633383000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BFb0071436"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1983
+    ]
+   ]
+  },
+  "ISBN": [
+   "9783540127253",
+   "9783540387091"
+  ],
+  "references-count": 26,
+  "URL": "https://doi.org/10.1007/bfb0071436",
+  "relation": {
+   "is-part-of": [
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0071429",
+     "asserted-by": "object"
+    }
+   ]
+  },
+  "ISSN": [
+   "0075-8434",
+   "1617-9692"
+  ],
+  "issn-type": [
+   {
+    "value": "0075-8434",
+    "type": "print"
+   },
+   {
+    "value": "1617-9692",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1983
+    ]
+   ]
+  }
+ }
+}

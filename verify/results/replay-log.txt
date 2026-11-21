@@ -1,0 +1,50 @@
+PAR-START 1795250729
+importing Main
+modules 186200, constants 2701132, to replay 2695292, unsafe or partial (not replayed) 5840, duplicate names 40595, 29 s
+  100000 of 2695292 declarations sent, 0 failed, 34 s
+  200000 of 2695292 declarations sent, 0 failed, 38 s
+  300000 of 2695292 declarations sent, 0 failed, 42 s
+  400000 of 2695292 declarations sent, 0 failed, 58 s
+  500000 of 2695292 declarations sent, 0 failed, 120 s
+  600000 of 2695292 declarations sent, 0 failed, 147 s
+  700000 of 2695292 declarations sent, 0 failed, 172 s
+  800000 of 2695292 declarations sent, 0 failed, 200 s
+  900000 of 2695292 declarations sent, 0 failed, 239 s
+  1000000 of 2695292 declarations sent, 0 failed, 289 s
+  1100000 of 2695292 declarations sent, 0 failed, 396 s
+  1200000 of 2695292 declarations sent, 0 failed, 491 s
+  1300000 of 2695292 declarations sent, 0 failed, 738 s
+  1400000 of 2695292 declarations sent, 0 failed, 837 s
+  1500000 of 2695292 declarations sent, 0 failed, 1033 s
+  1600000 of 2695292 declarations sent, 0 failed, 1284 s
+  1700000 of 2695292 declarations sent, 0 failed, 1394 s
+  1800000 of 2695292 declarations sent, 0 failed, 1524 s
+  1900000 of 2695292 declarations sent, 0 failed, 1765 s
+  2000000 of 2695292 declarations sent, 0 failed, 1961 s
+  2100000 of 2695292 declarations sent, 0 failed, 2107 s
+  2200000 of 2695292 declarations sent, 0 failed, 2260 s
+  2300000 of 2695292 declarations sent, 0 failed, 2437 s
+  2400000 of 2695292 declarations sent, 0 failed, 2713 s
+  2500000 of 2695292 declarations sent, 0 failed, 2852 s
+  2600000 of 2695292 declarations sent, 0 failed, 2960 s
+all declarations checked, 3407 s; comparing constructors and recursors
+REPLAY-SUMMARY
+modules 186200
+constants 2701132
+replayed 2695292
+theorems 2084256
+definitions 556318
+opaque 3882
+axioms 7
+inductive-types 15769 in 15734 blocks
+constructors-compared 19159
+recursors-compared 15897
+unsafe-or-partial-not-replayed 5840
+failed 0
+names-declared-more-than-once 40595, other versions also checked 40595, of which with a different type 0
+selftest accepts-true true rejects-false true
+seconds 3427
+
+REPLAY-DONE failed=0 selftest=true
+PAR-EXIT 0
+oom_kill 2

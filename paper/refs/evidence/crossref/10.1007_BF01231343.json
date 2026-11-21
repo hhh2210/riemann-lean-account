@@ -1,0 +1,638 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     6
+    ]
+   ],
+   "date-time": "2026-10-06T14:04:11Z",
+   "timestamp": 1791295451835,
+   "version": "4.1.0"
+  },
+  "reference-count": 48,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1992,
+       12,
+       1
+      ]
+     ],
+     "date-time": "1992-12-01T00:00:00Z",
+     "timestamp": 723168000000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Invent Math"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1992,
+     12
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01231343",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     2,
+     26
+    ]
+   ],
+   "date-time": "2005-02-26T02:39:12Z",
+   "timestamp": 1109385552000
+  },
+  "page": "473-543",
+  "source": "Crossref",
+  "is-referenced-by-count": 111,
+  "title": [
+   "An arithmetic Riemann-Roch theorem"
+  ],
+  "prefix": "10.1007",
+  "volume": "110",
+  "author": [
+   {
+    "given": "Henri",
+    "family": "Gillet",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Christophe",
+    "family": "Soul�",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "CR1",
+    "doi-asserted-by": "crossref",
+    "first-page": "101",
+    "DOI": "10.1007/BF02684299",
+    "volume": "45",
+    "author": "P. Baum",
+    "year": "1975",
+    "unstructured": "[BFM] Baum, P., Fulton, W., MacPherson R.: Riemann-Roch for singular varieties. Publ. Math., Inst. Hautes Etud. Sci.45, 101 145 (1975)",
+    "journal-title": "Publ. Math., Inst. Hautes Etud. Sci."
+   },
+   {
+    "key": "CR2",
+    "series-title": "Lect. Notes Math.",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0069608",
+    "volume-title": "SGA6, Théorie des intersections et théorème de Riemann-Roch",
+    "author": "A. Grothendieck",
+    "year": "1971",
+    "unstructured": "[BGI] Grothendieck, A., Berthelot, P., Illusie, L.: SGA6, Théorie des intersections et théorème de Riemann-Roch. (Lect. Notes Math., vol 225) Berlin Heidelberg New York: Springer 1971"
+   },
+   {
+    "key": "CR3",
+    "doi-asserted-by": "crossref",
+    "first-page": "59",
+    "DOI": "10.1007/BF01234412",
+    "volume": "99",
+    "author": "J.-M. Bismut",
+    "year": "1990",
+    "unstructured": "[B] Bismut, J.-M.: Superconnection currents and complex immersions. Invent. Math.99, 59?113 (1990)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "CR4",
+    "doi-asserted-by": "crossref",
+    "first-page": "49",
+    "DOI": "10.1007/BF01238853",
+    "volume": "115",
+    "author": "J.-M. Bismut",
+    "year": "1988",
+    "unstructured": "[BGS1] Bismut, J.-M., Gillet, H., Soulé, C.: Analytic torsion and holomorphic determinant bundles I, II, III. Commun. Math. Phys.115, 49?78, 79?126, 301?351 (1988)",
+    "journal-title": "Commun. Math. Phys."
+   },
+   {
+    "key": "CR5",
+    "doi-asserted-by": "crossref",
+    "first-page": "255",
+    "DOI": "10.1215/S0012-7094-90-06009-0",
+    "volume": "60",
+    "author": "J.-M. Bismut",
+    "year": "1990",
+    "unstructured": "[BGS2] Bismut, J.-M., Gillet, H. et Soulé, C.: Bott-Chern currents and complex immersions. Duke Math. J.60, 255?284 (1990)",
+    "journal-title": "Duke Math. J."
+   },
+   {
+    "key": "CR6",
+    "first-page": "249",
+    "volume-title": "Grothendieck Festschrift I",
+    "author": "J.-M. Bismut",
+    "year": "1990",
+    "unstructured": "[BGS3] Bismut, J.-M., Gillet, H., Soulé, C.: Complex immersions and Arakelov geometry. In. Grothendieck Festschrift I, pp. 249?331. Boston Basel Stuttgart: Birkhäuser, 1990"
+   },
+   {
+    "key": "CR7",
+    "unstructured": "[BL] Bismut J.-M., Lebeau, G.: Complex immersions and Quillen metrics. Publ. Math., Inst. Hautes Étud. Sci. (to appear) (see also ?Immersions complexes et métriques de Quillen?. C.R. Acad. Sci, Paris309, 487?491 (1989))"
+   },
+   {
+    "key": "CR8",
+    "doi-asserted-by": "crossref",
+    "first-page": "355",
+    "DOI": "10.1007/BF01217912",
+    "volume": "125",
+    "author": "J.-M. Bismut",
+    "year": "1989",
+    "unstructured": "[BV] Bismut, J.-M., Vasserot, E.: The asymptotics of the Ray-Singer analytic torsion associated with high powers of a positive line bundle. Commun. Math. Physics125, 355?367 (1989)",
+    "journal-title": "Commun. Math. Physics"
+   },
+   {
+    "issue": "2",
+    "key": "CR9",
+    "first-page": "615",
+    "volume": "17",
+    "author": "E. Bombieri",
+    "year": "1990",
+    "unstructured": "[Bo] Bombieri, E.: The Mordell conjecture revisited. Ann. Scuola Mormale Superione Pisa Serie IV,17, 2, 615?640 (1990)",
+    "journal-title": "Ann. Scuola Mormale Superione Pisa Serie IV"
+   },
+   {
+    "key": "CR10",
+    "doi-asserted-by": "crossref",
+    "first-page": "71",
+    "DOI": "10.1007/BF02391818",
+    "volume": "114",
+    "author": "R. Bott",
+    "year": "1968",
+    "unstructured": "[BC] Bott, R., Chern, S.S.: Hermitian vector bundles and the equidistribution of the zeroes of their holomorphic sections. Acta Math.114, 71?112 (1968)",
+    "journal-title": "Acta Math"
+   },
+   {
+    "key": "CR11",
+    "series-title": "Contemp. Math.",
+    "doi-asserted-by": "crossref",
+    "first-page": "93",
+    "DOI": "10.1090/conm/067/902592",
+    "volume-title": "Current Trends in Arithmetical Algebraic Geometry",
+    "author": "P. Deligne",
+    "year": "1987",
+    "unstructured": "[D] Deligne, P.: Le déterminant de la cohomologie. In: Ribet, K.A. (ed.) Current Trends in Arithmetical Algebraic Geometry. (Contemp. Math. vol. 67, pp. 93?178) Providence, RI: Am. Math. Soc. 1987"
+   },
+   {
+    "key": "CR12",
+    "series-title": "Grund. Math. Wiss.",
+    "volume-title": "Éléments de Géométrie Algébrique I",
+    "author": "J. Dieudonné",
+    "year": "1971",
+    "unstructured": "[EGA1] Dieudonné, J. Grothendieck, A.: Éléments de Géométrie Algébrique I (Grund. Math. Wiss., vol. 166) Berlin Heidelberg New York: Springer 1971"
+   },
+   {
+    "key": "CR13",
+    "unstructured": "[EGA2] Dieudonné, J., Grothendieck, A.: Eléments de Géométrie Algébrique II. Publ. Math., Inst. Hautes Étud. Sci.8 (1961)"
+   },
+   {
+    "key": "CR14",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[EGA4] Dieudonné, J., Grothendieck, A.: Éléments de Géométrie Algébrique IV. Publ. Math. Inst. Hautes Étud. Sci.20 (1964)",
+    "DOI": "10.1007/BF02684747"
+   },
+   {
+    "issue": "3",
+    "key": "CR15",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.1112/plms/s3-50.1.1",
+    "volume": "50",
+    "author": "S.K. Donaldson",
+    "year": "1985",
+    "unstructured": "[Do] Donaldson, S.K.: Anti-self-dual Yang-Mills connections over complex algebraic surfaces and stable vector bundles. Proc. Lond. Math. Soc. 3,50, 1?26 (1985)",
+    "journal-title": "Proc. Lond. Math. Soc."
+   },
+   {
+    "key": "CR16",
+    "doi-asserted-by": "crossref",
+    "first-page": "303",
+    "DOI": "10.1215/S0012-7094-90-06113-7",
+    "volume": "61",
+    "author": "R. Elkik",
+    "year": "1990",
+    "unstructured": "[E] Elkik, R.: Métriques sur les fibrés d'intersection. Duke Math. J.61, 303?328 (1990)",
+    "journal-title": "Duke Math. J."
+   },
+   {
+    "key": "CR17",
+    "doi-asserted-by": "crossref",
+    "first-page": "387",
+    "DOI": "10.2307/2007043",
+    "volume": "119",
+    "author": "G. Faltings",
+    "year": "1984",
+    "unstructured": "[F1] Faltings, G.: Calculus on arithmetic surfaces. Ann. Math.119, 387?424 (1984)",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "issue": "2",
+    "key": "CR18",
+    "doi-asserted-by": "crossref",
+    "first-page": "549",
+    "DOI": "10.2307/2944319",
+    "volume": "133",
+    "author": "G. Faltings",
+    "year": "1991",
+    "unstructured": "[F2] Faltings, G.: Diophantine approximation on abelian varieties. Ann. Math. 2133, 549?576 (1991)",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "key": "CR19",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[F3] Faltings, G.: Lectures on the arithmetic Riemann Roch theorem, notes by S. Zhang. Ann. Math. Studies 127 (1992)",
+    "DOI": "10.1515/9781400882472"
+   },
+   {
+    "key": "CR20",
+    "unstructured": "[Fr] Franke, J.: Riemann Roch in functorial form. (Preprint 1990)"
+   },
+   {
+    "key": "CR21",
+    "doi-asserted-by": "crossref",
+    "first-page": "147",
+    "DOI": "10.1007/BF02684300",
+    "volume": "45",
+    "author": "W. Fulton",
+    "year": "1975",
+    "unstructured": "[Fu1] Fulton, W.: Rational equivalence on singular varieties. Publ. Math. Inst. Hautes Étud. Sci.45, 147?167 (1975)",
+    "journal-title": "Publ. Math. Inst. Hautes Étud. Sci."
+   },
+   {
+    "key": "CR22",
+    "series-title": "Ergeb. Math. Grenzgeb., 3. Folge",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/978-3-662-02421-8",
+    "volume-title": "Intersection Theory",
+    "author": "W. Fulton",
+    "year": "1984",
+    "unstructured": "[Fu2] Fulton, W.: Intersection Theory. (Ergeb. Math. Grenzgeb., 3. Folge, Band 2) Berlin Heidelberg New York: Springer 1984"
+   },
+   {
+    "key": "CR23",
+    "doi-asserted-by": "crossref",
+    "first-page": "203",
+    "DOI": "10.1016/S0001-8708(81)80006-0",
+    "volume": "40",
+    "author": "H. Gillet",
+    "year": "1981",
+    "unstructured": "[G1] Gillet, H.: Riemann-Roch for higher algebraic K-theory. Adv. Math.40, 203 289 (1981)",
+    "journal-title": "Adv. Math."
+   },
+   {
+    "key": "CR24",
+    "series-title": "Lect. Notes Math.",
+    "first-page": "80",
+    "volume-title": "Algebraic K-Theory, Number Theory, Geometry and Analysis",
+    "author": "H. Gillet",
+    "year": "1984",
+    "unstructured": "[G2] Gillet, H.: Homological descent for the K-theory of coherent sheaves. In: Bak, A. (ed.) Algebraic K-Theory, Number Theory, Geometry and Analysis) (Lect. Notes Math., vol. 1046, pp. 80?104) Berlin Heidelberg New York: Springer 1984"
+   },
+   {
+    "key": "CR25",
+    "unstructured": "[G3] Gillet, H.: A Riemann-Roch theorem in arithmetic geometry. In. Proceedings International Congress of Mathematicians, Kyoto, 1990, 403 413, Springer"
+   },
+   {
+    "key": "CR26",
+    "doi-asserted-by": "crossref",
+    "first-page": "243",
+    "DOI": "10.1007/BF01388705",
+    "volume": "90",
+    "author": "H. Gillet",
+    "year": "1987",
+    "unstructured": "[GS1] Gillet, H., Soulé, C.: Intersection theory using Adams operations. Inven Math.90, 243?278 (1987)",
+    "journal-title": "Inven Math"
+   },
+   {
+    "key": "CR27",
+    "doi-asserted-by": "crossref",
+    "first-page": "94",
+    "DOI": "10.1007/BF02699132",
+    "volume": "72",
+    "author": "H. Gillet",
+    "year": "1990",
+    "unstructured": "[GS2] Gillet, H. and Soulé, C.: Arithmetic intersection theory. Publ. Math., Inst. Hautes Étud. Sci.72, 94?174 (1990)",
+    "journal-title": "Publ. Math., Inst. Hautes Étud. Sci."
+   },
+   {
+    "key": "CR28",
+    "doi-asserted-by": "crossref",
+    "first-page": "163",
+    "DOI": "10.2307/1971512",
+    "volume": "131",
+    "author": "H. Gillet",
+    "year": "1990",
+    "unstructured": "[GS3] Gillet, H., Soulé, C.: Characteristic classes for algebraic vector bundles with Hermitian metrics, I, II. Ann. Math.131, 163?203 and 205 238 (1990)",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "issue": "n1",
+    "key": "CR29",
+    "doi-asserted-by": "crossref",
+    "first-page": "21",
+    "DOI": "10.1016/0040-9383(91)90032-Y",
+    "volume": "30",
+    "author": "H. Gillet",
+    "year": "1991",
+    "unstructured": "[GS4] Gillet, H., Soulé, C.: Analytic torsion and the arithmetic Todd genus, with an Appendix by D. Zagier. Topology30, n1, 21?54 (1991)",
+    "journal-title": "Topology"
+   },
+   {
+    "key": "CR30",
+    "doi-asserted-by": "crossref",
+    "first-page": "347",
+    "DOI": "10.1007/BF02775796",
+    "volume": "74",
+    "author": "H. Gillet",
+    "year": "1991",
+    "unstructured": "[GS5] Gillet, H., Soulé, C.: On the number of lattice points in convex symmetric bodies and their duals, Isr. J. Math.74, 347 357 (1991)",
+    "journal-title": "Isr. J. Math."
+   },
+   {
+    "key": "CR31",
+    "first-page": "887",
+    "volume": "307",
+    "author": "H. Gillet",
+    "year": "1988",
+    "unstructured": "[GS6] Gillet, H. and Soulé, C.: Amplitude arithmétique. Note C.R. Acad. Sci. Paris. Sér. I307, 887?890 (1988)",
+    "journal-title": "Note C.R. Acad. Sci. Paris. Sér. I"
+   },
+   {
+    "key": "CR32",
+    "first-page": "929",
+    "volume": "309",
+    "author": "H. Gillet",
+    "year": "1989",
+    "unstructured": "[GS7] Gillet, H., Soulé, C.: Un théorème de Riemann Roch Grothendieck arithmétique, Note CRAS ParisI, 309, 929 932 (1989)",
+    "journal-title": "Note CRAS Paris I"
+   },
+   {
+    "key": "CR33",
+    "volume-title": "Principles of Algebraic Geometry",
+    "author": "P. Griffiths",
+    "year": "1978",
+    "unstructured": "[GH] Griffiths, P., Harris, J.: Principles of Algebraic Geometry. Chichester: John Wiley and Sons 1978"
+   },
+   {
+    "key": "CR34",
+    "first-page": "63",
+    "volume": "29",
+    "author": "R. Hartshorne",
+    "year": "1966",
+    "unstructured": "[H1] Hartshorne, R.: Ample vector bundles. Publ. Math. Inst. Hautes Étud. Sci.29, 63 94 (1966)",
+    "journal-title": "Publ. Math. Inst. Hautes Étud. Sci."
+   },
+   {
+    "key": "CR35",
+    "series-title": "Grad. Texts Math.",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/978-1-4757-3849-0",
+    "volume-title": "Algebraic Geometry",
+    "author": "R. Hartshorne",
+    "year": "1977",
+    "unstructured": "[H2] Hartshorne, R.: Algebraic Geometry. (Grad. Texts Math., vol. 52) Berlin Heidelberg New York: Springer 1977"
+   },
+   {
+    "key": "CR36",
+    "series-title": "Grundl. Math.",
+    "volume-title": "Topological methods in algebraic geometry",
+    "author": "F. Hirzebruch",
+    "year": "1966",
+    "unstructured": "[Hz] Hirzebruch, F.: Topological methods in algebraic geometry. (Grundl. Math., vol. 131) Berlin Heidelberg New York: Springer 1966"
+   },
+   {
+    "key": "CR37",
+    "doi-asserted-by": "crossref",
+    "first-page": "19",
+    "DOI": "10.7146/math.scand.a-11642",
+    "volume": "39",
+    "author": "F.F. Knudsen",
+    "year": "1976",
+    "unstructured": "[KM] Knudsen, F.F., Mumford, D.: The projectivity of the moduli space of stable curves I: Preliminaries on ?det? and ?div?. Math. Scand.39, 19 55 (1976)",
+    "journal-title": "Math. Scand."
+   },
+   {
+    "key": "CR38",
+    "unstructured": "[L] Lafforgue, L.: Une version en géométrie diophantienne du ?Lemme de l'indice?. Eco. Norm. Supér. (Preprint 1990)"
+   },
+   {
+    "key": "CR39",
+    "doi-asserted-by": "crossref",
+    "first-page": "85",
+    "DOI": "10.1007/BFb0067053",
+    "volume": "341",
+    "author": "D. Quillen",
+    "year": "1973",
+    "unstructured": "[Q1] Quillen, D.: Higher Algebraic K-Theory I. (Lect. Notes Math., vol. 341, pp. 85?147) Berlin Heidelberg New York: 1973",
+    "journal-title": "Lect. Notes Math."
+   },
+   {
+    "key": "CR40",
+    "doi-asserted-by": "crossref",
+    "first-page": "31",
+    "DOI": "10.1007/BF01086022",
+    "volume": "19",
+    "author": "D. Quillen",
+    "year": "1985",
+    "unstructured": "[Q2] Quillen, D.: Determinants of Cauchy-Riemann operators over a Riemann surface. Funct. Anal. Appl.19, 31?34 (1985)",
+    "journal-title": "Funct. Anal. Appl."
+   },
+   {
+    "key": "CR41",
+    "doi-asserted-by": "crossref",
+    "first-page": "89",
+    "DOI": "10.1016/0040-9383(85)90047-3",
+    "volume": "24",
+    "author": "D. Quillen",
+    "year": "1985",
+    "unstructured": "[Q3] Quillen, D.: Superconnections and the Chern character. Topology24, 89 95 (1985)",
+    "journal-title": "Topology"
+   },
+   {
+    "key": "CR42",
+    "doi-asserted-by": "crossref",
+    "first-page": "154",
+    "DOI": "10.2307/1970909",
+    "volume": "98",
+    "author": "D.B. Ray",
+    "year": "1973",
+    "unstructured": "[RS] Ray, D.B., Singer, I.M.: Analytic torsion for complex manifolds. Ann. Math.98, 154?177 (1973)",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "issue": "no. 3",
+    "key": "CR43",
+    "doi-asserted-by": "crossref",
+    "first-page": "488",
+    "DOI": "10.4153/CJM-1985-029-x",
+    "volume": "37",
+    "author": "C. Soulé",
+    "year": "1985",
+    "unstructured": "[S1] Soulé, C.: Opérations en K-théorie algébrique. Can. J. Math. 37, no. 3 (1985), 488?550",
+    "journal-title": "Can. J. Math."
+   },
+   {
+    "key": "CR44",
+    "unstructured": "[S2] Soulé, C.: Géométrie d'Arakelov des surfaces arithmétiques. In: Séminaire, Bourbaki 713. Astérisque 177?178, 327?343 (1989)"
+   },
+   {
+    "key": "CR45",
+    "unstructured": "[S3] Soulé, C.: Geométrie d'Arakelov et théorie des nombres transcendants, Astérisque 198-199-200, 355?373 (1991)"
+   },
+   {
+    "key": "CR46",
+    "doi-asserted-by": "crossref",
+    "first-page": "493",
+    "DOI": "10.1137/0519035",
+    "volume": "19",
+    "author": "I. Vardi",
+    "year": "1988",
+    "unstructured": "[V] Vardi, I.: Determinant of Laplacians and multiple gamma functions. SIAM J. Math. Anal.19, 493?507 (1988)",
+    "journal-title": "SIAM J. Math. Anal."
+   },
+   {
+    "key": "CR47",
+    "doi-asserted-by": "crossref",
+    "first-page": "509",
+    "DOI": "10.2307/2944318",
+    "volume": "133",
+    "author": "P. Vojta",
+    "year": "1991",
+    "unstructured": "[Vo] Vojta, P.: Siegel's Theorem in the compact case. Ann. Math.133, 509?548 (1991)",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "key": "CR48",
+    "unstructured": "[Z] Zhang, S.: Ample Hermitian line bundles on arithmetic surfaces. (Preprint 1990)"
+   }
+  ],
+  "container-title": [
+   "Inventiones Mathematicae"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01231343.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01231343/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01231343",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     6
+    ]
+   ],
+   "date-time": "2020-04-06T00:16:02Z",
+   "timestamp": 1586132162000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01231343"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1992,
+     12
+    ]
+   ]
+  },
+  "references-count": 48,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1992,
+      12
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01231343"
+  ],
+  "URL": "https://doi.org/10.1007/bf01231343",
+  "relation": {},
+  "ISSN": [
+   "0020-9910",
+   "1432-1297"
+  ],
+  "issn-type": [
+   {
+    "value": "0020-9910",
+    "type": "print"
+   },
+   {
+    "value": "1432-1297",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1992,
+     12
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,257 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     17
+    ]
+   ],
+   "date-time": "2026-11-17T06:51:03Z",
+   "timestamp": 1794898263210,
+   "version": "4.9.1"
+  },
+  "publisher-location": "Berlin, Heidelberg",
+  "reference-count": 0,
+  "publisher": "Springer Berlin Heidelberg",
+  "isbn-type": [
+   {
+    "value": "9783540056416",
+    "type": "print"
+   },
+   {
+    "value": "9783540369356",
+    "type": "electronic"
+   }
+  ],
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1971,
+       1,
+       1
+      ]
+     ],
+     "date-time": "1971-01-01T00:00:00Z",
+     "timestamp": 31536000000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     1971
+    ]
+   ]
+  },
+  "DOI": "10.1007/bfb0060851",
+  "type": "book",
+  "created": {
+   "date-parts": [
+    [
+     2006,
+     11,
+     23
+    ]
+   ],
+   "date-time": "2006-11-23T08:16:09Z",
+   "timestamp": 1164269769000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 440,
+  "title": [
+   "Topics in Multiplicative Number Theory"
+  ],
+  "prefix": "10.1007",
+  "author": [
+   {
+    "given": "Hugh L.",
+    "family": "Montgomery",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "container-title": [
+   "Lecture Notes in Mathematics"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BFb0060851.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BFb0060851",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     4,
+     6
+    ]
+   ],
+   "date-time": "2019-04-06T10:37:11Z",
+   "timestamp": 1554547031000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BFb0060851"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1971
+    ]
+   ]
+  },
+  "ISBN": [
+   "9783540056416",
+   "9783540369356"
+  ],
+  "references-count": 0,
+  "URL": "https://doi.org/10.1007/bfb0060851",
+  "relation": {
+   "has-part": [
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060863",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060857",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060858",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060860",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060853",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060854",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060859",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060867",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060862",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060855",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060865",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060852",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060856",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060864",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060868",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060861",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0060866",
+     "asserted-by": "subject"
+    }
+   ]
+  },
+  "ISSN": [
+   "0075-8434",
+   "1617-9692"
+  ],
+  "issn-type": [
+   {
+    "value": "0075-8434",
+    "type": "print"
+   },
+   {
+    "value": "1617-9692",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1971
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,244 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     3
+    ]
+   ],
+   "date-time": "2026-10-03T21:24:34Z",
+   "timestamp": 1791062674653,
+   "version": "4.1.0"
+  },
+  "reference-count": 8,
+  "publisher": "American Mathematical Society (AMS)",
+  "issue": "1",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Trans. Amer. Math. Soc."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1954
+    ]
+   ]
+  },
+  "DOI": "10.1090/s0002-9947-1954-0058604-0",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2010,
+     7,
+     11
+    ]
+   ],
+   "date-time": "2010-07-11T16:29:33Z",
+   "timestamp": 1278865773000
+  },
+  "page": "26-65",
+  "source": "Crossref",
+  "is-referenced-by-count": 84,
+  "title": [
+   "Representations of semisimple Lie groups. II"
+  ],
+  "prefix": "10.1090",
+  "volume": "76",
+  "author": [
+   {
+    "family": "Harish-Chandra",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "14",
+  "reference": [
+   {
+    "key": "1",
+    "doi-asserted-by": "crossref",
+    "unstructured": "E. Cartan, Ann. École Norm. vol. 44 (1927).",
+    "DOI": "10.24033/asens.781"
+   },
+   {
+    "key": "2",
+    "doi-asserted-by": "publisher",
+    "first-page": "900",
+    "DOI": "10.2307/1969586",
+    "article-title": "On representations of Lie algebras",
+    "volume": "50",
+    "author": "Harish-Chandra",
+    "year": "1949",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "3",
+    "doi-asserted-by": "publisher",
+    "first-page": "28",
+    "DOI": "10.2307/1990524",
+    "article-title": "On some applications of the universal enveloping algebra of a semisimple Lie algebra",
+    "volume": "70",
+    "author": "Harish-Chandra",
+    "year": "1951",
+    "journal-title": "Trans. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9947",
+    "issn-type": "print"
+   },
+   {
+    "key": "4",
+    "doi-asserted-by": "publisher",
+    "first-page": "362",
+    "DOI": "10.1073/pnas.37.6.362",
+    "article-title": "Representations of semisimple Lie groups. II",
+    "volume": "37",
+    "author": "Harish-Chandra",
+    "year": "1951",
+    "journal-title": "Proc. Nat. Acad. Sci. U.S.A.",
+    "ISSN": "https://id.crossref.org/issn/0027-8424",
+    "issn-type": "print"
+   },
+   {
+    "key": "5",
+    "doi-asserted-by": "publisher",
+    "first-page": "185",
+    "DOI": "10.2307/1990730",
+    "article-title": "Representations of a semisimple Lie group on a Banach space. I",
+    "volume": "75",
+    "author": "Harish-Chandra",
+    "year": "1953",
+    "journal-title": "Trans. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9947",
+    "issn-type": "print"
+   },
+   {
+    "key": "6",
+    "doi-asserted-by": "publisher",
+    "first-page": "969",
+    "DOI": "10.1090/S0002-9904-1949-09325-4",
+    "article-title": "A new proof of E. Cartan’s theorem on the topology of semi-simple groups",
+    "volume": "55",
+    "author": "Mostow, George Daniel",
+    "year": "1949",
+    "journal-title": "Bull. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9904",
+    "issn-type": "print"
+   },
+   {
+    "key": "7",
+    "unstructured": "A. Weil, L’intégration dans les groupes topologiques et ses applications, Paris, Hermann, 1940."
+   },
+   {
+    "key": "8",
+    "doi-asserted-by": "crossref",
+    "unstructured": "H. Weyl, Math. Zeit. vol. 24 (1925) pp. 328-395.",
+    "DOI": "10.1007/BF01216789"
+   }
+  ],
+  "container-title": [
+   "Transactions of the American Mathematical Society"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://www.ams.org/tran/1954-076-01/S0002-9947-1954-0058604-0/S0002-9947-1954-0058604-0.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "https://www.ams.org/tran/1954-076-01/S0002-9947-1954-0058604-0/S0002-9947-1954-0058604-0.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     4,
+     5
+    ]
+   ],
+   "date-time": "2026-04-05T16:07:02Z",
+   "timestamp": 1775405222000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.ams.org/tran/1954-076-01/S0002-9947-1954-0058604-0/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1954
+    ]
+   ]
+  },
+  "references-count": 8,
+  "aliases": [
+   "10.2307/1990743"
+  ],
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1954
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "S0002-9947-1954-0058604-0"
+  ],
+  "URL": "https://doi.org/10.1090/s0002-9947-1954-0058604-0",
+  "archive": [
+   "CLOCKSS",
+   "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+   "1088-6850",
+   "0002-9947"
+  ],
+  "issn-type": [
+   {
+    "value": "1088-6850",
+    "type": "electronic"
+   },
+   {
+    "value": "0002-9947",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1954
+    ]
+   ]
+  }
+ }
+}

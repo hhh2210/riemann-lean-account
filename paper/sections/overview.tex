@@ -1,0 +1,52 @@
+\section{The shape of the proof}\label{sec:overview}
+
+The top of the proof is short. \Cref{st:rh} follows from
+\cref{st:grh} for the trivial character by the functional equation, in a few dozen lines on
+Mathlib's interface. \Cref{st:grh} is obtained for every character from a statement
+\lean{ZeroFreeAll} about primitive characters, and that from a theorem with three hypotheses,
+\begin{gather*}
+\text{\lean{every_character_of_green_v_win}}\colon\\
+\mathsf{Green}\ \longrightarrow\ \mathsf{VWin}\ \longrightarrow\ \mathsf{Nonempty}(\mathsf{HypsAlt})
+\ \longrightarrow\ \mathsf{EveryCharacter},
+\end{gather*}
+each of which is in turn proved in the archive. They are the three inputs of the argument:
+\begin{itemize}
+\item $\mathsf{Green}$: a statement about the characters of finite general linear groups, in
+  the parametrisation of J.~A.~Green \cite{green1955}, used to count local types;
+\item $\mathsf{VWin}$: a bound on Galois cohomology groups attached to an auxiliary field,
+  valid on windows of scales (\cref{sec:cohomology});
+\item $\mathsf{HypsAlt}$: a record of forty-six fields about families of lattices of
+  automorphic forms on unitary groups (\cref{sec:lattices,sec:frame,sec:literature}).
+\end{itemize}
+
+The body of that theorem \lvP{} applies a windowed form of Landau's theorem with window
+exponent $\lambda=\tfrac32$ to a statement $\mathsf{TopG}$, which says: for every small
+$\eps>0$ there is a family of arithmetic data, indexed by scales $x$ in long windows, on which
+a condition \lean{ChainTied} holds. \lean{ChainTied} packages eleven inequalities between real
+numbers (\cref{sec:lattices}) and implies $G(x)\le x^{1/2+C\eps}$ by an argument that involves
+no arithmetic beyond an identity of character sums (\cref{sec:analytic}).
+
+So the proof has two halves that meet in eleven real inequalities:
+\begin{center}
+\begin{tabular}{@{}p{0.46\textwidth}@{\qquad}p{0.46\textwidth}@{}}
+\toprule
+\emph{Analytic half} (\cref{sec:analytic}) & \emph{Arithmetic half} (Sections~\ref{sec:lattices}--\ref{sec:hosts})\\
+\midrule
+Landau on windows; an exact identity for a count of prime powers; averaging; balancing three
+error terms at $m\approx\sqrt x$.
+&
+Lattices of forms, period maps, divisibility at inert primes, a slope inequality, a period
+computation, a trace formula, a cohomological bound, auxiliary fields.\\
+\bottomrule
+\end{tabular}
+\end{center}
+The analytic half is elementary and a few hundred lines long. Almost all of the archive is the
+arithmetic half and the published theorems it formalises.
+
+\subsection*{Notation}
+Throughout, $x$ is a large real scale and $\eps>0$ is small and fixed; $b=\exp(x^{\eps})$;
+$m$ is the number of lifts, $x^{1/2-\eps}\le m\le x^{1/2+\eps/2}$; $E$ is the auxiliary
+(``host'') field, with Galois group $\mathfrak G=(\Z/2)^2\times H$ over $\Q$ and $n=\abs H$;
+$\Phi\subset\mathfrak G$ is a CM type; $\gamma$ is Euler's constant except in
+\cref{sec:divisibility}, where $\gamma_\ell=\ell/(\ell^2-1)$. We write $\ph(y)=y\log y-y$, so
+that $\ph(a)=\log a!+O(\log a)$.

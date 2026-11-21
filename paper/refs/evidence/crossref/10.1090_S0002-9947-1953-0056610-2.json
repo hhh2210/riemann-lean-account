@@ -1,0 +1,342 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     6
+    ]
+   ],
+   "date-time": "2026-10-06T10:18:42Z",
+   "timestamp": 1791281922100,
+   "version": "4.1.0"
+  },
+  "reference-count": 17,
+  "publisher": "American Mathematical Society (AMS)",
+  "issue": "2",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Trans. Amer. Math. Soc."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1953
+    ]
+   ]
+  },
+  "DOI": "10.1090/s0002-9947-1953-0056610-2",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2010,
+     7,
+     11
+    ]
+   ],
+   "date-time": "2010-07-11T16:23:05Z",
+   "timestamp": 1278865385000
+  },
+  "page": "185-243",
+  "source": "Crossref",
+  "is-referenced-by-count": 208,
+  "title": [
+   "Representations of a semisimple Lie group on a Banach space. I"
+  ],
+  "prefix": "10.1090",
+  "volume": "75",
+  "author": [
+   {
+    "family": "Harish-Chandra",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "14",
+  "reference": [
+   {
+    "key": "1",
+    "unstructured": "S. Banach, Leçons sur les éspaces linéares, Warsaw, 1932."
+   },
+   {
+    "issue": "2",
+    "key": "2",
+    "doi-asserted-by": "publisher",
+    "first-page": "526",
+    "DOI": "10.2307/1968569",
+    "article-title": "Representability of Lie algebras and Lie groups by matrices",
+    "volume": "38",
+    "author": "Birkhoff, Garrett",
+    "year": "1937",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "3",
+    "unstructured": "E. Cartan, J. Math. Pures Appl. vol. 8 (1929) pp. 1-33."
+   },
+   {
+    "key": "4",
+    "doi-asserted-by": "crossref",
+    "unstructured": "C. Chevalley, Theory of Lie groups, Princeton University Press, 1946.",
+    "DOI": "10.1515/9781400883851"
+   },
+   {
+    "key": "5",
+    "doi-asserted-by": "publisher",
+    "first-page": "331",
+    "DOI": "10.1073/pnas.33.11.331",
+    "article-title": "Note on continuous representations of Lie groups",
+    "volume": "33",
+    "author": "Gårding, Lars",
+    "year": "1947",
+    "journal-title": "Proc. Nat. Acad. Sci. U.S.A.",
+    "ISSN": "https://id.crossref.org/issn/0027-8424",
+    "issn-type": "print"
+   },
+   {
+    "key": "6",
+    "first-page": "225",
+    "article-title": "On the connection between the representations of a complex semi-simple Lie group and those of its maximal compact subgroups",
+    "volume": "63",
+    "author": "Gel′fand, I. M.",
+    "year": "1948",
+    "journal-title": "Doklady Akad. Nauk SSSR (N.S.)"
+   },
+   {
+    "key": "7",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.2307/1990636",
+    "article-title": "Les fonctions de type positif et la théorie des groupes",
+    "volume": "63",
+    "author": "Godement, Roger",
+    "year": "1948",
+    "journal-title": "Trans. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9947",
+    "issn-type": "print"
+   },
+   {
+    "key": "8",
+    "doi-asserted-by": "publisher",
+    "first-page": "900",
+    "DOI": "10.2307/1969586",
+    "article-title": "On representations of Lie algebras",
+    "volume": "50",
+    "author": "Harish-Chandra",
+    "year": "1949",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "9",
+    "doi-asserted-by": "publisher",
+    "first-page": "507",
+    "DOI": "10.2307/1969548",
+    "article-title": "On some types of topological groups",
+    "volume": "50",
+    "author": "Iwasawa, Kenkichi",
+    "year": "1949",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "issue": "4",
+    "key": "10",
+    "doi-asserted-by": "publisher",
+    "first-page": "875",
+    "DOI": "10.2307/1968593",
+    "article-title": "Rational methods in the theory of Lie algebras",
+    "volume": "36",
+    "author": "Jacobson, Nathan",
+    "year": "1935",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "11",
+    "doi-asserted-by": "crossref",
+    "first-page": "65",
+    "DOI": "10.24033/bsmf.1410",
+    "article-title": "Homologie et cohomologie des algèbres de Lie",
+    "volume": "78",
+    "author": "Koszul, Jean-Louis",
+    "year": "1950",
+    "journal-title": "Bull. Soc. Math. France",
+    "ISSN": "https://id.crossref.org/issn/0037-9484",
+    "issn-type": "print"
+   },
+   {
+    "key": "12",
+    "doi-asserted-by": "publisher",
+    "first-page": "528",
+    "DOI": "10.2307/1969431",
+    "article-title": "Unitary representations of locally compact groups. II",
+    "volume": "52",
+    "author": "Mautner, F. I.",
+    "year": "1950",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "13",
+    "doi-asserted-by": "publisher",
+    "first-page": "969",
+    "DOI": "10.1090/S0002-9904-1949-09325-4",
+    "article-title": "A new proof of E. Cartan’s theorem on the topology of semi-simple groups",
+    "volume": "55",
+    "author": "Mostow, George Daniel",
+    "year": "1949",
+    "journal-title": "Bull. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9904",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "14",
+    "doi-asserted-by": "publisher",
+    "first-page": "116",
+    "DOI": "10.2307/1968693",
+    "article-title": "On rings of operators",
+    "volume": "37",
+    "author": "Murray, F. J.",
+    "year": "1936",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "15",
+    "doi-asserted-by": "publisher",
+    "first-page": "13",
+    "DOI": "10.2307/2032448",
+    "article-title": "Hypermaximality of certain operators on Lie groups",
+    "volume": "3",
+    "author": "Segal, I. E.",
+    "year": "1952",
+    "journal-title": "Proc. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9939",
+    "issn-type": "print"
+   },
+   {
+    "key": "16",
+    "doi-asserted-by": "crossref",
+    "unstructured": "B. L. van der Waerden, Moderne Algebra, Berlin, Springer, 1937.",
+    "DOI": "10.1007/978-3-662-36434-5"
+   },
+   {
+    "key": "17",
+    "unstructured": "A. Weil, L’intégration dans les groupes topologiques et ses applications, Paris, Hermann, 1940."
+   }
+  ],
+  "container-title": [
+   "Transactions of the American Mathematical Society"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://www.ams.org/tran/1953-075-02/S0002-9947-1953-0056610-2/S0002-9947-1953-0056610-2.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "https://www.ams.org/tran/1953-075-02/S0002-9947-1953-0056610-2/S0002-9947-1953-0056610-2.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     4,
+     5
+    ]
+   ],
+   "date-time": "2026-04-05T16:06:23Z",
+   "timestamp": 1775405183000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.ams.org/tran/1953-075-02/S0002-9947-1953-0056610-2/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1953
+    ]
+   ]
+  },
+  "references-count": 17,
+  "aliases": [
+   "10.2307/1990730"
+  ],
+  "journal-issue": {
+   "issue": "2",
+   "published-print": {
+    "date-parts": [
+     [
+      1953
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "S0002-9947-1953-0056610-2"
+  ],
+  "URL": "https://doi.org/10.1090/s0002-9947-1953-0056610-2",
+  "archive": [
+   "CLOCKSS",
+   "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+   "1088-6850",
+   "0002-9947"
+  ],
+  "issn-type": [
+   {
+    "value": "1088-6850",
+    "type": "electronic"
+   },
+   {
+    "value": "0002-9947",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1953
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,384 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     1
+    ]
+   ],
+   "date-time": "2026-11-01T05:24:19Z",
+   "timestamp": 1793510659990,
+   "version": "4.5.0"
+  },
+  "reference-count": 20,
+  "publisher": "American Mathematical Society (AMS)",
+  "issue": "3",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "J. Amer. Math. Soc."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1989
+    ]
+   ]
+  },
+  "DOI": "10.1090/s0894-0347-1989-0985172-6",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2010,
+     6,
+     23
+    ]
+   ],
+   "date-time": "2010-06-23T23:01:58Z",
+   "timestamp": 1277334118000
+  },
+  "page": "535-552",
+  "source": "Crossref",
+  "is-referenced-by-count": 232,
+  "title": [
+   "Transcending classical invariant theory"
+  ],
+  "prefix": "10.1090",
+  "volume": "2",
+  "author": [
+   {
+    "given": "Roger",
+    "family": "Howe",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "14",
+  "reference": [
+   {
+    "key": "1",
+    "first-page": "361",
+    "article-title": "Quantum mechanical commutation relations and theta functions",
+    "author": "Cartier, Pierre",
+    "year": "1966"
+   },
+   {
+    "key": "2",
+    "series-title": "Cahiers Scientifiques [Scientific Reports], Fasc. XXXVII",
+    "volume-title": "Alg\\`ebres enveloppantes",
+    "author": "Dixmier, Jacques",
+    "year": "1974"
+   },
+   {
+    "key": "3",
+    "isbn-type": "print",
+    "first-page": "179",
+    "article-title": "Decomposition of representations into tensor products",
+    "author": "Flath, D.",
+    "year": "1979",
+    "ISBN": "https://id.crossref.org/isbn/0821814354"
+   },
+   {
+    "key": "4",
+    "doi-asserted-by": "publisher",
+    "first-page": "49",
+    "DOI": "10.1007/BF01418850",
+    "article-title": "Holomorphic discrete series for the real symplectic group",
+    "volume": "19",
+    "author": "Gelbart, Stephen",
+    "year": "1973",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "5",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1016/0022-1236(77)90030-1",
+    "article-title": "Bessel functions and representation theory. II. Holomorphic discrete series and metaplectic representations",
+    "volume": "25",
+    "author": "Gross, Kenneth I.",
+    "year": "1977",
+    "journal-title": "J. Functional Analysis",
+    "ISSN": "https://id.crossref.org/issn/0022-1236",
+    "issn-type": "print"
+   },
+   {
+    "key": "6",
+    "series-title": "Pure and Applied Mathematics, Vol. XII",
+    "volume-title": "Differential geometry and symmetric spaces",
+    "author": "Helgason, Sigurđur",
+    "year": "1962"
+   },
+   {
+    "issue": "2",
+    "key": "7",
+    "doi-asserted-by": "publisher",
+    "first-page": "539",
+    "DOI": "10.2307/2001418",
+    "article-title": "Remarks on classical invariant theory",
+    "volume": "313",
+    "author": "Howe, Roger",
+    "year": "1989",
+    "journal-title": "Trans. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9947",
+    "issn-type": "print"
+   },
+   {
+    "key": "8",
+    "isbn-type": "print",
+    "first-page": "275",
+    "article-title": "𝜃-series and invariant theory",
+    "author": "Howe, R.",
+    "year": "1979",
+    "ISBN": "https://id.crossref.org/isbn/0821814354"
+   },
+   {
+    "issue": "2",
+    "key": "9",
+    "doi-asserted-by": "publisher",
+    "first-page": "188",
+    "DOI": "10.1016/0022-1236(80)90064-6",
+    "article-title": "Quantum mechanics and partial differential equations",
+    "volume": "38",
+    "author": "Howe, Roger",
+    "year": "1980",
+    "journal-title": "J. Functional Analysis",
+    "ISSN": "https://id.crossref.org/issn/0022-1236",
+    "issn-type": "print"
+   },
+   {
+    "key": "10",
+    "doi-asserted-by": "publisher",
+    "first-page": "1511",
+    "DOI": "10.1063/1.1703932",
+    "article-title": "Remarks on the type of von Neumann algebras of local observables in quantum field theory",
+    "volume": "4",
+    "author": "Kadison, Richard V.",
+    "year": "1963",
+    "journal-title": "J. Mathematical Phys.",
+    "ISSN": "https://id.crossref.org/issn/0022-2488",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "11",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1007/BF01389900",
+    "article-title": "On the Segal-Shale-Weil representations and harmonic polynomials",
+    "volume": "44",
+    "author": "Kashiwara, M.",
+    "year": "1978",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "key": "12",
+    "series-title": "Lecture Notes in Mathematics",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BFb0082712",
+    "volume-title": "Correspondances de Howe sur un corps $p$-adique",
+    "volume": "1291",
+    "author": "Mœglin, Colette",
+    "year": "1987",
+    "ISBN": "https://id.crossref.org/isbn/3540186999"
+   },
+   {
+    "issue": "3",
+    "key": "13",
+    "first-page": "333",
+    "article-title": "On the Howe duality conjecture",
+    "volume": "51",
+    "author": "Rallis, S.",
+    "year": "1984",
+    "journal-title": "Compositio Math.",
+    "ISSN": "https://id.crossref.org/issn/0010-437X",
+    "issn-type": "print"
+   },
+   {
+    "key": "14",
+    "doi-asserted-by": "publisher",
+    "first-page": "232",
+    "DOI": "10.2969/jmsj/02420232",
+    "article-title": "Représentations unitaires des groupes symplectiques",
+    "volume": "24",
+    "author": "Saito, Masahiko",
+    "year": "1972",
+    "journal-title": "J. Math. Soc. Japan",
+    "ISSN": "https://id.crossref.org/issn/0025-5645",
+    "issn-type": "print"
+   },
+   {
+    "key": "15",
+    "isbn-type": "print",
+    "first-page": "321",
+    "article-title": "The complex-wave representation of the free boson field",
+    "author": "Segal, I. E.",
+    "year": "1978",
+    "ISBN": "https://id.crossref.org/isbn/0122871502"
+   },
+   {
+    "key": "16",
+    "doi-asserted-by": "publisher",
+    "first-page": "149",
+    "DOI": "10.2307/1993745",
+    "article-title": "Linear symmetries of free boson fields",
+    "volume": "103",
+    "author": "Shale, David",
+    "year": "1962",
+    "journal-title": "Trans. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9947",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "17",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.2307/1971266",
+    "article-title": "The algebraic structure of the representation of semisimple Lie groups. I",
+    "volume": "109",
+    "author": "Vogan, David A., Jr.",
+    "year": "1979",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "18",
+    "unstructured": "J. L. Waldspurger, preprint."
+   },
+   {
+    "key": "19",
+    "doi-asserted-by": "publisher",
+    "first-page": "143",
+    "DOI": "10.1007/BF02391012",
+    "article-title": "Sur certains groupes d’opérateurs unitaires",
+    "volume": "111",
+    "author": "Weil, André",
+    "year": "1964",
+    "journal-title": "Acta Math.",
+    "ISSN": "https://id.crossref.org/issn/0001-5962",
+    "issn-type": "print"
+   },
+   {
+    "key": "20",
+    "series-title": "Princeton Landmarks in Mathematics",
+    "isbn-type": "print",
+    "volume-title": "The classical groups",
+    "author": "Weyl, Hermann",
+    "year": "1997",
+    "ISBN": "https://id.crossref.org/isbn/0691057567"
+   }
+  ],
+  "container-title": [
+   "Journal of the American Mathematical Society"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://www.ams.org/jams/1989-02-03/S0894-0347-1989-0985172-6/S0894-0347-1989-0985172-6.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "https://www.ams.org/jams/1989-02-03/S0894-0347-1989-0985172-6/S0894-0347-1989-0985172-6.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     4,
+     20
+    ]
+   ],
+   "date-time": "2026-04-20T01:55:33Z",
+   "timestamp": 1776650133000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.ams.org/jams/1989-02-03/S0894-0347-1989-0985172-6/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1989
+    ]
+   ]
+  },
+  "references-count": 20,
+  "aliases": [
+   "10.2307/1990942"
+  ],
+  "journal-issue": {
+   "issue": "3",
+   "published-print": {
+    "date-parts": [
+     [
+      1989
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "S0894-0347-1989-0985172-6"
+  ],
+  "URL": "https://doi.org/10.1090/s0894-0347-1989-0985172-6",
+  "archive": [
+   "CLOCKSS",
+   "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+   "1088-6834",
+   "0894-0347"
+  ],
+  "issn-type": [
+   {
+    "value": "1088-6834",
+    "type": "electronic"
+   },
+   {
+    "value": "0894-0347",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1989
+    ]
+   ]
+  }
+ }
+}

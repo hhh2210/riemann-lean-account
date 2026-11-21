@@ -1,0 +1,492 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     29
+    ]
+   ],
+   "date-time": "2026-10-29T21:29:00Z",
+   "timestamp": 1793309340784,
+   "version": "4.5.0"
+  },
+  "reference-count": 30,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "3",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2012,
+       8,
+       11
+      ]
+     ],
+     "date-time": "2012-08-11T00:00:00Z",
+     "timestamp": 1344643200000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Invent. math."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2013,
+     6
+    ]
+   ]
+  },
+  "DOI": "10.1007/s00222-012-0420-5",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2012,
+     8,
+     10
+    ]
+   ],
+   "date-time": "2012-08-10T14:12:26Z",
+   "timestamp": 1344607946000
+  },
+  "page": "663-715",
+  "source": "Crossref",
+  "is-referenced-by-count": 90,
+  "title": [
+   "The Local Langlands Correspondence for GL n over p-adic fields"
+  ],
+  "prefix": "10.1007",
+  "volume": "192",
+  "author": [
+   {
+    "given": "Peter",
+    "family": "Scholze",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "published-online": {
+   "date-parts": [
+    [
+     2012,
+     8,
+     11
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "420_CR1",
+    "series-title": "Annals of Mathematics Studies",
+    "volume-title": "Simple Algebras, Base Change, and the Advanced Theory of the Trace Formula",
+    "author": "J. Arthur",
+    "year": "1989",
+    "unstructured": "Arthur, J., Clozel, L.: Simple Algebras, Base Change, and the Advanced Theory of the Trace Formula. Annals of Mathematics Studies, vol. 120. Princeton University Press, Princeton (1989)"
+   },
+   {
+    "key": "420_CR2",
+    "first-page": "21",
+    "volume-title": "Global Analysis (Papers in Honor of K. Kodaira)",
+    "author": "M. Artin",
+    "year": "1969",
+    "unstructured": "Artin, M.: Algebraization of formal moduli. I. In: Global Analysis (Papers in Honor of K. Kodaira), pp. 21–71. Univ. Tokyo Press, Tokyo (1969)"
+   },
+   {
+    "issue": "2",
+    "key": "420_CR3",
+    "doi-asserted-by": "crossref",
+    "first-page": "367",
+    "DOI": "10.1007/s002220050078",
+    "volume": "125",
+    "author": "V.G. Berkovich",
+    "year": "1996",
+    "unstructured": "Berkovich, V.G.: Vanishing cycles for formal schemes. II. Invent. Math. 125(2), 367–390 (1996)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "issue": "4",
+    "key": "420_CR4",
+    "doi-asserted-by": "crossref",
+    "first-page": "441",
+    "DOI": "10.24033/asens.1333",
+    "volume": "10",
+    "author": "I.N. Bernstein",
+    "year": "1977",
+    "unstructured": "Bernstein, I.N., Zelevinsky, A.V.: Induced representations of reductive ${\\mathfrak{p}}$ -adic groups. I. Ann. Sci. Éc. Norm. Super. 10(4), 441–472 (1977)",
+    "journal-title": "Ann. Sci. Éc. Norm. Super."
+   },
+   {
+    "key": "420_CR5",
+    "unstructured": "Buzzard, K., Gee, T.: The conjectural connections between automorphic representations and Galois representations. arXiv:1009.0785 . Proceedings of the LMS Durham Symposium (2011, to appear)"
+   },
+   {
+    "issue": "136",
+    "key": "420_CR6",
+    "first-page": "594",
+    "volume": "94",
+    "author": "V.G. Drinfel’d",
+    "year": "1974",
+    "unstructured": "Drinfel’d, V.G.: Elliptic modules. Mat. Sb. 94(136), 594–627 (1974)",
+    "journal-title": "Mat. Sb."
+   },
+   {
+    "issue": "2",
+    "key": "420_CR7",
+    "doi-asserted-by": "crossref",
+    "first-page": "249",
+    "DOI": "10.17323/1609-4514-2002-2-2-249-279",
+    "volume": "2",
+    "author": "G. Faltings",
+    "year": "2002",
+    "unstructured": "Faltings, G.: Group schemes with strict $\\mathcal{O}$ -action. Mosc. Math. J. 2(2), 249–279 (2002). Dedicated to Yuri I. Manin on the occasion of his 65th birthday",
+    "journal-title": "Mosc. Math. J."
+   },
+   {
+    "key": "420_CR8",
+    "unstructured": "Fargues, L.: Motives and automorphic forms: the Abelian case http://www.math.u-psud.fr/~fargues/Motifs_abeliens.ps"
+   },
+   {
+    "issue": "1",
+    "key": "420_CR9",
+    "doi-asserted-by": "crossref",
+    "first-page": "177",
+    "DOI": "10.1007/s002220050262",
+    "volume": "134",
+    "author": "M. Harris",
+    "year": "1998",
+    "unstructured": "Harris, M.: The local Langlands conjecture for GL(n) over a p-adic field, n<p. Invent. Math. 134(1), 177–210 (1998)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "420_CR10",
+    "series-title": "Annals of Mathematics Studies",
+    "volume-title": "The Geometry and Cohomology of Some Simple Shimura Varieties",
+    "author": "M. Harris",
+    "year": "2001",
+    "unstructured": "Harris, M., Taylor, R.: The Geometry and Cohomology of Some Simple Shimura Varieties. Annals of Mathematics Studies, vol. 151. Princeton University Press, Princeton (2001). With an appendix by Vladimir G. Berkovich"
+   },
+   {
+    "issue": "4",
+    "key": "420_CR11",
+    "doi-asserted-by": "crossref",
+    "first-page": "497",
+    "DOI": "10.24033/asens.1566",
+    "volume": "21",
+    "author": "G. Henniart",
+    "year": "1988",
+    "unstructured": "Henniart, G.: La conjecture de Langlands locale numérique pour GL(n). Ann. Sci. Éc. Norm. Super. 21(4), 497–544 (1988)",
+    "journal-title": "Ann. Sci. Éc. Norm. Super."
+   },
+   {
+    "issue": "2",
+    "key": "420_CR12",
+    "doi-asserted-by": "crossref",
+    "first-page": "339",
+    "DOI": "10.1007/BF01244309",
+    "volume": "113",
+    "author": "G. Henniart",
+    "year": "1993",
+    "unstructured": "Henniart, G.: Caractérisation de la correspondance de Langlands locale par les facteurs ϵ de paires. Invent. Math. 113(2), 339–350 (1993)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "issue": "2",
+    "key": "420_CR13",
+    "doi-asserted-by": "crossref",
+    "first-page": "439",
+    "DOI": "10.1007/s002220050012",
+    "volume": "139",
+    "author": "G. Henniart",
+    "year": "2000",
+    "unstructured": "Henniart, G.: Une preuve simple des conjectures de Langlands pour GL(n) sur un corps p-adique. Invent. Math. 139(2), 439–455 (2000)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "issue": "2",
+    "key": "420_CR14",
+    "doi-asserted-by": "crossref",
+    "first-page": "199",
+    "DOI": "10.1007/BF01450798",
+    "volume": "256",
+    "author": "H. Jacquet",
+    "year": "1981",
+    "unstructured": "Jacquet, H., Piatetski-Shapiro, I.I., Shalika, J.: Conducteur des représentations du groupe linéaire. Math. Ann. 256(2), 199–214 (1981)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "420_CR15",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.1007/BF02792530",
+    "volume": "47",
+    "author": "D. Kazhdan",
+    "year": "1986",
+    "unstructured": "Kazhdan, D.: Cuspidal geometry of p-adic groups. J. Anal. Math. 47, 1–36 (1986)",
+    "journal-title": "J. Anal. Math."
+   },
+   {
+    "issue": "3",
+    "key": "420_CR16",
+    "doi-asserted-by": "crossref",
+    "first-page": "653",
+    "DOI": "10.1007/BF02100620",
+    "volume": "108",
+    "author": "R.E. Kottwitz",
+    "year": "1992",
+    "unstructured": "Kottwitz, R.E.: On the λ-adic representations associated to some simple Shimura varieties. Invent. Math. 108(3), 653–665 (1992)",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "issue": "2",
+    "key": "420_CR17",
+    "doi-asserted-by": "crossref",
+    "first-page": "373",
+    "DOI": "10.1090/S0894-0347-1992-1124982-1",
+    "volume": "5",
+    "author": "R.E. Kottwitz",
+    "year": "1992",
+    "unstructured": "Kottwitz, R.E.: Points on some Shimura varieties over finite fields. J. Am. Math. Soc. 5(2), 373–444 (1992)",
+    "journal-title": "J. Am. Math. Soc."
+   },
+   {
+    "key": "420_CR18",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Langlands, R.P.: Representations of abelian algebraic groups. Pac. J. Math. (Special Issue), 231–250 (1997). Olga Taussky-Todd: in memoriam",
+    "DOI": "10.2140/pjm.1997.181.231"
+   },
+   {
+    "key": "420_CR19",
+    "first-page": "201",
+    "volume": "291",
+    "author": "E. Mantovan",
+    "year": "2004",
+    "unstructured": "Mantovan, E.: On certain unitary group Shimura varieties. Astérisque 291, 201–331 (2004) Variétés de Shimura, espaces de Rapoport-Zink et correspondances de Langlands locales",
+    "journal-title": "Astérisque"
+   },
+   {
+    "issue": "3",
+    "key": "420_CR20",
+    "doi-asserted-by": "crossref",
+    "first-page": "573",
+    "DOI": "10.1215/S0012-7094-05-12935-0",
+    "volume": "129",
+    "author": "E. Mantovan",
+    "year": "2005",
+    "unstructured": "Mantovan, E.: On the cohomology of certain PEL-type Shimura varieties. Duke Math. J. 129(3), 573–610 (2005)",
+    "journal-title": "Duke Math. J."
+   },
+   {
+    "issue": "2",
+    "key": "420_CR21",
+    "doi-asserted-by": "crossref",
+    "first-page": "393",
+    "DOI": "10.1112/S0010437X06002582",
+    "volume": "143",
+    "author": "Y. Mieda",
+    "year": "2007",
+    "unstructured": "Mieda, Y.: On l-independence for the étale cohomology of rigid spaces over local fields. Compos. Math. 143(2), 393–422 (2007)",
+    "journal-title": "Compos. Math."
+   },
+   {
+    "key": "420_CR22",
+    "doi-asserted-by": "crossref",
+    "first-page": "161",
+    "DOI": "10.1515/crll.1999.092",
+    "volume": "517",
+    "author": "P. Schneider",
+    "year": "1999",
+    "unstructured": "Schneider, P., Zink, E.-W.: K-types for the tempered components of a p-adic general linear group. J. Reine Angew. Math. 517, 161–208 (1999). With an appendix by Schneider and U. Stuhler",
+    "journal-title": "J. Reine Angew. Math."
+   },
+   {
+    "key": "420_CR23",
+    "author": "P. Scholze",
+    "year": "2012",
+    "unstructured": "Scholze, P.: The Langlands-Kottwitz approach for some simple Shimura varieties. Invent. Math. (2012). doi: 10.1007/s00222-012-0419-y",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "420_CR24",
+    "first-page": "3368",
+    "volume": "15",
+    "author": "P. Scholze",
+    "year": "2011",
+    "unstructured": "Scholze, P.: The Langlands-Kottwitz approach for the modular curve. Int. Math. Res. Not. 15, 3368–3425 (2011)",
+    "journal-title": "Int. Math. Res. Not."
+   },
+   {
+    "key": "420_CR25",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Scholze, P.: The Langlands-Kottwitz method and deformation spaces of p-divisible groups. arXiv:1110.0230 . Am. Math. Soc. (2011, to appear)",
+    "DOI": "10.1090/S0894-0347-2012-00753-X"
+   },
+   {
+    "key": "420_CR26",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Scholze, P., Shin, S.W.: On the cohomology of compact unitary group Shimura varieties at ramified split places. arXiv:1110.0232 . Am. Math. Soc. (2011, to appear)",
+    "DOI": "10.1090/S0894-0347-2012-00752-8"
+   },
+   {
+    "issue": "3",
+    "key": "420_CR27",
+    "doi-asserted-by": "crossref",
+    "first-page": "509",
+    "DOI": "10.1215/00127094-2009-004",
+    "volume": "146",
+    "author": "S.W. Shin",
+    "year": "2009",
+    "unstructured": "Shin, S.W.: Counting points on Igusa varieties. Duke Math. J. 146(3), 509–568 (2009)",
+    "journal-title": "Duke Math. J."
+   },
+   {
+    "key": "420_CR28",
+    "first-page": "391",
+    "volume": "298",
+    "author": "M. Strauch",
+    "year": "2005",
+    "unstructured": "Strauch, M.: On the Jacquet-Langlands correspondence in the cohomology of the Lubin-Tate deformation tower. Astérisque 298, 391–410 (2005). Automorphic forms. I",
+    "journal-title": "Astérisque"
+   },
+   {
+    "issue": "1",
+    "key": "420_CR29",
+    "doi-asserted-by": "crossref",
+    "first-page": "271",
+    "DOI": "10.1007/s00039-007-0596-9",
+    "volume": "17",
+    "author": "Y. Varshavsky",
+    "year": "2007",
+    "unstructured": "Varshavsky, Y.: Lefschetz-Verdier trace formula and a generalization of a theorem of Fujiwara. Geom. Funct. Anal. 17(1), 271–319 (2007)",
+    "journal-title": "Geom. Funct. Anal."
+   },
+   {
+    "issue": "2",
+    "key": "420_CR30",
+    "doi-asserted-by": "crossref",
+    "first-page": "165",
+    "DOI": "10.24033/asens.1379",
+    "volume": "13",
+    "author": "A.V. Zelevinsky",
+    "year": "1980",
+    "unstructured": "Zelevinsky, A.V.: Induced representations of reductive ${\\mathfrak{p}}$ -adic groups. II. On irreducible representations of GL(n). Ann. Sci. Éc. Norm. Super. 13(2), 165–210 (1980)",
+    "journal-title": "Ann. Sci. Éc. Norm. Super."
+   }
+  ],
+  "container-title": [
+   "Inventiones mathematicae"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/s00222-012-0420-5.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/s00222-012-0420-5/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/s00222-012-0420-5",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2020,
+     7,
+     12
+    ]
+   ],
+   "date-time": "2020-07-12T12:57:14Z",
+   "timestamp": 1594558634000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/s00222-012-0420-5"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2012,
+     8,
+     11
+    ]
+   ]
+  },
+  "references-count": 30,
+  "journal-issue": {
+   "issue": "3",
+   "published-print": {
+    "date-parts": [
+     [
+      2013,
+      6
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "420"
+  ],
+  "URL": "https://doi.org/10.1007/s00222-012-0420-5",
+  "relation": {},
+  "ISSN": [
+   "0020-9910",
+   "1432-1297"
+  ],
+  "issn-type": [
+   {
+    "value": "0020-9910",
+    "type": "print"
+   },
+   {
+    "value": "1432-1297",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2012,
+     8,
+     11
+    ]
+   ]
+  }
+ }
+}

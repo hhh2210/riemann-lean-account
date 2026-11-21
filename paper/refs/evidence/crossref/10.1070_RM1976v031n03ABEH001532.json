@@ -1,0 +1,166 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     16
+    ]
+   ],
+   "date-time": "2026-10-16T22:34:23Z",
+   "timestamp": 1792190063185,
+   "version": "4.4.0"
+  },
+  "reference-count": 0,
+  "publisher": "Steklov Mathematical Institute",
+  "issue": "3",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Russ. Math. Surv."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1976,
+     6,
+     30
+    ]
+   ]
+  },
+  "DOI": "10.1070/rm1976v031n03abeh001532",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     11,
+     8
+    ]
+   ],
+   "date-time": "2005-11-08T11:34:13Z",
+   "timestamp": 1131449653000
+  },
+  "page": "1-68",
+  "source": "Crossref",
+  "is-referenced-by-count": 183,
+  "title": [
+   "REPRESENTATIONS OF THE GROUP<i>GL</i>(<i>n</i>,<i>F</i>) WHERE<i>F</i>IS A NON-ARCHIMEDEAN LOCAL FIELD"
+  ],
+  "prefix": "10.4213",
+  "volume": "31",
+  "author": [
+   {
+    "given": "I N",
+    "family": "Bernshtein",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "A V",
+    "family": "Zelevinskii",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "2731",
+  "published-online": {
+   "date-parts": [
+    [
+     2007,
+     10,
+     16
+    ]
+   ]
+  },
+  "container-title": [
+   "Russian Mathematical Surveys"
+  ],
+  "original-title": [],
+  "deposited": {
+   "date-parts": [
+    [
+     2024,
+     10,
+     3
+    ]
+   ],
+   "date-time": "2024-10-03T13:11:18Z",
+   "timestamp": 1727961078000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.mathnet.ru/eng/rm3720"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1976,
+     6,
+     30
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "3",
+   "published-print": {
+    "date-parts": [
+     [
+      1976,
+      6,
+      30
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.1070/rm1976v031n03abeh001532",
+  "relation": {},
+  "ISSN": [
+   "0036-0279",
+   "1468-4829"
+  ],
+  "issn-type": [
+   {
+    "value": "0036-0279",
+    "type": "print"
+   },
+   {
+    "value": "1468-4829",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1976,
+     6,
+     30
+    ]
+   ]
+  }
+ }
+}

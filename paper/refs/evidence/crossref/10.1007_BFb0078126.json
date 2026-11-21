@@ -1,0 +1,250 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     10
+    ]
+   ],
+   "date-time": "2026-11-10T20:55:54Z",
+   "timestamp": 1794344154773,
+   "version": "4.9.0"
+  },
+  "publisher-location": "Berlin, Heidelberg",
+  "reference-count": 8,
+  "publisher": "Springer Berlin Heidelberg",
+  "isbn-type": [
+   {
+    "value": "9783540178484",
+    "type": "print"
+   },
+   {
+    "value": "9783540478805",
+    "type": "electronic"
+   }
+  ],
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1987,
+       1,
+       1
+      ]
+     ],
+     "date-time": "1987-01-01T00:00:00Z",
+     "timestamp": 536457600000
+    },
+    "content-version": "unspecified",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     1987
+    ]
+   ]
+  },
+  "DOI": "10.1007/bfb0078126",
+  "type": "book-chapter",
+  "created": {
+   "date-parts": [
+    [
+     2006,
+     11,
+     23
+    ]
+   ],
+   "date-time": "2006-11-23T10:40:09Z",
+   "timestamp": 1164278409000
+  },
+  "page": "1-52",
+  "source": "Crossref",
+  "is-referenced-by-count": 37,
+  "title": [
+   "L-functions for the classical groups"
+  ],
+  "prefix": "10.1007",
+  "author": [
+   {
+    "given": "I.",
+    "family": "Piatetski-Shapiro",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "S.",
+    "family": "Rallis",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "published-online": {
+   "date-parts": [
+    [
+     2006,
+     9,
+     19
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "1_CR1",
+    "doi-asserted-by": "publisher",
+    "first-page": "253",
+    "DOI": "10.1090/pspum/033.1/546601",
+    "volume": "33",
+    "author": "J. Arthur",
+    "year": "1979",
+    "unstructured": "J. Arthur, Eisenstein series and the trace formula. Pro. Symp. Pure Math. 33 (1979), pt. 1, 253–274.",
+    "journal-title": "Pro. Symp. Pure Math."
+   },
+   {
+    "key": "1_CR2",
+    "doi-asserted-by": "publisher",
+    "first-page": "27",
+    "DOI": "10.1090/pspum/033.2/546608",
+    "volume": "33",
+    "author": "A. Borel",
+    "year": "1979",
+    "unstructured": "A. Borel, Automorphic L-functions. Pro. Symp. Pure Math. 33 (1979), pt. 2, 27–61.",
+    "journal-title": "Pro. Symp. Pure Math."
+   },
+   {
+    "key": "1_CR3",
+    "unstructured": "W. Casselman, Introduction to the theory of admissible representations of p-adic reductive groups (manuscript)."
+   },
+   {
+    "key": "1_CR4",
+    "unstructured": "R. Godement and H. Jacquet, Zeta Functions of Simple Algebras. Lecture Notes in Math., vol. 260, Springer, New York."
+   },
+   {
+    "issue": "2",
+    "key": "1_CR5",
+    "doi-asserted-by": "crossref",
+    "first-page": "249",
+    "DOI": "10.1090/trans2/085/12",
+    "volume": "85",
+    "author": "S. Gindikin",
+    "year": "1969",
+    "unstructured": "S. Gindikin and F. Karpelevich, On an integral connected with symmetric Riemann spaces of nonpositive curvature. Amer. Math. Soc. Transl. (2) 85 (1969), 249–258.",
+    "journal-title": "Amer. Math. Soc. Transl."
+   },
+   {
+    "key": "1_CR6",
+    "unstructured": "R. Langlands, Euler Products. Yale University Press, 1967."
+   },
+   {
+    "key": "1_CR7",
+    "unstructured": "R, Langlands, On the functional equation satisfied by Eisenstein series. Lecture Notes in Math., vol 544, Springer, New York."
+   },
+   {
+    "key": "1_CR8",
+    "unstructured": "I. Macdonald, Spherical functions on a group of p-adic type. Ramanujan Institute, University of Madras Publ., 1971."
+   }
+  ],
+  "container-title": [
+   "Lecture Notes in Mathematics",
+   "Explicit Constructions of Automorphic L-Functions"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BFb0078126",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     18
+    ]
+   ],
+   "date-time": "2020-04-18T22:46:55Z",
+   "timestamp": 1587250015000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BFb0078126"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1987
+    ]
+   ]
+  },
+  "ISBN": [
+   "9783540178484",
+   "9783540478805"
+  ],
+  "references-count": 8,
+  "URL": "https://doi.org/10.1007/bfb0078126",
+  "relation": {
+   "is-part-of": [
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0078125",
+     "asserted-by": "object"
+    }
+   ]
+  },
+  "ISSN": [
+   "0075-8434",
+   "1617-9692"
+  ],
+  "issn-type": [
+   {
+    "value": "0075-8434",
+    "type": "print"
+   },
+   {
+    "value": "1617-9692",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1987
+    ]
+   ]
+  }
+ }
+}

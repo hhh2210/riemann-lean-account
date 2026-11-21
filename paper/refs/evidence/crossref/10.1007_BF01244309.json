@@ -1,0 +1,290 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     1
+    ]
+   ],
+   "date-time": "2026-11-01T05:24:18Z",
+   "timestamp": 1793510658407,
+   "version": "4.5.0"
+  },
+  "reference-count": 12,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1993,
+       12,
+       1
+      ]
+     ],
+     "date-time": "1993-12-01T00:00:00Z",
+     "timestamp": 754704000000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Invent Math"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1993,
+     12
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01244309",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     2,
+     26
+    ]
+   ],
+   "date-time": "2005-02-26T04:24:09Z",
+   "timestamp": 1109391849000
+  },
+  "page": "339-350",
+  "source": "Crossref",
+  "is-referenced-by-count": 72,
+  "title": [
+   "Caract�risation de la correspondance de Langlands locale par les facteurs? de paires"
+  ],
+  "prefix": "10.1007",
+  "volume": "113",
+  "author": [
+   {
+    "given": "Guy",
+    "family": "Henniart",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "issue": "no3",
+    "key": "CR1",
+    "first-page": "5",
+    "volume": "31",
+    "author": "I.N. Bernstein",
+    "year": "1976",
+    "unstructured": "[BZ] Bernstein, I.N., Zelevinsky, A.V.: Representations of the group GL(n, F), whereF is a local non-archimedean field. Usp. Mat. Nauk31 (no3). 5?70 (1976)",
+    "journal-title": "Usp. Mat. Nauk"
+   },
+   {
+    "key": "CR2",
+    "series-title": "Lect. Notes., Math.",
+    "doi-asserted-by": "crossref",
+    "first-page": "501",
+    "DOI": "10.1007/978-3-540-37855-6_7",
+    "volume-title": "Modular functions of one variable II",
+    "author": "P. Deligne",
+    "year": "1973",
+    "unstructured": "[De] Deligne, P.: Les constantes des équations fonctionnelles des fonctionsL In: Deligne, P., Kuyk, W. (eds.) Modular functions of one variable II (Lect. Notes., Math., vol. 348, pp. 501?597) Berlin Heidelberg New York: Springer 1973"
+   },
+   {
+    "key": "CR3",
+    "unstructured": "[GK] Gelfand, I.M., Kazhdan, D.A.: Representations of Gl(n, K) In: Gelfand, I.M. (ed.) Lie groups and their representations 2, pp. 95?118. Budapest: Akademia Kiado"
+   },
+   {
+    "key": "CR4",
+    "unstructured": "[He] Henniart, G.: La correspondance de Langlands locale: caractérisation et propriétés fonctorielles (en préparation)"
+   },
+   {
+    "key": "CR5",
+    "series-title": "Lect. Notes Math.",
+    "volume-title": "Automorphic forms on GL (2)",
+    "author": "H. Jacquet",
+    "year": "1971",
+    "unstructured": "[JL] Jacquet, H., Langlands, R.P.: Automorphic forms on GL (2). (Lect. Notes Math., vol. 114) Berlin Heidelberg New York: Springer 1971"
+   },
+   {
+    "key": "CR6",
+    "doi-asserted-by": "crossref",
+    "first-page": "169",
+    "DOI": "10.2307/1971270",
+    "volume": "109",
+    "author": "H. Jacquet",
+    "year": "1979",
+    "unstructured": "[JPS 1] Jacquet, H., Piatetski-Shapiro, I.I., Shalika, J.: Automorphic forms on GL (3), Ann. Math.109, 169?258 (1979)",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "key": "CR7",
+    "first-page": "59",
+    "volume": "289",
+    "author": "H. Jacquet",
+    "year": "1979",
+    "unstructured": "[JPS 2] Jacquet, H., Piatetski-Shapiro, I.I., Shalika, J.: FacterusL et ? du groupe linéaire. C.R. Acad. Sci., Paris289, 59?61 (1979)",
+    "journal-title": "C.R. Acad. Sci., Paris"
+   },
+   {
+    "key": "CR8",
+    "doi-asserted-by": "crossref",
+    "first-page": "199",
+    "DOI": "10.1007/BF01450798",
+    "volume": "256",
+    "author": "H. Jacquet",
+    "year": "1981",
+    "unstructured": "[JPS 3] Jacquet, H., Piatetski-Shapiro, I.I., Shalika, J.: Conducteur des représentations du groupe linéaire. Math. Ann.256, 199?214 (1981)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "CR9",
+    "doi-asserted-by": "crossref",
+    "first-page": "367",
+    "DOI": "10.2307/2374264",
+    "volume": "105",
+    "author": "H. Jacquet",
+    "year": "1983",
+    "unstructured": "[JPS 4] Jacquet, H., Piatetski-Shapiro, I.I., Shalika, J.: Rankin-Selberg convolutions, Am. J. Math.105, 367?483 (1983)",
+    "journal-title": "Am. J. Math."
+   },
+   {
+    "key": "CR10",
+    "doi-asserted-by": "crossref",
+    "first-page": "319",
+    "DOI": "10.1007/BF01456070",
+    "volume": "271",
+    "author": "H. Jacquet",
+    "year": "1985",
+    "unstructured": "[JS] Jacquet, H., Shalika, J.: A lemma on highly ramified ?-factors. Math. Ann.271, 319?332 (1985)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "CR11",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[LRS] Laumon, G., Rapoport, M., Stuhler, U.: $$D$$ -elliptic sheaves and the Langlands correspondence. Invent. Math. (in press)",
+    "DOI": "10.1007/BF01244308"
+   },
+   {
+    "key": "CR12",
+    "first-page": "165",
+    "volume": "13",
+    "author": "A.V. Zelevinsky",
+    "year": "1980",
+    "unstructured": "[Ze] Zelevinsky, A.V.: Induced representations of reductivep-adic groups II. On irreducible representations of GL(n). Ann. Sci. Ec. Norm. Supér., IV. Sér.13, 165?210 (1980)",
+    "journal-title": "Ann. Sci. Ec. Norm. Supér., IV. Sér."
+   }
+  ],
+  "container-title": [
+   "Inventiones Mathematicae"
+  ],
+  "original-title": [],
+  "language": "fr",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01244309.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01244309/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01244309",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     4,
+     30
+    ]
+   ],
+   "date-time": "2019-04-30T13:50:24Z",
+   "timestamp": 1556632224000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01244309"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1993,
+     12
+    ]
+   ]
+  },
+  "references-count": 12,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1993,
+      12
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01244309"
+  ],
+  "URL": "https://doi.org/10.1007/bf01244309",
+  "relation": {},
+  "ISSN": [
+   "0020-9910",
+   "1432-1297"
+  ],
+  "issn-type": [
+   {
+    "value": "0020-9910",
+    "type": "print"
+   },
+   {
+    "value": "1432-1297",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1993,
+     12
+    ]
+   ]
+  }
+ }
+}

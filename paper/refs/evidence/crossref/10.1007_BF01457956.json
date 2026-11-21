@@ -1,0 +1,248 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     16
+    ]
+   ],
+   "date-time": "2026-11-16T22:11:33Z",
+   "timestamp": 1794867093154,
+   "version": "4.9.1"
+  },
+  "reference-count": 7,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1931,
+       12,
+       1
+      ]
+     ],
+     "date-time": "1931-12-01T00:00:00Z",
+     "timestamp": -1201910400000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Math. Ann."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1931,
+     12
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01457956",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     4,
+     13
+    ]
+   ],
+   "date-time": "2005-04-13T07:14:21Z",
+   "timestamp": 1113376461000
+  },
+  "page": "570-578",
+  "source": "Crossref",
+  "is-referenced-by-count": 525,
+  "title": [
+   "Die Eindeutigkeit der Schrödingerschen Operatoren"
+  ],
+  "prefix": "10.1007",
+  "volume": "104",
+  "author": [
+   {
+    "given": "J.",
+    "family": "v. Neumann",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "CR1",
+    "doi-asserted-by": "crossref",
+    "first-page": "858",
+    "DOI": "10.1007/BF01328531",
+    "volume": "34",
+    "author": "Born-Heisenberg-Jordan",
+    "year": "1925",
+    "unstructured": "Vgl. Born-Heisenberg-Jordan, Zeitschr. f. Phys.34 (1925), S. 858?888, ferner Dirac, Proc. Roy. Soc.109 (1925) u. f. Besonders in der letztgenannten Darstellung ist die Rolle dieser Relation fundamental. Einen interessanten Versuch zur Begründung des im folgenden zu diskutierenden Eindeutigkeitssatzes machte Jordan, Zeitschr. f. Phys.37 (1926), S. 383?386. Indessen beruht dieser auf Konvergenzannahmen über Potenzreihen unbeschränkter Operatoren, deren Gultigkeitsbereich fraglich ist.",
+    "journal-title": "Zeitschr. f. Phys."
+   },
+   {
+    "key": "CR2",
+    "unstructured": "Dieselbe bewirkt ein Ersetzen vonP, Q durchU P U ?1,U Q U ?1, wodurch weder der Hermitesche Charakter noch das Bestehen der Vertauschungsrelation berührt wird."
+   },
+   {
+    "key": "CR3",
+    "doi-asserted-by": "crossref",
+    "first-page": "734",
+    "DOI": "10.1002/andp.19263840804",
+    "volume": "79",
+    "author": "Schrödinger",
+    "year": "1926",
+    "unstructured": "Vgl. Schrödinger, Annalen d. Phys.79 (1926), S. 734?756.",
+    "journal-title": "Annalen d. Phys."
+   },
+   {
+    "key": "CR4",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Vgl. Weyl, Zeitschr. f. Phys.46 (1928), Seite 1?46.",
+    "DOI": "10.5694/j.1326-5377.1928.tb13094.x"
+   },
+   {
+    "key": "CR5",
+    "doi-asserted-by": "crossref",
+    "first-page": "57",
+    "DOI": "10.1007/BF03029116",
+    "volume": "25",
+    "author": "E. Schmidt",
+    "year": "1908",
+    "unstructured": "Vgl. E. Schmidt, Rend. Circ. Mat. Palermo25 (1908), S. 57?73, ferner die Arbeit des Verf., Math. Annalen102 (1930), S. 49?131, an die die Bezeichnungsweise anlehnt.",
+    "journal-title": "Rend. Circ. Mat. Palermo"
+   },
+   {
+    "key": "CR6",
+    "doi-asserted-by": "crossref",
+    "first-page": "57",
+    "DOI": "10.1007/BF03029116",
+    "volume": "25",
+    "author": "E. Schmidt",
+    "year": "1908",
+    "unstructured": "Vgl. auch a. a. O. Anm. 7) Math. Annalen102 (1930), S. 94, Anm. 52).",
+    "journal-title": "Rend. Circ. Mat. Palermo"
+   },
+   {
+    "key": "CR7",
+    "first-page": "737",
+    "volume": "96",
+    "author": "Frobenius",
+    "year": "1926",
+    "unstructured": "Vgl. Frobenius, Berl. Ber. 1896 u. f., Peter und Weyl, Math. Annalen96 (1926), S. 737?755.",
+    "journal-title": "Math. Annalen"
+   }
+  ],
+  "container-title": [
+   "Mathematische Annalen"
+  ],
+  "original-title": [],
+  "language": "de",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01457956.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01457956/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01457956",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     6
+    ]
+   ],
+   "date-time": "2020-04-06T20:19:44Z",
+   "timestamp": 1586204384000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01457956"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1931,
+     12
+    ]
+   ]
+  },
+  "references-count": 7,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1931,
+      12
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01457956"
+  ],
+  "URL": "https://doi.org/10.1007/bf01457956",
+  "relation": {},
+  "ISSN": [
+   "0025-5831",
+   "1432-1807"
+  ],
+  "issn-type": [
+   {
+    "value": "0025-5831",
+    "type": "print"
+   },
+   {
+    "value": "1432-1807",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1931,
+     12
+    ]
+   ]
+  }
+ }
+}

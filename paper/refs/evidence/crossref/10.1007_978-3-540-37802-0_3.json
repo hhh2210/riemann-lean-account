@@ -1,0 +1,530 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     11
+    ]
+   ],
+   "date-time": "2026-11-11T01:51:58Z",
+   "timestamp": 1794361918350,
+   "version": "4.9.0"
+  },
+  "publisher-location": "Berlin, Heidelberg",
+  "reference-count": 52,
+  "publisher": "Springer Berlin Heidelberg",
+  "isbn-type": [
+   {
+    "value": "9783540064831",
+    "type": "print"
+   },
+   {
+    "value": "9783540378020",
+    "type": "electronic"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "DOI": "10.1007/978-3-540-37802-0_3",
+  "type": "book-chapter",
+  "created": {
+   "date-parts": [
+    [
+     2009,
+     2,
+     26
+    ]
+   ],
+   "date-time": "2009-02-26T07:37:42Z",
+   "timestamp": 1235633862000
+  },
+  "page": "69-190",
+  "source": "Crossref",
+  "is-referenced-by-count": 183,
+  "title": [
+   "P-ADIC Properties of Modular Schemes and Modular Forms"
+  ],
+  "prefix": "10.1007",
+  "author": [
+   {
+    "given": "Nicholas M.",
+    "family": "Katz",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "3_CR1",
+    "unstructured": "Adolphson, A.: Thesis, Princeton University 1973."
+   },
+   {
+    "key": "3_CR2",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Atkin, A. O. L.: Congruence Hecke operators, Proc. Symp. Pure Math., vol. 12",
+    "DOI": "10.1090/pspum/012/9990"
+   },
+   {
+    "key": "3_CR3",
+    "unstructured": "—: Congruences for modular forms. Proceedings of the IBM Conference on Computers in Mathematical Research, Blaricium, 1966. North-Holland (1967)."
+   },
+   {
+    "key": "3_CR4",
+    "doi-asserted-by": "publisher",
+    "first-page": "442",
+    "DOI": "10.2307/1994308",
+    "volume": "126",
+    "author": "J. N. OBrien",
+    "year": "1967",
+    "unstructured": "—, and J. N. O’Brien: Some properties of p(n) and c(n) modulo powers of 13. TAMS 126, (1967), 442–459.",
+    "journal-title": "TAMS"
+   },
+   {
+    "key": "3_CR5",
+    "first-page": "426",
+    "volume": "244",
+    "author": "P. Cartier",
+    "year": "1957",
+    "unstructured": "Cartier, P.: Une nouvelle opération sur les formes différentielles, C. R. Acad. Sci. Paris 244, (1957), 426–428.",
+    "journal-title": "C. R. Acad. Sci. Paris"
+   },
+   {
+    "key": "3_CR6",
+    "first-page": "129",
+    "volume": "256",
+    "author": "P. Cartier",
+    "year": "1967",
+    "unstructured": "—: Modules associés à un groupe formel commutatif.Courbes typiques. C. R. Acad. Sci. Paris 256, (1967), 129–131.",
+    "journal-title": "C. R. Acad. Sci. Paris"
+   },
+   {
+    "key": "3_CR7",
+    "unstructured": "—: Groupes formels, course at I.H.E.S., Spring, 1972. (Notes by J. F. Boutot available (?) from I.H.E.S., 91-Bures-sur-Yvette, France.)"
+   },
+   {
+    "key": "3_CR8",
+    "series-title": "Lecture Notes in Mathematics",
+    "volume-title": "Formes modulaires et représentations ℓ-adiques. Exposé 355. Séminaire N. Bourbaki 1968/1969",
+    "author": "P. Deligne",
+    "year": "1969",
+    "unstructured": "Deligne, P.: Formes modulaires et représentations ℓ-adiques. Exposé 355. Séminaire N. Bourbaki 1968/1969. Lecture Notes in Mathematics 179, Berlin-Heidelberg-New York: Springer 1969."
+   },
+   {
+    "key": "3_CR9",
+    "series-title": "Lecture Notes in Mathematics",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0061194",
+    "volume-title": "Equations Différentielles à Points Singuliers Réguliers",
+    "author": "P. Deligne",
+    "year": "1970",
+    "unstructured": "—: Equations Différentielles à Points Singuliers Réguliers. Lecture Notes in Mathematics 163. Berlin-Heidelberg-New York: Springer 1970."
+   },
+   {
+    "key": "3_CR10",
+    "unstructured": "—: Courbes Elliptiques: Formulaire (d’après J. Tate). Multigraph available from I.H.E.S., 91-Bures-sur-Yvette, France, 1968."
+   },
+   {
+    "key": "3_CR11",
+    "unstructured": "—, and M. Rapoport: Article in preparation on moduli of elliptic curves."
+   },
+   {
+    "key": "3_CR12",
+    "doi-asserted-by": "crossref",
+    "first-page": "27",
+    "DOI": "10.1007/BF02684886",
+    "volume": "37",
+    "author": "B. Dwork",
+    "year": "1969",
+    "unstructured": "Dwork, B.: P-adic cycles, Pub. Math. I.H.E.S. 37, (1969), 27–115.",
+    "journal-title": "Pub. Math. I.H.E.S."
+   },
+   {
+    "key": "3_CR13",
+    "doi-asserted-by": "publisher",
+    "first-page": "249",
+    "DOI": "10.1007/BF01418784",
+    "volume": "12",
+    "author": "B. Dwork",
+    "year": "1971",
+    "unstructured": "—: On Hecke Polynomials, Inventiones Math. 12(1971), 249–256.",
+    "journal-title": "Inventiones Math"
+   },
+   {
+    "key": "3_CR14",
+    "unstructured": "—: Normalized Period Matrices I, II. Annals of Math. 94, 2nd series, (1971), 337–388, and to appear in Annals of Math."
+   },
+   {
+    "key": "3_CR15",
+    "doi-asserted-by": "crossref",
+    "first-page": "27",
+    "DOI": "10.1007/BF02684886",
+    "volume": "37",
+    "author": "B. Dwork",
+    "year": "1969",
+    "unstructured": "—: Article in this volume.",
+    "journal-title": "Pub. Math. I.H.E.S."
+   },
+   {
+    "key": "3_CR16",
+    "unstructured": "Grothendieck, A.: Fondements de la Géométrie Algébrique, Secrétariat Mathématique, 11 rue Pierre Curie, Paris 5e, France, 1962."
+   },
+   {
+    "key": "3_CR17",
+    "unstructured": "bis —: Formule de Lefschetz et rationalité des fonctions L, Exposé 279, Séminaire Bourbaki 1964/1965."
+   },
+   {
+    "key": "3_CR18",
+    "first-page": "77",
+    "volume": "172",
+    "author": "H. Hasse",
+    "year": "1934",
+    "unstructured": "Hasse, H.: Existenz separabler zyklischer unverzweigter Erweiterungskörper vom Primzahlgrade über elliptischen Funktionenkörpern der Charakteristik p. J. Reine angew. Math. 172, (1934), 77–85.",
+    "journal-title": "J. Reine angew. Math."
+   },
+   {
+    "key": "3_CR19",
+    "doi-asserted-by": "publisher",
+    "first-page": "312",
+    "DOI": "10.1073/pnas.44.4.312",
+    "volume": "44",
+    "author": "J. Igusa",
+    "year": "1958",
+    "unstructured": "Igusa, J.: Class number of a definite quaternion with prime discriminant, Proc. Natl. Acad. Sci. 44, (1958), 312–314.",
+    "journal-title": "Proc. Natl. Acad. Sci."
+   },
+   {
+    "key": "3_CR20",
+    "doi-asserted-by": "publisher",
+    "first-page": "561",
+    "DOI": "10.2307/2372914",
+    "volume": "81",
+    "author": "J. Igusa",
+    "year": "1959",
+    "unstructured": "—: Kroneckerian model of fields of elliptic modular functions, Amer. J. Math. 81, (1959), 561–577.",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "3_CR21",
+    "doi-asserted-by": "publisher",
+    "first-page": "453",
+    "DOI": "10.2307/2372751",
+    "volume": "81",
+    "author": "J. Igusa",
+    "year": "1959",
+    "unstructured": "—: Fibre systems of Jacobian varieties III, Amer. J. Math. 81, (1959), 453–476.",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "3_CR22",
+    "doi-asserted-by": "publisher",
+    "first-page": "436",
+    "DOI": "10.2307/2372750",
+    "volume": "81",
+    "author": "J. Igusa",
+    "year": "1959",
+    "unstructured": "—: On the transformation theory of elliptic functions, Amer. J. Math. 81, (1959), 436–452.",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "3_CR23",
+    "doi-asserted-by": "publisher",
+    "first-page": "96",
+    "DOI": "10.2969/jmsj/02010096",
+    "volume": "20",
+    "author": "J. Igusa",
+    "year": "1968",
+    "unstructured": "—: On the algebraic theory of elliptic modular functions, J. Math. Soc. Japan 20, (1968), 96–106.",
+    "journal-title": "J. Math. Soc. Japan"
+   },
+   {
+    "key": "3_CR24",
+    "first-page": "137",
+    "volume": "78",
+    "author": "Y. Ihara",
+    "year": "1971",
+    "unstructured": "Ihara, Y.: An invariant multiple differential attached to the field of elliptic modular functions of characteristic p. Amer. J. Math. 78, (1971), 137–147.",
+    "journal-title": "Amer. J. Math."
+   },
+   {
+    "key": "3_CR25",
+    "unstructured": "Katz, N.: Une formule de congruence pour la fonction zeta. Exposé 22, SGA 7, 1969, to appear in Springer Lecture Notes in Mathematics. (Preprint available from I.H.E.S., 91-Bures-sur-Yvette, France.)"
+   },
+   {
+    "key": "3_CR26",
+    "first-page": "355",
+    "volume": "39",
+    "author": "N. Katz",
+    "year": "1971",
+    "unstructured": "—: Nilpotent connections and the monodromy theorem-applications of a result of Turrittin, Pub. Math. I.H.E.S. 39, (1971), 355–412.",
+    "journal-title": "Pub. Math. I.H.E.S."
+   },
+   {
+    "key": "3_CR27",
+    "doi-asserted-by": "publisher",
+    "first-page": "167",
+    "DOI": "10.1007/BFb0069282",
+    "volume": "317",
+    "author": "N. Katz",
+    "year": "1973",
+    "unstructured": "—: Travaux de Dwork. Exposé 409, Séminaire N. Bourbaki 1971/72, Springer Lecture Notes in Mathematics, 317, (1973), 167–200.",
+    "journal-title": "Springer Lecture Notes in Mathematics"
+   },
+   {
+    "key": "3_CR28",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1007/BF01389714",
+    "volume": "18",
+    "author": "N. Katz",
+    "year": "1972",
+    "unstructured": "—: Algebraic solutions of differential equations (p-curvature and the Hodge filtration). Invent. Math. 18, (1972), 1–118.",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "3_CR29",
+    "doi-asserted-by": "crossref",
+    "first-page": "199",
+    "DOI": "10.1215/kjm/1250524135",
+    "volume": "8",
+    "author": "T. Oda",
+    "year": "1968",
+    "unstructured": "—, and T. Oda: On the differentiation of de Rham cohomology classes with respect to parameters, J. Math. Kyoto Univ. 8, (1968), 199–213.",
+    "journal-title": "J. Math. Kyoto Univ."
+   },
+   {
+    "key": "3_CR30",
+    "unstructured": "Koike, M.: Congruences between modular forms and functions and applications to a conjecture of Atkin, to appear."
+   },
+   {
+    "key": "3_CR31",
+    "unstructured": "Lehner, J.: Lectures on modular forms. National Bureau of Standards, Applied Mathematics Series 61, Washington, D.C., 1969."
+   },
+   {
+    "key": "3_CR32",
+    "unstructured": "Lubin, J., J.-P. Serre and J. Tate: Elliptic curves and formal groups, Woods Hole Summer Institute 1964 (mimeographed notes)."
+   },
+   {
+    "key": "3_CR33",
+    "doi-asserted-by": "publisher",
+    "first-page": "464",
+    "DOI": "10.2307/1970659",
+    "volume": "80",
+    "author": "J. Lubin",
+    "year": "1964",
+    "unstructured": "Lubin, J.: One-parameter formal Lie groups over p-adic integer rings, Ann. of Math. 80, 2nd series (1964), 464–484.",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "3_CR34",
+    "doi-asserted-by": "publisher",
+    "first-page": "296",
+    "DOI": "10.2307/1970443",
+    "volume": "85",
+    "author": "J. Lubin",
+    "year": "1967",
+    "unstructured": "—: Finite subgroups and isogenies of one-parameter formal groups, Ann. of Math. 85, 2nd series (1967), 296–302.",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "3_CR35",
+    "unstructured": "—: Newton factorizations of polynomials, to appear."
+   },
+   {
+    "key": "3_CR36",
+    "unstructured": "bis —: Canonical subgroups of formal groups, secret notes."
+   },
+   {
+    "key": "3_CR37",
+    "series-title": "Lecture Notes in Mathematics",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0058301",
+    "volume-title": "The crystals associated to Barsotti-Tate groups: with applications to abelian schemes",
+    "author": "W. Messing",
+    "year": "1972",
+    "unstructured": "Messing, W.: The crystals associated to Barsotti-Tate groups: with applications to abelian schemes. Lecture Notes in Mathematics 264, Berlin-Heidelberg-New York: Springer 1972."
+   },
+   {
+    "key": "3_CR38",
+    "unstructured": "—: Two functoriality, to appear."
+   },
+   {
+    "key": "3_CR39",
+    "doi-asserted-by": "publisher",
+    "first-page": "315",
+    "DOI": "10.2307/1970777",
+    "volume": "93",
+    "author": "P. Monsky",
+    "year": "1971",
+    "unstructured": "Monsky, P.: Formal cohomology III-Trace Formulas. Ann. of Math. 93, 2nd series (1971), 315–343.",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "3_CR40",
+    "doi-asserted-by": "publisher",
+    "first-page": "609",
+    "DOI": "10.2307/2033217",
+    "volume": "9",
+    "author": "M. Newman",
+    "year": "1958",
+    "unstructured": "Newman, M.: Congruences for the coefficients of modular forms and for the coefficients of j(τ). Proc. A.M.S. 9, (1958), 609–612.",
+    "journal-title": "Proc. A.M.S."
+   },
+   {
+    "key": "3_CR41",
+    "volume-title": "Analytic theory of elliptic functions over local fields",
+    "author": "P. Roquette",
+    "year": "1970",
+    "unstructured": "Roquette, P.: Analytic theory of elliptic functions over local fields. Göttigen: Vanderhoeck und Ruprecht, 1970."
+   },
+   {
+    "key": "3_CR42",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Serre, J.-P.: Endomorphismes complètement continus des espaces de Banach p-adiques. Pub. Math. I.H.E.S. 12, (1962).",
+    "DOI": "10.1007/BF02684276"
+   },
+   {
+    "key": "3_CR43",
+    "unstructured": "—: Course at Collège de France, spring 1972."
+   },
+   {
+    "key": "3_CR44",
+    "doi-asserted-by": "publisher",
+    "first-page": "319",
+    "DOI": "10.1007/BFb0069289",
+    "volume": "317",
+    "author": "J.-P. Serre",
+    "year": "1973",
+    "unstructured": "—: Congruences et formes modulaires. Exposé 416, Séminaire N. Bourbaki, 1971/72, Lecture Notes in Math. 317, (1973), Springer, 319–338.",
+    "journal-title": "Lecture Notes in Math."
+   },
+   {
+    "key": "3_CR45",
+    "unstructured": "—: Formes modulaires et fonctions zêta p-adiques, these Proceedings."
+   },
+   {
+    "key": "3_CR46",
+    "volume-title": "Cours d’arithmétique",
+    "author": "J.-P. Serre",
+    "year": "1970",
+    "unstructured": "—: Cours d’arithmétique. Paris: Presses Univ. de France 1970."
+   },
+   {
+    "key": "3_CR47",
+    "unstructured": "Swinnerton-Dyer, H. P. F.: On ℓ-adic representations and congruences for coefficients of modular forms, these Proceedings."
+   },
+   {
+    "key": "3_CR48",
+    "unstructured": "Tate, J.: Elliptic curves with bad reduction. Lecture at the 1967 Advanced Science Summer Seminar, Bowdoin College, 1967."
+   },
+   {
+    "key": "3_CR49",
+    "doi-asserted-by": "crossref",
+    "unstructured": "—: Rigid analytic spaces. Ihventiones Math. 12, (1971), 257–289.",
+    "DOI": "10.1007/BF01403307"
+   },
+   {
+    "key": "3_CR50",
+    "volume-title": "A course of modern analysis",
+    "author": "E. T. Whittaker",
+    "year": "1962",
+    "unstructured": "Whittaker, E. T. and G. N. Watson: A course of modern analysis, Cambridge, Cambridge University Press, 1962."
+   },
+   {
+    "key": "3_CR51",
+    "unstructured": "Deligne, P., Cohomologie à Supports Propres, Exposé 17, SGA 4, to appear in Springer Lecture Notes in Mathematics."
+   },
+   {
+    "key": "3_CR52",
+    "first-page": "3702",
+    "volume": "252",
+    "author": "J. E. Roos",
+    "year": "1961",
+    "unstructured": "Roos, J. E., Sur les foncteurs dérivés de $$ \\underleftarrow {\\lim } $$ . Applications, C. R. Acad. Sci. Paris, tome 252, 1961, pp. 3702–04.",
+    "journal-title": "Applications, C. R. Acad. Sci. Paris"
+   }
+  ],
+  "container-title": [
+   "Lecture Notes in Mathematics",
+   "Modular Functions of One Variable III"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/978-3-540-37802-0_3.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2021,
+     5,
+     2
+    ]
+   ],
+   "date-time": "2021-05-02T23:43:31Z",
+   "timestamp": 1619999011000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/978-3-540-37802-0_3"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     null
+    ]
+   ]
+  },
+  "ISBN": [
+   "9783540064831",
+   "9783540378020"
+  ],
+  "references-count": 52,
+  "aliases": [
+   "10.1007/bfb0060523"
+  ],
+  "URL": "https://doi.org/10.1007/978-3-540-37802-0_3",
+  "relation": {
+   "is-part-of": [
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-3-540-37802-0",
+     "asserted-by": "object"
+    }
+   ]
+  },
+  "ISSN": [
+   "0075-8434"
+  ],
+  "issn-type": [
+   {
+    "value": "0075-8434",
+    "type": "print"
+   }
+  ],
+  "subject": []
+ }
+}

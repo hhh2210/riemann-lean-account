@@ -1,0 +1,282 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     1
+    ]
+   ],
+   "date-time": "2026-11-01T05:24:20Z",
+   "timestamp": 1793510660356,
+   "version": "4.5.0"
+  },
+  "reference-count": 11,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1-3",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1994,
+       2,
+       1
+      ]
+     ],
+     "date-time": "1994-02-01T00:00:00Z",
+     "timestamp": 760060800000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Israel J. Math."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1994,
+     2
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf02773003",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2007,
+     12,
+     11
+    ]
+   ],
+   "date-time": "2007-12-11T15:29:26Z",
+   "timestamp": 1197386966000
+  },
+  "page": "361-401",
+  "source": "Crossref",
+  "is-referenced-by-count": 114,
+  "title": [
+   "Splitting metaplectic covers of dual reductive pairs"
+  ],
+  "prefix": "10.1007",
+  "volume": "87",
+  "author": [
+   {
+    "given": "Stephen S.",
+    "family": "Kudla",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "BF02773003_CR1",
+    "unstructured": "S. Brocco,On the non-vanishing of θ-liftings from U(1)to U(1), Ph.D. Thesis, Brandeis University, 1992."
+   },
+   {
+    "key": "BF02773003_CR2",
+    "volume-title": "Rational Quadratic Forms",
+    "author": "J. W. S. Cassels",
+    "year": "1978",
+    "unstructured": "J. W. S. Cassels,Rational Quadratic Forms, Academic Press, London, 1978."
+   },
+   {
+    "key": "BF02773003_CR3",
+    "series-title": "Lecture Notes in Math.",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0077830",
+    "volume-title": "Weil’s representation and the spectrum of the metaplectic group",
+    "author": "S. S. Gelbart",
+    "year": "1976",
+    "unstructured": "S. S. Gelbart,Weil’s representation and the spectrum of the metaplectic group, Lecture Notes in Math.530, Springer-Verlag, New York, 1976."
+   },
+   {
+    "key": "BF02773003_CR4",
+    "doi-asserted-by": "crossref",
+    "first-page": "445",
+    "DOI": "10.1007/BF01232276",
+    "volume": "105",
+    "author": "S. S. Gelbart",
+    "year": "1991",
+    "unstructured": "S. S. Gelbart and J. Rogawski,L-functions and Fourier-Jacobi coefficients for the unitary group U(3), Invent. Math.105 (1991), 445–472.",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "BF02773003_CR5",
+    "series-title": "Lecture Notes in Math.",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0082712",
+    "volume-title": "Correspondances de Howe sur un corp p-adiques",
+    "author": "C. Moeglin",
+    "year": "1987",
+    "unstructured": "C. Moeglin, M.-F. Vigneras and J.-L. Waldspurger,Correspondances de Howe sur un corp p-adiques, Lecture Notes in Math.1291, Springer-Verlag, New York, 1987."
+   },
+   {
+    "key": "BF02773003_CR6",
+    "series-title": "Lecture Notes in Math.",
+    "volume-title": "Noncommutative Harmonic analysis and Lie Groups",
+    "author": "D. Perrin",
+    "year": "1980",
+    "unstructured": "D. Perrin,Représéntations de Schrödinger, indice de Maslov et groupe métaplectic, inNoncommutative Harmonic analysis and Lie Groups, Lecture Notes in Math.880, Springer-Verlag, New York, 1980."
+   },
+   {
+    "key": "BF02773003_CR7",
+    "first-page": "225",
+    "volume": "20",
+    "author": "K.G. Ramanathan",
+    "year": "1956",
+    "unstructured": "K.G. Ramanathan,Quadratic forms over involutorial division algebras, Indian J. Math.20 (1956), 225–257.",
+    "journal-title": "Indian J. Math."
+   },
+   {
+    "key": "BF02773003_CR8",
+    "doi-asserted-by": "crossref",
+    "first-page": "335",
+    "DOI": "10.2140/pjm.1993.157.335",
+    "volume": "157",
+    "author": "R. Ranga Rao",
+    "year": "1993",
+    "unstructured": "R. Ranga Rao,On some explicit formulas in the theory of Weil representation, Pacific J. Math.157 (1993), 335–371.",
+    "journal-title": "Pacific J. Math."
+   },
+   {
+    "key": "BF02773003_CR9",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/978-3-642-69971-9",
+    "volume-title": "Quadratic and Hermitian Forms",
+    "author": "W. Scharlau",
+    "year": "1985",
+    "unstructured": "W. Scharlau,Quadratic and Hermitian Forms, Springer-Verlag, Berlin, 1985."
+   },
+   {
+    "key": "BF02773003_CR10",
+    "volume-title": "Cours d’Arithmétique",
+    "author": "J.-P. Serre",
+    "year": "1970",
+    "unstructured": "J.-P. Serre,Cours d’Arithmétique, Presses Universitaires de France, Paris, 1970."
+   },
+   {
+    "key": "BF02773003_CR11",
+    "doi-asserted-by": "crossref",
+    "first-page": "143",
+    "DOI": "10.1007/BF02391012",
+    "volume": "111",
+    "author": "A. Weil",
+    "year": "1964",
+    "unstructured": "A. Weil,Sur certaines groupes d’opérateurs unitaires, Acta Math.111 (1964), 143–214.",
+    "journal-title": "Acta Math."
+   }
+  ],
+  "container-title": [
+   "Israel Journal of Mathematics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF02773003.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF02773003/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF02773003",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     20
+    ]
+   ],
+   "date-time": "2019-05-20T22:02:45Z",
+   "timestamp": 1558389765000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF02773003"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1994,
+     2
+    ]
+   ]
+  },
+  "references-count": 11,
+  "journal-issue": {
+   "issue": "1-3",
+   "published-print": {
+    "date-parts": [
+     [
+      1994,
+      2
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF02773003"
+  ],
+  "URL": "https://doi.org/10.1007/bf02773003",
+  "relation": {},
+  "ISSN": [
+   "0021-2172",
+   "1565-8511"
+  ],
+  "issn-type": [
+   {
+    "value": "0021-2172",
+    "type": "print"
+   },
+   {
+    "value": "1565-8511",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1994,
+     2
+    ]
+   ]
+  }
+ }
+}

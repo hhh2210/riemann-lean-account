@@ -1,0 +1,284 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     11
+    ]
+   ],
+   "date-time": "2026-11-11T01:52:13Z",
+   "timestamp": 1794361933435,
+   "version": "4.9.0"
+  },
+  "publisher-location": "Berlin, Heidelberg",
+  "reference-count": 20,
+  "publisher": "Springer Berlin Heidelberg",
+  "isbn-type": [
+   {
+    "value": "9783540065586",
+    "type": "print"
+   },
+   {
+    "value": "9783540378556",
+    "type": "electronic"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "DOI": "10.1007/978-3-540-37855-6_7",
+  "type": "book-chapter",
+  "created": {
+   "date-parts": [
+    [
+     2009,
+     2,
+     27
+    ]
+   ],
+   "date-time": "2009-02-27T02:02:24Z",
+   "timestamp": 1235700144000
+  },
+  "page": "501-597",
+  "source": "Crossref",
+  "is-referenced-by-count": 182,
+  "title": [
+   "Les Constantes des Equations Fonctionnelles des Fonctions L"
+  ],
+  "prefix": "10.1007",
+  "author": [
+   {
+    "given": "P.",
+    "family": "Deligne",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "7_CR1",
+    "doi-asserted-by": "crossref",
+    "first-page": "292",
+    "DOI": "10.1007/BF02941010",
+    "volume": "8",
+    "author": "E. Artin",
+    "year": "1930",
+    "unstructured": "E. ARTIN-Zur Theorie der L-Reihen mit allgemeinen Gruppencharakteren Hamb. Abh. 8. (1930) p. 292–306 (Collected Papers p. 165–179).",
+    "journal-title": "Reihen mit allgemeinen Gruppencharakteren Hamb. Abh."
+   },
+   {
+    "key": "7_CR2",
+    "unstructured": "E. ARTIN and J. TATE-Class field theory-Benjamin, N.Y."
+   },
+   {
+    "key": "7_CR3",
+    "unstructured": "P. DELIGNE-Les constantes des équations fonctionnelles-Séminaire Delange-Pisot-Poitou 1969/70, 19 bis"
+   },
+   {
+    "key": "7_CR4",
+    "unstructured": "P. DELIGNE-Formes modulaires et représentations de GL(2) ce volume"
+   },
+   {
+    "key": "7_CR5",
+    "doi-asserted-by": "crossref",
+    "first-page": "151",
+    "DOI": "10.1515/crll.1935.172.151",
+    "volume": "172",
+    "author": "H. Davenport",
+    "year": "1935",
+    "unstructured": "H. DAVENPORT and H. HASSE-Die Nullstellen der Kongruenzzetafunktionen in gewissen zyklischen Fällen. J, reine und angewandte Math 172 (1935) p. 151–182.",
+    "journal-title": "J, reine und angewandte Math"
+   },
+   {
+    "key": "7_CR6",
+    "doi-asserted-by": "publisher",
+    "first-page": "444",
+    "DOI": "10.2307/2372524",
+    "volume": "78",
+    "author": "B. Dwork",
+    "year": "1956",
+    "unstructured": "B. DWORK-On the Artin root number-Amer. J. Math 78 (1956) p444–472.",
+    "journal-title": "Amer. J. Math"
+   },
+   {
+    "key": "7_CR7",
+    "unstructured": "A. GROTHENDIECK-Formule de Lefschetz et rationalité des fonctions L Séminaire Bourbaki 279 (décembre 1964)."
+   },
+   {
+    "key": "7_CR8",
+    "doi-asserted-by": "crossref",
+    "unstructured": "H. JACQUET and R.P. LANGLANDS-Automorphic forms on GL(2). Lectures Notes in Math. 114, Springer-Verlag 1970.",
+    "DOI": "10.1007/BFb0058988"
+   },
+   {
+    "key": "7_CR9",
+    "unstructured": "R.P. LANGLANDS-On the functional equation of the Artin L-functions. Notes polycopiées-Yale University (incomplet)."
+   },
+   {
+    "key": "7_CR10",
+    "volume-title": "Corps locaux",
+    "author": "J. P. Serre",
+    "year": "1962",
+    "unstructured": "J. P. SERRE-Corps locaux-Hermann-Paris 1962"
+   },
+   {
+    "key": "7_CR11",
+    "volume-title": "Représentations linéaires des groupes finis",
+    "author": "J.P. Serre",
+    "year": "1971",
+    "unstructured": "J.P. SERRE-Représentations linéaires des groupes finis-(2ième éd. refondue)-Hermann-Paris 1971.",
+    "edition": "2ième éd."
+   },
+   {
+    "key": "7_CR12",
+    "unstructured": "J.P. SERRE-Abelian ℓ-adic representations and elliptic curves-N.Y.1968."
+   },
+   {
+    "issue": "3",
+    "key": "7_CR13",
+    "doi-asserted-by": "publisher",
+    "first-page": "492",
+    "DOI": "10.2307/1970722",
+    "volume": "88",
+    "author": "J.P. Serre",
+    "year": "1968",
+    "unstructured": "J.P. SERRE and J. TATE-Good reduction of abelian varieties-Ann. of Math. 883 (1968) p. 492–517.",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "7_CR14",
+    "unstructured": "J. TATE-Fourier analysis in number fields and Hecke’s zeta functions (thesis) in: Algebraic Number Theory-edited by Cassels and Fröhlich-Academic Press, 1967."
+   },
+   {
+    "key": "7_CR15",
+    "doi-asserted-by": "crossref",
+    "unstructured": "A. WEIL-Basic Number Theory-Springer Verlag 1967.",
+    "DOI": "10.1007/978-3-662-00046-5"
+   },
+   {
+    "key": "7_CR16",
+    "doi-asserted-by": "crossref",
+    "unstructured": "A. WEIL-Dirichlet series and automorphic forms-Lecture Notes in Math. 189-Springer Verlag 1971.",
+    "DOI": "10.1007/BFb0061201"
+   },
+   {
+    "key": "7_CR17",
+    "volume-title": "Variétés abéliennes et courbes algébriques",
+    "author": "A. Weil",
+    "year": "1948",
+    "unstructured": "A. WEIL-Variétés abéliennes et courbes algébriques-Hermann-Paris 1948."
+   },
+   {
+    "key": "7_CR18",
+    "doi-asserted-by": "publisher",
+    "first-page": "497",
+    "DOI": "10.1090/S0002-9904-1949-09219-4",
+    "volume": "55",
+    "author": "A. Weil",
+    "year": "1949",
+    "unstructured": "A. WEIL-Number of solutions of equations in finite fields-Bull. Amer. Math. Soc. 55 (1949) p.497–508.",
+    "journal-title": "Bull. Amer. Math. Soc."
+   },
+   {
+    "key": "7_CR19",
+    "doi-asserted-by": "crossref",
+    "unstructured": "A. WEIL-Sur la théorie du corps de classes. J of the Math. Soc. of Japan-3, (1951)",
+    "DOI": "10.2969/jmsj/00310001"
+   },
+   {
+    "issue": "3/4",
+    "key": "7_CR20",
+    "doi-asserted-by": "publisher",
+    "first-page": "162",
+    "DOI": "10.1007/BF02993247",
+    "volume": "28",
+    "author": "P. X. Gallagher",
+    "year": "1965",
+    "unstructured": "P. X. GALLAGHER-Determinants of representations of finite groups. Abh. math. Seminar Univ. Hamburg 283/4 (1965), p. 162–167. G. LAUMON-Les constantes des équations fonctionnelles des fonctions L sur un corps global de caractéristique positive. C.R. Acad. Sci. Paris 298 8 (1984), p. 181–184. J. TATE-Local constants-in: Algebraic Number Fields, edited by A. Fröhlich, Acad. Press, 1977, (p. 89–137).",
+    "journal-title": "Abh. math. Seminar Univ. Hamburg"
+   }
+  ],
+  "container-title": [
+   "Lecture Notes in Mathematics",
+   "Modular Functions of One Variable II"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/978-3-540-37855-6_7.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2023,
+     5,
+     24
+    ]
+   ],
+   "date-time": "2023-05-24T01:38:17Z",
+   "timestamp": 1684892297000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/978-3-540-37855-6_7"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     null
+    ]
+   ]
+  },
+  "ISBN": [
+   "9783540065586",
+   "9783540378556"
+  ],
+  "references-count": 20,
+  "aliases": [
+   "10.1007/bfb0066719"
+  ],
+  "URL": "https://doi.org/10.1007/978-3-540-37855-6_7",
+  "relation": {
+   "is-part-of": [
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-3-540-37855-6",
+     "asserted-by": "object"
+    }
+   ]
+  },
+  "ISSN": [
+   "0075-8434"
+  ],
+  "issn-type": [
+   {
+    "value": "0075-8434",
+    "type": "print"
+   }
+  ],
+  "subject": []
+ }
+}

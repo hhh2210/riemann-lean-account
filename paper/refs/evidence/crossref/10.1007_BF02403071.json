@@ -1,0 +1,187 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     2
+    ]
+   ],
+   "date-time": "2026-10-02T03:59:17Z",
+   "timestamp": 1790913557743,
+   "version": "4.1.0"
+  },
+  "reference-count": 11,
+  "publisher": "International Press of Boston",
+  "issue": "0",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Acta Math."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1901
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf02403071",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2006,
+     5,
+     11
+    ]
+   ],
+   "date-time": "2006-05-11T20:52:21Z",
+   "timestamp": 1147380741000
+  },
+  "page": "159-182",
+  "source": "Crossref",
+  "is-referenced-by-count": 70,
+  "title": [
+   "Sur la distribution des nombres premiers"
+  ],
+  "prefix": "10.4310",
+  "volume": "24",
+  "author": [
+   {
+    "given": "Helge",
+    "family": "Koch",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "2902",
+  "reference": [
+   {
+    "key": "BF02403071_CR1",
+    "unstructured": "C'est en se servant de cette intégrale et en s'appuyant sur le théorème deM. Hadamard (Journal de mathém., 1893) relatif à la fonction ζ(s) queM. von Mangoldt (Journal für Math., Bd. 114) a réussi à donner, pour la première fois, une démonstration rigoureuse de la formule deRiemann. — Dans les recherches importantes deM. Hadamard (Bull. de la Soc. math. de France, 1896) et deM. de la Vallée Poussin (Ann. de la Soc. sc. de Bruxelles, 1896; Mém. cour. de l'Acad. de Belgique, 1899) des intégrales analogues à (B) jouent un rôle fondamental."
+   },
+   {
+    "key": "BF02403071_CR2",
+    "unstructured": "Quandx n'est pas la puissance d'un nombre premier, cette fonction coïncide avec la fonctionf(x) deRiemann."
+   },
+   {
+    "key": "BF02403071_CR3",
+    "unstructured": "Mémoire de l'Académie impériale des Sciences de Saint-Petersbourg, 1850."
+   },
+   {
+    "key": "BF02403071_CR4",
+    "unstructured": "Quandx n'est pas la puissance d'un nombre premier, cette fonction coïncide avec la fonction désignée par Λ(x, r) parM. von Mangoldt (Journal für Math., Bd. 114, p. 279)."
+   },
+   {
+    "key": "BF02403071_CR5",
+    "unstructured": "H(s) ne diffère que par uu facteur constant de la fonction ζ(t) deRiemann $$\\left( {s = \\frac{I}{2} + ti} \\right)$$ ."
+   },
+   {
+    "key": "BF02403071_CR6",
+    "unstructured": "Voir, p. ex.,J. Petersen, loc. cit. p. 269."
+   },
+   {
+    "key": "BF02403071_CR7",
+    "unstructured": "On sait que ce théorème n'est pas encore démontré rigoureusement. Mais, d'après un article récent deM. Jensen (Acta mathematica, t. 22, p. 359), il y a lieu d'espérer que cette lacune sera prochainement comblée."
+   },
+   {
+    "key": "BF02403071_CR8",
+    "unstructured": "Journal für die reine und angewandte Mathematik, Bd. 78."
+   },
+   {
+    "key": "BF02403071_CR9",
+    "unstructured": "J'ai donné une autre démonstration de ce théorème dans une note présentée à l'Académie de Stockholm le 9 mai 1900."
+   },
+   {
+    "key": "BF02403071_CR10",
+    "unstructured": "Sur la fonction ζ(s) deRiemann et le nombre des nombres premiers inférieurs à une limite donnée, p. 60 (Mémoires couronnés et autres mémoires publiés par l'Académie royale de Belgique, t. 49, 1899)."
+   },
+   {
+    "key": "BF02403071_CR11",
+    "unstructured": "D'après les formules précédentes, combinées avec la formule deM. de la Vallée Poussin citée plus haut, il serait facile d'assigner une valeur numérique à cette constante."
+   }
+  ],
+  "container-title": [
+   "Acta Mathematica"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF02403071",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2017,
+     2,
+     16
+    ]
+   ],
+   "date-time": "2017-02-16T19:50:09Z",
+   "timestamp": 1487274609000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://projecteuclid.org/euclid.acta/1485882091"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1901
+    ]
+   ]
+  },
+  "references-count": 11,
+  "journal-issue": {
+   "issue": "0",
+   "published-print": {
+    "date-parts": [
+     [
+      1901
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.1007/bf02403071",
+  "relation": {},
+  "ISSN": [
+   "0001-5962"
+  ],
+  "issn-type": [
+   {
+    "value": "0001-5962",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1901
+    ]
+   ]
+  }
+ }
+}

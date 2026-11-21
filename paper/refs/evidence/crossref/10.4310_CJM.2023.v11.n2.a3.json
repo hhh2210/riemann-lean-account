@@ -1,0 +1,156 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     30
+    ]
+   ],
+   "date-time": "2026-09-30T11:11:45Z",
+   "timestamp": 1790766705124,
+   "version": "4.1.0"
+  },
+  "reference-count": 0,
+  "publisher": "International Press of Boston",
+  "issue": "2",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "DOI": "10.4310/cjm.2023.v11.n2.a3",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2023,
+     6,
+     6
+    ]
+   ],
+   "date-time": "2023-06-06T15:25:53Z",
+   "timestamp": 1686065153000
+  },
+  "page": "507-562",
+  "source": "Crossref",
+  "is-referenced-by-count": 24,
+  "title": [
+   "Prismatic $F$-crystals and crystalline Galois representations"
+  ],
+  "prefix": "10.4310",
+  "volume": "11",
+  "author": [
+   {
+    "given": "Bhargav",
+    "family": "Bhatt",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "University of Michigan, Ann Arbor, Mich., U.S.A.; and IAS & Princeton University, Princeton, New Jersey, U.S.A."
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Peter",
+    "family": "Scholze",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Max Planck Institut für Mathematik, Bonn, Germany"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "2902",
+  "container-title": [
+   "Cambridge Journal of Mathematics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+   "date-parts": [
+    [
+     2024,
+     10,
+     9
+    ]
+   ],
+   "date-time": "2024-10-09T02:34:07Z",
+   "timestamp": 1728441247000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://link.intlpress.com/JDetail/1805782151167696898"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "2",
+   "published-print": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.4310/cjm.2023.v11.n2.a3",
+  "relation": {},
+  "ISSN": [
+   "2168-0930",
+   "2168-0949"
+  ],
+  "issn-type": [
+   {
+    "value": "2168-0930",
+    "type": "print"
+   },
+   {
+    "value": "2168-0949",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,66 @@
+\section{Consequences and directions}\label{sec:directions}
+
+\subsection{What follows at once}
+The truth of \cref{st:rh,st:grh,st:strip} has many known consequences, and none of them depends
+on how the theorem was proved. We list those that seem most useful to state formally; the
+first three are proved in a short Lean file published with this paper, against the compiled
+archive, with the same three axioms.
+\begin{itemize}
+\item $\zeta(s)\ne0$ for $\re s>\tfrac12$, $s\neq1$.
+\item No exceptional zeros: for a non-trivial character $\chi$, $L(\sigma,\chi)\neq0$ for real
+  $\sigma>\tfrac12$.
+\item Zeros of $L(s,\chi)$ in the open critical strip lie on the critical line.
+\end{itemize}
+The following are stated there as targets and are not proved by us.
+\begin{itemize}
+\item The prime number theorem with error term $O(\sqrt x\log x)$ \cite{vonkoch1901}, and
+  primes in intervals $(x,x+C\sqrt x\log x]$ \cite{cramer1920}.
+\item Miller's deterministic primality test \cite{miller1976} with the explicit bound of Bach
+  \cite{bach1990}: an odd $n$ is prime if and only if it is a strong probable prime to every
+  base up to $2(\log n)^2$. This becomes unconditional. It is slower in practice than the
+  probabilistic tests in use; beside the unconditional test of Agrawal, Kayal and Saxena
+  \cite{aks2004} its merit is simplicity. The gain is a short deterministic test whose
+  correctness can now be proved formally.
+\item Bounds for the least quadratic non-residue \cite{ankeny1952} and the least prime in an
+  arithmetic progression \cite{bachsorenson1996}.
+\end{itemize}
+
+\subsection{What does not follow}
+No method of factoring integers follows, and nothing in the argument suggests one. The
+statement was already assumed by everyone who would use it, so its truth changes
+``fast if GRH holds'' into ``fast'' and makes nothing faster than was believed. The argument
+itself bounds averaged counts of primes by means of auxiliary fields of degree about $x^2$ and
+conductor exponential in a power of $x$; it never computes with a single integer.
+
+The scope should also be kept in view. The theorem covers Dirichlet $L$-functions. Results
+that need the Riemann Hypothesis for Dedekind zeta functions of non-abelian fields, for
+elliptic curves or for Hecke characters are not covered.
+
+\subsection{Directions}
+\emph{An intelligible proof.} The present account describes the proof; it does not make it
+short. Two statements seem to us to be the right core of a human proof: the slope inequality
+for nearly tight frames (\cref{st:F}), which is self-contained, and the identity
+(\cref{st:key}) that turns the period side into the analytic main term. A proof organised
+around them, with the divisibility of \cref{sec:divisibility} as its one arithmetic input and
+everything else quoted from the literature, would be the next thing to write.
+
+\emph{What is not needed.} The dependency cone shows that about a third of the archive's
+theorems are not used by the final theorem (\cref{sec:offpath}), and several inputs are used far below their
+strength: the cohomological bound is needed only in the form ``at most $\exp(x^\eps)$''
+(\cref{sec:cohomology}), and the term $\log\abs I$ in \cref{st:F} is slack. A systematic
+weakening of each input to what is used would shorten the proof and show which of the deep
+theorems are essential.
+
+\emph{The by-products.} If the archive's proofs of the published theorems it relies on are what
+their names say, it contains formalisations of a substantial part of modern number theory:
+class field theory, Galois representations for unitary groups, the Siegel--Weil formula,
+arithmetic intersection theory, resolution of singularities. Each deserves its own audit of
+statement against literature, and extraction into a form that others can use.
+
+\emph{The cohomological bound.} \Cref{st:vwin} is a new kind of result about the groups that
+Vandiver's conjecture concerns. Whether its method reaches the plus part of the class groups of
+cyclotomic fields themselves, which some arguments in lattice-based cryptography assume to be
+small \cite{cdpr2016}, we do not know.
+
+\emph{Other $L$-functions.} The note says that Dedekind zeta functions are expected to yield to
+the same method.

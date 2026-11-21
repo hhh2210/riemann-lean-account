@@ -1,0 +1,344 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     6
+    ]
+   ],
+   "date-time": "2026-10-06T14:03:49Z",
+   "timestamp": 1791295429142,
+   "version": "4.1.0"
+  },
+  "reference-count": 27,
+  "publisher": "MathDoc/Centre Mersenne",
+  "issue": "2",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "abstract": "<jats:p>On donne une nouvelle démonstration directe du théorème de Hilbert-Samuel arithmétique et on déduit un critère numérique pour l’existence de sections d’un fibré en droite sur une variété arithmétique de norme sup inférieure à un.</jats:p>",
+  "DOI": "10.5802/aif.1458",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2011,
+     9,
+     5
+    ]
+   ],
+   "date-time": "2011-09-05T08:58:30Z",
+   "timestamp": 1315213110000
+  },
+  "page": "375-401",
+  "source": "Crossref",
+  "is-referenced-by-count": 29,
+  "title": [
+   "Théorème de Hilbert-Samuel «arithmétique»"
+  ],
+  "prefix": "10.5802",
+  "volume": "45",
+  "author": [
+   {
+    "given": "Ahmed",
+    "family": "Abbes",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Thierry",
+    "family": "Bouche",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "3842",
+  "published-online": {
+   "date-parts": [
+    [
+     1995
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "key2025101016033523012_1",
+    "article-title": "Complex immersion and Quillen metrics",
+    "author": "J.-M. BISMUT",
+    "year": "1991",
+    "unstructured": "[BL] J.-M. Bismut, G. Lebeau, Complex immersion and Quillen metrics, Publ. Math. Inst. hautes Etud. Sci., 74 (1991), 1-298."
+   },
+   {
+    "key": "key2025101016033523012_2",
+    "article-title": "Comportement asymptotique de la torsion analytique associée aux puissances d'un fibré en droites",
+    "author": "J.-M. BISMUT",
+    "year": "1988",
+    "unstructured": "[BV] J.-M. Bismut, E. Vasserot, Comportement asymptotique de la torsion analytique associée aux puissances d'un fibré en droites, C. R. Acad. Sci. Paris, 307 (1988), 799-781."
+   },
+   {
+    "key": "key2025101016033523012_3",
+    "article-title": "Convergence de la métrique de Fubini-Study d'un fibré linéaire positif",
+    "author": "T. BOUCHE",
+    "year": "1990",
+    "unstructured": "[B1] T. Bouche, Convergence de la métrique de Fubini-Study d'un fibré linéaire positif, Ann. Inst. Fourier, Grenoble, 40-1 (1990), 117-130."
+   },
+   {
+    "key": "key2025101016033523012_4",
+    "article-title": "Asymptotic results for hermitian line bundles : the heat kernel approach",
+    "author": "T. BOUCHE",
+    "year": "1994",
+    "unstructured": "[B2] T. Bouche, Asymptotic results for hermitian line bundles : the heat kernel approach, à paraître dans \"Higher dimensional complex varieties\", proceedings of the conference held in Trento (juin 1994), Gruyter Verlag."
+   },
+   {
+    "key": "key2025101016033523012_5",
+    "article-title": "The spectral Theory of Toeplitz operators",
+    "author": "L. BOUTET de MONVEL",
+    "year": "1981",
+    "unstructured": "[BG] L. Boutet De Monvel, V. Guillemin, The spectral Theory of Toeplitz operators, Annals of Math. Studies 99, Princeton University Press, 1981."
+   },
+   {
+    "key": "key2025101016033523012_6",
+    "article-title": "Champs magnétiques et inégalités de Morse pour la d℺-cohomologie",
+    "author": "J.-P. DEMAILLY",
+    "year": "1985",
+    "unstructured": "[De] J.-P. Demailly, Champs magnétiques et inégalités de Morse pour la d℺-cohomologie, Ann. Inst. Fourier Grenoble, 35-4 (1985), 189-229."
+   },
+   {
+    "key": "key2025101016033523012_7",
+    "article-title": "Fonctions de Green",
+    "author": "R. ELKIK",
+    "year": "1985",
+    "unstructured": "[El1] R. Elkik, Fonctions de Green, volumes de Faltings application aux surfaces arithmétiques dans Séminaire sur les pinceaux arithmétiques : la conjecture de Mordell, Astérisque, 127 (1985), 89-112."
+   },
+   {
+    "key": "key2025101016033523012_8",
+    "article-title": "Métriques sur les fibrés d'intersection",
+    "author": "R. ELKIK",
+    "year": "1990",
+    "unstructured": "[El2] R. Elkik, Métriques sur les fibrés d'intersection, Duke Math. J., 61, no. 1 (1990), 303-328."
+   },
+   {
+    "key": "key2025101016033523012_9",
+    "article-title": "Lectures on the arithmetic Riemann-Roch theorem",
+    "author": "G. FALTINGS",
+    "year": "1992",
+    "unstructured": "[Fa1] G. Faltings, Lectures on the arithmetic Riemann-Roch theorem, Annals of Mathematics Studies, 127 (1992), Princeton University press."
+   },
+   {
+    "key": "key2025101016033523012_10",
+    "article-title": "Calculus on arithmetic surfaces",
+    "author": "G. FALTINGS",
+    "year": "1984",
+    "unstructured": "[Fa2] G. Faltings, Calculus on arithmetic surfaces, Ann. of Math., 119 (1984), 387-424."
+   },
+   {
+    "key": "key2025101016033523012_11",
+    "article-title": "An arithmetic Riemann-Roch Theorem",
+    "author": "H. GILLET",
+    "year": "1992",
+    "unstructured": "[GS1] H. Gillet, C. Soulé, An arithmetic Riemann-Roch Theorem, Inventiones Math., 110, (1992), 473-543."
+   },
+   {
+    "key": "key2025101016033523012_12",
+    "article-title": "Arithmetic intersection theory",
+    "author": "H. GILLET",
+    "year": "1990",
+    "unstructured": "[GS2] H. Gillet, C. Soulé, Arithmetic intersection theory, Publ. Math. IHES, 72 (1990), 94-174."
+   },
+   {
+    "key": "key2025101016033523012_13",
+    "article-title": "Characteristic classes for algebraic vector bundles with hermitian metrics",
+    "author": "H. GILLET",
+    "year": "1990",
+    "unstructured": "[GS3] H. Gillet, C. Soulé, Characteristic classes for algebraic vector bundles with hermitian metrics, I, II, Ann. Math., 131 (1990), 163-203 et 205-238."
+   },
+   {
+    "key": "key2025101016033523012_14",
+    "article-title": "Amplitude arithmétique",
+    "author": "H. GILLET",
+    "year": "1988",
+    "unstructured": "[GS4] H. Gillet, C. Soulé, C. Soulé, Amplitude arithmétique, C. R. Acad. Sci. Paris, 307 (1988), 887-890."
+   },
+   {
+    "key": "key2025101016033523012_15",
+    "article-title": "Arithmetic capacities on PN",
+    "author": "C. F. LAU",
+    "unstructured": "[LR] C. F. Lau, R. Rumely, Arithmetic capacities on PN, à paraître dans Math. Zeit."
+   },
+   {
+    "key": "key2025101016033523012_16",
+    "article-title": "Existence of sectional capacity",
+    "author": "C. F. LAU",
+    "year": "1993",
+    "unstructured": "[LRV] C. F. Lau, R. Rumely, R. Varley, Existence of sectional capacity, University of Georgia, Mathematics preprint series, N. 25, vol I (1993)."
+   },
+   {
+    "key": "key2025101016033523012_17",
+    "article-title": "Un théorème de prolongement L2 de sections holomorphes d'un fibré hermitien",
+    "author": "L. MANIVEL",
+    "year": "1993",
+    "unstructured": "[Ma] L. Manivel, Un théorème de prolongement L2 de sections holomorphes d'un fibré hermitien, Math. Z., 212 (1993), 107-122."
+   },
+   {
+    "key": "key2025101016033523012_18",
+    "article-title": "Métriques permises dans Séminaire sur les pinceaux arithmétiques : la conjecture de Mordell",
+    "author": "L. MORET-BAILLY",
+    "year": "1985",
+    "unstructured": "[MB] L. Moret-Bailly, Métriques permises dans Séminaire sur les pinceaux arithmétiques : la conjecture de Mordell, Astérisque, 127 (1985), 29-87."
+   },
+   {
+    "key": "key2025101016033523012_19",
+    "article-title": "On the extension of L2 holomorphic functions II",
+    "author": "T. OHSAWA",
+    "year": "1988",
+    "unstructured": "[Oh] T. Ohsawa, On the extension of L2 holomorphic functions II, Pub. R.I.M.S., Kyoto Univ., 24 (1988), 265-275."
+   },
+   {
+    "key": "key2025101016033523012_20",
+    "article-title": "Sur des hauteurs alternatives. I",
+    "author": "P. PHILIPPON",
+    "year": "1991",
+    "unstructured": "[Ph] P. Philippon, Sur des hauteurs alternatives. I, Math. Ann., 289 (1991), 255-283."
+   },
+   {
+    "key": "key2025101016033523012_21",
+    "article-title": "Remarques à propos des théorèmes d'annulation pour les fibrés semi-positifs",
+    "author": "H. SKODA",
+    "year": "1978",
+    "unstructured": "[Sk] H. Skoda, Remarques à propos des théorèmes d'annulation pour les fibrés semi-positifs, dans Séminaire P. Lelong et H. Skoda (Analyse) 1978-1979, p. 252-258, Lectures Notes in Math. 822 Springer-Verlag."
+   },
+   {
+    "key": "key2025101016033523012_22",
+    "article-title": "Degrés, intersections, hauteurs dans Séminaire sur les pinceaux arithmétiques : la conjecture de Mordell",
+    "author": "L. SZPIRO",
+    "year": "1985",
+    "unstructured": "[Sz1] L. Szpiro, Degrés, intersections, hauteurs dans Séminaire sur les pinceaux arithmétiques : la conjecture de Mordell, Astérisque, 127 (1985), 11-28."
+   },
+   {
+    "key": "key2025101016033523012_23",
+    "article-title": "Sur les propriétés numériques du dualisant-relatif d'une surface arithmétique dans The Grothendieck Festschrift",
+    "author": "L. SZPIRO",
+    "year": "1990",
+    "unstructured": "[Sz2] L. Szpiro, Sur les propriétés numériques du dualisant-relatif d'une surface arithmétique dans The Grothendieck Festschrift, vol. 3 (1990) Basel Boston Berlin Birkhäuser, 229-246."
+   },
+   {
+    "key": "key2025101016033523012_24",
+    "article-title": "On a set of polarized Kahler metrics on algebraic manifolds",
+    "author": "G. TIAN",
+    "year": "1990",
+    "unstructured": "[T] G. Tian, On a set of polarized Kahler metrics on algebraic manifolds, J. Differential Geometry, 32 (1990), 99-130."
+   },
+   {
+    "key": "key2025101016033523012_25",
+    "article-title": "Points entiers, points de torsion et amplitude arithmétique",
+    "author": "E. ULLMO",
+    "unstructured": "[Ul] E. Ullmo, Points entiers, points de torsion et amplitude arithmétique, à paraître dans American Journal of Math."
+   },
+   {
+    "key": "key2025101016033523012_26",
+    "article-title": "Siegel's theorem in the compact case",
+    "author": "P. VOJTA",
+    "year": "1991",
+    "unstructured": "[Vo] P. Vojta, Siegel's theorem in the compact case, Ann. of Math., 133 (1991), 509-548."
+   },
+   {
+    "key": "key2025101016033523012_27",
+    "article-title": "Positive Line Bundles on Arithmetic Varieties",
+    "author": "S. ZHANG",
+    "year": "1992",
+    "unstructured": "[Zh] S. Zhang, Positive Line Bundles on Arithmetic Varieties, (1992), à paraître dans The Journal of AMS."
+   }
+  ],
+  "container-title": [
+   "Annales de l'Institut Fourier"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://aif.centre-mersenne.org/item/10.5802/aif.1458.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2025,
+     10,
+     10
+    ]
+   ],
+   "date-time": "2025-10-10T14:05:57Z",
+   "timestamp": 1760105157000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://aif.centre-mersenne.org/articles/10.5802/aif.1458/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1995
+    ]
+   ]
+  },
+  "references-count": 27,
+  "journal-issue": {
+   "issue": "2",
+   "published-online": {
+    "date-parts": [
+     [
+      1995
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "10.5802/aif.1458"
+  ],
+  "URL": "https://doi.org/10.5802/aif.1458",
+  "relation": {},
+  "ISSN": [
+   "1777-5310"
+  ],
+  "issn-type": [
+   {
+    "value": "1777-5310",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1995
+    ]
+   ]
+  }
+ }
+}

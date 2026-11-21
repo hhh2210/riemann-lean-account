@@ -1,0 +1,304 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     18
+    ]
+   ],
+   "date-time": "2026-09-18T21:51:23Z",
+   "timestamp": 1789768283519,
+   "version": "4.0.1"
+  },
+  "reference-count": 24,
+  "publisher": "Annals of Mathematics",
+  "issue": "1",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Ann. Math."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2012,
+     1,
+     1
+    ]
+   ]
+  },
+  "DOI": "10.4007/annals.2012.175.1.2",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2011,
+     12,
+     7
+    ]
+   ],
+   "date-time": "2011-12-07T17:05:04Z",
+   "timestamp": 1323277504000
+  },
+  "page": "23-44",
+  "source": "Crossref",
+  "is-referenced-by-count": 92,
+  "title": [
+   "Multiplicity one theorems: the Archimedean case"
+  ],
+  "prefix": "10.4007",
+  "volume": "175",
+  "author": [
+   {
+    "given": "Binyong",
+    "family": "Sun",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Chen-Bo",
+    "family": "Zhu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "2422",
+  "published-online": {
+   "date-parts": [
+    [
+     2012,
+     1,
+     1
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "AG1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1093/imrn/rnm155"
+   },
+   {
+    "key": "AG2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s00029-009-0544-7"
+   },
+   {
+    "key": "AGRS",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.4007/annals.2010.172.1413"
+   },
+   {
+    "key": "AGS0",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1112/S0010437X08003746"
+   },
+   {
+    "key": "AGS2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s00209-008-0318-5"
+   },
+   {
+    "key": "AGS1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1215/00127094-2009-044"
+   },
+   {
+    "key": "BK",
+    "doi-asserted-by": "crossref",
+    "volume-title": "Smooth Fréchet globalizations of Harish-Chandra modules",
+    "author": "Bernstein",
+    "DOI": "10.1007/s11856-013-0056-1"
+   },
+   {
+    "key": "Cass",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.4153/CJM-1989-019-5"
+   },
+   {
+    "key": "CM",
+    "series-title": "Van Nostrand Reinhold Math. Series",
+    "isbn-type": "print",
+    "first-page": "xiv",
+    "author": "Collingwood",
+    "year": "1993",
+    "ISBN": "https://id.crossref.org/isbn/0534188346"
+   },
+   {
+    "key": "Dijk",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s00209-008-0335-4"
+   },
+   {
+    "key": "Dijk2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/S0019-3577(09)80002-5"
+   },
+   {
+    "key": "GGP",
+    "volume-title": "Symplectic local root numbers, central critical L-values, and restriction problems in the representation theory of classical groups",
+    "author": "Gan"
+   },
+   {
+    "key": "JSZ1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s00039-010-0077-4"
+   },
+   {
+    "key": "JSZ2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1090/S0002-9947-2010-05285-7"
+   },
+   {
+    "key": "MVW87",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BFb0082712"
+   },
+   {
+    "key": "Pr96",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BF01446282"
+   },
+   {
+    "key": "Su09",
+    "doi-asserted-by": "crossref",
+    "volume-title": "Multiplicity one theorems for Fourier-Jacobi models",
+    "author": "Sun",
+    "DOI": "10.1353/ajm.2012.0044"
+   },
+   {
+    "key": "Su10",
+    "doi-asserted-by": "crossref",
+    "volume-title": "On representations of real Jacobi groups",
+    "author": "Sun",
+    "DOI": "10.1007/s11425-011-4333-3"
+   },
+   {
+    "key": "SZ08",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s00229-011-0437-x"
+   },
+   {
+    "key": "SZ10",
+    "doi-asserted-by": "crossref",
+    "volume-title": "Fourier transform and rigidity of certain distributions",
+    "author": "Sun",
+    "DOI": "10.1142/S0129167X12501297"
+   },
+   {
+    "key": "Sh",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BFb0078571"
+   },
+   {
+    "key": "Wald09",
+    "volume-title": "Une variante d'un résultat de Aizenbud, Gourevitch, Rallis et Schiffmann",
+    "author": "J.-L. Waldspurger"
+   },
+   {
+    "key": "W1",
+    "series-title": "Pure Appl. Math.",
+    "isbn-type": "print",
+    "first-page": "xx",
+    "volume": "132",
+    "author": "Wallach",
+    "year": "1988",
+    "ISBN": "https://id.crossref.org/isbn/0127329609"
+   },
+   {
+    "issue": "132",
+    "key": "W2",
+    "series-title": "Pure Appl. Math.",
+    "isbn-type": "print",
+    "first-page": "xiv",
+    "author": "Wallach",
+    "year": "1992",
+    "ISBN": "https://id.crossref.org/isbn/0127329617"
+   }
+  ],
+  "container-title": [
+   "Annals of Mathematics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+   "date-parts": [
+    [
+     2017,
+     6,
+     20
+    ]
+   ],
+   "date-time": "2017-06-20T06:58:15Z",
+   "timestamp": 1497941895000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://annals.math.princeton.edu/2012/175-1/p02"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2012,
+     1,
+     1
+    ]
+   ]
+  },
+  "references-count": 24,
+  "journal-issue": {
+   "issue": "1",
+   "published-online": {
+    "date-parts": [
+     [
+      2012
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.4007/annals.2012.175.1.2",
+  "relation": {},
+  "ISSN": [
+   "0003-486X"
+  ],
+  "issn-type": [
+   {
+    "value": "0003-486X",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2012,
+     1,
+     1
+    ]
+   ]
+  }
+ }
+}

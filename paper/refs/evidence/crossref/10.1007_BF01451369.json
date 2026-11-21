@@ -1,0 +1,284 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     23
+    ]
+   ],
+   "date-time": "2026-09-23T20:30:02Z",
+   "timestamp": 1790195402295,
+   "version": "4.1.0"
+  },
+  "reference-count": 9,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "3",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1962,
+       6,
+       1
+      ]
+     ],
+     "date-time": "1962-06-01T00:00:00Z",
+     "timestamp": -239414400000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Math. Ann."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1962,
+     6
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01451369",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     4,
+     12
+    ]
+   ],
+   "date-time": "2005-04-12T14:53:38Z",
+   "timestamp": 1113317618000
+  },
+  "page": "265-272",
+  "source": "Crossref",
+  "is-referenced-by-count": 62,
+  "title": [
+   "�ber die Werte der Dedekindschen Zetafunktion"
+  ],
+  "prefix": "10.1007",
+  "volume": "145",
+  "author": [
+   {
+    "given": "Helmut",
+    "family": "Klingen",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "CR1",
+    "doi-asserted-by": "crossref",
+    "first-page": "101",
+    "DOI": "10.1090/S0002-9947-1943-0007627-9",
+    "volume": "53",
+    "author": "C. B. Allendoerfer",
+    "year": "1943",
+    "unstructured": "Allendoerfer, C. B., andA. Weil: The Gauß-Bonnet theorem for Riemannian polyhedra. Trans. Am. Math. Soc.53, 101?129 (1943).",
+    "journal-title": "Trans. Am. Math. Soc."
+   },
+   {
+    "key": "CR2",
+    "doi-asserted-by": "crossref",
+    "first-page": "213",
+    "DOI": "10.1007/BF02954625",
+    "volume": "3",
+    "author": "E. Hecke",
+    "year": "1924",
+    "unstructured": "Hecke, E.: Analytische Funktionen und algebraische Zahlen II. Abhandl. math. Seminar hamburg. Univ.3, 213?236 (1924).",
+    "journal-title": "Abhandl. math. Seminar hamburg. Univ."
+   },
+   {
+    "key": "CR3",
+    "doi-asserted-by": "crossref",
+    "first-page": "9",
+    "DOI": "10.1515/crll.1961.206.9",
+    "volume": "206",
+    "author": "H. Klingen",
+    "year": "1961",
+    "unstructured": "Klingen, H.: Volumbestimmung des Fundamentalbereichs der Hilbertschen Modulgruppen-ten Grades. J. reine angew. Math.206, 9?19 (1961).",
+    "journal-title": "J. reine angew. Math."
+   },
+   {
+    "key": "CR4",
+    "doi-asserted-by": "crossref",
+    "first-page": "163",
+    "DOI": "10.1007/BF02940608",
+    "volume": "6",
+    "author": "H. D. Kloosterman",
+    "year": "1928",
+    "unstructured": "Kloosterman, H. D.: Theorie der Eisensteinreihen von mehreren Veränderlichen. Abhandl. math. Seminar hamburg. Univ.6, 163?188 (1928).",
+    "journal-title": "Abhandl. math. Seminar hamburg. Univ."
+   },
+   {
+    "key": "CR5",
+    "doi-asserted-by": "crossref",
+    "first-page": "131",
+    "DOI": "10.1007/BF02941946",
+    "volume": "22",
+    "author": "H.-W. Leopoldt",
+    "year": "1958",
+    "unstructured": "Leopoldt, H.-W.: Eine Verallgemeinerung der Bernoullischen Zahlen. Abhandl. math. Seminar hamburg. Univ.22, 131?140 (1958).",
+    "journal-title": "Abhandl. math. Seminar hamburg. Univ."
+   },
+   {
+    "key": "CR6",
+    "doi-asserted-by": "crossref",
+    "first-page": "538",
+    "DOI": "10.1007/BF01450029",
+    "volume": "117",
+    "author": "H. Maass",
+    "year": "1940",
+    "unstructured": "Maass, H.: Zur Theorie der automorphen Funktionen vonn Veränderlichen. Math. Ann.117, 538?578 (1940/41).",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "CR7",
+    "doi-asserted-by": "crossref",
+    "first-page": "464",
+    "DOI": "10.2969/jmsj/00940464",
+    "volume": "9",
+    "author": "I. Satake",
+    "year": "1957",
+    "unstructured": "Satake, I.: The Gauß-Bonnet theorem forV-manifolds. J. Math. Soc. Japan9, 464?492 (1957).",
+    "journal-title": "J. Math. Soc. Japan"
+   },
+   {
+    "key": "CR8",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.1007/BF01458033",
+    "volume": "87",
+    "author": "C. L. Siegel",
+    "year": "1922",
+    "unstructured": "Siegel, C. L.: Additive Theorie der Zahlkörper I. Math. Ann.87, 1?35 (1922).",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "CR9",
+    "doi-asserted-by": "crossref",
+    "first-page": "212",
+    "DOI": "10.2307/1968520",
+    "volume": "38",
+    "author": "C. L. Siegel",
+    "year": "1937",
+    "unstructured": "Siegel, C. L.: Über die analytische Theorie der quadratischen Formen III. Ann. Math.38, 212?291 (1937).",
+    "journal-title": "Ann. Math."
+   }
+  ],
+  "container-title": [
+   "Mathematische Annalen"
+  ],
+  "original-title": [],
+  "language": "de",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01451369.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01451369/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01451369",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     2
+    ]
+   ],
+   "date-time": "2019-05-02T14:25:40Z",
+   "timestamp": 1556807140000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01451369"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1962,
+     6
+    ]
+   ]
+  },
+  "references-count": 9,
+  "journal-issue": {
+   "issue": "3",
+   "published-print": {
+    "date-parts": [
+     [
+      1962,
+      6
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01451369"
+  ],
+  "URL": "https://doi.org/10.1007/bf01451369",
+  "relation": {},
+  "ISSN": [
+   "0025-5831",
+   "1432-1807"
+  ],
+  "issn-type": [
+   {
+    "value": "0025-5831",
+    "type": "print"
+   },
+   {
+    "value": "1432-1807",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1962,
+     6
+    ]
+   ]
+  }
+ }
+}

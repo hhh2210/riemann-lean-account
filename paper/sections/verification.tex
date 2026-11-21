@@ -1,0 +1,109 @@
+\section{What was verified by machine}\label{sec:verification}
+
+Everything in this section is the output of a program run on the archive. The programs and
+their output are public (\cref{app:reproduce}).
+
+\subsection{The archive}
+The Lean source is distributed as fourteen parts which concatenate to a single file
+\lean{lean.tar.gz} of \archivebytes{} bytes with SHA-256
+\[
+\text{\small\ttfamily 9631b4f020199e580ba86178cb56c6e9}\;\text{\small\ttfamily b09f690c2369a80dc4334aa93f49c7fc}.
+\]
+It unpacks to \filecount{} \lean{.lean} files (\linecount{} lines) and three build files. The
+build files pin Lean \leanversion{} and Mathlib at commit
+\lean{0df444a360eaa60ab8c11dca51a86af692955474}.
+
+\subsection{Static inspection}
+Before building we scanned every file. We found no occurrence of \lean{sorry} or \lean{admit},
+no \lean{axiom} declaration, and none of \lean{native_decide}, \lean{implemented_by},
+\lean{extern}, \lean{unsafe}, \lean{opaque}, \lean{csimp}, or the names by which a declaration
+can be added to an environment without passing the kernel. Every import resolves to a file of
+the archive, of Mathlib or of Lean; the import graph is acyclic; every file is in the import
+closure of \lean{Main.lean}. The tree defines three elaborators of its own; each produces its
+result through an ordinary declaration, so the kernel checks what they produce. Two helper
+functions of these elaborators are declared \lean{partial}; they are programs, not statements,
+and they are outside the dependency cone of \cref{sec:cone}.
+
+\subsection{The statements}\label{sec:statements}
+\lean{Main.lean} is thirteen lines long and proves five theorems.
+\begin{statement}[\lean{riemannHypothesis}]\label{st:rh}
+For every $s\in\C$ with $\zeta(s)=0$, if $s$ is not of the form $-2(n+1)$ with $n\in\N$ and
+$s\neq 1$, then $\re s=\tfrac12$.
+\end{statement}
+The statement is the proposition \lean{RiemannHypothesis} of Mathlib, not a definition of the
+archive: in the compiled environment that name is declared in the module
+\lean{Mathlib.NumberTheory.LSeries.RiemannZeta}, as is \lean{riemannZeta}.
+\begin{statement}[\lean{LFunction_ne_zero_of_half_lt_re}]\label{st:grh}
+For every modulus $N\ge 1$, every Dirichlet character $\chi$ modulo $N$ and every $s\in\C$ with
+$\re s>\tfrac12$, if $\chi\neq 1$ or $s\neq1$ then $L(s,\chi)\neq0$.
+\end{statement}
+\begin{statement}[\lean{LFunction_eq_zero_re}]\label{st:strip}
+For every modulus $N\ge1$, every Dirichlet character $\chi$ modulo $N$ and every $s$ with
+$0<\re s<1$ and $L(s,\chi)=0$, one has $\re s=\tfrac12$.
+\end{statement}
+The remaining two are \lean{riemannZeta_eq_zero_re}, which is \cref{st:rh} again, and
+\lean{LFunction_eq_zero_re_of_isPrimitive}, which is \cref{st:strip} for primitive characters.
+Here $L(s,\chi)$ is Mathlib's \lean{DirichletCharacter.LFunction}, the meromorphic continuation.
+The characters are not assumed primitive; restricting to the open strip in \cref{st:strip}
+excludes the zeros on $\re s=0$ that imprimitive characters have, so the statements are
+correctly posed.
+
+``GRH'' in this paper always means \cref{st:grh,st:strip}: Dirichlet $L$-functions. The note
+says the case of Dedekind zeta functions is expected and not done.
+
+\subsection{The build}
+We ran \lean{lake build Main} on the unmodified archive, on a rented machine with 32 cores,
+using the Mathlib build cache for the pinned commit. It finished after \buildhours{} hours
+with the line \lean{Build completed successfully (183893 jobs)} and exit code~$0$. All
+\filecount{} modules of the archive were built; none failed.
+
+\subsection{Axioms}
+For each of the five theorems, \lean{#print axioms} reports exactly
+\[
+\text{\lean{propext}},\qquad \text{\lean{Classical.choice}},\qquad \text{\lean{Quot.sound}},
+\]
+the three axioms on which Mathlib as a whole rests. In particular none depends on
+\lean{sorryAx} or on an axiom that trusts the compiler.
+
+\subsection{The dependency cone}\label{sec:cone}
+A build proves that every file compiles; it does not say which declarations the final theorem
+uses. From the compiled environment we computed the set of all constants reachable from
+\lean{riemannHypothesis} through types and proof terms. It has \conesize{} elements. Of the
+\projtheorems{} theorems declared in the archive, \coneprojtheorems{} are in it; they lie in
+\coneprojmodules{} of the \projmodules{} modules that declare anything. When this paper says
+that a declaration is, or is not, used by the proof, it means membership in this set.
+\Cref{sec:offpath} lists what is outside it.
+
+\subsection{Kernel replay}
+A build checks each declaration once, in the process that elaborated it. A replay passes every
+declaration to the kernel a second time, from the compiled files, in a process that does
+nothing else. We replayed the whole import closure of \lean{Main.lean} into an environment that
+starts empty: the archive, Mathlib with its dependencies, and Lean's own library,
+\replaymodules{} modules and \replaydecls{} declarations in all. Each
+declaration is passed to the kernel's entry point \lean{Kernel.Environment.addDeclCore} against
+an environment containing only declarations that precede it in a dependency order.
+
+\replaystatus
+
+The toolchain's checker, \lean{leanchecker} \cite{lean4checker}, could not be used for this. It imports the whole
+import closure afresh for every module it checks, and on this archive its first batch of 2{,}012
+modules exceeded the machine's memory limit of 128\,GB. Its other mode replays in one process
+but on one thread. We therefore wrote a replay program of about three hundred lines, published
+with this paper. It imports once, orders the declarations with a traversal that is linear in
+the size of each term, and runs the kernel checks in parallel, each against a snapshot of the
+environment as it stood when the declaration's turn came; inductive types are added on the
+main thread, and constructors and recursors are compared with the ones the kernel generates,
+as in Lean's own \lean{Environment.replay}. The run ends with a test of the checker itself: it
+must accept a proof of \lean{True} and reject the same term offered as a proof of
+\lean{False}.
+
+\subsection{What this establishes, and what it does not}
+In Lean \leanversion{} with Mathlib at the pinned commit, \cref{st:rh,st:grh,st:strip} are
+theorems, with no assumption beyond the standard axioms. That is the whole of what the machine
+certifies. It does not certify any description of the proof, including ours.
+
+Three limits should be stated. Mathlib was not re-elaborated from source: its compiled files
+came from the community cache for the pinned commit, and what we add is that the kernel
+re-checked every one of its declarations in the replay. We know of no other build of the
+archive at the time of writing, and an independent one would be worth having. And the
+soundness of Lean's kernel is assumed, as in every formalisation.

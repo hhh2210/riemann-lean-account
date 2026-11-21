@@ -1,0 +1,320 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     8,
+     16
+    ]
+   ],
+   "date-time": "2026-08-16T08:40:24Z",
+   "timestamp": 1786869624804,
+   "version": "build-2736575974"
+  },
+  "reference-count": 15,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "3",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1974,
+       9,
+       1
+      ]
+     ],
+     "date-time": "1974-09-01T00:00:00Z",
+     "timestamp": 147225600000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Math Z"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1974,
+     9
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01214125",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     2,
+     25
+    ]
+   ],
+   "date-time": "2005-02-25T09:10:11Z",
+   "timestamp": 1109322611000
+  },
+  "page": "193-242",
+  "source": "Crossref",
+  "is-referenced-by-count": 152,
+  "title": [
+   "On the modular representations of the general linear and symmetric groups"
+  ],
+  "prefix": "10.1007",
+  "volume": "136",
+  "author": [
+   {
+    "given": "Roger W.",
+    "family": "Carter",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "George",
+    "family": "Lusztig",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "CR1",
+    "volume-title": "K-theory",
+    "author": "M.F. Atiyah",
+    "year": "1967",
+    "unstructured": "Atiyah, M.F.:K-theory. New York-Amsterdam: Benjamin 1967"
+   },
+   {
+    "key": "CR2",
+    "series-title": "Lecture Notes in Mathematics",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0081541",
+    "volume-title": "Seminar on Algebraic Groups and Related Finite Groups (Part A)",
+    "author": "A. Borel",
+    "year": "1970",
+    "unstructured": "Borel, A., Carter, R., Couties, C.W., Iwahori, N., Springer, T.A., Steinberg, R.: Seminar on Algebraic Groups and Related Finite Groups (Part A). Lecture Notes in Mathematics 131. Berlin-Heidelberg-New York: Springer 1970"
+   },
+   {
+    "key": "CR3",
+    "doi-asserted-by": "crossref",
+    "first-page": "482",
+    "DOI": "10.1090/S0002-9904-1967-11788-9",
+    "volume": "73",
+    "author": "B. Braden",
+    "year": "1967",
+    "unstructured": "Braden, B.: Restricted representations of classical Lie algebras of typeA 2 andB 2. Bull. Amer. math. Soc.73, 482?486 (1967)",
+    "journal-title": "Bull. Amer. math. Soc."
+   },
+   {
+    "key": "CR4",
+    "volume-title": "Simple groups of Lie type",
+    "author": "R.W. Carter",
+    "year": "1972",
+    "unstructured": "Carter, R.W.: Simple groups of Lie type. New York: J. Wiley and Sons 1972"
+   },
+   {
+    "key": "CR5",
+    "unstructured": "Dixmier, J.: Certaines représentations infinies des algèbres de Lie semi-simples. Séminaire Bourbaki 1972/73, no. 425. Paris: Secrétariat mathématique"
+   },
+   {
+    "key": "CR6",
+    "doi-asserted-by": "crossref",
+    "first-page": "51",
+    "DOI": "10.1016/0021-8693(71)90115-3",
+    "volume": "19",
+    "author": "J.E. Humphreys",
+    "year": "1971",
+    "unstructured": "Humphreys, J.E.: Modular representations of classical Lie algebras and semisimple groups. J. Algebra19, 51?79 (1971)",
+    "journal-title": "J. Algebra"
+   },
+   {
+    "key": "CR7",
+    "volume-title": "Introduction to Lie algebras and Representation Theory",
+    "author": "J.E. Humphreys",
+    "year": "1971",
+    "unstructured": "Humphreys, J.E.: Introduction to Lie algebras and Representation Theory. Berlin-Heidelberg-New York: Springer 1971"
+   },
+   {
+    "key": "CR8",
+    "series-title": "Lecture Notes in Mathematics",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0067943",
+    "volume-title": "Representations of permutation groups I",
+    "author": "A. Kerber",
+    "year": "1971",
+    "unstructured": "Kerber, A.: Representations of permutation groups I. Lecture Notes in Mathematics 240. Berlin-Heidelberg-New York: Springer 1971"
+   },
+   {
+    "key": "CR9",
+    "doi-asserted-by": "crossref",
+    "first-page": "90",
+    "DOI": "10.1090/pspum/009/0207713",
+    "volume-title": "Proceedings of Symposia in Pure Mathematics. Vol. IX (Boulder 1965), Algebraic Groups and Discontinuous Subgroups",
+    "author": "B. Kostant",
+    "year": "1966",
+    "unstructured": "Kostant, B.: Groups over 242-1. In: Proceedings of Symposia in Pure Mathematics. Vol. IX (Boulder 1965), Algebraic Groups and Discontinuous Subgroups. pp 90?98. Providence: American Mathematical Society 1966"
+   },
+   {
+    "key": "CR10",
+    "doi-asserted-by": "crossref",
+    "first-page": "136",
+    "DOI": "10.1017/S0017089500001245",
+    "volume": "12",
+    "author": "M.H. Peel",
+    "year": "1971",
+    "unstructured": "Peel, M.H.: Hook representations of the symmetric group. Glasgow math. J.,12, 136?149 (1971)",
+    "journal-title": "Glasgow math. J."
+   },
+   {
+    "key": "CR11",
+    "unstructured": "Robinson, G. de B.: Representation theory of the symmetric group. Edinburgh University Press 1961"
+   },
+   {
+    "key": "CR12",
+    "first-page": "65",
+    "volume": "6",
+    "author": "N.N. Shapovalov",
+    "year": "1972",
+    "unstructured": "Shapovalov, N.N.: On a certain bilinear form on the enveloping algebra of a complex semisimple Lie algebra (Russian). Funkcional'. Analiz Prilo?enija6, 65?70 (1972)",
+    "journal-title": "Funkcional'. Analiz Prilo?enija"
+   },
+   {
+    "key": "CR13",
+    "doi-asserted-by": "crossref",
+    "first-page": "639",
+    "DOI": "10.2307/1969294",
+    "volume": "45",
+    "author": "R.M. Thrall",
+    "year": "1944",
+    "unstructured": "Thrall, R.M.: On the decomposition of modular tensors II. Ann. of Math. II. Ser.45, 639?657 (1944)",
+    "journal-title": "Ann. of Math. II. Ser."
+   },
+   {
+    "key": "CR14",
+    "unstructured": "Verma, D.N.: Rôle of the affine Weyl groups ..., To appear in Proceedings of the Budapest Summer School on Group Representations, 1971"
+   },
+   {
+    "key": "CR15",
+    "volume-title": "Classical groups, their invariants and representations",
+    "author": "H. Weyl",
+    "year": "1939",
+    "unstructured": "Weyl, H.: Classical groups, their invariants and representations. Princeton: Princeton University Press 1939"
+   }
+  ],
+  "container-title": [
+   "Mathematische Zeitschrift"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01214125.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01214125/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01214125",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     2
+    ]
+   ],
+   "date-time": "2019-05-02T05:51:13Z",
+   "timestamp": 1556776273000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01214125"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1974,
+     9
+    ]
+   ]
+  },
+  "references-count": 15,
+  "journal-issue": {
+   "issue": "3",
+   "published-print": {
+    "date-parts": [
+     [
+      1974,
+      9
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01214125"
+  ],
+  "URL": "https://doi.org/10.1007/bf01214125",
+  "relation": {},
+  "ISSN": [
+   "0025-5874",
+   "1432-1823"
+  ],
+  "issn-type": [
+   {
+    "value": "0025-5874",
+    "type": "print"
+   },
+   {
+    "value": "1432-1823",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1974,
+     9
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,480 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     22
+    ]
+   ],
+   "date-time": "2026-09-22T03:11:06Z",
+   "timestamp": 1790046666546,
+   "version": "4.0.1"
+  },
+  "reference-count": 40,
+  "publisher": "Canadian Mathematical Society",
+  "issue": "3",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2018,
+       11,
+       20
+      ]
+     ],
+     "date-time": "2018-11-20T00:00:00Z",
+     "timestamp": 1542672000000
+    },
+    "content-version": "unspecified",
+    "delay-in-days": 10764,
+    "URL": "https://www.cambridge.org/core/terms"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Can. j. math."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1989,
+     6,
+     1
+    ]
+   ]
+  },
+  "abstract": "<jats:p>Let G be the group of R-rational points on a reductive, Zariskiconnected, algebraic group defined over R, let <jats:italic>K</jats:italic> be a maximal compact subgroup, and let g be the corresponding complexified Lie algebra of G. It is a curious fault of the current representation theory of <jats:italic>G</jats:italic> that for technical reasons one very rarely works with representations of <jats:italic>G</jats:italic> itself, but rather with a certain category of simultaneous representations of g and <jats:italic>K.</jats:italic> The reasons for this are, roughly speaking, that for a given (g,K)-module of finite length there are clearly any number of overlying rather distinct continuous G-representations, whose ‘essence’ is captured by the (g, K)-module alone. At any rate, this paper will propose a remedy for this inconvenience, and define a category of smooth representations of G of finite length which will, I hope, turn out to be as easy to work with as representations of (g, <jats:italic>K)</jats:italic> and occasionally much more convenient. It is to be considered a report on what has been to a great extent joint work with Nolan Wallach, and is essentially a sequel to [38].</jats:p>",
+  "DOI": "10.4153/cjm-1989-019-5",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2010,
+     12,
+     7
+    ]
+   ],
+   "date-time": "2010-12-07T18:24:44Z",
+   "timestamp": 1291746284000
+  },
+  "page": "385-438",
+  "source": "Crossref",
+  "is-referenced-by-count": 115,
+  "title": [
+   "Canonical Extensions of Harish-Chandra Modules to Representations of <i>G</i>"
+  ],
+  "prefix": "10.4153",
+  "volume": "41",
+  "author": [
+   {
+    "given": "W.",
+    "family": "Casselman",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "2643",
+  "published-online": {
+   "date-parts": [
+    [
+     2018,
+     11,
+     20
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "S0008414X00000523_ref022",
+    "first-page": "813",
+    "article-title": "Publ. R.I.M.S. Kyoto Univ.",
+    "volume": "17",
+    "author": "Kashiwara",
+    "year": "1981",
+    "journal-title": "On holonomic systems of micro differential equations III. Systems with regular singularities'"
+   },
+   {
+    "key": "S0008414X00000523_ref021",
+    "volume-title": "The analysis of linear partial differential operators I.",
+    "volume": "256",
+    "author": "Hörmander",
+    "year": "1983"
+   },
+   {
+    "key": "S0008414X00000523_ref018",
+    "first-page": "529",
+    "article-title": "Bull. Amer. Math. Soc.",
+    "volume": "76",
+    "author": "Harish-Chandra",
+    "year": "1970",
+    "journal-title": "Harmonie analysis on semi-simple Lie groups"
+   },
+   {
+    "key": "S0008414X00000523_ref028",
+    "first-page": "487",
+    "article-title": "Proc. London Math. Soc.",
+    "volume": "17",
+    "author": "McConnell",
+    "year": "1967",
+    "journal-title": "The intersection theorem for a class of non-commutative rings"
+   },
+   {
+    "key": "S0008414X00000523_ref032",
+    "first-page": "357",
+    "volume-title": "Fourier analysis on semi-simple symmetric spaces",
+    "volume": "880",
+    "author": "Oshima",
+    "year": "1980"
+   },
+   {
+    "key": "S0008414X00000523_ref007",
+    "first-page": "7",
+    "volume-title": "Intégration",
+    "volume": "29",
+    "author": "Bourbaki",
+    "year": "1963"
+   },
+   {
+    "key": "S0008414X00000523_ref010",
+    "unstructured": "Casselman W. , Jacquet modules for real reductive groups, pp. 557–563 in Proceedings of the international Congress of Mathematicians, Helsinki (1979)"
+   },
+   {
+    "key": "S0008414X00000523_ref020",
+    "first-page": "1",
+    "author": "Helgason",
+    "year": "1970",
+    "journal-title": "A duality for symmetric spaces with applications to group representations"
+   },
+   {
+    "key": "S0008414X00000523_ref003",
+    "volume-title": "A generalization of Casselman s submodule theorem",
+    "volume": "40",
+    "author": "Beilinson",
+    "year": "1983"
+   },
+   {
+    "key": "S0008414X00000523_ref005",
+    "volume-title": "Continuous cohomology, discrete subgroups, and representations of reductive groups",
+    "author": "Boel",
+    "year": "1980"
+   },
+   {
+    "key": "S0008414X00000523_ref017",
+    "first-page": "199",
+    "article-title": "Jour. Funct. Anal.",
+    "volume": "39",
+    "author": "Goodman",
+    "year": "1980",
+    "journal-title": "Whittaker vectors and conical vectors"
+   },
+   {
+    "key": "S0008414X00000523_ref026",
+    "first-page": "101",
+    "article-title": "Invent. Math.",
+    "volume": "48",
+    "author": "Kostant",
+    "year": "1978",
+    "journal-title": "On Whittaker vectors and representation theory"
+   },
+   {
+    "key": "S0008414X00000523_ref015",
+    "first-page": "307",
+    "article-title": "Bull. Sci. Math.",
+    "volume": "102",
+    "author": "Dixmier",
+    "year": "1978",
+    "journal-title": "Factorisations de fonctions et de vecteurs indéfiniment différentiables"
+   },
+   {
+    "key": "S0008414X00000523_ref012",
+    "first-page": "869",
+    "article-title": "Duke Math. Jour.",
+    "volume": "49",
+    "author": "Casselman",
+    "year": "1982",
+    "journal-title": "Asymptotic behaviour of matrix coefficients of admissible representations"
+   },
+   {
+    "key": "S0008414X00000523_ref034",
+    "unstructured": "Schmid W. , Boundary value problems for group invariant differential equations, pp. 311–322 in the special volume of Astérisque entitled Elie Cartan et les mathématiques d'aujourdhui (1984)."
+   },
+   {
+    "key": "S0008414X00000523_ref011",
+    "unstructured": "Casselman W. , Introduction to the Schwartz space of T\\G, preprint (1987)"
+   },
+   {
+    "key": "S0008414X00000523_ref039",
+    "first-page": "188",
+    "volume-title": "Harmonic analysis on semi-simple groups I and II",
+    "author": "Warner",
+    "year": "1972"
+   },
+   {
+    "key": "S0008414X00000523_ref002",
+    "unstructured": "Ban E.van den and Delorme P. , Quelques propriétés des representations sphériques pour les espaces symétriques réductifs, to appear in Jour. Func. Anal."
+   },
+   {
+    "key": "S0008414X00000523_ref016",
+    "unstructured": "Ginsburg V. , Admissible modules on a symmetric space, preprint (1978)."
+   },
+   {
+    "key": "S0008414X00000523_ref025",
+    "first-page": "627",
+    "article-title": "Bull. Amer. Math. Soc.",
+    "volume": "75",
+    "author": "Kostant",
+    "year": "1969",
+    "journal-title": "On the existence and irreducibility of certain series of representations"
+   },
+   {
+    "key": "S0008414X00000523_ref009",
+    "unstructured": "Casselman W. , The differential equations satisfied by matrix coefficients, manuscript (1975)."
+   },
+   {
+    "key": "S0008414X00000523_ref014",
+    "volume-title": "Theory of ordinary differential equations",
+    "author": "Coddington",
+    "year": "1955"
+   },
+   {
+    "key": "S0008414X00000523_ref013",
+    "first-page": "193",
+    "article-title": "Math. Ann.",
+    "volume": "233",
+    "author": "Casselman",
+    "year": "1978",
+    "journal-title": "The restriction of admissible representations to n"
+   },
+   {
+    "key": "S0008414X00000523_ref008",
+    "volume-title": "Vecteurs differentiables dans les représentations unitaires des groupes de Lie",
+    "volume": "670",
+    "author": "Cartier",
+    "year": "1976"
+   },
+   {
+    "key": "S0008414X00000523_ref023",
+    "first-page": "1",
+    "article-title": "Ann. of Math.",
+    "volume": "107",
+    "author": "Kashiwara",
+    "year": "1978",
+    "journal-title": "Eigenfunctions of invariant differential operators on a symmetric space"
+   },
+   {
+    "key": "S0008414X00000523_ref029",
+    "first-page": "59",
+    "article-title": "Duke Math. Jour.",
+    "volume": "44",
+    "author": "Miličič",
+    "year": "1977",
+    "journal-title": "Asymptotic behaviour of matrix coefficients of the discrete series"
+   },
+   {
+    "key": "S0008414X00000523_ref024",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1515/9781400883974"
+   },
+   {
+    "key": "S0008414X00000523_ref004",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BFb0058407"
+   },
+   {
+    "key": "S0008414X00000523_ref037",
+    "first-page": "1969",
+    "volume-title": "Sur les intégrales d'entrelacement de R.A.Kunze et E.M.Stein (d'après G. Schiffman)",
+    "volume": "369",
+    "author": "Vergne",
+    "year": "1971"
+   },
+   {
+    "key": "S0008414X00000523_ref030",
+    "first-page": "44",
+    "article-title": "Ann. Math.",
+    "volume": "62",
+    "author": "Mostow",
+    "year": "1955",
+    "journal-title": "Self-adjoint groups"
+   },
+   {
+    "key": "S0008414X00000523_ref019",
+    "first-page": "49",
+    "article-title": "Acta Math.",
+    "volume": "151",
+    "author": "Hecht",
+    "year": "1983",
+    "journal-title": "Characters, asymptotics, and n-homology of Harish-Chandra modules"
+   },
+   {
+    "key": "S0008414X00000523_ref031",
+    "first-page": "117",
+    "article-title": "J. Math. Soc. Japan",
+    "volume": "30",
+    "author": "Oshima",
+    "year": "1978",
+    "journal-title": "A realization of Riemannian symmetric spaces"
+   },
+   {
+    "key": "S0008414X00000523_ref033",
+    "first-page": "292",
+    "article-title": "(in Russian), Doklady Akad. Nauk S.S.S.R.",
+    "volume": "231",
+    "author": "Prischepionok",
+    "year": "1976",
+    "journal-title": "Natural topologies for linear representations of semi-simple Lie algebras"
+   },
+   {
+    "key": "S0008414X00000523_ref035",
+    "first-page": "99",
+    "article-title": "Duke Math. Jour.",
+    "volume": "47",
+    "author": "Shahidi",
+    "year": "1980",
+    "journal-title": "Whittaker models for real groups"
+   },
+   {
+    "key": "S0008414X00000523_ref027",
+    "author": "Langlands",
+    "year": "1973",
+    "journal-title": "On the classification of irreducible representations of real algebraic groups"
+   },
+   {
+    "key": "S0008414X00000523_ref036",
+    "volume-title": "Topological vector spaces, distributions, and kernels",
+    "author": "Treves",
+    "year": "1967"
+   },
+   {
+    "key": "S0008414X00000523_ref038",
+    "volume-title": "Asymptotic expansions of generalized matrix entries of representations of real reductive groups",
+    "volume": "1024",
+    "author": "Wallach",
+    "year": "1983"
+   },
+   {
+    "key": "S0008414X00000523_ref040",
+    "first-page": "495",
+    "article-title": "Ann. of Math.",
+    "volume": "197",
+    "author": "Zuckerman",
+    "year": "1987",
+    "journal-title": "Continuous cohomology and unitary representations of real reductive groups"
+   },
+   {
+    "key": "S0008414X00000523_ref001",
+    "first-page": "1",
+    "article-title": "Acta Mathematica",
+    "volume": "150",
+    "author": "Arthur",
+    "year": "1983",
+    "journal-title": "A Paley-Wiener theorem for real reductive groups"
+   },
+   {
+    "key": "S0008414X00000523_ref006",
+    "volume-title": "Espaces vectoriels topologiques",
+    "volume": "18",
+    "author": "Bourbaki",
+    "year": "1955"
+   }
+  ],
+  "container-title": [
+   "Canadian Journal of Mathematics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0008414X00000523",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     19
+    ]
+   ],
+   "date-time": "2019-05-19T16:13:49Z",
+   "timestamp": 1558282429000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.cambridge.org/core/product/identifier/S0008414X00000523/type/journal_article"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1989,
+     6,
+     1
+    ]
+   ]
+  },
+  "references-count": 40,
+  "journal-issue": {
+   "issue": "3",
+   "published-print": {
+    "date-parts": [
+     [
+      1989,
+      6,
+      1
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "S0008414X00000523"
+  ],
+  "URL": "https://doi.org/10.4153/cjm-1989-019-5",
+  "relation": {},
+  "ISSN": [
+   "0008-414X",
+   "1496-4279"
+  ],
+  "issn-type": [
+   {
+    "value": "0008-414X",
+    "type": "print"
+   },
+   {
+    "value": "1496-4279",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1989,
+     6,
+     1
+    ]
+   ]
+  }
+ }
+}

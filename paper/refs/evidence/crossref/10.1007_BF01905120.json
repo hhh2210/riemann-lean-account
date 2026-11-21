@@ -1,0 +1,223 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     3,
+     3
+    ]
+   ],
+   "date-time": "2026-03-03T06:15:25Z",
+   "timestamp": 1772518525079,
+   "version": "3.50.1"
+  },
+  "reference-count": 9,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1898,
+       3,
+       1
+      ]
+     ],
+     "date-time": "1898-03-01T00:00:00Z",
+     "timestamp": -2266963200000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Math. Ann."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1898,
+     3
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01905120",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     7,
+     29
+    ]
+   ],
+   "date-time": "2005-07-29T14:55:01Z",
+   "timestamp": 1122648901000
+  },
+  "page": "1-127",
+  "source": "Crossref",
+  "is-referenced-by-count": 36,
+  "title": [
+   "Ueber die Theorie des relativquadratischen Zahlkörpers"
+  ],
+  "prefix": "10.1007",
+  "volume": "51",
+  "author": [
+   {
+    "given": "David",
+    "family": "Hilbert",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "BF01905120_CR1",
+    "unstructured": "Vgl. das von der K. Gesellschaft der Wiss. zu Göttingen für das Jabr 1891 gestellte Preisthema."
+   },
+   {
+    "key": "BF01905120_CR2",
+    "unstructured": "Vgl. meinen der Deutschen Mathematiker-Vereinigung erstatteten Berieht “Die Theorie der algebraischen Zahlkörper”. 1897, Satz 22 S. 191 und Satz 24 S. 192. Ich werde in der vorliegenden Abhandlung diesen Bericht von mir kurz mit “Algebraische Zahlkörper” citiren."
+   },
+   {
+    "key": "BF01905120_CR3",
+    "unstructured": "Vergl. “Algebraische Zahlkörper” Satz 93, S. 277, woselbst dieser Satz allgemein für relativcyklische Körper von einem Primzahlgrade anfgestellt und bewiesen worden ist."
+   },
+   {
+    "key": "BF01905120_CR4",
+    "unstructured": "Vgl. “Algebraische Zahlkörper” S. 214 und S. 221."
+   },
+   {
+    "key": "BF01905120_CR5",
+    "unstructured": "Vgl. “Algebraische Zahlkörper” § 26, S. 230."
+   },
+   {
+    "key": "BF01905120_CR6",
+    "unstructured": "Vgl. “Algebraische Zahlkörper” Satz 94 S. 279, sowie die daselbst zu diesem Satze gemachte Bemerkung."
+   },
+   {
+    "key": "BF01905120_CR7",
+    "unstructured": "Vergl. Algebraische Zahlkörper Satz 23, S. 192."
+   },
+   {
+    "key": "BF01905120_CR8",
+    "unstructured": "Geometrie der Zahlen, Teubner 1896, S. 62."
+   },
+   {
+    "key": "BF01905120_CR9",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Ueber einen in der Zahlentheorie angewandten Satz der Integralrechnung, Nachrichten der K. Ges. d. Wiss. zu Göttingen, 1896, S. 275. H. Weber hat diesen Satz hernach in seinen Untersuchungen “Ueber Zahlengruppen in algebraischen Körpern” zweite Abhandlung Math. Ann. Bd. 49, S. 83 auf ein dem meinigen verwandtes Problem der Zahlentheorie angewandt.",
+    "DOI": "10.1007/BF01445362"
+   }
+  ],
+  "container-title": [
+   "Mathematische Annalen"
+  ],
+  "original-title": [],
+  "language": "de",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01905120.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01905120/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01905120",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     8
+    ]
+   ],
+   "date-time": "2020-04-08T12:03:17Z",
+   "timestamp": 1586347397000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01905120"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1898,
+     3
+    ]
+   ]
+  },
+  "references-count": 9,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1898,
+      3
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01905120"
+  ],
+  "URL": "https://doi.org/10.1007/bf01905120",
+  "relation": {},
+  "ISSN": [
+   "0025-5831",
+   "1432-1807"
+  ],
+  "issn-type": [
+   {
+    "value": "0025-5831",
+    "type": "print"
+   },
+   {
+    "value": "1432-1807",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1898,
+     3
+    ]
+   ]
+  }
+ }
+}

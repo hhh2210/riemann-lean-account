@@ -1,0 +1,379 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     6,
+     18
+    ]
+   ],
+   "date-time": "2026-06-18T00:35:06Z",
+   "timestamp": 1781742906280,
+   "version": "3.54.5"
+  },
+  "reference-count": 20,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "4",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2006,
+       10,
+       27
+      ]
+     ],
+     "date-time": "2006-10-27T00:00:00Z",
+     "timestamp": 1161907200000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Math. Z."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2007,
+     1,
+     23
+    ]
+   ]
+  },
+  "DOI": "10.1007/s00209-006-0045-8",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2006,
+     10,
+     26
+    ]
+   ],
+   "date-time": "2006-10-26T07:54:31Z",
+   "timestamp": 1161849271000
+  },
+  "page": "721-729",
+  "source": "Crossref",
+  "is-referenced-by-count": 25,
+  "title": [
+   "On the Siegel–Weil formula for unitary groups"
+  ],
+  "prefix": "10.1007",
+  "volume": "255",
+  "author": [
+   {
+    "given": "Atsushi",
+    "family": "Ichino",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "published-online": {
+   "date-parts": [
+    [
+     2006,
+     10,
+     27
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "45_CR1",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Guillemonat, A.: On some semispherical representations of an Hermitian symmetric pair of the tubular type. II. Construction of the unitary representations. Math. Ann. 246, 93–116 (1979/1980)",
+    "DOI": "10.1007/BF01420161"
+   },
+   {
+    "key": "45_CR2",
+    "unstructured": "Harris, M.: A simple proof of rationality of Siegel–Weil Eisenstein series. preprint"
+   },
+   {
+    "key": "45_CR3",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Harris, M., Li, J.-S., Skinner, C.M.: The Rallis inner product formula and p-adic L-functions. Automorphic representations, L-functions and applications: progress and prospects, pp. 225–255 Ohio State Univ. Math. Res. Inst. Publ. 11, de Gruyter (2005)",
+    "DOI": "10.1515/9783110892703.225"
+   },
+   {
+    "key": "45_CR4",
+    "first-page": "201",
+    "volume": "539",
+    "author": "A. Ichino",
+    "year": "2001",
+    "unstructured": "Ichino A. (2001) On the regularized Siegel–Weil formula. J. Reine Angew. Math. 539, 201–234",
+    "journal-title": "J. Reine Angew. Math."
+   },
+   {
+    "key": "45_CR5",
+    "doi-asserted-by": "crossref",
+    "first-page": "241",
+    "DOI": "10.1007/s00209-003-0580-5",
+    "volume": "247",
+    "author": "A. Ichino",
+    "year": "2004",
+    "unstructured": "Ichino A. (2004) A regularized Siegel–Weil formula for unitary groups. Math. Z. 247, 241–277",
+    "journal-title": "Math. Z."
+   },
+   {
+    "key": "45_CR6",
+    "first-page": "183",
+    "volume": "103",
+    "author": "T. Ikeda",
+    "year": "1996",
+    "unstructured": "Ikeda T. (1996) On the residue of the Eisenstein series and the Siegel–Weil formula. Compositio Math. 103, 183–218",
+    "journal-title": "Compositio Math."
+   },
+   {
+    "key": "45_CR7",
+    "doi-asserted-by": "crossref",
+    "first-page": "361",
+    "DOI": "10.1007/BF02773003",
+    "volume": "87",
+    "author": "S.S. Kudla",
+    "year": "1994",
+    "unstructured": "Kudla S.S. (1994) Splitting metaplectic covers of dual reductive pairs. Israel J. Math. 87, 361–401",
+    "journal-title": "Israel J. Math."
+   },
+   {
+    "key": "45_CR8",
+    "first-page": "1",
+    "volume": "387",
+    "author": "S.S. Kudla",
+    "year": "1988",
+    "unstructured": "Kudla S.S., Rallis S. (1988) On the Weil–Siegel formula. J. Reine Angew. Math. 387, 1–68",
+    "journal-title": "J. Reine Angew. Math."
+   },
+   {
+    "key": "45_CR9",
+    "first-page": "65",
+    "volume": "391",
+    "author": "S.S. Kudla",
+    "year": "1988",
+    "unstructured": "Kudla S.S., Rallis S. (1988) On the Weil–Siegel formula. II. The isotropic convergent case. J. Reine Angew. Math. 391, 65–84",
+    "journal-title": "J. Reine Angew. Math."
+   },
+   {
+    "key": "45_CR10",
+    "doi-asserted-by": "crossref",
+    "first-page": "25",
+    "DOI": "10.1007/BF02764727",
+    "volume": "69",
+    "author": "S.S. Kudla",
+    "year": "1990",
+    "unstructured": "Kudla S.S., Rallis S. (1990) Degenerate principal series and invariant distributions. Israel J. Math. 69, 25–45",
+    "journal-title": "Israel J. Math."
+   },
+   {
+    "key": "45_CR11",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.2307/2118540",
+    "volume": "140",
+    "author": "S.S. Kudla",
+    "year": "1994",
+    "unstructured": "Kudla S.S., Rallis S. (1994) A regularized Siegel–Weil formula: the first term identity. Ann. Math. 140, 1–80",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "key": "45_CR12",
+    "doi-asserted-by": "crossref",
+    "first-page": "253",
+    "DOI": "10.1007/BF02937337",
+    "volume": "98",
+    "author": "S.S. Kudla",
+    "year": "1997",
+    "unstructured": "Kudla S.S., Sweet W.J. Jr. (1997) Degenerate principal series representations for U(n,n) . Israel J. Math. 98, 253–306",
+    "journal-title": "Israel J. Math."
+   },
+   {
+    "key": "45_CR13",
+    "doi-asserted-by": "crossref",
+    "first-page": "305",
+    "DOI": "10.1006/jfan.1994.1150",
+    "volume": "126",
+    "author": "S.T. Lee",
+    "year": "1994",
+    "unstructured": "Lee S.T. (1994) On some degenerate principal series representations of U(n,n) . J. Funct. Anal. 126, 305–366",
+    "journal-title": "J. Funct. Anal."
+   },
+   {
+    "key": "45_CR14",
+    "doi-asserted-by": "crossref",
+    "first-page": "5017",
+    "DOI": "10.1090/S0002-9947-98-02036-4",
+    "volume": "350",
+    "author": "S.T. Lee",
+    "year": "1998",
+    "unstructured": "Lee S.T., Zhu C.-B. (1998) Degenerate principal series and local theta correspondence. Trans. Am. Math. Soc. 350, 5017–5046",
+    "journal-title": "Trans. Am. Math. Soc."
+   },
+   {
+    "key": "45_CR15",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Mœglin,  C., Vignéras, M.-F., Waldspurger, J.-L.: Correspondances de Howe sur un corps p-adique. Lecture Notes in Mathematics, vol.1291. Springer, Berlin Heidelberg New York (1987)",
+    "DOI": "10.1007/BFb0082712"
+   },
+   {
+    "key": "45_CR16",
+    "unstructured": "Murase, A., Sugano, T.: A note on Siegel–Weil formula for (U(2,1),U(2,2)). preprint"
+   },
+   {
+    "key": "45_CR17",
+    "first-page": "333",
+    "volume": "51",
+    "author": "S. Rallis",
+    "year": "1984",
+    "unstructured": "Rallis S. (1984) On the Howe duality conjecture. Compositio Math. 51, 333–399",
+    "journal-title": "Compositio Math."
+   },
+   {
+    "key": "45_CR18",
+    "doi-asserted-by": "crossref",
+    "first-page": "341",
+    "DOI": "10.1215/S0012-7094-98-09416-9",
+    "volume": "94",
+    "author": "V. Tan",
+    "year": "1998",
+    "unstructured": "Tan V. (1998) A regularized Siegel–Weil formula on U(2,2) and U(3) . Duke Math. J. 94, 341–378",
+    "journal-title": "Duke Math. J."
+   },
+   {
+    "key": "45_CR19",
+    "doi-asserted-by": "crossref",
+    "first-page": "164",
+    "DOI": "10.4153/CJM-1999-010-4",
+    "volume": "51",
+    "author": "V. Tan",
+    "year": "1999",
+    "unstructured": "Tan V. (1999) Poles of Siegel Eisenstein series on U(n,n) Can. J. Math. 51, 164–175",
+    "journal-title": "Can. J. Math."
+   },
+   {
+    "key": "45_CR20",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.1007/BF02391774",
+    "volume": "113",
+    "author": "A. Weil",
+    "year": "1965",
+    "unstructured": "Weil A. (1965) Sur la formule de Siegel dans la théorie des groupes classiques. Acta Math. 113, 1–87",
+    "journal-title": "Acta Math."
+   }
+  ],
+  "container-title": [
+   "Mathematische Zeitschrift"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/s00209-006-0045-8.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/s00209-006-0045-8/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/s00209-006-0045-8",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     23
+    ]
+   ],
+   "date-time": "2019-05-23T15:59:13Z",
+   "timestamp": 1558627153000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/s00209-006-0045-8"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2006,
+     10,
+     27
+    ]
+   ]
+  },
+  "references-count": 20,
+  "journal-issue": {
+   "issue": "4",
+   "published-print": {
+    "date-parts": [
+     [
+      2007,
+      1,
+      23
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "45"
+  ],
+  "URL": "https://doi.org/10.1007/s00209-006-0045-8",
+  "relation": {},
+  "ISSN": [
+   "0025-5874",
+   "1432-1823"
+  ],
+  "issn-type": [
+   {
+    "value": "0025-5874",
+    "type": "print"
+   },
+   {
+    "value": "1432-1823",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2006,
+     10,
+     27
+    ]
+   ]
+  }
+ }
+}

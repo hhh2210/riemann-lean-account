@@ -1,0 +1,237 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     11
+    ]
+   ],
+   "date-time": "2026-11-11T00:06:18Z",
+   "timestamp": 1794355578401,
+   "version": "4.9.0"
+  },
+  "publisher-location": "Basel",
+  "reference-count": 13,
+  "publisher": "Birkhäuser Basel",
+  "isbn-type": [
+   {
+    "value": "9783764384555",
+    "type": "print"
+   },
+   {
+    "value": "9783764384562",
+    "type": "electronic"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "DOI": "10.1007/978-3-7643-8456-2_3",
+  "type": "book-chapter",
+  "created": {
+   "date-parts": [
+    [
+     2008,
+     5,
+     6
+    ]
+   ],
+   "date-time": "2008-05-06T09:12:35Z",
+   "timestamp": 1210065155000
+  },
+  "page": "73-131",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+   "L’isomorphisme entre les tours de Lubin-Tate et de Drinfeld au niveau des points"
+  ],
+  "prefix": "10.1007",
+  "member": "297",
+  "reference": [
+   {
+    "key": "3_CR1",
+    "series-title": "Lecture Notes in Mathematics",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0093025",
+    "volume-title": "Théorie de Dieudonné cristalline. II",
+    "author": "P. Berthelot",
+    "year": "1982",
+    "unstructured": "P. Berthelot, L. Breen, and W. Messing. Théorie de Dieudonné cristalline. II, volume 930. Springer-Verlag, Berlin, Lecture Notes in Mathematics, 1982."
+   },
+   {
+    "issue": "3",
+    "key": "3_CR2",
+    "doi-asserted-by": "publisher",
+    "first-page": "625",
+    "DOI": "10.2307/2946559",
+    "volume": "138",
+    "author": "P. Colmez",
+    "year": "1993",
+    "unstructured": "P. Colmez. Périodes des variétés abéliennes à multiplication complexe. Ann. of Math., 138(3):625–683, 1993.",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "issue": "1",
+    "key": "3_CR3",
+    "doi-asserted-by": "publisher",
+    "first-page": "117",
+    "DOI": "10.1090/S0894-0347-99-00273-8",
+    "volume": "12",
+    "author": "G. Faltings",
+    "year": "1999",
+    "unstructured": "G. Faltings. Integral crystalline cohomology over very ramified valuation rings. J. Amer. Math. Soc., 12(1):117–144, 1999.",
+    "journal-title": "J. Amer. Math. Soc."
+   },
+   {
+    "key": "3_CR4",
+    "doi-asserted-by": "crossref",
+    "first-page": "115",
+    "DOI": "10.1090/conm/300/05145",
+    "volume": "300",
+    "author": "G. Faltings",
+    "year": "2002",
+    "unstructured": "G. Faltings. A relation between two moduli spaces studied by v.g. Drinfeld. In Algebraic number theory and algebraic geometry, volume 300 of Contemp. Math., pages 115–129, 2002.",
+    "journal-title": "Algebraic number theory and algebraic geometry"
+   },
+   {
+    "key": "3_CR5",
+    "unstructured": "L. Fargues. Application de Hodge-Tate duale d’un groupe de Lubin-Tate, immeuble de Bruhat-Tits du groupe linéaire et filtrations de ramification. À paraître à Duke Math."
+   },
+   {
+    "issue": "3",
+    "key": "3_CR6",
+    "doi-asserted-by": "publisher",
+    "first-page": "379",
+    "DOI": "10.1007/BF01396625",
+    "volume": "65",
+    "author": "J.-M. Fontaine",
+    "year": "1981",
+    "unstructured": "J.-M. Fontaine. Formes différentielles et modules de Tate des variétés abéliennes sur les corps locaux. Invent. Math., 65(3):379–409, 1981/82.",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "3_CR7",
+    "unstructured": "A. Genestier and V. Lafforgue. L’isomorphisme des deux tours. Une autre approche en caractéristique positive. Ce Volume."
+   },
+   {
+    "key": "3_CR8",
+    "series-title": "Contemp. Math.",
+    "doi-asserted-by": "crossref",
+    "first-page": "23",
+    "DOI": "10.1090/conm/158/01453",
+    "volume-title": "Topology and representation theory (Evanston, IL, 1992)",
+    "author": "M.J. Hopkins",
+    "year": "1994",
+    "unstructured": "M.J. Hopkins and B.H. Gross. Equivariant vector bundles on the Lubin-Tate moduli space. In Topology and representation theory (Evanston, IL, 1992), volume 158 of Contemp. Math., pages 23–88. Amer. Math. Soc., Providence, RI, 1994."
+   },
+   {
+    "key": "3_CR9",
+    "doi-asserted-by": "crossref",
+    "unstructured": "W. Messing. The crystals associated to Barsotti-Tate groups: with applications to abelian schemes. Lecture Notes in Mathematics, 264, 1972.",
+    "DOI": "10.1007/BFb0058301"
+   },
+   {
+    "key": "3_CR10",
+    "series-title": "Annals of Mathematics Studies",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1515/9781400882601",
+    "volume-title": "Period spaces for p-divisible groups",
+    "author": "M. Rapoport",
+    "year": "1996",
+    "unstructured": "M. Rapoport, Th. Zink. Period spaces for p-divisible groups. Number 141 in Annals of Mathematics Studies. Princeton University Press, Princeton, NJ, 1996."
+   },
+   {
+    "key": "3_CR11",
+    "doi-asserted-by": "crossref",
+    "first-page": "241",
+    "DOI": "10.24033/bsmf.1779",
+    "volume": "102",
+    "author": "M. Raynaud",
+    "year": "1974",
+    "unstructured": "M. Raynaud. Schémas en groupes de type (p,..., p). Bull. Soc. Math. France, 102:241–280, 1974.",
+    "journal-title": "Bull. Soc. Math. France"
+   },
+   {
+    "issue": "2",
+    "key": "3_CR12",
+    "doi-asserted-by": "publisher",
+    "first-page": "233",
+    "DOI": "10.1007/s002220050330",
+    "volume": "137",
+    "author": "T. Tsuji",
+    "year": "1999",
+    "unstructured": "Takeshi Tsuji. p-adic étale cohomology and crystalline cohomology in the semi-stable reduction case. Invent. Math., 137(2):233–411, 1999.",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "3_CR13",
+    "doi-asserted-by": "crossref",
+    "unstructured": "J.P. Wintenberger. Torseurs pour les motifs et pour les représentations p-adiques potentiellement de type CM. Math. Ann., 288(1):1–8.",
+    "DOI": "10.1007/BF01444517"
+   }
+  ],
+  "container-title": [
+   "Progress in Mathematics",
+   "L’isomorphisme entre les tours de Lubin-Tate et de Drinfeld"
+  ],
+  "original-title": [],
+  "language": "fr",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/978-3-7643-8456-2_3.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2020,
+     11,
+     23
+    ]
+   ],
+   "date-time": "2020-11-23T05:21:07Z",
+   "timestamp": 1606108867000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/978-3-7643-8456-2_3"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     null
+    ]
+   ]
+  },
+  "ISBN": [
+   "9783764384555",
+   "9783764384562"
+  ],
+  "references-count": 13,
+  "URL": "https://doi.org/10.1007/978-3-7643-8456-2_3",
+  "relation": {
+   "is-part-of": [
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-3-7643-8456-2",
+     "asserted-by": "object"
+    }
+   ]
+  },
+  "subject": []
+ }
+}

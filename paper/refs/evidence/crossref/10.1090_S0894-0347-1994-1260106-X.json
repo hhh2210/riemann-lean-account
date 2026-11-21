@@ -1,0 +1,1070 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     6
+    ]
+   ],
+   "date-time": "2026-10-06T17:46:45Z",
+   "timestamp": 1791308805481,
+   "version": "4.3.1"
+  },
+  "reference-count": 82,
+  "publisher": "American Mathematical Society (AMS)",
+  "issue": "4",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "J. Amer. Math. Soc."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1994
+    ]
+   ]
+  },
+  "abstract": "<p>Using arithmetic intersection theory, a theory of heights for projective varieties over rings of algebraic integers is developed. These heights are generalizations of those considered by Weil, Schmidt, Nesterenko, Philippon, and Faltings. Several of their properties are proved, including lower bounds and an arithmetic Bézout theorem for the height of the intersection of two projective varieties. New estimates for the size of (generalized) resultants are derived. Among the analytic tools used in the paper are “Green forms” for analytic subvarieties, and the existence of positive Green forms is discussed.</p>",
+  "DOI": "10.1090/s0894-0347-1994-1260106-x",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2010,
+     6,
+     23
+    ]
+   ],
+   "date-time": "2010-06-23T15:31:00Z",
+   "timestamp": 1277307060000
+  },
+  "page": "903-1027",
+  "source": "Crossref",
+  "is-referenced-by-count": 148,
+  "title": [
+   "Heights of projective varieties and positive Green forms"
+  ],
+  "prefix": "10.1090",
+  "volume": "7",
+  "author": [
+   {
+    "given": "J.-B.",
+    "family": "Bost",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "H.",
+    "family": "Gillet",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "C.",
+    "family": "Soulé",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "14",
+  "reference": [
+   {
+    "issue": "3",
+    "key": "1",
+    "first-page": "309",
+    "article-title": "Joins of schemes, linear projections",
+    "volume": "31",
+    "author": "Altman, Allen B.",
+    "year": "1975",
+    "journal-title": "Compositio Math.",
+    "ISSN": "https://id.crossref.org/issn/0010-437X",
+    "issn-type": "print"
+   },
+   {
+    "key": "2",
+    "first-page": "1179",
+    "article-title": "An intersection theory for divisors on an arithmetic surface",
+    "volume": "38",
+    "author": "Arakelov, S. Ju.",
+    "year": "1974",
+    "journal-title": "Izv. Akad. Nauk SSSR Ser. Mat.",
+    "ISSN": "https://id.crossref.org/issn/0373-2436",
+    "issn-type": "print"
+   },
+   {
+    "key": "3",
+    "first-page": "405",
+    "article-title": "Theory of intersections on the arithmetic surface",
+    "author": "Arakelov, S. J.",
+    "year": "1975"
+   },
+   {
+    "issue": "2",
+    "key": "4",
+    "doi-asserted-by": "publisher",
+    "first-page": "219",
+    "DOI": "10.1016/0022-314X(90)90075-3",
+    "article-title": "Products of polynomials in many variables",
+    "volume": "36",
+    "author": "Beauzamy, Bernard",
+    "year": "1990",
+    "journal-title": "J. Number Theory",
+    "ISSN": "https://id.crossref.org/issn/0022-314X",
+    "issn-type": "print"
+   },
+   {
+    "issue": "2",
+    "key": "5",
+    "doi-asserted-by": "crossref",
+    "first-page": "355",
+    "DOI": "10.1007/BF01217912",
+    "article-title": "The asymptotics of the Ray-Singer analytic torsion associated with high powers of a positive line bundle",
+    "volume": "125",
+    "author": "Bismut, Jean-Michel",
+    "year": "1989",
+    "journal-title": "Comm. Math. Phys.",
+    "ISSN": "https://id.crossref.org/issn/0010-3616",
+    "issn-type": "print"
+   },
+   {
+    "key": "6",
+    "doi-asserted-by": "crossref",
+    "first-page": "157",
+    "DOI": "10.24033/asens.1045",
+    "article-title": "Sur les variétés analytiques complexes",
+    "volume": "73",
+    "author": "Blanchard, André",
+    "year": "1956",
+    "journal-title": "Ann. Sci. \\'{E}cole Norm. Sup. (3)",
+    "ISSN": "https://id.crossref.org/issn/0012-9593",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "7",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.2307/2043026",
+    "article-title": "On system of parameters, local intersection multiplicity and Bezout’s theorem",
+    "volume": "78",
+    "author": "Bod’a, Eduard",
+    "year": "1980",
+    "journal-title": "Proc. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9939",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "8",
+    "doi-asserted-by": "publisher",
+    "first-page": "11",
+    "DOI": "10.1007/BF01393823",
+    "article-title": "On Siegel’s lemma",
+    "volume": "73",
+    "author": "Bombieri, E.",
+    "year": "1983",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "key": "9",
+    "doi-asserted-by": "publisher",
+    "first-page": "429",
+    "DOI": "10.1007/BF01471087",
+    "article-title": "Über kompakte homogene Kählersche Mannigfaltigkeiten",
+    "volume": "145",
+    "author": "Borel, A.",
+    "year": "1961",
+    "journal-title": "Math. Ann.",
+    "ISSN": "https://id.crossref.org/issn/0025-5831",
+    "issn-type": "print"
+   },
+   {
+    "issue": "3",
+    "key": "10",
+    "doi-asserted-by": "publisher",
+    "first-page": "899",
+    "DOI": "10.1215/S0012-7094-90-06134-4",
+    "article-title": "Green’s currents and height pairing on complex tori",
+    "volume": "61",
+    "author": "Bost, Jean-Benoît",
+    "year": "1990",
+    "journal-title": "Duke Math. J.",
+    "ISSN": "https://id.crossref.org/issn/0012-7094",
+    "issn-type": "print"
+   },
+   {
+    "key": "11",
+    "unstructured": "\\bysame, Théorie de l’intersection et théorème de Riemann-Roch arithmétiques, Séminaire Bourbaki no 731, 1990/1991, Astérisque 201-203 (1991), 43-88."
+   },
+   {
+    "issue": "11",
+    "key": "12",
+    "first-page": "845",
+    "article-title": "Un analogue arithmétique du théorème de Bézout",
+    "volume": "312",
+    "author": "Bost, Jean-Benoît",
+    "year": "1991",
+    "journal-title": "C. R. Acad. Sci. Paris S\\'{e}r. I Math.",
+    "ISSN": "https://id.crossref.org/issn/0764-4442",
+    "issn-type": "print"
+   },
+   {
+    "key": "13",
+    "doi-asserted-by": "publisher",
+    "first-page": "71",
+    "DOI": "10.1007/BF02391818",
+    "article-title": "Hermitian vector bundles and the equidistribution of the zeroes of their holomorphic sections",
+    "volume": "114",
+    "author": "Bott, Raoul",
+    "year": "1965",
+    "journal-title": "Acta Math.",
+    "ISSN": "https://id.crossref.org/issn/0001-5962",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "14",
+    "doi-asserted-by": "publisher",
+    "first-page": "692",
+    "DOI": "10.1007/BF01571660",
+    "article-title": "Zur algebraischen Geometrie. IX",
+    "volume": "113",
+    "author": "Chow, Wei-Liang",
+    "year": "1937",
+    "journal-title": "Math. Ann.",
+    "ISSN": "https://id.crossref.org/issn/0025-5831",
+    "issn-type": "print"
+   },
+   {
+    "key": "15",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1007/BF01389905",
+    "article-title": "Analytic cycles and vector bundles on non-compact algebraic varieties",
+    "volume": "28",
+    "author": "Cornalba, Maurizio",
+    "year": "1975",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "issue": "2",
+    "key": "16",
+    "doi-asserted-by": "publisher",
+    "first-page": "387",
+    "DOI": "10.2307/2007043",
+    "article-title": "Calculus on arithmetic surfaces",
+    "volume": "119",
+    "author": "Faltings, Gerd",
+    "year": "1984",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "issue": "3",
+    "key": "17",
+    "doi-asserted-by": "publisher",
+    "first-page": "549",
+    "DOI": "10.2307/2944319",
+    "article-title": "Diophantine approximation on abelian varieties",
+    "volume": "133",
+    "author": "Faltings, Gerd",
+    "year": "1991",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "18",
+    "series-title": "Annals of Mathematics Studies",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1515/9781400882472",
+    "volume-title": "Lectures on the arithmetic Riemann-Roch theorem",
+    "volume": "127",
+    "author": "Faltings, Gerd",
+    "year": "1992",
+    "ISBN": "https://id.crossref.org/isbn/0691087717"
+   },
+   {
+    "key": "19",
+    "series-title": "Aspects of Mathematics, E6",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/978-3-322-83918-3",
+    "volume-title": "Rational points",
+    "year": "1984",
+    "ISBN": "https://id.crossref.org/isbn/3528085932"
+   },
+   {
+    "key": "20",
+    "doi-asserted-by": "publisher",
+    "first-page": "65",
+    "DOI": "10.1515/crll.1969.234.65",
+    "article-title": "Truncated Hilbert functors",
+    "volume": "234",
+    "author": "Fogarty, John",
+    "year": "1969",
+    "journal-title": "J. Reine Angew. Math.",
+    "ISSN": "https://id.crossref.org/issn/0075-4102",
+    "issn-type": "print"
+   },
+   {
+    "issue": "45",
+    "key": "21",
+    "doi-asserted-by": "crossref",
+    "first-page": "147",
+    "DOI": "10.1007/BF02684300",
+    "article-title": "Rational equivalence on singular varieties",
+    "author": "Fulton, William",
+    "year": "1975",
+    "journal-title": "Inst. Hautes \\'{E}tudes Sci. Publ. Math.",
+    "ISSN": "https://id.crossref.org/issn/0073-8301",
+    "issn-type": "print"
+   },
+   {
+    "key": "22",
+    "unstructured": "\\bysame, Intersection theory, Ergeb. Math. Grenzgeb. (3), Band 2, Springer-Verlag, Berlin, Heidelberg, and New York, 1984."
+   },
+   {
+    "key": "23",
+    "series-title": "CBMS Regional Conference Series in Mathematics",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1090/cbms/054",
+    "volume-title": "Introduction to intersection theory in algebraic geometry",
+    "volume": "54",
+    "author": "Fulton, William",
+    "year": "1984",
+    "ISBN": "https://id.crossref.org/isbn/0821807048"
+   },
+   {
+    "key": "24",
+    "first-page": "269",
+    "article-title": "Sul calcolo effettivo della forma associata 𝐹(𝑊_{𝛼+𝛽-𝑛}^{𝑔𝑙}) all’intersezione di due cicle effettivi puri 𝑈_{𝛼}^{𝑔}, 𝑉ᵦ^{𝑙} di 𝑆_{𝑛}, in funzione delle 𝐹(𝑈_{𝛼}^{𝑔}), 𝐹(𝑉ᵦ^{𝑙}) relative ai cicli secanti. I",
+    "volume": "24",
+    "author": "Gaeta, Federico",
+    "year": "1958",
+    "journal-title": "Atti Accad. Naz. Lincei Rend. Cl. Sci. Fis. Mat. Nat. (8)",
+    "ISSN": "https://id.crossref.org/issn/0392-7881",
+    "issn-type": "print"
+   },
+   {
+    "key": "25",
+    "doi-asserted-by": "crossref",
+    "unstructured": "I. M. Gelfand, Collected papers (S. G. Gindikin, V. W. Guillemin, A. A. Kirillov, B. Kostant, and S. Sternberg, eds.), Springer-Verlag, Berlin, 1987-1989.",
+    "DOI": "10.1007/978-3-642-61705-8"
+   },
+   {
+    "key": "26",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "first-page": "209",
+    "DOI": "10.1090/conm/067/902594",
+    "article-title": "An introduction to higher-dimensional Arakelov theory",
+    "author": "Gillet, Henri",
+    "year": "1987",
+    "ISBN": "https://id.crossref.org/isbn/0821850701"
+   },
+   {
+    "issue": "2",
+    "key": "27",
+    "doi-asserted-by": "publisher",
+    "first-page": "243",
+    "DOI": "10.1007/BF01388705",
+    "article-title": "Intersection theory using Adams operations",
+    "volume": "90",
+    "author": "Gillet, H.",
+    "year": "1987",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "issue": "72",
+    "key": "28",
+    "doi-asserted-by": "crossref",
+    "first-page": "93",
+    "DOI": "10.1007/BF02699132",
+    "article-title": "Arithmetic intersection theory",
+    "author": "Gillet, Henri",
+    "year": "1990",
+    "journal-title": "Inst. Hautes \\'{E}tudes Sci. Publ. Math.",
+    "ISSN": "https://id.crossref.org/issn/0073-8301",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "29",
+    "doi-asserted-by": "publisher",
+    "first-page": "163",
+    "DOI": "10.2307/1971512",
+    "article-title": "Characteristic classes for algebraic vector bundles with Hermitian metric. I",
+    "volume": "131",
+    "author": "Gillet, Henri",
+    "year": "1990",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "issue": "17",
+    "key": "30",
+    "first-page": "887",
+    "article-title": "Amplitude arithmétique",
+    "volume": "307",
+    "author": "Gillet, Henri",
+    "year": "1988",
+    "journal-title": "C. R. Acad. Sci. Paris S\\'{e}r. I Math.",
+    "ISSN": "https://id.crossref.org/issn/0249-6291",
+    "issn-type": "print"
+   },
+   {
+    "issue": "17",
+    "key": "31",
+    "first-page": "929",
+    "article-title": "Un théorème de Riemann-Roch-Grothendieck arithmétique",
+    "volume": "309",
+    "author": "Gillet, Henri",
+    "year": "1989",
+    "journal-title": "C. R. Acad. Sci. Paris S\\'{e}r. I Math.",
+    "ISSN": "https://id.crossref.org/issn/0764-4442",
+    "issn-type": "print"
+   },
+   {
+    "issue": "3",
+    "key": "32",
+    "doi-asserted-by": "publisher",
+    "first-page": "473",
+    "DOI": "10.1007/BF01231343",
+    "article-title": "An arithmetic Riemann-Roch theorem",
+    "volume": "110",
+    "author": "Gillet, Henri",
+    "year": "1992",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "issue": "2-3",
+    "key": "33",
+    "doi-asserted-by": "publisher",
+    "first-page": "347",
+    "DOI": "10.1007/BF02775796",
+    "article-title": "On the number of lattice points in convex symmetric bodies and their duals",
+    "volume": "74",
+    "author": "Gillet, H.",
+    "year": "1991",
+    "journal-title": "Israel J. Math.",
+    "ISSN": "https://id.crossref.org/issn/0021-2172",
+    "issn-type": "print"
+   },
+   {
+    "issue": "4",
+    "key": "34",
+    "doi-asserted-by": "publisher",
+    "first-page": "600",
+    "DOI": "10.1007/BF02566369",
+    "article-title": "Reduction theory using semistability",
+    "volume": "59",
+    "author": "Grayson, Daniel R.",
+    "year": "1984",
+    "journal-title": "Comment. Math. Helv.",
+    "ISSN": "https://id.crossref.org/issn/0010-2571",
+    "issn-type": "print"
+   },
+   {
+    "key": "35",
+    "unstructured": "W. Gubler, Höhentheorie, Dissertation, ETH, Zurich, 1992."
+   },
+   {
+    "issue": "4",
+    "key": "36",
+    "doi-asserted-by": "publisher",
+    "first-page": "107",
+    "DOI": "10.1155/S1073792893000108",
+    "article-title": "Archimedean height pairing of intersecting cycles",
+    "author": "Wang, B.",
+    "year": "1993",
+    "journal-title": "Internat. Math. Res. Notices",
+    "ISSN": "https://id.crossref.org/issn/1073-7928",
+    "issn-type": "print"
+   },
+   {
+    "key": "37",
+    "first-page": "43",
+    "article-title": "Positive (𝑝,𝑝) forms, Wirtinger’s inequality, and currents",
+    "author": "Harvey, Reese",
+    "year": "1974"
+   },
+   {
+    "key": "38",
+    "series-title": "Pure and Applied Mathematics",
+    "isbn-type": "print",
+    "volume-title": "Groups and geometric analysis",
+    "volume": "113",
+    "author": "Helgason, Sigurdur",
+    "year": "1984",
+    "ISBN": "https://id.crossref.org/isbn/0123383013"
+   },
+   {
+    "key": "39",
+    "unstructured": "M. Hindry, Letter to J.-B. Bost, January 1990."
+   },
+   {
+    "issue": "3-4",
+    "key": "40",
+    "doi-asserted-by": "publisher",
+    "first-page": "185",
+    "DOI": "10.1007/BF02392053",
+    "article-title": "The currents defined by analytic varieties",
+    "volume": "127",
+    "author": "King, James R.",
+    "year": "1971",
+    "journal-title": "Acta Math.",
+    "ISSN": "https://id.crossref.org/issn/0001-5962",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "41",
+    "doi-asserted-by": "publisher",
+    "first-page": "19",
+    "DOI": "10.7146/math.scand.a-11642",
+    "article-title": "The projectivity of the moduli space of stable curves. I. Preliminaries on “det” and “Div”",
+    "volume": "39",
+    "author": "Knudsen, Finn Faye",
+    "year": "1976",
+    "journal-title": "Math. Scand.",
+    "ISSN": "https://id.crossref.org/issn/0025-5521",
+    "issn-type": "print"
+   },
+   {
+    "key": "42",
+    "unstructured": "J. Kramer, Néron-Tate height for cycles on Abelian varieties (d’après Faltings), preprint."
+   },
+   {
+    "key": "43",
+    "doi-asserted-by": "crossref",
+    "unstructured": "L. Kronecker, Grundzüge einer arithmetischen Theorie der algebraischen Grössen, Crelle J. Reine Angew. Math. 92 (1881-1882), 1-122; Werke, Vol. II, Leipzig, Teubner, 1897, pp. 237-287.",
+    "DOI": "10.1515/crll.1882.92.1"
+   },
+   {
+    "key": "44",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/978-1-4612-1031-3",
+    "volume-title": "Introduction to Arakelov theory",
+    "author": "Lang, Serge",
+    "year": "1988",
+    "ISBN": "https://id.crossref.org/isbn/0387967931"
+   },
+   {
+    "key": "45",
+    "isbn-type": "print",
+    "first-page": "215",
+    "article-title": "Hauteur de matrices d’interpolation",
+    "author": "Laurent, Michel",
+    "year": "1992",
+    "ISBN": "https://id.crossref.org/isbn/3110134861"
+   },
+   {
+    "key": "46",
+    "unstructured": "P. Lelong,Plurisubharmonic functions and positive differential forms, Gordon and Breach, New York, 1969."
+   },
+   {
+    "issue": "2",
+    "key": "47",
+    "first-page": "139",
+    "article-title": "Mesure de Mahler des polynômes et majoration par convexité",
+    "volume": "315",
+    "author": "Lelong, Pierre",
+    "year": "1992",
+    "journal-title": "C. R. Acad. Sci. Paris S\\'{e}r. I Math.",
+    "ISSN": "https://id.crossref.org/issn/0764-4442",
+    "issn-type": "print"
+   },
+   {
+    "key": "48",
+    "doi-asserted-by": "publisher",
+    "first-page": "529",
+    "DOI": "10.2307/1969942",
+    "article-title": "A theorem on holomorphic mappings into complex projective space",
+    "volume": "71",
+    "author": "Levine, Harold I.",
+    "year": "1960",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "49",
+    "unstructured": "L. Moret-Bailly, Pinceaux de variétés abéliennes, Astérisque 129 (1985)."
+   },
+   {
+    "key": "50",
+    "unstructured": "\\bysame, Métriques permises, Séminaire sur les Pinceaux Arithmétiques; la Conjecture de Mordell, Astérisque 127 (1985), 29-87."
+   },
+   {
+    "issue": "183",
+    "key": "51",
+    "first-page": "37",
+    "article-title": "Hauteurs et classes de Chern sur les surfaces arithmétiques",
+    "author": "Moret-Bailly, Laurent",
+    "year": "1990",
+    "journal-title": "Ast\\'{e}risque",
+    "ISSN": "https://id.crossref.org/issn/0303-1179",
+    "issn-type": "print"
+   },
+   {
+    "key": "52",
+    "unstructured": "F. Mertens, Über die bestimmenden Eigenschaften der Resultante von 𝑛-Formen mit 𝑛 Veränderlichen, Sitzungsber. Wiener Akad. 93 (1886), 527-566."
+   },
+   {
+    "key": "53",
+    "series-title": "Ergebnisse der Mathematik und ihrer Grenzgebiete [Results in Mathematics and Related Areas]",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/978-3-642-96676-7",
+    "volume-title": "Geometric invariant theory",
+    "volume": "34",
+    "author": "Mumford, David",
+    "year": "1982",
+    "ISBN": "https://id.crossref.org/isbn/3540112901",
+    "edition": "2"
+   },
+   {
+    "issue": "2",
+    "key": "54",
+    "first-page": "253",
+    "article-title": "Estimate of the orders of the zeroes of functions of a certain class, and their application in the theory of transcendental numbers",
+    "volume": "41",
+    "author": "Nesterenko, Ju. V.",
+    "year": "1977",
+    "journal-title": "Izv. Akad. Nauk SSSR Ser. Mat.",
+    "ISSN": "https://id.crossref.org/issn/0373-2436",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "55",
+    "first-page": "11",
+    "article-title": "Estimates for the characteristic function of a prime ideal",
+    "volume": "123(165)",
+    "author": "Nesterenko, Yu. V.",
+    "year": "1984",
+    "journal-title": "Mat. Sb. (N.S.)",
+    "ISSN": "https://id.crossref.org/issn/0368-8666",
+    "issn-type": "print"
+   },
+   {
+    "key": "56",
+    "doi-asserted-by": "publisher",
+    "first-page": "502",
+    "DOI": "10.1017/s0305004100025202",
+    "article-title": "An inequality in the theory of arithmetic on algebraic varieties",
+    "volume": "45",
+    "author": "Northcott, D. G.",
+    "year": "1949",
+    "journal-title": "Proc. Cambridge Philos. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0008-1981",
+    "issn-type": "print"
+   },
+   {
+    "issue": "64",
+    "key": "57",
+    "doi-asserted-by": "crossref",
+    "first-page": "5",
+    "DOI": "10.1007/BF02699191",
+    "article-title": "Critères pour l’indépendance algébrique",
+    "author": "Philippon, Patrice",
+    "year": "1986",
+    "journal-title": "Inst. Hautes \\'{E}tudes Sci. Publ. Math.",
+    "ISSN": "https://id.crossref.org/issn/0073-8301",
+    "issn-type": "print"
+   },
+   {
+    "issue": "2",
+    "key": "58",
+    "doi-asserted-by": "publisher",
+    "first-page": "255",
+    "DOI": "10.1007/BF01446571",
+    "article-title": "Sur des hauteurs alternatives. I",
+    "volume": "289",
+    "author": "Philippon, Patrice",
+    "year": "1991",
+    "journal-title": "Math. Ann.",
+    "ISSN": "https://id.crossref.org/issn/0025-5831",
+    "issn-type": "print"
+   },
+   {
+    "issue": "2",
+    "key": "59",
+    "doi-asserted-by": "publisher",
+    "first-page": "255",
+    "DOI": "10.1007/BF01446571",
+    "article-title": "Sur des hauteurs alternatives. I",
+    "volume": "289",
+    "author": "Philippon, Patrice",
+    "year": "1991",
+    "journal-title": "Math. Ann.",
+    "ISSN": "https://id.crossref.org/issn/0025-5831",
+    "issn-type": "print"
+   },
+   {
+    "key": "60",
+    "series-title": "Ergebnisse der Mathematik und ihrer Grenzgebiete [Results in Mathematics and Related Areas], Band 4",
+    "volume-title": "M\\'{e}thodes d'alg\\`ebre abstraite en g\\'{e}om\\'{e}trie alg\\'{e}brique",
+    "author": "Samuel, Pierre",
+    "year": "1967"
+   },
+   {
+    "key": "61",
+    "doi-asserted-by": "publisher",
+    "first-page": "430",
+    "DOI": "10.2307/1970352",
+    "article-title": "On heights of algebraic subspaces and diophantine approximations",
+    "volume": "85",
+    "author": "Schmidt, Wolfgang M.",
+    "year": "1967",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "62",
+    "series-title": "Translations of Mathematical Monographs",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1090/mmono/061",
+    "volume-title": "Distribution of values of holomorphic mappings",
+    "volume": "61",
+    "author": "Shabat, B. V.",
+    "year": "1985",
+    "ISBN": "https://id.crossref.org/isbn/0821845144"
+   },
+   {
+    "key": "63",
+    "unstructured": "C. L. Siegel, Über einige Anwendungen diophantischer Approximationen, Abhandlungen Preussischen Akad. Wiss. (1929), 41-69."
+   },
+   {
+    "issue": "183",
+    "key": "64",
+    "first-page": "127",
+    "article-title": "Théorie de Nevanlinna et théorie d’Arakelov",
+    "author": "Soulé, C.",
+    "year": "1990",
+    "journal-title": "Ast\\'{e}risque",
+    "ISSN": "https://id.crossref.org/issn/0303-1179",
+    "issn-type": "print"
+   },
+   {
+    "key": "65",
+    "unstructured": "\\bysame, Géométrie d’Arakelov et théorie des nombres transcendants, J. Arithmétiques de Luminy (17-21 juillet 1989), Astérisque 198-200 (1991), 355-371."
+   },
+   {
+    "key": "66",
+    "doi-asserted-by": "crossref",
+    "unstructured": "\\bysame, Opérations en 𝐾-théorie algébrique, Canad. J. Math. 27 (1985), 488-550.",
+    "DOI": "10.4153/CJM-1985-029-x"
+   },
+   {
+    "key": "67",
+    "series-title": "Cambridge Studies in Advanced Mathematics",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/CBO9780511623950",
+    "volume-title": "Lectures on Arakelov geometry",
+    "volume": "33",
+    "author": "Soulé, C.",
+    "year": "1992",
+    "ISBN": "https://id.crossref.org/isbn/0521416698"
+   },
+   {
+    "key": "68",
+    "doi-asserted-by": "publisher",
+    "first-page": "87",
+    "DOI": "10.1007/BF01111553",
+    "article-title": "The continuity of the fiber integral",
+    "volume": "95",
+    "author": "Stoll, Wilhelm",
+    "year": "1967",
+    "journal-title": "Math. Z.",
+    "ISSN": "https://id.crossref.org/issn/0025-5874",
+    "issn-type": "print"
+   },
+   {
+    "key": "69",
+    "doi-asserted-by": "publisher",
+    "first-page": "83",
+    "DOI": "10.1007/BF02392386",
+    "article-title": "About the value distribution of holomorphic maps into the projective space",
+    "volume": "123",
+    "author": "Stoll, Wilhelm",
+    "year": "1969",
+    "journal-title": "Acta Math.",
+    "ISSN": "https://id.crossref.org/issn/0001-5962",
+    "issn-type": "print"
+   },
+   {
+    "key": "70",
+    "series-title": "Lecture Notes in Mathematics, Vol. 135",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0059118",
+    "volume-title": "Value distribution of holomorphic maps into compact complex manifolds",
+    "author": "Stoll, Wilhelm",
+    "year": "1970"
+   },
+   {
+    "issue": "2",
+    "key": "71",
+    "doi-asserted-by": "publisher",
+    "first-page": "166",
+    "DOI": "10.1090/S0002-9904-1977-14247-X",
+    "article-title": "Aspects of value distribution theory in several complex variables",
+    "volume": "83",
+    "author": "Stoll, Wilhelm",
+    "year": "1977",
+    "journal-title": "Bull. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9904",
+    "issn-type": "print"
+   },
+   {
+    "issue": "6",
+    "key": "72",
+    "doi-asserted-by": "publisher",
+    "first-page": "604",
+    "DOI": "10.1007/BF01224726",
+    "article-title": "Eine Bemerkung zur Reduktionstheorie quadratischer Formen",
+    "volume": "27",
+    "author": "Stuhler, Ulrich",
+    "year": "1976",
+    "journal-title": "Arch. Math. (Basel)",
+    "ISSN": "https://id.crossref.org/issn/0003-889X",
+    "issn-type": "print"
+   },
+   {
+    "key": "73",
+    "isbn-type": "print",
+    "first-page": "493",
+    "article-title": "Inequalities for heights of algebraic subspaces and the Thue-Siegel principle",
+    "author": "Struppeck, Thomas",
+    "year": "1990",
+    "ISBN": "https://id.crossref.org/isbn/0817634819"
+   },
+   {
+    "issue": "127",
+    "key": "74",
+    "first-page": "11",
+    "article-title": "Degrés, intersections, hauteurs",
+    "author": "Szpiro, Lucien",
+    "year": "1985",
+    "journal-title": "Ast\\'{e}risque",
+    "ISSN": "https://id.crossref.org/issn/0303-1179",
+    "issn-type": "print"
+   },
+   {
+    "key": "75",
+    "series-title": "Tata Institute of Fundamental Research Lectures on Mathematics and Physics",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/978-3-662-00493-7",
+    "volume-title": "Lectures on results on Bezout's theorem",
+    "volume": "74",
+    "author": "Vogel, W.",
+    "year": "1984",
+    "ISBN": "https://id.crossref.org/isbn/3540126791"
+   },
+   {
+    "key": "76",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "first-page": "164",
+    "DOI": "10.1007/BFb0084730",
+    "article-title": "Applications of arithmetic algebraic geometry to Diophantine approximations",
+    "author": "Vojta, Paul",
+    "year": "1993",
+    "ISBN": "https://id.crossref.org/isbn/3540571108"
+   },
+   {
+    "key": "77",
+    "volume-title": "Moderne Algebra",
+    "author": "van der Waerden, Bartel Leendert",
+    "year": "1940"
+   },
+   {
+    "key": "78",
+    "first-page": "90",
+    "article-title": "Number-theory and algebraic geometry",
+    "author": "Weil, André",
+    "year": "1952"
+   },
+   {
+    "key": "79",
+    "doi-asserted-by": "publisher",
+    "first-page": "412",
+    "DOI": "10.2307/1969564",
+    "article-title": "Arithmetic on algebraic varieties",
+    "volume": "53",
+    "author": "Weil, André",
+    "year": "1951",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "issue": "3",
+    "key": "80",
+    "doi-asserted-by": "publisher",
+    "first-page": "363",
+    "DOI": "10.1007/BF01398393",
+    "article-title": "Über das Abelsche Analogon des Lindemannschen Satzes. I",
+    "volume": "72",
+    "author": "Wüstholz, G.",
+    "year": "1983",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "issue": "3",
+    "key": "81",
+    "doi-asserted-by": "publisher",
+    "first-page": "569",
+    "DOI": "10.2307/2946601",
+    "article-title": "Positive line bundles on arithmetic surfaces",
+    "volume": "136",
+    "author": "Zhang, Shouwu",
+    "year": "1992",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "82",
+    "unstructured": "\\bysame, Positive line bundles on arithmetic varieties, preprint, February 1992."
+   }
+  ],
+  "container-title": [
+   "Journal of the American Mathematical Society"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://www.ams.org/jams/1994-07-04/S0894-0347-1994-1260106-X/S0894-0347-1994-1260106-X.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "https://www.ams.org/jams/1994-07-04/S0894-0347-1994-1260106-X/S0894-0347-1994-1260106-X.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     4,
+     20
+    ]
+   ],
+   "date-time": "2026-04-20T02:16:51Z",
+   "timestamp": 1776651411000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.ams.org/jams/1994-07-04/S0894-0347-1994-1260106-X/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1994
+    ]
+   ]
+  },
+  "references-count": 82,
+  "aliases": [
+   "10.2307/2152736"
+  ],
+  "journal-issue": {
+   "issue": "4",
+   "published-print": {
+    "date-parts": [
+     [
+      1994,
+      10
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "S0894-0347-1994-1260106-X"
+  ],
+  "URL": "https://doi.org/10.1090/s0894-0347-1994-1260106-x",
+  "archive": [
+   "CLOCKSS",
+   "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+   "1088-6834",
+   "0894-0347"
+  ],
+  "issn-type": [
+   {
+    "value": "1088-6834",
+    "type": "electronic"
+   },
+   {
+    "value": "0894-0347",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1994
+    ]
+   ]
+  }
+ }
+}

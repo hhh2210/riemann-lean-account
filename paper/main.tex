@@ -1,0 +1,145 @@
+% An account of the argument in Alpöge's formal proof of the Riemann Hypothesis.
+% Build:  latexmk -pdf main.tex   (pdflatex + biber)
+\PassOptionsToPackage{obeyspaces}{url}% \lean{lake build Main} keeps its spaces
+\documentclass[11pt,a4paper,reqno]{amsart}
+
+% ---------------------------------------------------------------- encoding, fonts
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\DeclareUnicodeCharacter{2082}{\textsubscript{2}}% the subscript 2 of some Lean names
+\usepackage{lmodern}
+\usepackage[final]{microtype}
+
+% ---------------------------------------------------------------- layout
+\usepackage[a4paper,margin=1.15in]{geometry}
+\usepackage{enumitem}
+\setlist{leftmargin=2em,itemsep=0.25em,topsep=0.4em}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{xcolor}
+
+% ---------------------------------------------------------------- mathematics
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{mathtools}
+
+% ---------------------------------------------------------------- references
+\usepackage[backend=biber,style=alphabetic,maxbibnames=99,maxalphanames=4,
+            giveninits=true,doi=true,url=true,isbn=false,eprint=true,
+            sorting=nyt,backref=false]{biblatex}
+\addbibresource{references.bib}
+\renewcommand*{\bibfont}{\small}
+% let DOIs and URLs in the reference list break after letters and digits
+\setcounter{biburllcpenalty}{7000}
+\setcounter{biburlucpenalty}{8000}
+\setcounter{biburlnumpenalty}{9000}
+
+\usepackage[colorlinks=true,linkcolor=blue!50!black,citecolor=green!35!black,
+            urlcolor=blue!50!black,pdfusetitle]{hyperref}
+\usepackage[nameinlink,capitalise,noabbrev]{cleveref}
+
+% ---------------------------------------------------------------- theorem environments
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{statement}[theorem]{Statement}
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+\numberwithin{equation}{section}
+% statements and remarks share the theorem counter; tell cleveref what each one is
+\crefname{statement}{Statement}{Statements}
+\crefname{remark}{Remark}{Remarks}
+\AtBeginEnvironment{statement}{\crefalias{theorem}{statement}}
+\AtBeginEnvironment{remark}{\crefalias{theorem}{remark}}
+
+% ---------------------------------------------------------------- macros
+% Lean identifiers and paths: typewriter, breakable, safe for underscores.
+\DeclareUrlCommand\lean{\urlstyle{tt}}
+\DeclareUrlCommand\leanpath{\urlstyle{tt}\def\UrlFont{\ttfamily\footnotesize}}
+% In generated tables: the generator inserts the break points (tools/leanfmt.py).
+\newcommand{\leanb}[1]{{\ttfamily #1}}
+
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\fp}{\mathfrak{p}}
+\newcommand{\fP}{\mathfrak{P}}
+\newcommand{\Gal}{\operatorname{Gal}}
+\newcommand{\Frob}{\operatorname{Frob}}
+\newcommand{\re}{\operatorname{Re}}
+\newcommand{\im}{\operatorname{Im}}
+\newcommand{\rk}{\operatorname{rk}}
+\newcommand{\tr}{\operatorname{tr}}
+\newcommand{\vol}{\operatorname{vol}}
+\newcommand{\covol}{\operatorname{covol}}
+\newcommand{\htt}{\operatorname{ht}}
+\newcommand{\len}{\operatorname{len}}
+\newcommand{\Sha}{\mathrm{Sha}}
+\newcommand{\GL}{\mathrm{GL}}
+\newcommand{\U}{\mathrm{U}}
+\newcommand{\GSp}{\mathrm{GSp}}
+\newcommand{\ASK}{\mathrm{ASK}}
+\newcommand{\MAIN}{\mathrm{MAIN}}
+\newcommand{\Err}{\mathrm{Err}}
+\newcommand{\ph}{\operatorname{ph}}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\abs}[1]{\lvert #1\rvert}
+\newcommand{\norm}[1]{\lVert #1\rVert}
+
+% Evidence marks. They annotate the source of this paper and print nothing: the basis for each
+% claim is recorded in the audit appendix, not in the running text.
+\newcommand{\lvM}{\unskip}   % checked by machine in our build
+\newcommand{\lvS}{\unskip}   % Lean statement read by the authors
+\newcommand{\lvP}{\unskip}   % Lean proof read by the authors
+\newcommand{\lvD}{\unskip}   % from a reader's report
+
+\input{version}
+
+\begin{document}
+
+\title[The argument of a formal proof of the Riemann Hypothesis]%
+      {The argument of Alp\"oge's formal proof of the\\ Riemann Hypothesis: an account read from the Lean source}
+
+\author{Qui Vincit}
+\author{Fable}
+\thanks{Fable is a language model (Claude, Anthropic). \Cref{sec:method} states who did what.}
+\date{\paperdate. Version \paperversion.}
+
+\begin{abstract}
+\input{sections/abstract}
+\end{abstract}
+
+\maketitle
+\setcounter{tocdepth}{1}
+\tableofcontents
+
+\input{sections/introduction}
+\input{sections/verification}
+\input{sections/overview}
+\input{sections/analytic}
+\input{sections/lattices}
+\input{sections/divisibility}
+\input{sections/frame}
+\input{sections/cohomology}
+\input{sections/hosts}
+\input{sections/literature}
+\input{sections/offpath}
+\input{sections/method}
+\input{sections/directions}
+
+\appendix
+\crefalias{section}{appendix}
+\input{sections/appendix-audit}
+\input{sections/appendix-reproduce}
+\input{sections/appendix-rows}
+
+\printbibliography
+
+\end{document}

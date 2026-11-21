@@ -1,0 +1,145 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     20
+    ]
+   ],
+   "date-time": "2026-10-20T20:38:31Z",
+   "timestamp": 1792528711202,
+   "version": "4.5.0"
+  },
+  "reference-count": 0,
+  "publisher": "Mathematical Society of Japan (Project Euclid)",
+  "issue": "2",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "J. Math. Soc. Japan"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1970,
+     4,
+     1
+    ]
+   ]
+  },
+  "DOI": "10.2969/jmsj/02220213",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2009,
+     12,
+     4
+    ]
+   ],
+   "date-time": "2009-12-04T11:06:43Z",
+   "timestamp": 1259924803000
+  },
+  "page": "213-246",
+  "source": "Crossref",
+  "is-referenced-by-count": 101,
+  "title": [
+   "On the theory of commutative formal groups"
+  ],
+  "prefix": "10.2969",
+  "volume": "22",
+  "author": [
+   {
+    "given": "Taira",
+    "family": "HONDA",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "1529",
+  "container-title": [
+   "Journal of the Mathematical Society of Japan"
+  ],
+  "original-title": [],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     20
+    ]
+   ],
+   "date-time": "2026-10-20T19:42:50Z",
+   "timestamp": 1792525370000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://projecteuclid.org/journals/journal-of-the-mathematical-society-of-japan/volume-22/issue-2/On-the-theory-of-commutative-formal-groups/10.2969/jmsj/02220213.full"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1970,
+     4,
+     1
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "2",
+   "published-online": {
+    "date-parts": [
+     [
+      1970,
+      4,
+      1
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.2969/jmsj/02220213",
+  "relation": {},
+  "ISSN": [
+   "0025-5645",
+   "1881-1167"
+  ],
+  "issn-type": [
+   {
+    "value": "0025-5645",
+    "type": "print"
+   },
+   {
+    "value": "1881-1167",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1970,
+     4,
+     1
+    ]
+   ]
+  }
+ }
+}

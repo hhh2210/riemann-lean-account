@@ -1,0 +1,268 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     12
+    ]
+   ],
+   "date-time": "2026-10-12T23:54:47Z",
+   "timestamp": 1791849287830,
+   "version": "4.3.4"
+  },
+  "reference-count": 15,
+  "publisher": "Duke University Press",
+  "issue": "1",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Duke Math. J."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2001,
+     3,
+     1
+    ]
+   ]
+  },
+  "abstract": "<jats:p>In a series of recent papers, G. Shimura obtained an exact formula for the mass of a maximal lattice in a quadratic or hermitian space over a totally real number field. Using Bruhat-Tits theory, we obtain a quick and more conceptual proof of his formula when the form is totally definite.</jats:p>",
+  "DOI": "10.1215/s0012-7094-01-10716-3",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2004,
+     11,
+     8
+    ]
+   ],
+   "date-time": "2004-11-08T16:03:55Z",
+   "timestamp": 1099929835000
+  },
+  "page": "103-133",
+  "source": "Crossref",
+  "is-referenced-by-count": 28,
+  "title": [
+   "On an exact mass formula of Shimura"
+  ],
+  "prefix": "10.1215",
+  "volume": "107",
+  "author": [
+   {
+    "given": "Wee Teck",
+    "family": "Gan",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jonathan P.",
+    "family": "Hanke",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jiu-Kang",
+    "family": "Yu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "73",
+  "reference": [
+   {
+    "key": "1",
+    "doi-asserted-by": "crossref",
+    "unstructured": "\\lccF. Bruhat \\and J. Tits, <i>Groupes réductifs sur un corps local, II: Schémas en groupes; existence d'une donnée radicielle valuée,</i> Inst. Hautes Études Sci. Publ. Math. <b>60</b> (1984), 197–376.",
+    "DOI": "10.1007/BF02700560"
+   },
+   {
+    "key": "2",
+    "doi-asserted-by": "crossref",
+    "unstructured": "––––, <i>Schémas en groupes et immeubles des groupes classiques sur un corps local, II: Groupes unitaires</i>, Bull. Soc. Math. France <b>115</b> (1987), 141–195.",
+    "DOI": "10.24033/bsmf.2073"
+   },
+   {
+    "key": "3",
+    "doi-asserted-by": "publisher",
+    "unstructured": "\\lccB. H. Gross, <i>On the motive of a reductive group</i>, Invent. Math. <b>130</b> (1997), 287–313.",
+    "DOI": "10.1007/s002220050186"
+   },
+   {
+    "key": "4",
+    "doi-asserted-by": "publisher",
+    "unstructured": "\\lccB. H. Gross \\and W. T. Gan, <i>Haar measure and the Artin conductor</i>, Trans. Amer. Math. Soc. <b>351</b> (1999), 1691–1704.",
+    "DOI": "10.1090/S0002-9947-99-02095-4"
+   },
+   {
+    "key": "5",
+    "doi-asserted-by": "publisher",
+    "unstructured": "\\lccR. Kottwitz, <i>Tamagawa numbers</i>, Ann. of Math. (2) <b>127</b> (1988), 629–\\hs646.",
+    "DOI": "10.2307/2007007"
+   },
+   {
+    "key": "6",
+    "doi-asserted-by": "crossref",
+    "unstructured": "\\lccA. Moy \\and G. Prasad, <i>Unrefined minimal $K$-types for $p$-adic groups</i>, Invent. Math. <b>116</b> (1994), 393–\\hs408.",
+    "DOI": "10.1007/BF01231566"
+   },
+   {
+    "key": "7",
+    "doi-asserted-by": "publisher",
+    "unstructured": "\\lccA. Moy \\and G. Prasad, <i>Jacquet functors and unrefined minimal $K$-types</i>, Comment. Math. Helv. <b>71</b> (1996), 98–121.",
+    "DOI": "10.1007/BF02566411"
+   },
+   {
+    "key": "8",
+    "doi-asserted-by": "crossref",
+    "unstructured": "\\lccT. Ono, “On Tamagawa numbers” in <i>Algebraic Groups and Discontinuous Subgroups (Boulder, Colo., 1965)</i>, Proc. Sympos. Pure Math. <b>9</b>, Amer. Math. Soc., Providence, 1966, 122–132.",
+    "DOI": "10.1090/pspum/009/0209290"
+   },
+   {
+    "key": "9",
+    "doi-asserted-by": "crossref",
+    "unstructured": "\\lccG. Prasad, <i>Volumes of $S$-arithmetic quotients of semisimple groups</i>, Inst. Hautes Études Sci. Publ. Math. <b>69</b> (1989), 91–117.",
+    "DOI": "10.1007/BF02698841"
+   },
+   {
+    "key": "10",
+    "doi-asserted-by": "crossref",
+    "unstructured": "\\lccG. Shimura, <i>Euler Products and Eisenstein Series</i>, CBMS Reg. Conf. Ser. Math. <b>93</b>, Amer. Math. Soc., Providence, 1997.",
+    "DOI": "10.1090/cbms/093"
+   },
+   {
+    "key": "11",
+    "doi-asserted-by": "crossref",
+    "unstructured": "––––, <i>An exact mass formula for orthogonal groups</i>, Duke Math. J. <b>97</b> (1999),1–\\hs66.",
+    "DOI": "10.1215/S0012-7094-99-09701-6"
+   },
+   {
+    "key": "12",
+    "doi-asserted-by": "crossref",
+    "unstructured": "––––, <i>Some exact formulas on quaternion unitary groups</i>, J. Reine Angew. Math. <b>509</b> (1999), 67–102.",
+    "DOI": "10.1515/crll.1999.509.67"
+   },
+   {
+    "key": "13",
+    "doi-asserted-by": "crossref",
+    "unstructured": "\\lccJ.-P. Serre, <i>Local Fields</i>, Grad. Texts in Math. <b>67</b>, Springer, New York, 1979.",
+    "DOI": "10.1007/978-1-4757-5673-9"
+   },
+   {
+    "key": "14",
+    "doi-asserted-by": "crossref",
+    "unstructured": "\\lccJ. Tits, “Reductive groups over local fields” in <i>Automorphic Forms, Representations, and L-functions, I (Oregon State Univ., Corvallis, 1977)</i>, Proc. Sympos. Pure Math. <b>33</b>, Amer. Math. Soc., Providence, 1979, 29–\\hs69",
+    "DOI": "10.1090/pspum/033.1/546588"
+   },
+   {
+    "key": "15",
+    "unstructured": "\\lccJ.-K. Yu, <i>Construction of tame supercuspidal representations</i>, to appear in J. Amer. Math. Soc."
+   }
+  ],
+  "container-title": [
+   "Duke Mathematical Journal"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "https://projecteuclid.org/journalArticle/Download?urlid=10.1215/S0012-7094-01-10716-3",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     12
+    ]
+   ],
+   "date-time": "2026-10-12T23:28:13Z",
+   "timestamp": 1791847693000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://projecteuclid.org/journals/duke-mathematical-journal/volume-107/issue-1/On-an-exact-mass-formula-of-Shimura/10.1215/S0012-7094-01-10716-3.full"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2001,
+     3,
+     1
+    ]
+   ]
+  },
+  "references-count": 15,
+  "journal-issue": {
+   "issue": "1",
+   "published-online": {
+    "date-parts": [
+     [
+      2001,
+      3,
+      1
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.1215/s0012-7094-01-10716-3",
+  "relation": {},
+  "ISSN": [
+   "0012-7094",
+   "1547-7398"
+  ],
+  "issn-type": [
+   {
+    "value": "0012-7094",
+    "type": "print"
+   },
+   {
+    "value": "1547-7398",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2001,
+     3,
+     1
+    ]
+   ]
+  }
+ }
+}

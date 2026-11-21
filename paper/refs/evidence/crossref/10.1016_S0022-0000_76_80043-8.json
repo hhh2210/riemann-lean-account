@@ -1,0 +1,360 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     15
+    ]
+   ],
+   "date-time": "2026-11-15T04:06:46Z",
+   "timestamp": 1794715606380,
+   "version": "4.9.1"
+  },
+  "reference-count": 18,
+  "publisher": "Elsevier BV",
+  "issue": "3",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1976,
+       12,
+       1
+      ]
+     ],
+     "date-time": "1976-12-01T00:00:00Z",
+     "timestamp": 218246400000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+   },
+   {
+    "start": {
+     "date-parts": [
+      [
+       2013,
+       7,
+       17
+      ]
+     ],
+     "date-time": "2013-07-17T00:00:00Z",
+     "timestamp": 1374019200000
+    },
+    "content-version": "vor",
+    "delay-in-days": 13377,
+    "URL": "https://www.elsevier.com/open-access/userlicense/1.0/"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Journal of Computer and System Sciences"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1976,
+     12
+    ]
+   ]
+  },
+  "DOI": "10.1016/s0022-0000(76)80043-8",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2010,
+     11,
+     10
+    ]
+   ],
+   "date-time": "2010-11-10T04:46:40Z",
+   "timestamp": 1289364400000
+  },
+  "page": "300-317",
+  "source": "Crossref",
+  "is-referenced-by-count": 436,
+  "title": [
+   "Riemann's hypothesis and tests for primality"
+  ],
+  "prefix": "10.1016",
+  "volume": "13",
+  "author": [
+   {
+    "given": "Gary L.",
+    "family": "Miller",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "78",
+  "reference": [
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib1",
+    "doi-asserted-by": "crossref",
+    "first-page": "65",
+    "DOI": "10.2307/1969420",
+    "article-title": "The least quadratic non-residue",
+    "volume": "55",
+    "author": "Ankeny",
+    "year": "1952",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib2",
+    "doi-asserted-by": "crossref",
+    "first-page": "106",
+    "DOI": "10.1112/S0025579300001157",
+    "article-title": "The distribution of quadratic residues and non-residues",
+    "volume": "4",
+    "author": "Burgess",
+    "year": "1957",
+    "journal-title": "Mathematika"
+   },
+   {
+    "issue": "No. 3",
+    "key": "10.1016/S0022-0000(76)80043-8_bib3",
+    "doi-asserted-by": "crossref",
+    "first-page": "179",
+    "DOI": "10.1112/plms/s3-12.1.179",
+    "article-title": "On character sums and primitive roots",
+    "volume": "12",
+    "author": "Burgess",
+    "year": "1962",
+    "journal-title": "Proc. London Math. Soc."
+   },
+   {
+    "issue": "No. 3",
+    "key": "10.1016/S0022-0000(76)80043-8_bib4",
+    "doi-asserted-by": "crossref",
+    "first-page": "193",
+    "DOI": "10.1112/plms/s3-12.1.193",
+    "article-title": "On character sums and L-series",
+    "volume": "12",
+    "author": "Burgess",
+    "year": "1962",
+    "journal-title": "Proc. London Math. Soc."
+   },
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib5",
+    "doi-asserted-by": "crossref",
+    "first-page": "22",
+    "DOI": "10.2307/2972687",
+    "article-title": "On composite numbers p which satisfy the Fermat congruence ap-1≡p,",
+    "volume": "19",
+    "author": "Carmichael",
+    "year": "1912",
+    "journal-title": "Amer. Math. Monthly"
+   },
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib6",
+    "series-title": "Conference Record of Third ACM Symposium on Theory of Computing",
+    "first-page": "151",
+    "article-title": "The complexity of theorem-proving procedures",
+    "author": "Cook",
+    "year": "1970"
+   },
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib7",
+    "doi-asserted-by": "crossref",
+    "first-page": "252",
+    "DOI": "10.5486/PMD.1952.2.3-4.18",
+    "article-title": "The distribution of quadratic and higher residues",
+    "volume": "2",
+    "author": "Davenport",
+    "year": "1952",
+    "journal-title": "Publ. Math. Debreien"
+   },
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib8",
+    "first-page": "111",
+    "author": "Hardy",
+    "year": "1968"
+   },
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib9",
+    "series-title": "Complexity of Computer Computations",
+    "first-page": "85",
+    "article-title": "Reducibility among combinatorial problems",
+    "author": "Karp",
+    "year": "1972"
+   },
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib10",
+    "author": "Knuth",
+    "year": "1969"
+   },
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib11",
+    "series-title": "Proceedings of Seventh Annual ACM Symposium on Theory of Computing",
+    "first-page": "234",
+    "article-title": "Riemann's hypothesis and tests for primality",
+    "author": "Miller",
+    "year": "1975"
+   },
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib12",
+    "first-page": "120",
+    "article-title": "Topics in Multiplicative Number Theory",
+    "volume": "Vol. 227",
+    "author": "Montgomery",
+    "year": "1971"
+   },
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib13",
+    "doi-asserted-by": "crossref",
+    "first-page": "337",
+    "DOI": "10.1112/blms/3.3.337",
+    "article-title": "An algorithm for testing the primality of any integer",
+    "volume": "3",
+    "author": "Pollard",
+    "year": "1971",
+    "journal-title": "Bull. London Math. Soc."
+   },
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib14",
+    "doi-asserted-by": "crossref",
+    "first-page": "521",
+    "DOI": "10.1017/S0305004100049252",
+    "article-title": "Theorems on factorization and primality testing",
+    "volume": "76",
+    "author": "Pollard",
+    "year": "1974",
+    "journal-title": "Proc. Cambridge Philos. Soc."
+   },
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib15",
+    "doi-asserted-by": "crossref",
+    "first-page": "214",
+    "DOI": "10.1137/0204018",
+    "article-title": "Every prime has a succinct certificate",
+    "volume": "4",
+    "author": "Pratt",
+    "year": "1975",
+    "journal-title": "SIAM J. Computing"
+   },
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib16",
+    "article-title": "Contributions to the theory of Dirichlet L functions",
+    "author": "Selberg",
+    "year": "1934",
+    "journal-title": "Avh. Nor. Vidensk. Akad. Oslo"
+   },
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib17",
+    "first-page": "415",
+    "article-title": "Class number, a theory of factorization and genera",
+    "volume": "20",
+    "author": "Shanks",
+    "year": "1969"
+   },
+   {
+    "key": "10.1016/S0022-0000(76)80043-8_bib18",
+    "doi-asserted-by": "crossref",
+    "first-page": "281",
+    "DOI": "10.1007/BF02242355",
+    "article-title": "Schnelle Multiplikation Grosser Zahlen",
+    "volume": "7",
+    "author": "Schönhage",
+    "year": "1971",
+    "journal-title": "Computing"
+   }
+  ],
+  "container-title": [
+   "Journal of Computer and System Sciences"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://api.elsevier.com/content/article/PII:S0022000076800438?httpAccept=text/xml",
+    "content-type": "text/xml",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://api.elsevier.com/content/article/PII:S0022000076800438?httpAccept=text/plain",
+    "content-type": "text/plain",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2023,
+     6,
+     4
+    ]
+   ],
+   "date-time": "2023-06-04T00:57:18Z",
+   "timestamp": 1685840238000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0022000076800438"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1976,
+     12
+    ]
+   ]
+  },
+  "references-count": 18,
+  "journal-issue": {
+   "issue": "3",
+   "published-print": {
+    "date-parts": [
+     [
+      1976,
+      12
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "S0022000076800438"
+  ],
+  "URL": "https://doi.org/10.1016/s0022-0000(76)80043-8",
+  "relation": {},
+  "ISSN": [
+   "0022-0000"
+  ],
+  "issn-type": [
+   {
+    "value": "0022-0000",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1976,
+     12
+    ]
+   ]
+  }
+ }
+}

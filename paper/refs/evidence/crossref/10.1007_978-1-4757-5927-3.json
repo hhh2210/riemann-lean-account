@@ -1,0 +1,317 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     12
+    ]
+   ],
+   "date-time": "2026-11-12T07:59:30Z",
+   "timestamp": 1794470370062,
+   "version": "4.9.1"
+  },
+  "publisher-location": "New York, NY",
+  "reference-count": 0,
+  "publisher": "Springer New York",
+  "isbn-type": [
+   {
+    "value": "9781475759297",
+    "type": "print"
+   },
+   {
+    "value": "9781475759273",
+    "type": "electronic"
+   }
+  ],
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1980,
+       1,
+       1
+      ]
+     ],
+     "date-time": "1980-01-01T00:00:00Z",
+     "timestamp": 315532800000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     1980
+    ]
+   ]
+  },
+  "DOI": "10.1007/978-1-4757-5927-3",
+  "type": "book",
+  "created": {
+   "date-parts": [
+    [
+     2013,
+     4,
+     9
+    ]
+   ],
+   "date-time": "2013-04-09T08:46:34Z",
+   "timestamp": 1365497194000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 537,
+  "title": [
+   "Multiplicative Number Theory"
+  ],
+  "prefix": "10.1007",
+  "author": [
+   {
+    "given": "Harold",
+    "family": "Davenport",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "container-title": [
+   "Graduate Texts in Mathematics"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/978-1-4757-5927-3.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/978-1-4757-5927-3",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     4,
+     4
+    ]
+   ],
+   "date-time": "2019-04-04T07:22:43Z",
+   "timestamp": 1554362563000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/978-1-4757-5927-3"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1980
+    ]
+   ]
+  },
+  "ISBN": [
+   "9781475759297",
+   "9781475759273"
+  ],
+  "references-count": 0,
+  "URL": "https://doi.org/10.1007/978-1-4757-5927-3",
+  "relation": {
+   "has-part": [
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_9",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_16",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_23",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_4",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_8",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_10",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_19",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_26",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_1",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_12",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_13",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_3",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_5",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_18",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_15",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_24",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_27",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_28",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_21",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_11",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_17",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_2",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_30",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_7",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_6",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_29",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_22",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_25",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_20",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/978-1-4757-5927-3_14",
+     "asserted-by": "subject"
+    }
+   ]
+  },
+  "ISSN": [
+   "0072-5285"
+  ],
+  "issn-type": [
+   {
+    "value": "0072-5285",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1980
+    ]
+   ]
+  }
+ }
+}

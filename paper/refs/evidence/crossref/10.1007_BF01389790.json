@@ -1,0 +1,280 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     1
+    ]
+   ],
+   "date-time": "2026-10-01T10:59:53Z",
+   "timestamp": 1790852393063,
+   "version": "4.1.0"
+  },
+  "reference-count": 13,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1977,
+       12,
+       1
+      ]
+     ],
+     "date-time": "1977-12-01T00:00:00Z",
+     "timestamp": 249782400000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Invent Math"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1977,
+     12
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01389790",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     4,
+     2
+    ]
+   ],
+   "date-time": "2005-04-02T08:16:44Z",
+   "timestamp": 1112429804000
+  },
+  "page": "239-272",
+  "source": "Crossref",
+  "is-referenced-by-count": 171,
+  "title": [
+   "Hirzebruch's proportionality theorem in the non-compact case"
+  ],
+  "prefix": "10.1007",
+  "volume": "42",
+  "author": [
+   {
+    "given": "D.",
+    "family": "Mumford",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "CR1",
+    "volume-title": "Smooth Compactification of locally symmetric varieties",
+    "author": "A. Ash",
+    "year": "1975",
+    "unstructured": "Ash, A., Mumford, D., Rapoport, M., Tai, Y.: Smooth Compactification of locally symmetric varieties. Math. Sci. Press (53 Jordan Rd., Brookline, Mass. 02146), 1975"
+   },
+   {
+    "key": "CR2",
+    "doi-asserted-by": "crossref",
+    "first-page": "744",
+    "DOI": "10.2307/1970457",
+    "volume": "84",
+    "author": "W.L. Baily",
+    "year": "1966",
+    "unstructured": "Baily, W.L., Borel, A.: Compactification of arithmetic quotients of bounded symmetric domains. Annals of Math.84, 744 (1966)",
+    "journal-title": "Annals of Math."
+   },
+   {
+    "key": "CR3",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Borel, A.: Introduction to Automorphic Forms. In: Symp. in Pure Math., Vol. IX (AMS, 1966), p. 199",
+    "DOI": "10.1090/pspum/009/0207650"
+   },
+   {
+    "key": "CR4",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Borel, A.: Some metric properties of arithmetic quotients of symmetric spaces and an extension theorem. J. Diff. Geometry6 (1972)",
+    "DOI": "10.4310/jdg/1214430642"
+   },
+   {
+    "key": "CR5",
+    "doi-asserted-by": "crossref",
+    "first-page": "71",
+    "DOI": "10.1007/BF02391818",
+    "volume": "114",
+    "author": "R. Bott",
+    "year": "1965",
+    "unstructured": "Bott, R., Chern, S.: Hermitian vector bundles and the equidistribution of the zeroes of their holomorphic sections. Acta math.114, 71 (1965)",
+    "journal-title": "Acta math."
+   },
+   {
+    "key": "CR6",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.1007/BF01389905",
+    "volume": "28",
+    "author": "M. Cornalba",
+    "year": "1975",
+    "unstructured": "Cornalba, M., Griffiths, P.: Analytic cycles and vector bundles on non-compact algebraic varieties. Inventiones math.28, 1 (1975)",
+    "journal-title": "Inventiones math."
+   },
+   {
+    "key": "CR7",
+    "unstructured": "Hirzebruch, F.: Automorphe Formen und der Satz von Riemann-Roch. In: Symposium Internacional de Topologia Algebraica, Unesco, 1958"
+   },
+   {
+    "key": "CR8",
+    "unstructured": "Iitaka, S.: On logarithmic Kodaira dimension of algebraic varieties. (To appear)"
+   },
+   {
+    "key": "CR9",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Kempf, G., Knudsen, F., Mumford, D., Saint-Donat, B.: Toroidal Embeddings. Springer Lecture Notes 339 (1973)",
+    "DOI": "10.1007/BFb0070318"
+   },
+   {
+    "key": "CR10",
+    "unstructured": "Kobayashi, S.: Hyperbolic manifolds and holomorphic mappings. M. Dekker Inc., 1970"
+   },
+   {
+    "key": "CR11",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/978-3-662-00095-3",
+    "volume-title": "Geometric Invariant Theory",
+    "author": "D. Mumford",
+    "year": "1965",
+    "unstructured": "Mumford, D.: Geometric Invariant Theory. Berlin-Heidelberg-New York: Springer 1965"
+   },
+   {
+    "key": "CR12",
+    "unstructured": "Mumford, D.: Stability of projective varieties. L'Enseignement Mathematique 1977"
+   },
+   {
+    "key": "CR13",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Mumford, D.: Pathogies III. Amer. J. Math.89 (1967)",
+    "DOI": "10.2307/2373099"
+   }
+  ],
+  "container-title": [
+   "Inventiones Mathematicae"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01389790/fulltext.html",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01389790.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01389790/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01389790",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     6
+    ]
+   ],
+   "date-time": "2020-04-06T16:33:52Z",
+   "timestamp": 1586190832000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01389790"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1977,
+     12
+    ]
+   ]
+  },
+  "references-count": 13,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1977,
+      12
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01389790"
+  ],
+  "URL": "https://doi.org/10.1007/bf01389790",
+  "relation": {},
+  "ISSN": [
+   "0020-9910",
+   "1432-1297"
+  ],
+  "issn-type": [
+   {
+    "value": "0020-9910",
+    "type": "print"
+   },
+   {
+    "value": "1432-1297",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1977,
+     12
+    ]
+   ]
+  }
+ }
+}

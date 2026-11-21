@@ -1,0 +1,231 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     10
+    ]
+   ],
+   "date-time": "2026-11-10T20:58:08Z",
+   "timestamp": 1794344288415,
+   "version": "4.9.0"
+  },
+  "publisher-location": "Berlin, Heidelberg",
+  "reference-count": 6,
+  "publisher": "Springer Berlin Heidelberg",
+  "isbn-type": [
+   {
+    "value": "9783540082453",
+    "type": "print"
+   },
+   {
+    "value": "9783540373650",
+    "type": "electronic"
+   }
+  ],
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1977,
+       1,
+       1
+      ]
+     ],
+     "date-time": "1977-01-01T00:00:00Z",
+     "timestamp": 220924800000
+    },
+    "content-version": "unspecified",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     1977
+    ]
+   ]
+  },
+  "DOI": "10.1007/bfb0087916",
+  "type": "book-chapter",
+  "created": {
+   "date-parts": [
+    [
+     2006,
+     11,
+     24
+    ]
+   ],
+   "date-time": "2006-11-24T08:39:24Z",
+   "timestamp": 1164357564000
+  },
+  "page": "91-101",
+  "source": "Crossref",
+  "is-referenced-by-count": 14,
+  "title": [
+   "Generic representations"
+  ],
+  "prefix": "10.1007",
+  "author": [
+   {
+    "given": "Hervé",
+    "family": "Jacquet",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "published-online": {
+   "date-parts": [
+    [
+     2006,
+     10,
+     3
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "4_CR1",
+    "unstructured": "I. M. Gelfand & I. M. Graev, Unitary representations of the real unimodular group, Izv. Akad. Nauk U.S.S.R., Ser. Math. 17, pp. 189–248 [Translation: A.M.S. Trans. Ser. 2, Vol. 2, pp. 147–205]."
+   },
+   {
+    "key": "4_CR2",
+    "first-page": "95",
+    "volume-title": "LIE GROUPS AND THEIR REPRESENTATIONS",
+    "author": "I. M. Gelfand",
+    "year": "1975",
+    "unstructured": "I. M. Gelfand & D. A. Kajdan, Representations of GL(n,k) where k is a local field in LIE GROUPS AND THEIR REPRESENTATIONS, Proc. of the Summer School of the Bolyai Janes Math. Soc., Budapest 1971, pp. 95–118. John Wiley, New York (1975)."
+   },
+   {
+    "issue": "63",
+    "key": "4_CR3",
+    "first-page": "405",
+    "volume": "21",
+    "author": "I. M. Gelfand",
+    "year": "1947",
+    "unstructured": "I. M. Gelfand & M. A. Naimark, Unitary representations of the complex unimodular group, Math. Sbornik. 21 (63), pp. 405–434 (1947), [translation: A.M.S. Trans. Ser. 1, Vol. 9, pp. 1–41].",
+    "journal-title": "Math. Sbornik."
+   },
+   {
+    "key": "4_CR4",
+    "unstructured": "B. Blackadar — Thesis, Berkeley University."
+   },
+   {
+    "key": "4_CR5",
+    "doi-asserted-by": "publisher",
+    "first-page": "425",
+    "DOI": "10.1090/pspum/026/0354942",
+    "volume-title": "HARMONIC ANALYSIS ON HOMOGENEOUS SPACES",
+    "author": "F. Rodier",
+    "year": "1973",
+    "unstructured": "F. Rodier, Whittaker models for admissible representations of reductive p-adic split groups, in HARMONIC ANALYSIS ON HOMOGENEOUS SPACES, Proc. Sympos. Pure Math. Vol XXVI, Williamstown, Mass., 1972, pp. 425–430. A.M.S., Providence (1973)."
+   },
+   {
+    "key": "4_CR6",
+    "doi-asserted-by": "publisher",
+    "first-page": "171",
+    "DOI": "10.2307/1971071",
+    "volume": "100",
+    "author": "J. Shalika",
+    "year": "1974",
+    "unstructured": "J. Shalika, The multiplicity one theorem for GLn. Annals of Math. Vol. 100 (1974), pp. 171–193.",
+    "journal-title": "Annals of Math."
+   }
+  ],
+  "container-title": [
+   "Lecture Notes in Mathematics",
+   "Non-Commutative Harmonic Analysis"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BFb0087916",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     2,
+     14
+    ]
+   ],
+   "date-time": "2019-02-14T19:26:57Z",
+   "timestamp": 1550172417000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BFb0087916"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1977
+    ]
+   ]
+  },
+  "ISBN": [
+   "9783540082453",
+   "9783540373650"
+  ],
+  "references-count": 6,
+  "URL": "https://doi.org/10.1007/bfb0087916",
+  "relation": {
+   "is-part-of": [
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0087912",
+     "asserted-by": "object"
+    }
+   ]
+  },
+  "ISSN": [
+   "0075-8434",
+   "1617-9692"
+  ],
+  "issn-type": [
+   {
+    "value": "0075-8434",
+    "type": "print"
+   },
+   {
+    "value": "1617-9692",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1977
+    ]
+   ]
+  }
+ }
+}

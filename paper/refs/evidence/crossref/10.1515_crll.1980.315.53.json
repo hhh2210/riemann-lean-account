@@ -1,0 +1,134 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     7,
+     13
+    ]
+   ],
+   "date-time": "2026-07-13T23:28:17Z",
+   "timestamp": 1783985297430,
+   "version": "3.55.0"
+  },
+  "reference-count": 0,
+  "publisher": "Walter de Gruyter GmbH",
+  "issue": "315",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     1980,
+     3,
+     1
+    ]
+   ]
+  },
+  "DOI": "10.1515/crll.1980.315.53",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2009,
+     12,
+     14
+    ]
+   ],
+   "date-time": "2009-12-14T18:13:37Z",
+   "timestamp": 1260814417000
+  },
+  "page": "53-59",
+  "source": "Crossref",
+  "is-referenced-by-count": 22,
+  "title": [
+   "The strong linkage principle."
+  ],
+  "prefix": "10.1515",
+  "volume": "1980",
+  "member": "374",
+  "container-title": [
+   "Journal für die reine und angewandte Mathematik (Crelles Journal)"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "http://www.degruyter.com/view/j/crll.1980.1980.issue-315/crll.1980.315.53/crll.1980.315.53.xml",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://www.degruyter.com/document/doi/10.1515/crll.1980.315.53/pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2021,
+     4,
+     21
+    ]
+   ],
+   "date-time": "2021-04-21T23:21:55Z",
+   "timestamp": 1619047315000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.degruyter.com/document/doi/10.1515/crll.1980.315.53/html"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1980,
+     3,
+     1
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "315"
+  },
+  "URL": "https://doi.org/10.1515/crll.1980.315.53",
+  "relation": {},
+  "ISSN": [
+   "0075-4102",
+   "1435-5345"
+  ],
+  "issn-type": [
+   {
+    "value": "0075-4102",
+    "type": "print"
+   },
+   {
+    "value": "1435-5345",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1980,
+     3,
+     1
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,468 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     3
+    ]
+   ],
+   "date-time": "2026-10-03T16:50:39Z",
+   "timestamp": 1791046239668,
+   "version": "4.1.0"
+  },
+  "reference-count": 25,
+  "publisher": "American Mathematical Society (AMS)",
+  "issue": "2",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2007,
+       7,
+       10
+      ]
+     ],
+     "date-time": "2007-07-10T00:00:00Z",
+     "timestamp": 1184025600000
+    },
+    "content-version": "am",
+    "delay-in-days": 365,
+    "URL": "https://www.ams.org/publications/copyright-and-permissions"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "J. Amer. Math. Soc."
+  ],
+  "abstract": "<p>\n                    We prove the compatibility of local and global Langlands correspondences for\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper G upper L Subscript n\">\n                        <mml:semantics>\n                          <mml:mrow>\n                            <mml:mi>G</mml:mi>\n                            <mml:msub>\n                              <mml:mi>L</mml:mi>\n                              <mml:mi>n</mml:mi>\n                            </mml:msub>\n                          </mml:mrow>\n                          <mml:annotation encoding=\"application/x-tex\">GL_n</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    , which was proved up to semisimplification in M. Harris and R. Taylor,\n                    <italic>The Geometry and Cohomology of Some Simple Shimura Varieties</italic>\n                    , Ann. of Math. Studies 151, Princeton Univ. Press, Princeton-Oxford, 2001. More precisely, for the\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"n\">\n                        <mml:semantics>\n                          <mml:mi>n</mml:mi>\n                          <mml:annotation encoding=\"application/x-tex\">n</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    -dimensional\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"l\">\n                        <mml:semantics>\n                          <mml:mi>l</mml:mi>\n                          <mml:annotation encoding=\"application/x-tex\">l</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    -adic representation\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper R Subscript l Baseline left-parenthesis normal upper Pi right-parenthesis\">\n                        <mml:semantics>\n                          <mml:mrow>\n                            <mml:msub>\n                              <mml:mi>R</mml:mi>\n                              <mml:mi>l</mml:mi>\n                            </mml:msub>\n                            <mml:mo stretchy=\"false\">(</mml:mo>\n                            <mml:mi mathvariant=\"normal\">\n                              Π\n                              \n                            </mml:mi>\n                            <mml:mo stretchy=\"false\">)</mml:mo>\n                          </mml:mrow>\n                          <mml:annotation encoding=\"application/x-tex\">R_l(\\Pi )</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    of the Galois group of an imaginary CM-field\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper L\">\n                        <mml:semantics>\n                          <mml:mi>L</mml:mi>\n                          <mml:annotation encoding=\"application/x-tex\">L</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    attached to a conjugate self-dual regular algebraic cuspidal automorphic representation\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"normal upper Pi\">\n                        <mml:semantics>\n                          <mml:mi mathvariant=\"normal\">\n                            Π\n                            \n                          </mml:mi>\n                          <mml:annotation encoding=\"application/x-tex\">\\Pi</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    of\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper G upper L Subscript n Baseline left-parenthesis double-struck upper A Subscript upper L Baseline right-parenthesis\">\n                        <mml:semantics>\n                          <mml:mrow>\n                            <mml:mi>G</mml:mi>\n                            <mml:msub>\n                              <mml:mi>L</mml:mi>\n                              <mml:mi>n</mml:mi>\n                            </mml:msub>\n                            <mml:mo stretchy=\"false\">(</mml:mo>\n                            <mml:msub>\n                              <mml:mrow class=\"MJX-TeXAtom-ORD\">\n                                <mml:mi mathvariant=\"double-struck\">A</mml:mi>\n                              </mml:mrow>\n                              <mml:mi>L</mml:mi>\n                            </mml:msub>\n                            <mml:mo stretchy=\"false\">)</mml:mo>\n                          </mml:mrow>\n                          <mml:annotation encoding=\"application/x-tex\">GL_n(\\mathbb A_L)</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    , which is square integrable at some finite place, we show that Frobenius semisimplification of the restriction of\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper R Subscript l Baseline left-parenthesis normal upper Pi right-parenthesis\">\n                        <mml:semantics>\n                          <mml:mrow>\n                            <mml:msub>\n                              <mml:mi>R</mml:mi>\n                              <mml:mi>l</mml:mi>\n                            </mml:msub>\n                            <mml:mo stretchy=\"false\">(</mml:mo>\n                            <mml:mi mathvariant=\"normal\">\n                              Π\n                              \n                            </mml:mi>\n                            <mml:mo stretchy=\"false\">)</mml:mo>\n                          </mml:mrow>\n                          <mml:annotation encoding=\"application/x-tex\">R_l(\\Pi )</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    to the decomposition group of a place\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"v\">\n                        <mml:semantics>\n                          <mml:mi>v</mml:mi>\n                          <mml:annotation encoding=\"application/x-tex\">v</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    of\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper L\">\n                        <mml:semantics>\n                          <mml:mi>L</mml:mi>\n                          <mml:annotation encoding=\"application/x-tex\">L</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    not dividing\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"l\">\n                        <mml:semantics>\n                          <mml:mi>l</mml:mi>\n                          <mml:annotation encoding=\"application/x-tex\">l</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    corresponds to\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"normal upper Pi Subscript v\">\n                        <mml:semantics>\n                          <mml:msub>\n                            <mml:mi mathvariant=\"normal\">\n                              Π\n                              \n                            </mml:mi>\n                            <mml:mi>v</mml:mi>\n                          </mml:msub>\n                          <mml:annotation encoding=\"application/x-tex\">\\Pi _v</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    by the local Langlands correspondence. If\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"normal upper Pi Subscript v\">\n                        <mml:semantics>\n                          <mml:msub>\n                            <mml:mi mathvariant=\"normal\">\n                              Π\n                              \n                            </mml:mi>\n                            <mml:mi>v</mml:mi>\n                          </mml:msub>\n                          <mml:annotation encoding=\"application/x-tex\">\\Pi _v</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    is square integrable for some finite place\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"v solidus vertical-bar l\">\n                        <mml:semantics>\n                          <mml:mrow>\n                            <mml:mi>v</mml:mi>\n                            <mml:mrow class=\"MJX-TeXAtom-REL\">\n                              <mml:mpadded width=\"0\">\n                                <mml:mtext>⧸</mml:mtext>\n                              </mml:mpadded>\n                            </mml:mrow>\n                            <mml:mrow class=\"MJX-TeXAtom-ORD\">\n                              <mml:mo stretchy=\"false\">|</mml:mo>\n                            </mml:mrow>\n                            <mml:mi>l</mml:mi>\n                          </mml:mrow>\n                          <mml:annotation encoding=\"application/x-tex\">v \\not | l</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    we deduce that\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"upper R Subscript l Baseline left-parenthesis normal upper Pi right-parenthesis\">\n                        <mml:semantics>\n                          <mml:mrow>\n                            <mml:msub>\n                              <mml:mi>R</mml:mi>\n                              <mml:mi>l</mml:mi>\n                            </mml:msub>\n                            <mml:mo stretchy=\"false\">(</mml:mo>\n                            <mml:mi mathvariant=\"normal\">\n                              Π\n                              \n                            </mml:mi>\n                            <mml:mo stretchy=\"false\">)</mml:mo>\n                          </mml:mrow>\n                          <mml:annotation encoding=\"application/x-tex\">R_l(\\Pi )</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    is irreducible. We also obtain conditional results in the case\n                    <inline-formula content-type=\"math/mathml\">\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" alttext=\"v vertical-bar l\">\n                        <mml:semantics>\n                          <mml:mrow>\n                            <mml:mi>v</mml:mi>\n                            <mml:mrow class=\"MJX-TeXAtom-ORD\">\n                              <mml:mo stretchy=\"false\">|</mml:mo>\n                            </mml:mrow>\n                            <mml:mi>l</mml:mi>\n                          </mml:mrow>\n                          <mml:annotation encoding=\"application/x-tex\">v|l</mml:annotation>\n                        </mml:semantics>\n                      </mml:math>\n                    </inline-formula>\n                    .\n                  </p>",
+  "DOI": "10.1090/s0894-0347-06-00542-x",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2007,
+     1,
+     18
+    ]
+   ],
+   "date-time": "2007-01-18T09:11:38Z",
+   "timestamp": 1169111498000
+  },
+  "page": "467-493",
+  "source": "Crossref",
+  "is-referenced-by-count": 67,
+  "title": [
+   "Compatibility of local and global Langlands correspondences"
+  ],
+  "prefix": "10.1090",
+  "volume": "20",
+  "author": [
+   {
+    "given": "Richard",
+    "family": "Taylor",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Teruyoshi",
+    "family": "Yoshida",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "14",
+  "published-online": {
+   "date-parts": [
+    [
+     2006,
+     7,
+     10
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "1",
+    "series-title": "Lecture Notes in Mathematics, Vol. 146",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0060932",
+    "volume-title": "Introduction to Grothendieck duality theory",
+    "author": "Altman, Allen",
+    "year": "1970"
+   },
+   {
+    "issue": "2",
+    "key": "2",
+    "doi-asserted-by": "publisher",
+    "first-page": "219",
+    "DOI": "10.1007/s002220100202",
+    "article-title": "Représentations 𝑝-adiques et équations différentielles",
+    "volume": "148",
+    "author": "Berger, Laurent",
+    "year": "2002",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "key": "3",
+    "unstructured": "[Bo]bo P. Boyer, Monodromie du faisceau pervers des cycles évanescents et quelques variétés de Shimura simples et applications (avec un appendice de L. Fargues), \\url{http://www.institut.math.jussieu.fr/ boyer/}."
+   },
+   {
+    "issue": "3",
+    "key": "4",
+    "first-page": "387",
+    "article-title": "The unramified principal series of 𝔭-adic groups. I. The spherical function",
+    "volume": "40",
+    "author": "Casselman, W.",
+    "year": "1980",
+    "journal-title": "Compositio Math.",
+    "ISSN": "https://id.crossref.org/issn/0010-437X",
+    "issn-type": "print"
+   },
+   {
+    "key": "5",
+    "isbn-type": "print",
+    "first-page": "77",
+    "article-title": "Motifs et formes automorphes: applications du principe de fonctorialité",
+    "author": "Clozel, Laurent",
+    "year": "1990",
+    "ISBN": "https://id.crossref.org/isbn/0121766519"
+   },
+   {
+    "key": "6",
+    "first-page": "501",
+    "article-title": "Les constantes des équations fonctionnelles des fonctions 𝐿",
+    "author": "Deligne, P.",
+    "year": "1973"
+   },
+   {
+    "key": "7",
+    "first-page": "143",
+    "article-title": "Les schémas de modules de courbes elliptiques",
+    "author": "Deligne, P.",
+    "year": "1973"
+   },
+   {
+    "key": "8",
+    "first-page": "594",
+    "article-title": "Elliptic modules",
+    "volume": "94(136)",
+    "author": "Drinfel′d, V. G.",
+    "year": "1974",
+    "journal-title": "Mat. Sb. (N.S.)",
+    "ISSN": "https://id.crossref.org/issn/0368-8666",
+    "issn-type": "print"
+   },
+   {
+    "key": "9",
+    "volume-title": "P\\'{e}riodes $p$-adiques",
+    "year": "1994",
+    "issn-type": "print",
+    "ISSN": "https://id.crossref.org/issn/0303-1179"
+   },
+   {
+    "key": "10",
+    "series-title": "Lecture Notes in Mathematics, No. 74",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0074373",
+    "volume-title": "Formal groups",
+    "author": "Fröhlich, A.",
+    "year": "1968"
+   },
+   {
+    "issue": "3",
+    "key": "11",
+    "doi-asserted-by": "publisher",
+    "first-page": "689",
+    "DOI": "10.1007/s002080100250",
+    "article-title": "On the flatness of models of certain Shimura varieties of PEL-type",
+    "volume": "321",
+    "author": "Görtz, Ulrich",
+    "year": "2001",
+    "journal-title": "Math. Ann.",
+    "ISSN": "https://id.crossref.org/issn/0025-5831",
+    "issn-type": "print"
+   },
+   {
+    "issue": "3",
+    "key": "12",
+    "doi-asserted-by": "publisher",
+    "first-page": "501",
+    "DOI": "10.1215/S0012-7094-87-05527-X",
+    "article-title": "Cycle classes and Riemann-Roch for crystalline cohomology",
+    "volume": "55",
+    "author": "Gillet, Henri",
+    "year": "1987",
+    "journal-title": "Duke Math. J.",
+    "ISSN": "https://id.crossref.org/issn/0012-7094",
+    "issn-type": "print"
+   },
+   {
+    "key": "13",
+    "series-title": "Annals of Mathematics Studies",
+    "isbn-type": "print",
+    "volume-title": "The geometry and cohomology of some simple Shimura varieties",
+    "volume": "151",
+    "author": "Harris, Michael",
+    "year": "2001",
+    "ISBN": "https://id.crossref.org/isbn/0691090904"
+   },
+   {
+    "issue": "3",
+    "key": "14",
+    "doi-asserted-by": "publisher",
+    "first-page": "607",
+    "DOI": "10.1007/s00222-004-0395-y",
+    "article-title": "Weight-monodromy conjecture for 𝑝-adically uniformized varieties",
+    "volume": "159",
+    "author": "Ito, Tetsushi",
+    "year": "2005",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "key": "15",
+    "series-title": "Annals of Mathematics Studies",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1515/9781400881710",
+    "volume-title": "Arithmetic moduli of elliptic curves",
+    "volume": "108",
+    "author": "Katz, Nicholas M.",
+    "year": "1985",
+    "ISBN": "https://id.crossref.org/isbn/0691083495"
+   },
+   {
+    "key": "16",
+    "doi-asserted-by": "publisher",
+    "first-page": "73",
+    "DOI": "10.1007/BF01405203",
+    "article-title": "Some consequences of the Riemann hypothesis for varieties over finite fields",
+    "volume": "23",
+    "author": "Katz, Nicholas M.",
+    "year": "1974",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "issue": "2",
+    "key": "17",
+    "doi-asserted-by": "publisher",
+    "first-page": "301",
+    "DOI": "10.1215/S0012-7094-93-07211-0",
+    "article-title": "La suite spectrale des poids en cohomologie de Hyodo-Kato",
+    "volume": "72",
+    "author": "Mokrane, A.",
+    "year": "1993",
+    "journal-title": "Duke Math. J.",
+    "ISSN": "https://id.crossref.org/issn/0012-7094",
+    "issn-type": "print"
+   },
+   {
+    "issue": "2",
+    "key": "18",
+    "doi-asserted-by": "publisher",
+    "first-page": "321",
+    "DOI": "10.1007/s002080050370",
+    "article-title": "𝑙-independence of the trace of monodromy",
+    "volume": "315",
+    "author": "Ochiai, Tadashi",
+    "year": "1999",
+    "journal-title": "Math. Ann.",
+    "ISSN": "https://id.crossref.org/issn/0025-5831",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "19",
+    "doi-asserted-by": "publisher",
+    "first-page": "21",
+    "DOI": "10.1007/BF01394268",
+    "article-title": "Über die lokale Zetafunktion von Shimuravarietäten. Monodromiefiltration und verschwindende Zyklen in ungleicher Charakteristik",
+    "volume": "68",
+    "author": "Rapoport, M.",
+    "year": "1982",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "issue": "3",
+    "key": "20",
+    "doi-asserted-by": "publisher",
+    "first-page": "607",
+    "DOI": "10.1007/s002220050175",
+    "article-title": "Modular forms and 𝑝-adic Hodge theory",
+    "volume": "129",
+    "author": "Saito, Takeshi",
+    "year": "1997",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "issue": "4",
+    "key": "21",
+    "doi-asserted-by": "publisher",
+    "first-page": "583",
+    "DOI": "10.1017/S1474748003000173",
+    "article-title": "Weight spectral sequences and independence of 𝑙",
+    "volume": "2",
+    "author": "Saito, Takeshi",
+    "year": "2003",
+    "journal-title": "J. Inst. Math. Jussieu",
+    "ISSN": "https://id.crossref.org/issn/1474-7480",
+    "issn-type": "print"
+   },
+   {
+    "key": "22",
+    "volume-title": "Abelian $l$-adic representations and elliptic curves",
+    "author": "Serre, Jean-Pierre",
+    "year": "1968"
+   },
+   {
+    "key": "23",
+    "isbn-type": "print",
+    "first-page": "3",
+    "article-title": "Number theoretic background",
+    "author": "Tate, J.",
+    "year": "1979",
+    "ISBN": "https://id.crossref.org/isbn/0821814370"
+   },
+   {
+    "issue": "2",
+    "key": "24",
+    "doi-asserted-by": "publisher",
+    "first-page": "233",
+    "DOI": "10.1007/s002220050330",
+    "article-title": "𝑝-adic étale cohomology and crystalline cohomology in the semi-stable reduction case",
+    "volume": "137",
+    "author": "Tsuji, Takeshi",
+    "year": "1999",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "key": "25",
+    "unstructured": "[Y]y T. Yoshida, On non-abelian Lubin-Tate theory via vanishing cycles,  arXiv:math-NT/0404375, to appear in Ann. de l’Institut Fourier."
+   }
+  ],
+  "container-title": [
+   "Journal of the American Mathematical Society"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://www.ams.org/jams/2007-20-02/S0894-0347-06-00542-X/S0894-0347-06-00542-X.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "https://www.ams.org/jams/2007-20-02/S0894-0347-06-00542-X/S0894-0347-06-00542-X.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     4,
+     20
+    ]
+   ],
+   "date-time": "2026-04-20T03:53:29Z",
+   "timestamp": 1776657209000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.ams.org/jams/2007-20-02/S0894-0347-06-00542-X/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2006,
+     7,
+     10
+    ]
+   ]
+  },
+  "references-count": 25,
+  "journal-issue": {
+   "issue": "2",
+   "published-print": {
+    "date-parts": [
+     [
+      2007,
+      4
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "S0894-0347-06-00542-X"
+  ],
+  "URL": "https://doi.org/10.1090/s0894-0347-06-00542-x",
+  "archive": [
+   "CLOCKSS",
+   "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+   "1088-6834",
+   "0894-0347"
+  ],
+  "issn-type": [
+   {
+    "value": "1088-6834",
+    "type": "electronic"
+   },
+   {
+    "value": "0894-0347",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2006,
+     7,
+     10
+    ]
+   ]
+  }
+ }
+}

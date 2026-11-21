@@ -1,0 +1,197 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     6
+    ]
+   ],
+   "date-time": "2026-10-06T19:05:37Z",
+   "timestamp": 1791313537820,
+   "version": "4.3.1"
+  },
+  "reference-count": 0,
+  "publisher": "Wiley",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1935,
+       1,
+       1
+      ]
+     ],
+     "date-time": "1935-01-01T00:00:00Z",
+     "timestamp": -1104537600000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+   },
+   {
+    "start": {
+     "date-parts": [
+      [
+       2016,
+       12,
+       23
+      ]
+     ],
+     "date-time": "2016-12-23T00:00:00Z",
+     "timestamp": 1482451200000
+    },
+    "content-version": "vor",
+    "delay-in-days": 29942,
+    "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Proceedings of the London Mathematical Society"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1935
+    ]
+   ]
+  },
+  "DOI": "10.1112/plms/s2-39.1.116",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2007,
+     2,
+     14
+    ]
+   ],
+   "date-time": "2007-02-14T02:50:39Z",
+   "timestamp": 1171421439000
+  },
+  "page": "116-141",
+  "source": "Crossref",
+  "is-referenced-by-count": 42,
+  "title": [
+   "On the Number of Primes in an Arithmetic Progression"
+  ],
+  "prefix": "10.1112",
+  "volume": "s2-39",
+  "author": [
+   {
+    "given": "A.",
+    "family": "Page",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Borough Road College; Isleworth"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "311",
+  "published-online": {
+   "date-parts": [
+    [
+     2016,
+     12,
+     23
+    ]
+   ]
+  },
+  "container-title": [
+   "Proceedings of the London Mathematical Society"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1112%2Fplms%2Fs2-39.1.116",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1112/plms/s2-39.1.116/fullpdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2021,
+     7,
+     22
+    ]
+   ],
+   "date-time": "2021-07-22T05:06:01Z",
+   "timestamp": 1626930361000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://doi.wiley.com/10.1112/plms/s2-39.1.116"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1935
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1935
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.1112/plms/s2-39.1.116",
+  "archive": [
+   "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+   "0024-6115"
+  ],
+  "issn-type": [
+   {
+    "value": "0024-6115",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1935
+    ]
+   ]
+  }
+ }
+}

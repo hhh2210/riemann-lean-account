@@ -1,0 +1,160 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     4
+    ]
+   ],
+   "date-time": "2026-10-04T06:08:16Z",
+   "timestamp": 1791094096106,
+   "version": "4.1.0"
+  },
+  "reference-count": 0,
+  "publisher": "International Press of Boston",
+  "issue": "1",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     1995
+    ]
+   ]
+  },
+  "DOI": "10.4310/cdm.1995.v1995.n1.a1",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2013,
+     9,
+     3
+    ]
+   ],
+   "date-time": "2013-09-03T15:30:58Z",
+   "timestamp": 1378222258000
+  },
+  "page": "1-154",
+  "source": "Crossref",
+  "is-referenced-by-count": 37,
+  "title": [
+   "Fermat’s Last Theorem"
+  ],
+  "prefix": "10.4310",
+  "volume": "1995",
+  "author": [
+   {
+    "given": "H.",
+    "family": "Darmon",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "F.",
+    "family": "Diamond",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "R.",
+    "family": "Taylor",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "2902",
+  "container-title": [
+   "Current Developments in Mathematics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+   "date-parts": [
+    [
+     2024,
+     10,
+     9
+    ]
+   ],
+   "date-time": "2024-10-09T06:54:58Z",
+   "timestamp": 1728456898000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://link.intlpress.com/JDetail/1806709616627138562"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1995
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1995
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.4310/cdm.1995.v1995.n1.a1",
+  "relation": {},
+  "ISSN": [
+   "1089-6384",
+   "2164-4829"
+  ],
+  "issn-type": [
+   {
+    "value": "1089-6384",
+    "type": "print"
+   },
+   {
+    "value": "2164-4829",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1995
+    ]
+   ]
+  }
+ }
+}

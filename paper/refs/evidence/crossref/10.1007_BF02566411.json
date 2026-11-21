@@ -1,0 +1,322 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     29
+    ]
+   ],
+   "date-time": "2026-10-29T21:28:59Z",
+   "timestamp": 1793309339799,
+   "version": "4.5.0"
+  },
+  "reference-count": 19,
+  "publisher": "European Mathematical Society - EMS - Publishing House GmbH",
+  "issue": "1",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Commentarii Mathematici Helvetici"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1996,
+     12
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf02566411",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2007,
+     2,
+     8
+    ]
+   ],
+   "date-time": "2007-02-08T08:24:38Z",
+   "timestamp": 1170923078000
+  },
+  "page": "98-121",
+  "source": "Crossref",
+  "is-referenced-by-count": 162,
+  "title": [
+   "Jacquet functors and unrefined minimal K-types"
+  ],
+  "prefix": "10.4171",
+  "volume": "71",
+  "author": [
+   {
+    "given": "Allen",
+    "family": "Moy",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Gopal",
+    "family": "Prasad",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "2673",
+  "reference": [
+   {
+    "issue": "3",
+    "key": "BF02566411_CR1",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.1070/RM1976v031n03ABEH001532",
+    "volume": "31",
+    "author": "J. Bernstein",
+    "year": "1976",
+    "unstructured": "[BZ]J. Bernstein andA. Zelevinsky,Representations of the group GL(n,F) where F is a non-archimedean local field, Russian Math. Surveys 31:3 (1976), 1–68.",
+    "journal-title": "Russian Math. Surveys"
+   },
+   {
+    "key": "BF02566411_CR2",
+    "doi-asserted-by": "crossref",
+    "first-page": "233",
+    "DOI": "10.1007/BF01390139",
+    "volume": "35",
+    "author": "A. Borel",
+    "year": "1976",
+    "unstructured": "[B1]A. Borel,Admissible representations of a semisimple group over a local field with vectors fixed under an Iwahori subgroup, Invent. Math.35 (1976), 233–259.",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "BF02566411_CR3",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[B2]A. Borel,Linear algebraic groups, Graduate Texts in Mathematics, Springer-Verlag, 1991.",
+    "DOI": "10.1007/978-1-4612-0941-6"
+   },
+   {
+    "key": "BF02566411_CR4",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[BT1]F. Bruhat andJ. Tits,Groupes réductifs sur un corps local I, Publ. Math. I.H.E.S.41 (1972).",
+    "DOI": "10.1007/BF02715544"
+   },
+   {
+    "key": "BF02566411_CR5",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[BT2]F. Bruhat andJ. Tits,Groupes réductifs sur un corps local II, Publ. Math. I.H.E.S.60 (1984).",
+    "DOI": "10.1007/BF02700560"
+   },
+   {
+    "key": "BF02566411_CR6",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[BK1]C. Bushnell andP. Kutzko,The admissible dual of GL(N) via compact open subgroups, Princeton University Press, 1993.",
+    "DOI": "10.1515/9781400882496"
+   },
+   {
+    "key": "BF02566411_CR7",
+    "unstructured": "[BK2]C. Bushnell andP. Kutzko,Smooth representations of reductive p-adic groups (preprint)."
+   },
+   {
+    "key": "BF02566411_CR8",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[Car]P. Cartier,Representations of p-adic groups: A survey, Proc. of A.M.S. Symposia in Pure Math. XXXIII (part 1), 111–155.",
+    "DOI": "10.1090/pspum/033.1/546593"
+   },
+   {
+    "key": "BF02566411_CR9",
+    "unstructured": "[Cas]W. Casselman,Introduction to the theory of admissible representations of p-adic reductive groups (preprint)."
+   },
+   {
+    "key": "BF02566411_CR10",
+    "series-title": "Collected Papers",
+    "volume-title": "Eisenstein series over finite fields",
+    "author": "Harish-Chandra",
+    "year": "1984",
+    "unstructured": "[HC]Harish-Chandra,Eisenstein series over finite fields, Collected Papers, Springer-Verlag, New York, 1984."
+   },
+   {
+    "key": "BF02566411_CR11",
+    "doi-asserted-by": "crossref",
+    "first-page": "172",
+    "DOI": "10.1006/jabr.1994.1104",
+    "volume": "165",
+    "author": "R. Howlett",
+    "year": "1994",
+    "unstructured": "[HL]R. Howlett andG. Lehrer,On Harish-Chandra induction and restriction for modules of Levi subgroups, Jour. of Algebra165 (1994), 172–183.",
+    "journal-title": "Jour. of Algebra"
+   },
+   {
+    "key": "BF02566411_CR12",
+    "doi-asserted-by": "crossref",
+    "first-page": "299",
+    "DOI": "10.2307/1971168",
+    "volume": "108",
+    "author": "G. Kempf",
+    "year": "1978",
+    "unstructured": "[K]G. Kempf,Instability in invariant theory, Ann. Math.108 (1978), 299–316.",
+    "journal-title": "Ann. Math."
+   },
+   {
+    "key": "BF02566411_CR13",
+    "first-page": "550",
+    "volume": "58",
+    "author": "L. Morris",
+    "year": "1989",
+    "unstructured": "[Mr1]L. Morris,P-cuspidal representations of level one, Proc. LMS (3rd series)58 (1989), 550–558.",
+    "journal-title": "Proc. LMS (3rd series)"
+   },
+   {
+    "key": "BF02566411_CR14",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.1007/BF01232662",
+    "volume": "114",
+    "author": "L. Morris",
+    "year": "1993",
+    "unstructured": "[Mr2]L. Morris,Tamely ramified intertwining algebras, Invent Math.114 (1993), 1–54.",
+    "journal-title": "Invent Math."
+   },
+   {
+    "key": "BF02566411_CR15",
+    "doi-asserted-by": "crossref",
+    "first-page": "393",
+    "DOI": "10.1007/BF01231566",
+    "volume": "116",
+    "author": "A. Moy",
+    "year": "1994",
+    "unstructured": "[MP]A. Moy andG. Prasad,Unrefined minimal K-types for p-adic groups, Invent. Math.116 (1994), 393–408.",
+    "journal-title": "Invent. Math."
+   },
+   {
+    "key": "BF02566411_CR16",
+    "first-page": "A247",
+    "volume": "286",
+    "author": "G. Rousseau",
+    "year": "1978",
+    "unstructured": "[R]G. Rousseau,Immeubles spheriques et theorie des invariants, C. R. Acad. Sci. (Paris)286 (1978), A247-A250.",
+    "journal-title": "C. R. Acad. Sci. (Paris)"
+   },
+   {
+    "key": "BF02566411_CR17",
+    "doi-asserted-by": "crossref",
+    "first-page": "522",
+    "DOI": "10.2969/jmsj/02030522",
+    "volume": "20",
+    "author": "T. Shintani",
+    "year": "1968",
+    "unstructured": "[Sh]T. Shintani,On certain square integrable unitary representations of some p-adic linear groups, Jour. Math. Soc. Japan20 (1968), 522–565.",
+    "journal-title": "Jour. Math. Soc. Japan"
+   },
+   {
+    "key": "BF02566411_CR18",
+    "volume-title": "Introduction to harmonic analysis on reductive p-adic groups",
+    "author": "A. Silberger",
+    "year": "1979",
+    "unstructured": "[Si]A. Silberger,Introduction to harmonic analysis on reductive p-adic groups, Princeton University Press, Princeton, 1979."
+   },
+   {
+    "key": "BF02566411_CR19",
+    "doi-asserted-by": "crossref",
+    "unstructured": "[T]J. Tits,Reductive groups over local fields, Proc. of A.M.S. Symposia in Pure Math. XXXIII (part 1), 29–69.",
+    "DOI": "10.1090/pspum/033.1/546588"
+   }
+  ],
+  "container-title": [
+   "Commentarii Mathematici Helvetici"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://www.springerlink.com/index/pdf/10.1007/BF02566411",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2024,
+     10,
+     21
+    ]
+   ],
+   "date-time": "2024-10-21T18:19:58Z",
+   "timestamp": 1729534798000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://link.springer.com/10.1007/BF02566411"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1996,
+     12
+    ]
+   ]
+  },
+  "references-count": 19,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1996,
+      12
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF02566411"
+  ],
+  "URL": "https://doi.org/10.1007/bf02566411",
+  "relation": {},
+  "ISSN": [
+   "0010-2571",
+   "1420-8946"
+  ],
+  "issn-type": [
+   {
+    "value": "0010-2571",
+    "type": "print"
+   },
+   {
+    "value": "1420-8946",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1996,
+     12
+    ]
+   ]
+  }
+ }
+}

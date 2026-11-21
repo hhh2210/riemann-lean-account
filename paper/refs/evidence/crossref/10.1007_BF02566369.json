@@ -1,0 +1,326 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     1
+    ]
+   ],
+   "date-time": "2026-10-01T08:40:53Z",
+   "timestamp": 1790844053437,
+   "version": "4.1.0"
+  },
+  "reference-count": 22,
+  "publisher": "European Mathematical Society - EMS - Publishing House GmbH",
+  "issue": "1",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Commentarii Mathematici Helvetici"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1984,
+     12
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf02566369",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2007,
+     2,
+     8
+    ]
+   ],
+   "date-time": "2007-02-08T08:03:05Z",
+   "timestamp": 1170921785000
+  },
+  "page": "600-634",
+  "source": "Crossref",
+  "is-referenced-by-count": 45,
+  "title": [
+   "Reduction theory using semistability"
+  ],
+  "prefix": "10.4171",
+  "volume": "59",
+  "author": [
+   {
+    "given": "Daniel R.",
+    "family": "Grayson",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "2673",
+  "reference": [
+   {
+    "key": "BF02566369_CR1",
+    "volume-title": "Smooth compactification of locally symmetric varieties",
+    "author": "A. Ash",
+    "year": "1975",
+    "unstructured": "A. Ash, D. Mumford, M. Rapaport andY. Tai,Smooth compactification of locally symmetric varieties, Math. Sci. Press, Brookline, Mass. 1975."
+   },
+   {
+    "key": "BF02566369_CR2",
+    "doi-asserted-by": "crossref",
+    "first-page": "523",
+    "DOI": "10.1098/rsta.1983.0017",
+    "volume": "308",
+    "author": "M. F. Atiyah",
+    "year": "1982",
+    "unstructured": "M. F. Atiyah andR. Bott,The Yang-Mills Equations over Riemann Surfaces, Phil. Trans R. Soc., London A 308 (1982) 523.",
+    "journal-title": "Phil. Trans R. Soc., London A"
+   },
+   {
+    "key": "BF02566369_CR3",
+    "doi-asserted-by": "crossref",
+    "first-page": "103",
+    "DOI": "10.1007/BF01404060",
+    "volume": "20",
+    "author": "R. Bieri",
+    "year": "1973",
+    "unstructured": "R. Bieri andB. Eckmann,Groups with homological duality generalizing Poincaré duality, Inventiones Mathematicae20 (1973) 103.",
+    "journal-title": "Inventiones Mathematicae"
+   },
+   {
+    "key": "BF02566369_CR4",
+    "series-title": "Proc. Sympos. Pure Math.",
+    "doi-asserted-by": "crossref",
+    "first-page": "20",
+    "DOI": "10.1090/pspum/009/0204533",
+    "volume-title": "Reduction Theory for Arithmetic Groups",
+    "author": "A. Borel",
+    "year": "1966",
+    "unstructured": "A. Borel,Reduction Theory for Arithmetic Groups, Proc. Sympos. Pure Math.9 (1966) 20, AMS, Providence, RI."
+   },
+   {
+    "key": "BF02566369_CR5",
+    "doi-asserted-by": "crossref",
+    "first-page": "436",
+    "DOI": "10.1007/BF02566134",
+    "volume": "48",
+    "author": "A. Borel",
+    "year": "1973",
+    "unstructured": "A. Borel andJ.-P. Serre,Corners and Arithmetic Groups, Comment. Math. Helv.48 (1973) 436.",
+    "journal-title": "Comment. Math. Helv."
+   },
+   {
+    "key": "BF02566369_CR6",
+    "series-title": "Lecture Notes in Mathematics",
+    "volume-title": "Finite Generation of K-groups of a curve over a finite field",
+    "author": "D. Grayson",
+    "year": "1982",
+    "unstructured": "D. Grayson,Finite Generation of K-groups of a curve over a finite field [after Daniel Quillen], Lecture Notes in Mathematics no. 966,Algebraic K-theory, Proceedings, Oberwolfach, 1980, Part I, Springer, Berlin, 1982."
+   },
+   {
+    "key": "BF02566369_CR7",
+    "doi-asserted-by": "crossref",
+    "first-page": "215",
+    "DOI": "10.1007/BF01357141",
+    "volume": "212",
+    "author": "G. Harder",
+    "year": "1975",
+    "unstructured": "G. Harder andM. Narasimhan,On the cohomology groups of moduli spaces of vector bundles on curves, Math. Ann.212 (1975) 215.",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "BF02566369_CR8",
+    "unstructured": "C. Hermite,Oeuvres, I, Paris (1905) 94."
+   },
+   {
+    "key": "BF02566369_CR9",
+    "doi-asserted-by": "crossref",
+    "unstructured": "R. Kirby andL. Siebenmann,Foundational Essays on Topological Manifolds, Smoothing, and Triangulations, Annals of Math. Study 88, Princeton University Press, 1977.",
+    "DOI": "10.1515/9781400881505"
+   },
+   {
+    "key": "BF02566369_CR10",
+    "volume-title": "Algebraic Number Theory",
+    "author": "S. Lang",
+    "year": "1970",
+    "unstructured": "S. Lang,Algebraic Number Theory, Addison-Wesley, Reading, Massachusetts, 1970."
+   },
+   {
+    "key": "BF02566369_CR11",
+    "unstructured": "E. Mendoza,Cohomology of PGl 2 over imaginary Quadratic Integers, Bonner Mathematische Schriftstellen 128 (1980)."
+   },
+   {
+    "key": "BF02566369_CR12",
+    "unstructured": "H. Minkowski,Geometrie der Zahlen, Leipzig (1896)."
+   },
+   {
+    "key": "BF02566369_CR13",
+    "first-page": "53",
+    "volume": "II",
+    "author": "H. Minkowski",
+    "year": "1911",
+    "unstructured": "H. Minkowski,Discontinuitätsberiech fur arithmetische Äquivalenz, Ges. Werke II (1911) 53–100.",
+    "journal-title": "Ges. Werke"
+   },
+   {
+    "key": "BF02566369_CR14",
+    "series-title": "Lecture Notes in Math",
+    "volume-title": "Algebraic K-theory I, Battelle Institute Conference 1972",
+    "author": "D. Quillen",
+    "year": "1973",
+    "unstructured": "D. Quillen,Finite generation of the groups K i of rings of algebraic integers, inAlgebraic K-theory I, Battelle Institute Conference 1972, Lecture Notes in Math. no. 341. Springer, Berling, Heidelberg, New York, 1973."
+   },
+   {
+    "key": "BF02566369_CR15",
+    "doi-asserted-by": "crossref",
+    "unstructured": "H. Rademacher,Topics in Analytic Number Theory, Grundlehren Math. Wiss. 169, Springer, 1973.",
+    "DOI": "10.1007/978-3-642-80615-5"
+   },
+   {
+    "key": "BF02566369_CR16",
+    "unstructured": "J-P. Serre,Arbres, Amalgames, SL 2, Astérisque no. 46, Soc. Math. France, 1977."
+   },
+   {
+    "key": "BF02566369_CR17",
+    "doi-asserted-by": "crossref",
+    "unstructured": "J-P. Serre,Arithmetic Groups, in “Homological Group Theory”, Cambridge University Press, 1979.",
+    "DOI": "10.1017/CBO9781107325449.006"
+   },
+   {
+    "key": "BF02566369_CR18",
+    "volume-title": "Lectures on quadratic Forms",
+    "author": "C. Siegel",
+    "year": "1957",
+    "unstructured": "C. Siegel, Lectures on quadratic Forms, TATA, Bombay, 1957."
+   },
+   {
+    "key": "BF02566369_CR19",
+    "doi-asserted-by": "crossref",
+    "first-page": "604",
+    "DOI": "10.1007/BF01224726",
+    "volume": "27",
+    "author": "U. Stuhler",
+    "year": "1976",
+    "unstructured": "U. Stuhler,Eine, Bemerkung zur Reduktionstheorie quadratischen Formen, Archiv der Math.27 (1976) 604.",
+    "journal-title": "Archiv der Math."
+   },
+   {
+    "key": "BF02566369_CR20",
+    "doi-asserted-by": "crossref",
+    "first-page": "611",
+    "DOI": "10.1007/BF01223974",
+    "volume": "28",
+    "author": "U. Stuhler",
+    "year": "1977",
+    "unstructured": "—,Zur Reduktionstheorie der positiven quadratischen Formen II, Archiv der Math.,28 (1977) 611.",
+    "journal-title": "Archiv der Math."
+   },
+   {
+    "key": "BF02566369_CR21",
+    "series-title": "Lecture Notes in Mathematics",
+    "volume-title": "Buildings of spherical type and finite BN-pairs",
+    "author": "J. Tits",
+    "year": "1974",
+    "unstructured": "J. Tits,Buildings of spherical type and finite BN-pairs, Lecture Notes in Mathematics 386, Springer, Berlin, Heidelberg, New York, 1974."
+   },
+   {
+    "key": "BF02566369_CR22",
+    "doi-asserted-by": "crossref",
+    "unstructured": "A. Weil,Sur l'analogie entre les corps de nombres algébriques et les corps de fonctions algébrique [1939a], Collected Papers, vol I, Springer, 1980.",
+    "DOI": "10.1007/978-1-4757-1705-1_31"
+   }
+  ],
+  "container-title": [
+   "Commentarii Mathematici Helvetici"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://www.springerlink.com/index/pdf/10.1007/BF02566369",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2024,
+     10,
+     21
+    ]
+   ],
+   "date-time": "2024-10-21T18:22:48Z",
+   "timestamp": 1729534968000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://link.springer.com/10.1007/BF02566369"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1984,
+     12
+    ]
+   ]
+  },
+  "references-count": 22,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1984,
+      12
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF02566369"
+  ],
+  "URL": "https://doi.org/10.1007/bf02566369",
+  "relation": {},
+  "ISSN": [
+   "0010-2571",
+   "1420-8946"
+  ],
+  "issn-type": [
+   {
+    "value": "0010-2571",
+    "type": "print"
+   },
+   {
+    "value": "1420-8946",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1984,
+     12
+    ]
+   ]
+  }
+ }
+}

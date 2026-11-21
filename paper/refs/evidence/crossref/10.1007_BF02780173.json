@@ -1,0 +1,445 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     6
+    ]
+   ],
+   "date-time": "2026-10-06T01:19:07Z",
+   "timestamp": 1791249547352,
+   "version": "4.1.0"
+  },
+  "reference-count": 28,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1999,
+       12,
+       1
+      ]
+     ],
+     "date-time": "1999-12-01T00:00:00Z",
+     "timestamp": 944006400000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Isr. J. Math."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1999,
+     12
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf02780173",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2008,
+     1,
+     3
+    ]
+   ],
+   "date-time": "2008-01-03T10:25:14Z",
+   "timestamp": 1199355914000
+  },
+  "page": "61-93",
+  "source": "Crossref",
+  "is-referenced-by-count": 64,
+  "title": [
+   "Algebraic modular forms"
+  ],
+  "prefix": "10.1007",
+  "volume": "113",
+  "author": [
+   {
+    "given": "Benedict H.",
+    "family": "Gross",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "BF02780173_CR1",
+    "first-page": "1",
+    "volume": "153",
+    "author": "J. Arthur",
+    "year": "1991",
+    "unstructured": "J. Arthur,Lectures on automorphic L-functions, inL-Functions and Arithmetic, London Mathematical Society Lecture Notes, Vol. 153, 1991, pp. 1–21.",
+    "journal-title": "London Mathematical Society Lecture Notes"
+   },
+   {
+    "key": "BF02780173_CR2",
+    "volume-title": "Groupes et algèbras de Lie",
+    "author": "N. Bourbaki",
+    "year": "1982",
+    "unstructured": "N. Bourbaki,Groupes et algèbras de Lie, Hermann, Paris, 1982."
+   },
+   {
+    "key": "BF02780173_CR3",
+    "doi-asserted-by": "crossref",
+    "first-page": "20",
+    "DOI": "10.1090/pspum/009/0204533",
+    "volume": "9",
+    "author": "A. Borel",
+    "year": "1966",
+    "unstructured": "A. Borel,Reduction theory for arithmetic groups, inAlgebraic Groups and Discontinuous Subgroups, Proceedings of Symposia in Pure Mathematics9 (1966), 20–25.",
+    "journal-title": "Proceedings of Symposia in Pure Mathematics"
+   },
+   {
+    "key": "BF02780173_CR4",
+    "doi-asserted-by": "crossref",
+    "first-page": "27",
+    "DOI": "10.1090/pspum/033.2/546608",
+    "volume": "33",
+    "author": "A. Borel",
+    "year": "1979",
+    "unstructured": "A. Borel,Automorphic L-functions, inAutomorphic Forms, Representations, and L-Functions, Proceedings of Symposia in Pure Mathematics33 (1979), 27–61.",
+    "journal-title": "Proceedings of Symposia in Pure Mathematics"
+   },
+   {
+    "key": "BF02780173_CR5",
+    "doi-asserted-by": "crossref",
+    "first-page": "485",
+    "DOI": "10.2307/1970210",
+    "volume": "75",
+    "author": "A. Borel",
+    "year": "1962",
+    "unstructured": "A. Borel and Harish-Chandra,Arithmetic subgroups of algebraic groups, Annals of Mathematics75 (1962), 485–535.",
+    "journal-title": "Annals of Mathematics"
+   },
+   {
+    "key": "BF02780173_CR6",
+    "doi-asserted-by": "crossref",
+    "first-page": "55",
+    "DOI": "10.1007/BF02684375",
+    "volume": "27",
+    "author": "A. Borel",
+    "year": "1965",
+    "unstructured": "A. Borel and J. Tits,Groupes réductifs, Publications Mathématiques de l’Institut des Hautes Études Scientifiques27 (1965), 55–150.",
+    "journal-title": "Publications Mathématiques de l’Institut des Hautes Études Scientifiques"
+   },
+   {
+    "key": "BF02780173_CR7",
+    "series-title": "Ergebnisse der Mathematik",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/978-3-642-51438-8",
+    "volume-title": "Néron models",
+    "author": "S. Bosch",
+    "year": "1990",
+    "unstructured": "S. Bosch, W. Lütkebohmert and M. Raynaud,Néron models, Ergebnisse der Mathematik21, Springer-Verlag, Berlin, 1990."
+   },
+   {
+    "key": "BF02780173_CR8",
+    "doi-asserted-by": "crossref",
+    "first-page": "111",
+    "DOI": "10.1090/pspum/033.1/546593",
+    "volume": "33",
+    "author": "P. Cartier",
+    "year": "1979",
+    "unstructured": "P. Cartier,Representations of p-adic groups, inAutomorphic Forms, Representations, and L-Functions, Proceedings of Symposia in Pure Mathematics33 (1979), 111–155.",
+    "journal-title": "Proceedings of Symposia in Pure Mathematics"
+   },
+   {
+    "key": "BF02780173_CR9",
+    "first-page": "910",
+    "volume": "230",
+    "author": "J. Siebenthal de",
+    "year": "1950",
+    "unstructured": "J. de Siebenthal,Sur certains sous-groupes de rang un des groupes de Lie clos, Comptes Rendus de l’Académie des Sciences, Paris230 (1950), 910–912.",
+    "journal-title": "Comptes Rendus de l’Académie des Sciences, Paris"
+   },
+   {
+    "key": "BF02780173_CR10",
+    "first-page": "115",
+    "volume": "7",
+    "author": "B. Gross",
+    "year": "1985",
+    "unstructured": "B. Gross,Heights and L-series, Number Theory CMS Conference Series7 (1985), 115–188.",
+    "journal-title": "Number Theory CMS Conference Series"
+   },
+   {
+    "key": "BF02780173_CR11",
+    "doi-asserted-by": "crossref",
+    "first-page": "263",
+    "DOI": "10.1007/s002220050053",
+    "volume": "124",
+    "author": "B. Gross",
+    "year": "1996",
+    "unstructured": "B. Gross,Groups over Z, Inventiones Mathematicae124 (1996), 263–279.",
+    "journal-title": "Inventiones Mathematicae"
+   },
+   {
+    "key": "BF02780173_CR12",
+    "doi-asserted-by": "crossref",
+    "first-page": "287",
+    "DOI": "10.1007/s002220050186",
+    "volume": "130",
+    "author": "B. Gross",
+    "year": "1997",
+    "unstructured": "B. Gross,On the motive of a reductive group, Inventiones Mathematicae130 (1997), 287–313.",
+    "journal-title": "Inventiones Mathematicae"
+   },
+   {
+    "key": "BF02780173_CR13",
+    "doi-asserted-by": "crossref",
+    "first-page": "208",
+    "DOI": "10.4310/AJM.1997.v1.n1.a8",
+    "volume": "1",
+    "author": "B. Gross",
+    "year": "1997",
+    "unstructured": "B. Gross,On the motive of G and the principal homomorphism SL 2 →Ĝ, Asian Journal of Mathematics1 (1997), 208–213.",
+    "journal-title": "Asian Journal of Mathematics"
+   },
+   {
+    "key": "BF02780173_CR14",
+    "doi-asserted-by": "crossref",
+    "unstructured": "B. Gross,On the Satake isomorphism, inGalois Representations in Arithmetic Algebraic Geometry, London Mathematical Society Lecture Notes, Vol. 254, 1998, pp. 223-237.",
+    "DOI": "10.1017/CBO9780511662010.006"
+   },
+   {
+    "key": "BF02780173_CR15",
+    "doi-asserted-by": "crossref",
+    "first-page": "153",
+    "DOI": "10.1023/A:1000456731715",
+    "volume": "114",
+    "author": "B. Gross",
+    "year": "1998",
+    "unstructured": "B. Gross and G. Savin,Motives with Galois group of type G 2:an exceptional theta correspondence, Compositio Mathematica114 (1998), 153–217.",
+    "journal-title": "Compositio Mathematica"
+   },
+   {
+    "key": "BF02780173_CR16",
+    "doi-asserted-by": "crossref",
+    "first-page": "611",
+    "DOI": "10.1215/S0012-7094-84-05129-9",
+    "volume": "51",
+    "author": "R. Kottwitz",
+    "year": "1984",
+    "unstructured": "R. Kottwitz,Stable trace formula: cuspidal tempered terms, Duke Mathematical Journal51 (1984), 611–650.",
+    "journal-title": "Duke Mathematical Journal"
+   },
+   {
+    "key": "BF02780173_CR17",
+    "doi-asserted-by": "crossref",
+    "first-page": "33",
+    "DOI": "10.1007/BF02684339",
+    "volume": "47",
+    "author": "B. Mazur",
+    "year": "1977",
+    "unstructured": "B. Mazur,Modular curves and the Eisenstein ideal, Publications Mathématiques de l’Institut des Hautes Études Scientifiques47 (1977), 33–186.",
+    "journal-title": "Publications Mathématiques de l’Institut des Hautes Études Scientifiques"
+   },
+   {
+    "key": "BF02780173_CR18",
+    "unstructured": "D. Mumford,Abelian varieties, Publications of the Tata Institute5, 1974."
+   },
+   {
+    "key": "BF02780173_CR19",
+    "volume-title": "Algebraic Groups and Number Theory",
+    "author": "V. Platonov",
+    "year": "1944",
+    "unstructured": "V. Platonov and A. Rapinchuk,Algebraic Groups and Number Theory, Academic Press, New York, 1944."
+   },
+   {
+    "key": "BF02780173_CR20",
+    "volume-title": "Abelian ℓ-adic representations and elliptic curves",
+    "author": "J.-P. Serre",
+    "year": "1968",
+    "unstructured": "J.-P. Serre,Abelian ℓ-adic representations and elliptic curves, Benjamin, New York, 1968."
+   },
+   {
+    "key": "BF02780173_CR21",
+    "first-page": "282",
+    "volume": "95",
+    "author": "J.-P. Serre",
+    "year": "1996",
+    "unstructured": "J.-P. Serre,Lettre de J-P. Serre à J. Tate, 7 août 1987, Israel Journal of Mathematics95 (1996), 282–291.",
+    "journal-title": "Israel Journal of Mathematics"
+   },
+   {
+    "key": "BF02780173_CR22",
+    "first-page": "377",
+    "volume": "55",
+    "author": "J.-P. Serre",
+    "year": "1991",
+    "unstructured": "J.-P. Serre,Propriétés conjecturates des groupes de Galois motiviques et des représentations ℓ-adiques, inMotives, Proceedings of Symposia in Pure Mathematics55 (1991), 377–400.",
+    "journal-title": "Proceedings of Symposia in Pure Mathematics"
+   },
+   {
+    "key": "BF02780173_CR23",
+    "first-page": "87",
+    "volume": "10",
+    "author": "C. Siegel",
+    "year": "1969",
+    "unstructured": "C. Siegel,Berechnung von Zetafunktionen als ganzzählige Stellen, Nachricthen der Akademie der Wissenschaften in Göttingen. II. Mathematisch-Physikalische Klasse10 (1969), 87–102.",
+    "journal-title": "Nachricthen der Akademie der Wissenschaften in Göttingen. II. Mathematisch-Physikalische Klasse"
+   },
+   {
+    "key": "BF02780173_CR24",
+    "unstructured": "G. Shimura,Arithmetic Theory of Automorphic Functions, Princeton University Press, 1971."
+   },
+   {
+    "key": "BF02780173_CR25",
+    "doi-asserted-by": "crossref",
+    "first-page": "33",
+    "DOI": "10.1017/S0027763000011016",
+    "volume": "22",
+    "author": "R. Steinberg",
+    "year": "1963",
+    "unstructured": "R. Steinberg,Representations of algebraic groups, Nagoya Mathematical Journal22 (1963), 33–56.",
+    "journal-title": "Nagoya Mathematical Journal"
+   },
+   {
+    "key": "BF02780173_CR26",
+    "first-page": "162",
+    "volume": "1",
+    "author": "J. Tate",
+    "year": "1995",
+    "unstructured": "J. Tate,A review of non-Archimedean elliptic functions, inElliptic Curves, Modular Forms, and Fermat’s Last Theorem, International Press Series in Number Theory1 (1995), 162–184.",
+    "journal-title": "International Press Series in Number Theory"
+   },
+   {
+    "key": "BF02780173_CR27",
+    "doi-asserted-by": "crossref",
+    "first-page": "29",
+    "DOI": "10.1090/pspum/033.1/546588",
+    "volume": "33",
+    "author": "J. Tits",
+    "year": "1979",
+    "unstructured": "J. Tits,Reductive groups over local fields, inAutomorphic Forms, Representations, and L-Functions, Proceedings of Symposia in Pure Mathematics33 (1979), 29–69.",
+    "journal-title": "Proceedings of Symposia in Pure Mathematics"
+   },
+   {
+    "key": "BF02780173_CR28",
+    "first-page": "196",
+    "volume": "247",
+    "author": "J. Tits",
+    "year": "1971",
+    "unstructured": "J. Tits,Représentations linéares irréductibles d’un groupe reductif sur un corps quelconque, Journal für die reine und angewandte Mathematik247 (1971), 196–220.",
+    "journal-title": "Journal für die reine und angewandte Mathematik"
+   }
+  ],
+  "container-title": [
+   "Israel Journal of Mathematics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF02780173.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF02780173/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF02780173",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     21
+    ]
+   ],
+   "date-time": "2019-05-21T02:17:57Z",
+   "timestamp": 1558405077000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF02780173"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1999,
+     12
+    ]
+   ]
+  },
+  "references-count": 28,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1999,
+      12
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF02780173"
+  ],
+  "URL": "https://doi.org/10.1007/bf02780173",
+  "relation": {},
+  "ISSN": [
+   "0021-2172",
+   "1565-8511"
+  ],
+  "issn-type": [
+   {
+    "value": "0021-2172",
+    "type": "print"
+   },
+   {
+    "value": "1565-8511",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1999,
+     12
+    ]
+   ]
+  }
+ }
+}

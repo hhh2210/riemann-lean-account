@@ -1,0 +1,148 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     16
+    ]
+   ],
+   "date-time": "2026-10-16T22:34:20Z",
+   "timestamp": 1792190060954,
+   "version": "4.4.0"
+  },
+  "reference-count": 0,
+  "publisher": "JSTOR",
+  "issue": "3",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "American Journal of Mathematics"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1981,
+     6
+    ]
+   ]
+  },
+  "DOI": "10.2307/2374103",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2006,
+     7,
+     20
+    ]
+   ],
+   "date-time": "2006-07-20T15:12:56Z",
+   "timestamp": 1153408376000
+  },
+  "page": "499",
+  "source": "Crossref",
+  "is-referenced-by-count": 324,
+  "title": [
+   "On Euler Products and the Classification of Automorphic Representations I"
+  ],
+  "prefix": "10.2307",
+  "volume": "103",
+  "author": [
+   {
+    "given": "H.",
+    "family": "Jacquet",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "J. A.",
+    "family": "Shalika",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "1121",
+  "container-title": [
+   "American Journal of Mathematics"
+  ],
+  "original-title": [],
+  "deposited": {
+   "date-parts": [
+    [
+     2018,
+     5,
+     9
+    ]
+   ],
+   "date-time": "2018-05-09T11:38:09Z",
+   "timestamp": 1525865889000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.jstor.org/stable/2374103?origin=crossref"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1981,
+     6
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "3",
+   "published-print": {
+    "date-parts": [
+     [
+      1981,
+      6
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.2307/2374103",
+  "relation": {},
+  "ISSN": [
+   "0002-9327"
+  ],
+  "issn-type": [
+   {
+    "value": "0002-9327",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1981,
+     6
+    ]
+   ]
+  }
+ }
+}

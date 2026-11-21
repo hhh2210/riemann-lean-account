@@ -1,0 +1,194 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     6
+    ]
+   ],
+   "date-time": "2026-10-06T20:15:37Z",
+   "timestamp": 1791317737571,
+   "version": "4.3.1"
+  },
+  "reference-count": 7,
+  "publisher": "International Press of Boston",
+  "issue": "0",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Acta Math."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1964
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf02391012",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2006,
+     5,
+     10
+    ]
+   ],
+   "date-time": "2006-05-10T06:34:12Z",
+   "timestamp": 1147242852000
+  },
+  "page": "143-211",
+  "source": "Crossref",
+  "is-referenced-by-count": 794,
+  "title": [
+   "Sur certains groupes d'opérateurs unitaires"
+  ],
+  "prefix": "10.4310",
+  "volume": "111",
+  "author": [
+   {
+    "given": "André",
+    "family": "Weil",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "2902",
+  "reference": [
+   {
+    "key": "BF02391012_CR1",
+    "doi-asserted-by": "crossref",
+    "first-page": "43",
+    "DOI": "10.24033/bsmf.1559",
+    "volume": "89",
+    "author": "F. Brúhat",
+    "year": "1961",
+    "unstructured": "Brúhat, F., Distributions sur un groupe localement compact et applications à l'étude des représentations des groupesp-adiques.Bull. Soc. Math. France, 89 (1961), 43–75.",
+    "journal-title": "Bull. Soc. Math. France"
+   },
+   {
+    "key": "BF02391012_CR2",
+    "unstructured": "Cartier, P., Über einige Integralformeln in der Theorie der quadratischen Formen. A paraître auxMath. Ann."
+   },
+   {
+    "key": "BF02391012_CR3",
+    "unstructured": "Mackey, G., Some remarks on symplectic automorphisms (à paraître)."
+   },
+   {
+    "key": "BF02391012_CR4",
+    "volume-title": "Théorie des Distributions",
+    "author": "L. Schwartz",
+    "year": "1951",
+    "unstructured": "Schwartz, L.,Théorie des Distributions, tome II. Hermann et Cie, Paris 1951."
+   },
+   {
+    "issue": "no. 12",
+    "key": "BF02391012_CR5",
+    "first-page": "1",
+    "volume": "31",
+    "author": "I. E. Segal",
+    "year": "1959",
+    "unstructured": "Segal, I. E., Foundations of the theory of dynamical systems of infinitely many degrees of freedom (I).Mat.-Fys. Medd. Danske Vid. Selsk., 31, no. 12 (1959), 1–39.",
+    "journal-title": "Mat.-Fys. Medd. Danske Vid. Selsk."
+   },
+   {
+    "key": "BF02391012_CR6",
+    "unstructured": "Segal, I. E., Transforms for operators and symplectic automorphisms over a locally compact abelian group. A paraître auxMath. Scand."
+   },
+   {
+    "key": "BF02391012_CR7",
+    "doi-asserted-by": "crossref",
+    "first-page": "149",
+    "DOI": "10.1090/S0002-9947-1962-0137504-6",
+    "volume": "103",
+    "author": "D. Shale",
+    "year": "1962",
+    "unstructured": "Shale, D., Linear symmetries of free boson fields.Trans. Amer. Math. Soc., 103 (1962), 149–167.",
+    "journal-title": "Trans. Amer. Math. Soc."
+   }
+  ],
+  "container-title": [
+   "Acta Mathematica"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://www.springerlink.com/index/pdf/10.1007/BF02391012",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     1,
+     9
+    ]
+   ],
+   "date-time": "2019-01-09T11:45:50Z",
+   "timestamp": 1547034350000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://projecteuclid.org/euclid.acta/1485889380"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1964
+    ]
+   ]
+  },
+  "references-count": 7,
+  "journal-issue": {
+   "issue": "0",
+   "published-print": {
+    "date-parts": [
+     [
+      1964
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.1007/bf02391012",
+  "relation": {},
+  "ISSN": [
+   "0001-5962"
+  ],
+  "issn-type": [
+   {
+    "value": "0001-5962",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1964
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,207 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     10
+    ]
+   ],
+   "date-time": "2026-11-10T21:26:57Z",
+   "timestamp": 1794346017945,
+   "version": "4.9.0"
+  },
+  "publisher-location": "Berlin, Heidelberg",
+  "reference-count": 0,
+  "publisher": "Springer Berlin Heidelberg",
+  "isbn-type": [
+   {
+    "value": "9783540058403",
+    "type": "print"
+   },
+   {
+    "value": "9783540374756",
+    "type": "electronic"
+   }
+  ],
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1972,
+       1,
+       1
+      ]
+     ],
+     "date-time": "1972-01-01T00:00:00Z",
+     "timestamp": 63072000000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     1972
+    ]
+   ]
+  },
+  "DOI": "10.1007/bfb0058301",
+  "type": "book",
+  "created": {
+   "date-parts": [
+    [
+     2006,
+     11,
+     7
+    ]
+   ],
+   "date-time": "2006-11-07T12:13:16Z",
+   "timestamp": 1162901596000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 148,
+  "title": [
+   "The Crystals Associated to Barsotti-Tate Groups: with Applications to Abelian Schemes"
+  ],
+  "prefix": "10.1007",
+  "author": [
+   {
+    "given": "William",
+    "family": "Messing",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "container-title": [
+   "Lecture Notes in Mathematics"
+  ],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BFb0058301.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BFb0058301",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     4,
+     6
+    ]
+   ],
+   "date-time": "2019-04-06T22:38:25Z",
+   "timestamp": 1554590305000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BFb0058301"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1972
+    ]
+   ]
+  },
+  "ISBN": [
+   "9783540058403",
+   "9783540374756"
+  ],
+  "references-count": 0,
+  "URL": "https://doi.org/10.1007/bfb0058301",
+  "relation": {
+   "has-part": [
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0058305",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0058306",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0058302",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0058304",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0058307",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0058303",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1007/bfb0058308",
+     "asserted-by": "subject"
+    }
+   ]
+  },
+  "ISSN": [
+   "0075-8434",
+   "1617-9692"
+  ],
+  "issn-type": [
+   {
+    "value": "0075-8434",
+    "type": "print"
+   },
+   {
+    "value": "1617-9692",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1972
+    ]
+   ]
+  }
+ }
+}

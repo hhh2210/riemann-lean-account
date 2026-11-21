@@ -1,0 +1,234 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     13
+    ]
+   ],
+   "date-time": "2026-11-13T02:42:21Z",
+   "timestamp": 1794537741370,
+   "version": "4.9.1"
+  },
+  "reference-count": 0,
+  "publisher": "Princeton University Press",
+  "isbn-type": [
+   {
+    "value": "9781400837205",
+    "type": "electronic"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     2002,
+     12,
+     31
+    ]
+   ]
+  },
+  "DOI": "10.1515/9781400837205",
+  "type": "edited-book",
+  "created": {
+   "date-parts": [
+    [
+     2015,
+     9,
+     11
+    ]
+   ],
+   "date-time": "2015-09-11T02:40:42Z",
+   "timestamp": 1441939242000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 112,
+  "title": [
+   "The Geometry and Cohomology of Some Simple Shimura Varieties. (AM-151)"
+  ],
+  "prefix": "10.1515",
+  "author": [
+   {
+    "given": "Michael",
+    "family": "Harris",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Richard",
+    "family": "Taylor",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "374",
+  "published-online": {
+   "date-parts": [
+    [
+     2002,
+     12,
+     31
+    ]
+   ]
+  },
+  "container-title": [],
+  "original-title": [],
+  "link": [
+   {
+    "URL": "http://www.degruyter.com/view/books/9781400837205/9781400837205/9781400837205.xml",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://www.degruyter.com/document/doi/10.1515/9781400837205/pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2025,
+     6,
+     24
+    ]
+   ],
+   "date-time": "2025-06-24T14:47:17Z",
+   "timestamp": 1750776437000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.degruyterbrill.com/document/doi/10.1515/9781400837205/html"
+   }
+  },
+  "subtitle": [
+   ""
+  ],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2002,
+     12,
+     31
+    ]
+   ]
+  },
+  "ISBN": [
+   "9781400837205"
+  ],
+  "references-count": 0,
+  "alternative-id": [
+   "10.1515/9781400837205"
+  ],
+  "URL": "https://doi.org/10.1515/9781400837205",
+  "relation": {
+   "has-part": [
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1515/9781400837205-010",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1515/9781400837205-toc",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1515/9781400837205-006",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1515/9781400837205-001",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1515/9781400837205-008",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1515/9781400837205-009",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1515/9781400837205-012",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1515/9781400837205-005",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1515/9781400837205-011",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1515/9781400837205-003",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1515/9781400837205-004",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1515/9781400837205-002",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1515/9781400837205-fm",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1515/9781400837205-007",
+     "asserted-by": "subject"
+    }
+   ]
+  },
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2002,
+     12,
+     31
+    ]
+   ]
+  }
+ }
+}

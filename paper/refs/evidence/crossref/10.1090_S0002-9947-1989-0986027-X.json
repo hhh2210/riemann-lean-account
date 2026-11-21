@@ -1,0 +1,395 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     10
+    ]
+   ],
+   "date-time": "2026-11-10T13:26:33Z",
+   "timestamp": 1794317193499,
+   "version": "4.9.0"
+  },
+  "reference-count": 23,
+  "publisher": "American Mathematical Society (AMS)",
+  "issue": "2",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Trans. Amer. Math. Soc."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1989
+    ]
+   ]
+  },
+  "abstract": "<p>A uniform formulation, applying to all classical groups simultaneously, of the First Fundamental Theory of Classical Invariant Theory is given in terms of the Weyl algebra. The formulation also allows skew-symmetric as well as symmetric variables. Examples illustrate the scope of this formulation.</p>",
+  "DOI": "10.1090/s0002-9947-1989-0986027-x",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2010,
+     6,
+     30
+    ]
+   ],
+   "date-time": "2010-06-30T16:44:38Z",
+   "timestamp": 1277916278000
+  },
+  "page": "539-570",
+  "source": "Crossref",
+  "is-referenced-by-count": 350,
+  "title": [
+   "Remarks on classical invariant theory"
+  ],
+  "prefix": "10.1090",
+  "volume": "313",
+  "author": [
+   {
+    "given": "Roger",
+    "family": "Howe",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "14",
+  "reference": [
+   {
+    "key": "1",
+    "doi-asserted-by": "publisher",
+    "first-page": "279",
+    "DOI": "10.1007/BF01425417",
+    "article-title": "On the heat equation and the index theorem",
+    "volume": "19",
+    "author": "Atiyah, M.",
+    "year": "1973",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "key": "2",
+    "first-page": "103",
+    "article-title": "On a generalization of Kähler geometry",
+    "author": "Chern, Shiing-shen",
+    "year": "1957"
+   },
+   {
+    "key": "3",
+    "doi-asserted-by": "publisher",
+    "first-page": "49",
+    "DOI": "10.1007/BF01418850",
+    "article-title": "Holomorphic discrete series for the real symplectic group",
+    "volume": "19",
+    "author": "Gelbart, Stephen",
+    "year": "1973",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "4",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1016/0022-1236(77)90030-1",
+    "article-title": "Bessel functions and representation theory. II. Holomorphic discrete series and metaplectic representations",
+    "volume": "25",
+    "author": "Gross, Kenneth I.",
+    "year": "1977",
+    "journal-title": "J. Functional Analysis",
+    "ISSN": "https://id.crossref.org/issn/0022-1236",
+    "issn-type": "print"
+   },
+   {
+    "key": "5",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1016/0001-8708(70)90037-X",
+    "article-title": "A duality for symmetric spaces with applications to group representations",
+    "volume": "5",
+    "author": "Helgason, Sigurđur",
+    "year": "1970",
+    "journal-title": "Advances in Math.",
+    "ISSN": "https://id.crossref.org/issn/0001-8708",
+    "issn-type": "print"
+   },
+   {
+    "key": "6",
+    "isbn-type": "print",
+    "first-page": "179",
+    "article-title": "Dual pairs in physics: harmonic oscillators, photons, electrons, and singletons",
+    "author": "Howe, Roger",
+    "year": "1985",
+    "ISBN": "https://id.crossref.org/isbn/0821811215"
+   },
+   {
+    "key": "7",
+    "isbn-type": "print",
+    "volume-title": "Basic algebra. II",
+    "author": "Jacobson, Nathan",
+    "year": "1980",
+    "ISBN": "https://id.crossref.org/isbn/071671079X"
+   },
+   {
+    "key": "8",
+    "first-page": "1323",
+    "article-title": "Simple irreducible graded Lie algebras of finite growth",
+    "volume": "32",
+    "author": "Kac, V. G.",
+    "year": "1968",
+    "journal-title": "Izv. Akad. Nauk SSSR Ser. Mat.",
+    "ISSN": "https://id.crossref.org/issn/0373-2436",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "9",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1007/BF01389900",
+    "article-title": "On the Segal-Shale-Weil representations and harmonic polynomials",
+    "volume": "44",
+    "author": "Kashiwara, M.",
+    "year": "1978",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "key": "10",
+    "first-page": "177",
+    "article-title": "Graded manifolds, graded Lie theory, and prequantization",
+    "author": "Kostant, Bertram",
+    "year": "1977"
+   },
+   {
+    "key": "11",
+    "doi-asserted-by": "publisher",
+    "first-page": "329",
+    "DOI": "10.2307/1970237",
+    "article-title": "Lie algebra cohomology and the generalized Borel-Weil theorem",
+    "volume": "74",
+    "author": "Kostant, Bertram",
+    "year": "1961",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "12",
+    "doi-asserted-by": "publisher",
+    "first-page": "237",
+    "DOI": "10.1512/iumj.1958.7.57019",
+    "article-title": "A theorem of Frobenius, a theorem of Amitsur-Levitski and cohomology theory",
+    "volume": "7",
+    "author": "Kostant, Bertram",
+    "year": "1958",
+    "journal-title": "J. Math. Mech."
+   },
+   {
+    "key": "13",
+    "volume-title": "The Theory of Group Characters and Matrix Representations of Groups",
+    "author": "Littlewood, Dudley E.",
+    "year": "1940"
+   },
+   {
+    "key": "14",
+    "doi-asserted-by": "publisher",
+    "first-page": "232",
+    "DOI": "10.2969/jmsj/02420232",
+    "article-title": "Représentations unitaires des groupes symplectiques",
+    "volume": "24",
+    "author": "Saito, Masahiko",
+    "year": "1972",
+    "journal-title": "J. Math. Soc. Japan",
+    "ISSN": "https://id.crossref.org/issn/0025-5645",
+    "issn-type": "print"
+   },
+   {
+    "key": "15",
+    "volume-title": "Alg\\`ebres de Lie semi-simples complexes",
+    "author": "Serre, Jean-Pierre",
+    "year": "1966"
+   },
+   {
+    "key": "16",
+    "unstructured": "C. Seshadri, Letter to M. F. Atiyah."
+   },
+   {
+    "key": "17",
+    "doi-asserted-by": "publisher",
+    "first-page": "149",
+    "DOI": "10.2307/1993745",
+    "article-title": "Linear symmetries of free boson fields",
+    "volume": "103",
+    "author": "Shale, David",
+    "year": "1962",
+    "journal-title": "Trans. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9947",
+    "issn-type": "print"
+   },
+   {
+    "key": "18",
+    "doi-asserted-by": "publisher",
+    "first-page": "371",
+    "DOI": "10.2307/2371691",
+    "article-title": "On symmetrized Kronecker powers and the structure of the free Lie ring",
+    "volume": "64",
+    "author": "Thrall, R. M.",
+    "year": "1942",
+    "journal-title": "Amer. J. Math.",
+    "ISSN": "https://id.crossref.org/issn/0002-9327",
+    "issn-type": "print"
+   },
+   {
+    "issue": "2",
+    "key": "19",
+    "doi-asserted-by": "publisher",
+    "first-page": "163",
+    "DOI": "10.1016/0022-4049(77)90019-6",
+    "article-title": "Graded generalizations of Weyl- and Clifford algebras",
+    "volume": "10",
+    "author": "Tilgner, Hans",
+    "year": "1977",
+    "journal-title": "J. Pure Appl. Algebra",
+    "ISSN": "https://id.crossref.org/issn/0022-4049",
+    "issn-type": "print"
+   },
+   {
+    "key": "20",
+    "series-title": "Publications de l'Institut de Math\\'{e}matique de l'Universit\\'{e} de Nancago, VI. Actualit\\'{e}s Sci. Ind, no. 1267",
+    "volume-title": "Introduction \\`a l'\\'{e}tude des vari\\'{e}t\\'{e}s k\\\"{a}hl\\'{e}riennes",
+    "author": "Weil, André",
+    "year": "1958"
+   },
+   {
+    "key": "21",
+    "doi-asserted-by": "crossref",
+    "unstructured": "\\bysame, Sur certains groupes d’opérateurs unitaires, Acta Math. 11 (1964), 143-211.",
+    "DOI": "10.1007/BF02391012"
+   },
+   {
+    "key": "22",
+    "series-title": "Princeton Landmarks in Mathematics",
+    "isbn-type": "print",
+    "volume-title": "The classical groups",
+    "author": "Weyl, Hermann",
+    "year": "1997",
+    "ISBN": "https://id.crossref.org/isbn/0691057567"
+   },
+   {
+    "key": "23",
+    "volume-title": "{\\cyr Kompaktnye gruppy Li i ikh predstavleniya}",
+    "author": "Zhelobenko, D. P.",
+    "year": "1970"
+   }
+  ],
+  "container-title": [
+   "Transactions of the American Mathematical Society"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://www.ams.org/tran/1989-313-02/S0002-9947-1989-0986027-X/S0002-9947-1989-0986027-X.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "https://www.ams.org/tran/1989-313-02/S0002-9947-1989-0986027-X/S0002-9947-1989-0986027-X.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     4,
+     6
+    ]
+   ],
+   "date-time": "2026-04-06T14:19:33Z",
+   "timestamp": 1775485173000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.ams.org/tran/1989-313-02/S0002-9947-1989-0986027-X/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1989
+    ]
+   ]
+  },
+  "references-count": 23,
+  "aliases": [
+   "10.2307/2001418"
+  ],
+  "journal-issue": {
+   "issue": "2",
+   "published-print": {
+    "date-parts": [
+     [
+      1989
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "S0002-9947-1989-0986027-X"
+  ],
+  "URL": "https://doi.org/10.1090/s0002-9947-1989-0986027-x",
+  "archive": [
+   "CLOCKSS",
+   "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+   "1088-6850",
+   "0002-9947"
+  ],
+  "issn-type": [
+   {
+    "value": "1088-6850",
+    "type": "electronic"
+   },
+   {
+    "value": "0002-9947",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1989
+    ]
+   ]
+  }
+ }
+}

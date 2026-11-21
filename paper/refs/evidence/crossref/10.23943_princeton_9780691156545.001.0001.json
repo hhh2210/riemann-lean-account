@@ -1,0 +1,148 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     24
+    ]
+   ],
+   "date-time": "2026-10-24T02:29:42Z",
+   "timestamp": 1792808982626,
+   "version": "4.5.0"
+  },
+  "edition-number": "1",
+  "reference-count": 0,
+  "publisher": "Princeton University Press",
+  "isbn-type": [
+   {
+    "value": "9780691156545",
+    "type": "print"
+   },
+   {
+    "value": "9781400846016",
+    "type": "electronic"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     2013,
+     3,
+     24
+    ]
+   ]
+  },
+  "abstract": "<p>By studying the degeneration of abelian varieties with PEL structures, this book explains the compactifications of smooth integral models of all PEL-type Shimura varieties, providing the logical foundation for several exciting recent developments. PEL-type Shimura varieties, which are natural generalizations of modular curves, are useful for studying the arithmetic properties of automorphic forms and automorphic representations, and they have played important roles in the development of the Langlands program. As with modular curves, it is desirable to have integral models of compactifications of PEL-type Shimura varieties that can be described in sufficient detail near the boundary, which this book explains in detail. Through the discussion, the book generalizes the theory of degenerations of polarized abelian varieties and the application of that theory to the construction of toroidal and minimal compactifications of Siegel moduli schemes over the integers (as developed by Mumford, Faltings, and Chai). The book is designed to be accessible to graduate students who have an understanding of schemes and abelian varieties.</p>",
+  "DOI": "10.23943/princeton/9780691156545.001.0001",
+  "type": "monograph",
+  "created": {
+   "date-parts": [
+    [
+     2017,
+     11,
+     21
+    ]
+   ],
+   "date-time": "2017-11-21T07:45:43Z",
+   "timestamp": 1511250343000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 29,
+  "title": [
+   "Arithmetic Compactifications of PEL-Type Shimura Varieties"
+  ],
+  "prefix": "10.23943",
+  "author": [
+   {
+    "given": "Kai-Wen",
+    "family": "Lan",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "10341",
+  "published-online": {
+   "date-parts": [
+    [
+     2017,
+     10,
+     19
+    ]
+   ]
+  },
+  "container-title": [],
+  "original-title": [
+   "Arithmetic Compactifications of PEL-Type Shimura Varieties"
+  ],
+  "language": "en",
+  "deposited": {
+   "date-parts": [
+    [
+     2022,
+     7,
+     28
+    ]
+   ],
+   "date-time": "2022-07-28T10:32:48Z",
+   "timestamp": 1659004368000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://academic.oup.com/princeton-scholarship-online/book/35974"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2013,
+     3,
+     24
+    ]
+   ]
+  },
+  "ISBN": [
+   "9780691156545",
+   "9781400846016"
+  ],
+  "references-count": 0,
+  "URL": "https://doi.org/10.23943/princeton/9780691156545.001.0001",
+  "relation": {
+   "is-identical-to": [
+    {
+     "id-type": "doi",
+     "id": "10.1515/9781400846016",
+     "asserted-by": "subject"
+    }
+   ]
+  },
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2013,
+     3,
+     24
+    ]
+   ]
+  }
+ }
+}

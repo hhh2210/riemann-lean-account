@@ -1,0 +1,755 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     1
+    ]
+   ],
+   "date-time": "2026-10-01T06:03:11Z",
+   "timestamp": 1790834591694,
+   "version": "4.1.0"
+  },
+  "reference-count": 52,
+  "publisher": "American Mathematical Society (AMS)",
+  "issue": "4",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "J. Amer. Math. Soc."
+  ],
+  "DOI": "10.1090/s0894-0347-96-00198-1",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2002,
+     7,
+     26
+    ]
+   ],
+   "date-time": "2002-07-26T18:13:53Z",
+   "timestamp": 1027707233000
+  },
+  "page": "941-1004",
+  "source": "Crossref",
+  "is-referenced-by-count": 106,
+  "title": [
+   "Theta dichotomy for unitary groups"
+  ],
+  "prefix": "10.1090",
+  "volume": "9",
+  "author": [
+   {
+    "given": "Michael",
+    "family": "Harris",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Stephen",
+    "family": "Kudla",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "William",
+    "family": "Sweet",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "14",
+  "published-online": {
+   "date-parts": [
+    [
+     1996
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "issue": "160",
+    "key": "1",
+    "doi-asserted-by": "publisher",
+    "first-page": "457",
+    "DOI": "10.1093/qmath/40.4.457",
+    "article-title": "A further generalization of the Segal conjecture",
+    "volume": "40",
+    "author": "May, J. P.",
+    "year": "1989",
+    "journal-title": "Quart. J. Math. Oxford Ser. (2)",
+    "ISSN": "https://id.crossref.org/issn/0033-5606",
+    "issn-type": "print"
+   },
+   {
+    "key": "2",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.1007/BFb0073144",
+    "article-title": "On some problems suggested by the trace formula",
+    "author": "Arthur, James",
+    "year": "1984",
+    "ISBN": "https://id.crossref.org/isbn/3540127151"
+   },
+   {
+    "issue": "171-172",
+    "key": "3",
+    "first-page": "13",
+    "article-title": "Unipotent automorphic representations: conjectures",
+    "author": "Arthur, James",
+    "year": "1989",
+    "journal-title": "Ast\\'{e}risque",
+    "ISSN": "https://id.crossref.org/issn/0303-1179",
+    "issn-type": "print"
+   },
+   {
+    "key": "4",
+    "unstructured": "S. Brocco, On the non-vanishing of 𝑡ℎ𝑒𝑡𝑎–liftings from 𝑈(1) to 𝑈(1), Ph.D. Thesis, Brandeis University (1992)."
+   },
+   {
+    "issue": "73",
+    "key": "5",
+    "doi-asserted-by": "crossref",
+    "first-page": "97",
+    "DOI": "10.1007/BF02699257",
+    "article-title": "Représentations galoisiennes associées aux représentations automorphes autoduales de 𝐺𝐿(𝑛)",
+    "author": "Clozel, Laurent",
+    "year": "1991",
+    "journal-title": "Inst. Hautes \\'{E}tudes Sci. Publ. Math.",
+    "ISSN": "https://id.crossref.org/issn/0073-8301",
+    "issn-type": "print"
+   },
+   {
+    "issue": "3",
+    "key": "6",
+    "doi-asserted-by": "publisher",
+    "first-page": "445",
+    "DOI": "10.1007/BF01232276",
+    "article-title": "𝐿-functions and Fourier-Jacobi coefficients for the unitary group 𝑈(3)",
+    "volume": "105",
+    "author": "Gelbart, Stephen S.",
+    "year": "1991",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "key": "7",
+    "first-page": "19",
+    "article-title": "Exceptional representations and Shimura’s integral for the local unitary group 𝑈(3)",
+    "author": "Gelbart, Stephen S.",
+    "year": "1990"
+   },
+   {
+    "key": "8",
+    "unstructured": "S. Gelbart, J. Rogawski and D. Soudry, On the genericity of endoscopic L-packets on U(3), preprint."
+   },
+   {
+    "issue": "1-2",
+    "key": "9",
+    "doi-asserted-by": "publisher",
+    "first-page": "213",
+    "DOI": "10.1007/BF02764643",
+    "article-title": "On periods of cusp forms and algebraic cycles for 𝑈(3)",
+    "volume": "83",
+    "author": "Gelbart, S.",
+    "year": "1993",
+    "journal-title": "Israel J. Math.",
+    "ISSN": "https://id.crossref.org/issn/0021-2172",
+    "issn-type": "print"
+   },
+   {
+    "issue": "8",
+    "key": "10",
+    "first-page": "717",
+    "article-title": "Periods of cusp forms and 𝐿-packets",
+    "volume": "317",
+    "author": "Gelbart, Stephen",
+    "year": "1993",
+    "journal-title": "C. R. Acad. Sci. Paris S\\'{e}r. I Math.",
+    "ISSN": "https://id.crossref.org/issn/0764-4442",
+    "issn-type": "print"
+   },
+   {
+    "key": "11",
+    "series-title": "Lecture Notes in Mathematics, Vol. 260",
+    "doi-asserted-by": "crossref",
+    "DOI": "10.1007/BFb0070263",
+    "volume-title": "Zeta functions of simple algebras",
+    "author": "Godement, Roger",
+    "year": "1972"
+   },
+   {
+    "key": "12",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "first-page": "527",
+    "DOI": "10.1090/pspum/055.1/1265543",
+    "article-title": "𝐿-functions at the central critical point",
+    "author": "Gross, Benedict H.",
+    "year": "1994",
+    "ISBN": "https://id.crossref.org/isbn/0821816365"
+   },
+   {
+    "issue": "2",
+    "key": "13",
+    "first-page": "143",
+    "article-title": "Heights and the central critical values of triple product 𝐿-functions",
+    "volume": "81",
+    "author": "Gross, Benedict H.",
+    "year": "1992",
+    "journal-title": "Compositio Math.",
+    "ISSN": "https://id.crossref.org/issn/0010-437X",
+    "issn-type": "print"
+   },
+   {
+    "issue": "5",
+    "key": "14",
+    "doi-asserted-by": "publisher",
+    "first-page": "974",
+    "DOI": "10.4153/CJM-1992-060-8",
+    "article-title": "On the decomposition of a representation of 𝑆𝑂_{𝑛} when restricted to 𝑆𝑂_{𝑛-1}",
+    "volume": "44",
+    "author": "Gross, Benedict H.",
+    "year": "1992",
+    "journal-title": "Canad. J. Math.",
+    "ISSN": "https://id.crossref.org/issn/0008-414X",
+    "issn-type": "print"
+   },
+   {
+    "issue": "3",
+    "key": "15",
+    "doi-asserted-by": "publisher",
+    "first-page": "637",
+    "DOI": "10.2307/2152780",
+    "article-title": "𝐿-functions of 2×2 unitary groups and factorization of periods of Hilbert modular forms",
+    "volume": "6",
+    "author": "Harris, Michael",
+    "year": "1993",
+    "journal-title": "J. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0894-0347",
+    "issn-type": "print"
+   },
+   {
+    "issue": "4",
+    "key": "16",
+    "doi-asserted-by": "publisher",
+    "first-page": "405",
+    "DOI": "10.1515/form.1993.5.405",
+    "article-title": "Nonvanishing of 𝐿-functions of 2×2 unitary groups",
+    "volume": "5",
+    "author": "Harris, Michael",
+    "year": "1993",
+    "journal-title": "Forum Math.",
+    "ISSN": "https://id.crossref.org/issn/0933-7741",
+    "issn-type": "print"
+   },
+   {
+    "issue": "3",
+    "key": "17",
+    "doi-asserted-by": "publisher",
+    "first-page": "605",
+    "DOI": "10.2307/2944321",
+    "article-title": "The central critical value of a triple product 𝐿-function",
+    "volume": "133",
+    "author": "Harris, Michael",
+    "year": "1991",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "18",
+    "unstructured": "R. Howe, L² duality for stable reductive dual pairs."
+   },
+   {
+    "key": "19",
+    "isbn-type": "print",
+    "first-page": "63",
+    "article-title": "Principal 𝐿-functions of the linear group",
+    "author": "Jacquet, Hervé",
+    "year": "1979",
+    "ISBN": "https://id.crossref.org/isbn/0821814370"
+   },
+   {
+    "issue": "4",
+    "key": "20",
+    "first-page": "552",
+    "article-title": "Values of certain Whittaker functions on a 𝑝-adic reductive group",
+    "volume": "26",
+    "author": "Karel, Martin L.",
+    "year": "1982",
+    "journal-title": "Illinois J. Math.",
+    "ISSN": "https://id.crossref.org/issn/0019-2082",
+    "issn-type": "print"
+   },
+   {
+    "issue": "2",
+    "key": "21",
+    "doi-asserted-by": "publisher",
+    "first-page": "229",
+    "DOI": "10.1007/BF01388961",
+    "article-title": "On the local theta-correspondence",
+    "volume": "83",
+    "author": "Kudla, Stephen S.",
+    "year": "1986",
+    "journal-title": "Invent. Math.",
+    "ISSN": "https://id.crossref.org/issn/0020-9910",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1-3",
+    "key": "22",
+    "doi-asserted-by": "publisher",
+    "first-page": "361",
+    "DOI": "10.1007/BF02773003",
+    "article-title": "Splitting metaplectic covers of dual reductive pairs",
+    "volume": "87",
+    "author": "Kudla, Stephen S.",
+    "year": "1994",
+    "journal-title": "Israel J. Math.",
+    "ISSN": "https://id.crossref.org/issn/0021-2172",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "23",
+    "doi-asserted-by": "publisher",
+    "first-page": "1",
+    "DOI": "10.2307/2118540",
+    "article-title": "A regularized Siegel-Weil formula: the first term identity",
+    "volume": "140",
+    "author": "Kudla, Stephen S.",
+    "year": "1994",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "24",
+    "unstructured": "S. Kudla and S. Rallis, On first occurrence in the local theta correspondence, preprint, 1996."
+   },
+   {
+    "key": "25",
+    "unstructured": "S. Kudla and W. Sweet, Degenerate principal series for unitary groups, preprint (1994)."
+   },
+   {
+    "issue": "4",
+    "key": "26",
+    "doi-asserted-by": "publisher",
+    "first-page": "726",
+    "DOI": "10.4153/CJM-1979-070-3",
+    "article-title": "𝐿-indistinguishability for 𝑆𝐿(2)",
+    "volume": "31",
+    "author": "Labesse, J.-P.",
+    "year": "1979",
+    "journal-title": "Canadian J. Math.",
+    "ISSN": "https://id.crossref.org/issn/0008-414X",
+    "issn-type": "print"
+   },
+   {
+    "key": "27",
+    "isbn-type": "print",
+    "first-page": "255",
+    "article-title": "The description of the theorem",
+    "author": "Langlands, Robert P.",
+    "year": "1992",
+    "ISBN": "https://id.crossref.org/isbn/2921120089"
+   },
+   {
+    "key": "28",
+    "doi-asserted-by": "publisher",
+    "first-page": "177",
+    "DOI": "10.1515/crll.1992.428.177",
+    "article-title": "Nonvanishing theorems for the cohomology of certain arithmetic quotients",
+    "volume": "428",
+    "author": "Li, Jian-Shu",
+    "year": "1992",
+    "journal-title": "J. Reine Angew. Math.",
+    "ISSN": "https://id.crossref.org/issn/0075-4102",
+    "issn-type": "print"
+   },
+   {
+    "key": "29",
+    "series-title": "Lecture Notes in Mathematics",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BFb0082712",
+    "volume-title": "Correspondances de Howe sur un corps $p$-adique",
+    "volume": "1291",
+    "author": "Mœglin, Colette",
+    "year": "1987",
+    "ISBN": "https://id.crossref.org/isbn/3540186999"
+   },
+   {
+    "issue": "2",
+    "key": "30",
+    "doi-asserted-by": "crossref",
+    "first-page": "365",
+    "DOI": "10.2140/pjm.1993.158.365",
+    "article-title": "The dual pair (𝑈(1),𝑈(1)) over a 𝑝-adic field",
+    "volume": "158",
+    "author": "Moen, Courtney",
+    "year": "1993",
+    "journal-title": "Pacific J. Math.",
+    "ISSN": "https://id.crossref.org/issn/0030-8730",
+    "issn-type": "print"
+   },
+   {
+    "key": "31",
+    "series-title": "Lecture Notes in Mathematics",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BFb0077894",
+    "volume-title": "$L$-functions and the oscillator representation",
+    "volume": "1245",
+    "author": "Rallis, Stephen",
+    "year": "1987",
+    "ISBN": "https://id.crossref.org/isbn/3540176942"
+   },
+   {
+    "issue": "13",
+    "key": "32",
+    "doi-asserted-by": "publisher",
+    "first-page": "4589",
+    "DOI": "10.1073/pnas.83.13.4589",
+    "article-title": "𝜀 factor of representations of classical groups",
+    "volume": "83",
+    "author": "Piatetski-Shapiro, I.",
+    "year": "1986",
+    "journal-title": "Proc. Nat. Acad. Sci. U.S.A.",
+    "ISSN": "https://id.crossref.org/issn/0027-8424",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "33",
+    "first-page": "31",
+    "article-title": "Rankin triple 𝐿 functions",
+    "volume": "64",
+    "author": "Piatetski-Shapiro, I.",
+    "year": "1987",
+    "journal-title": "Compositio Math.",
+    "ISSN": "https://id.crossref.org/issn/0010-437X",
+    "issn-type": "print"
+   },
+   {
+    "issue": "1",
+    "key": "34",
+    "first-page": "1",
+    "article-title": "Trilinear forms for representations of 𝐺𝐿(2) and local 𝜀-factors",
+    "volume": "75",
+    "author": "Prasad, Dipendra",
+    "year": "1990",
+    "journal-title": "Compositio Math.",
+    "ISSN": "https://id.crossref.org/issn/0010-437X",
+    "issn-type": "print"
+   },
+   {
+    "issue": "11",
+    "key": "35",
+    "doi-asserted-by": "publisher",
+    "first-page": "279",
+    "DOI": "10.1155/S1073792893000315",
+    "article-title": "On the local Howe duality correspondence",
+    "author": "Prasad, Dipendra",
+    "year": "1993",
+    "journal-title": "Internat. Math. Res. Notices",
+    "ISSN": "https://id.crossref.org/issn/1073-7928",
+    "issn-type": "print"
+   },
+   {
+    "issue": "3",
+    "key": "36",
+    "first-page": "333",
+    "article-title": "On the Howe duality conjecture",
+    "volume": "51",
+    "author": "Rallis, S.",
+    "year": "1984",
+    "journal-title": "Compositio Math.",
+    "ISSN": "https://id.crossref.org/issn/0010-437X",
+    "issn-type": "print"
+   },
+   {
+    "issue": "3",
+    "key": "37",
+    "doi-asserted-by": "publisher",
+    "first-page": "469",
+    "DOI": "10.2307/2374151",
+    "article-title": "Langlands’ functoriality and the Weil representation",
+    "volume": "104",
+    "author": "Rallis, Stephen",
+    "year": "1982",
+    "journal-title": "Amer. J. Math.",
+    "ISSN": "https://id.crossref.org/issn/0002-9327",
+    "issn-type": "print"
+   },
+   {
+    "issue": "2",
+    "key": "38",
+    "first-page": "139",
+    "article-title": "Injectivity properties of liftings associated to Weil representations",
+    "volume": "52",
+    "author": "Rallis, S.",
+    "year": "1984",
+    "journal-title": "Compositio Math.",
+    "ISSN": "https://id.crossref.org/issn/0010-437X",
+    "issn-type": "print"
+   },
+   {
+    "key": "39",
+    "isbn-type": "print",
+    "first-page": "833",
+    "article-title": "Poles of standard 𝐿 functions",
+    "author": "Rallis, Stephen",
+    "year": "1991",
+    "ISBN": "https://id.crossref.org/isbn/4431700471"
+   },
+   {
+    "issue": "2",
+    "key": "40",
+    "doi-asserted-by": "crossref",
+    "first-page": "335",
+    "DOI": "10.2140/pjm.1993.157.335",
+    "article-title": "On some explicit formulas in the theory of Weil representation",
+    "volume": "157",
+    "author": "Ranga Rao, R.",
+    "year": "1993",
+    "journal-title": "Pacific J. Math.",
+    "ISSN": "https://id.crossref.org/issn/0030-8730",
+    "issn-type": "print"
+   },
+   {
+    "key": "41",
+    "series-title": "Annals of Mathematics Studies",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1515/9781400882441",
+    "volume-title": "Automorphic representations of unitary groups in three variables",
+    "volume": "123",
+    "author": "Rogawski, Jonathan D.",
+    "year": "1990",
+    "ISBN": "https://id.crossref.org/isbn/0691085862"
+   },
+   {
+    "key": "42",
+    "isbn-type": "print",
+    "first-page": "395",
+    "article-title": "The multiplicity formula for 𝐴-packets",
+    "author": "Rogawski, Jonathan D.",
+    "year": "1992",
+    "ISBN": "https://id.crossref.org/isbn/2921120089"
+   },
+   {
+    "key": "43",
+    "doi-asserted-by": "publisher",
+    "first-page": "151",
+    "DOI": "10.2307/1989918",
+    "article-title": "The boundary problem of an ordinary linear differential system in the complex domain",
+    "volume": "46",
+    "author": "Langer, Rudolph E.",
+    "year": "1939",
+    "journal-title": "Trans. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9947",
+    "issn-type": "print"
+   },
+   {
+    "key": "44",
+    "unstructured": "W. Sweet, A computation of the gamma matrix of a family of p-adic zeta integrals, preprint 1991."
+   },
+   {
+    "key": "45",
+    "first-page": "305",
+    "article-title": "Fourier analysis in number fields, and Hecke’s zeta-functions",
+    "author": "Tate, J. T.",
+    "year": "1967"
+   },
+   {
+    "key": "46",
+    "isbn-type": "print",
+    "first-page": "3",
+    "article-title": "Number theoretic background",
+    "author": "Tate, J.",
+    "year": "1979",
+    "ISBN": "https://id.crossref.org/isbn/0821814370"
+   },
+   {
+    "issue": "6",
+    "key": "47",
+    "doi-asserted-by": "publisher",
+    "first-page": "1277",
+    "DOI": "10.2307/2374441",
+    "article-title": "Local 𝜀-factors and characters of 𝐺𝐿(2)",
+    "volume": "105",
+    "author": "Tunnell, Jerrold B.",
+    "year": "1983",
+    "journal-title": "Amer. J. Math.",
+    "ISSN": "https://id.crossref.org/issn/0002-9327",
+    "issn-type": "print"
+   },
+   {
+    "key": "48",
+    "isbn-type": "print",
+    "doi-asserted-by": "publisher",
+    "first-page": "305",
+    "DOI": "10.1090/conm/145/1216197",
+    "article-title": "The local Langlands conjecture",
+    "author": "Vogan, David A., Jr.",
+    "year": "1993",
+    "ISBN": "https://id.crossref.org/isbn/0821851683"
+   },
+   {
+    "issue": "2",
+    "key": "49",
+    "first-page": "121",
+    "article-title": "Quelques propriétés arithmétiques de certaines formes automorphes sur 𝐺𝐿(2)",
+    "volume": "54",
+    "author": "Waldspurger, J.-L.",
+    "year": "1985",
+    "journal-title": "Compositio Math.",
+    "ISSN": "https://id.crossref.org/issn/0010-437X",
+    "issn-type": "print"
+   },
+   {
+    "key": "50",
+    "first-page": "267",
+    "article-title": "Démonstration d’une conjecture de dualité de Howe dans le cas 𝑝-adique, 𝑝≠2",
+    "author": "Waldspurger, J.-L.",
+    "year": "1990"
+   },
+   {
+    "issue": "3",
+    "key": "51",
+    "doi-asserted-by": "publisher",
+    "first-page": "219",
+    "DOI": "10.1515/form.1991.3.219",
+    "article-title": "Correspondances de Shimura et quaternions",
+    "volume": "3",
+    "author": "Waldspurger, Jean-Loup",
+    "year": "1991",
+    "journal-title": "Forum Math.",
+    "ISSN": "https://id.crossref.org/issn/0933-7741",
+    "issn-type": "print"
+   },
+   {
+    "key": "52",
+    "unstructured": "Tonghai Yang, Theta liftings and L-functions of elliptic curves, Thesis, Univ. of Maryland (1995)."
+   }
+  ],
+  "container-title": [
+   "Journal of the American Mathematical Society"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://www.ams.org/jams/1996-9-04/S0894-0347-96-00198-1/S0894-0347-96-00198-1.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "https://www.ams.org/jams/1996-9-04/S0894-0347-96-00198-1/S0894-0347-96-00198-1.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     4,
+     20
+    ]
+   ],
+   "date-time": "2026-04-20T02:32:00Z",
+   "timestamp": 1776652320000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.ams.org/jams/1996-9-04/S0894-0347-96-00198-1/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1996
+    ]
+   ]
+  },
+  "references-count": 52,
+  "journal-issue": {
+   "issue": "4",
+   "published-print": {
+    "date-parts": [
+     [
+      1996,
+      10
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "S0894-0347-96-00198-1"
+  ],
+  "URL": "https://doi.org/10.1090/s0894-0347-96-00198-1",
+  "archive": [
+   "CLOCKSS",
+   "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+   "1088-6834",
+   "0894-0347"
+  ],
+  "issn-type": [
+   {
+    "value": "1088-6834",
+    "type": "electronic"
+   },
+   {
+    "value": "0894-0347",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1996
+    ]
+   ]
+  }
+ }
+}

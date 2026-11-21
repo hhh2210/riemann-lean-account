@@ -1,0 +1,252 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     3
+    ]
+   ],
+   "date-time": "2026-10-03T21:24:28Z",
+   "timestamp": 1791062668806,
+   "version": "4.1.0"
+  },
+  "reference-count": 10,
+  "publisher": "American Mathematical Society (AMS)",
+  "issue": "2",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Trans. Amer. Math. Soc."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1954
+    ]
+   ]
+  },
+  "DOI": "10.1090/s0002-9947-1954-0062747-5",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2010,
+     7,
+     11
+    ]
+   ],
+   "date-time": "2010-07-11T16:39:55Z",
+   "timestamp": 1278866395000
+  },
+  "page": "234-253",
+  "source": "Crossref",
+  "is-referenced-by-count": 97,
+  "title": [
+   "Representations of semisimple Lie groups. III"
+  ],
+  "prefix": "10.1090",
+  "volume": "76",
+  "author": [
+   {
+    "family": "Harish-Chandra",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "14",
+  "reference": [
+   {
+    "key": "1",
+    "first-page": "225",
+    "article-title": "On the connection between the representations of a complex semi-simple Lie group and those of its maximal compact subgroups",
+    "volume": "63",
+    "author": "Gel′fand, I. M.",
+    "year": "1948",
+    "journal-title": "Doklady Akad. Nauk SSSR (N.S.)"
+   },
+   {
+    "key": "2",
+    "unstructured": "\\bysame, Trudi Mat. Inst. Steklova vol. 36 (1950)."
+   },
+   {
+    "key": "3",
+    "doi-asserted-by": "publisher",
+    "first-page": "496",
+    "DOI": "10.2307/1990805",
+    "article-title": "A theory of spherical functions. I",
+    "volume": "73",
+    "author": "Godement, Roger",
+    "year": "1952",
+    "journal-title": "Trans. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9947",
+    "issn-type": "print"
+   },
+   {
+    "key": "4",
+    "doi-asserted-by": "publisher",
+    "first-page": "299",
+    "DOI": "10.2307/1969326",
+    "article-title": "Lie algebras and the Tannaka duality theorem",
+    "volume": "51",
+    "author": "Harish-Chandra",
+    "year": "1950",
+    "journal-title": "Ann. of Math. (2)",
+    "ISSN": "https://id.crossref.org/issn/0003-486X",
+    "issn-type": "print"
+   },
+   {
+    "key": "5",
+    "doi-asserted-by": "publisher",
+    "first-page": "28",
+    "DOI": "10.2307/1990524",
+    "article-title": "On some applications of the universal enveloping algebra of a semisimple Lie algebra",
+    "volume": "70",
+    "author": "Harish-Chandra",
+    "year": "1951",
+    "journal-title": "Trans. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9947",
+    "issn-type": "print"
+   },
+   {
+    "key": "6",
+    "unstructured": "\\bysame, Trans. Amer. Math. Soc. vol. 74 (1953) pp. 185-243."
+   },
+   {
+    "key": "7",
+    "doi-asserted-by": "publisher",
+    "first-page": "26",
+    "DOI": "10.2307/1990743",
+    "article-title": "Representations of semisimple Lie groups. II",
+    "volume": "76",
+    "author": "Harish-Chandra",
+    "year": "1954",
+    "journal-title": "Trans. Amer. Math. Soc.",
+    "ISSN": "https://id.crossref.org/issn/0002-9947",
+    "issn-type": "print"
+   },
+   {
+    "key": "8",
+    "doi-asserted-by": "crossref",
+    "unstructured": "\\bysame, Proc. Nat. Acad. Sci. U.S.A. vol. 37 (1951) (a) pp. 170-173; (b) pp. 362-365; (c) pp. 366-369; (d) pp. 691-694.",
+    "DOI": "10.1073/pnas.37.10.691"
+   },
+   {
+    "key": "9",
+    "series-title": "Publications de l'Institut de Math\\'{e}matiques de l'Universit\\'{e} de Strasbourg [Publications of the Mathematical Institute of the University of Strasbourg]",
+    "volume-title": "Th\\'{e}orie des distributions. Tome I",
+    "volume": "9",
+    "author": "Schwartz, L.",
+    "year": "1950"
+   },
+   {
+    "key": "10",
+    "doi-asserted-by": "crossref",
+    "unstructured": "I. E. Segal, Proc. Amer. Math. Soc. vol. 3 (1952) pp. 13-15.",
+    "DOI": "10.1090/S0002-9939-1952-0051240-5"
+   }
+  ],
+  "container-title": [
+   "Transactions of the American Mathematical Society"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://www.ams.org/tran/1954-076-02/S0002-9947-1954-0062747-5/S0002-9947-1954-0062747-5.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   },
+   {
+    "URL": "https://www.ams.org/tran/1954-076-02/S0002-9947-1954-0062747-5/S0002-9947-1954-0062747-5.pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     4,
+     5
+    ]
+   ],
+   "date-time": "2026-04-05T16:07:23Z",
+   "timestamp": 1775405243000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.ams.org/tran/1954-076-02/S0002-9947-1954-0062747-5/"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1954
+    ]
+   ]
+  },
+  "references-count": 10,
+  "aliases": [
+   "10.2307/1990767"
+  ],
+  "journal-issue": {
+   "issue": "2",
+   "published-print": {
+    "date-parts": [
+     [
+      1954
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "S0002-9947-1954-0062747-5"
+  ],
+  "URL": "https://doi.org/10.1090/s0002-9947-1954-0062747-5",
+  "archive": [
+   "CLOCKSS",
+   "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+   "1088-6850",
+   "0002-9947"
+  ],
+  "issn-type": [
+   {
+    "value": "1088-6850",
+    "type": "electronic"
+   },
+   {
+    "value": "0002-9947",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1954
+    ]
+   ]
+  }
+ }
+}

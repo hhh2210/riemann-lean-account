@@ -1,0 +1,7 @@
+name = "cut"
+defaultTargets = ["cut"]
+
+[[lean_exe]]
+name = "cut"
+root = "CutMain"
+supportInterpreter = true

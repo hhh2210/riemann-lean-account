@@ -1,0 +1,145 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     20
+    ]
+   ],
+   "date-time": "2026-10-20T22:40:25Z",
+   "timestamp": 1792536025315,
+   "version": "4.5.0"
+  },
+  "reference-count": 0,
+  "publisher": "Mathematical Society of Japan (Project Euclid)",
+  "issue": "3",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "J. Math. Soc. Japan"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1957,
+     7,
+     1
+    ]
+   ]
+  },
+  "DOI": "10.2969/jmsj/00930330",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2009,
+     12,
+     18
+    ]
+   ],
+   "date-time": "2009-12-18T13:33:52Z",
+   "timestamp": 1261143232000
+  },
+  "page": "330-366",
+  "source": "Crossref",
+  "is-referenced-by-count": 22,
+  "title": [
+   "$L$ -functions of number fields and zeta functions of abelian varieties."
+  ],
+  "prefix": "10.2969",
+  "volume": "9",
+  "author": [
+   {
+    "given": "Yutaka",
+    "family": "TANIYAMA",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "1529",
+  "container-title": [
+   "Journal of the Mathematical Society of Japan"
+  ],
+  "original-title": [],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     20
+    ]
+   ],
+   "date-time": "2026-10-20T22:23:22Z",
+   "timestamp": 1792535002000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://projecteuclid.org/journals/journal-of-the-mathematical-society-of-japan/volume-9/issue-3/L--functions-of-number-fields-and-zeta-functions-of/10.2969/jmsj/00930330.full"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1957,
+     7,
+     1
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "3",
+   "published-online": {
+    "date-parts": [
+     [
+      1957,
+      7,
+      1
+     ]
+    ]
+   }
+  },
+  "URL": "https://doi.org/10.2969/jmsj/00930330",
+  "relation": {},
+  "ISSN": [
+   "0025-5645",
+   "1881-1167"
+  ],
+  "issn-type": [
+   {
+    "value": "0025-5645",
+    "type": "print"
+   },
+   {
+    "value": "1881-1167",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1957,
+     7,
+     1
+    ]
+   ]
+  }
+ }
+}

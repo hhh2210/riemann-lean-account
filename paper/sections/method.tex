@@ -1,0 +1,28 @@
+\section{Scope and method}\label{sec:method}
+
+This paper describes a proof that exists as Lean source. It was written by reading that source
+from the last line upward: each hypothesis was followed to the declaration that supplies it,
+and each definition was transcribed into ordinary notation, until every branch reached a
+theorem of the published literature. Three rules governed the reading.
+
+\emph{Definitions are transcribed, not inferred from names.} Names in the source are labels.
+The same name is used for different propositions in different namespaces, and several
+formulations of one step coexist.
+
+\emph{Membership in the proof is decided by the compiled environment.} Almost every file of the
+archive imports almost every other, so the text alone cannot show that a declaration is used by
+the final theorem. The dependency cone of \cref{sec:cone} decides it by machine, and every
+statement in this paper that something is or is not used by the proof refers to it.
+
+\emph{Every statement about the proof has a recorded basis.} \Cref{app:audit} lists the
+statements of this paper with the file and line where each was read.
+
+The paper does not reprove anything, and it describes what the proof does, not how it was
+found. Constants and lower-order terms are abbreviated; each inequality displayed here holds in
+the source with explicit constants. The proofs of the published theorems that the archive
+formalises were not read; \cref{sec:literature} identifies them.
+
+Qui Vincit directed the work and set its standards. Fable, a language model (Claude,
+Anthropic), ran the build, read the source and wrote the text, with further instances of the
+model reading bounded parts of the source; their reports are published with the paper.
+Corrections are welcome at the repository of \cref{app:reproduce}.

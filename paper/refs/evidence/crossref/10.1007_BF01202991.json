@@ -1,0 +1,185 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     8,
+     19
+    ]
+   ],
+   "date-time": "2026-08-19T17:55:53Z",
+   "timestamp": 1787162153699,
+   "version": "build-2736575974"
+  },
+  "reference-count": 0,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1-2",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1920,
+       3,
+       1
+      ]
+     ],
+     "date-time": "1920-03-01T00:00:00Z",
+     "timestamp": -1572739200000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Math Z"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1920,
+     3
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01202991",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     2,
+     18
+    ]
+   ],
+   "date-time": "2005-02-18T09:56:28Z",
+   "timestamp": 1108720588000
+  },
+  "page": "11-51",
+  "source": "Crossref",
+  "is-referenced-by-count": 118,
+  "title": [
+   "Eine neue Art von Zetafunktionen und ihre Beziehungen zur Verteilung der Primzahlen"
+  ],
+  "prefix": "10.1007",
+  "volume": "6",
+  "author": [
+   {
+    "given": "E.",
+    "family": "Hecke",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "container-title": [
+   "Mathematische Zeitschrift"
+  ],
+  "original-title": [],
+  "language": "de",
+  "link": [
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01202991.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01202991/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01202991",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     1
+    ]
+   ],
+   "date-time": "2019-05-01T13:01:59Z",
+   "timestamp": 1556715719000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01202991"
+   }
+  },
+  "subtitle": [
+   "Zweite Mitteilung"
+  ],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1920,
+     3
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "1-2",
+   "published-print": {
+    "date-parts": [
+     [
+      1920,
+      3
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01202991"
+  ],
+  "URL": "https://doi.org/10.1007/bf01202991",
+  "relation": {},
+  "ISSN": [
+   "0025-5874",
+   "1432-1823"
+  ],
+  "issn-type": [
+   {
+    "value": "0025-5874",
+    "type": "print"
+   },
+   {
+    "value": "1432-1823",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1920,
+     3
+    ]
+   ]
+  }
+ }
+}

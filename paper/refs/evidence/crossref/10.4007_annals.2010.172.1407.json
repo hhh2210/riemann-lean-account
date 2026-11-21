@@ -1,0 +1,171 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     18
+    ]
+   ],
+   "date-time": "2026-09-18T21:51:26Z",
+   "timestamp": 1789768286417,
+   "version": "4.0.1"
+  },
+  "reference-count": 0,
+  "publisher": "Annals of Mathematics",
+  "issue": "2",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Annals of Mathematics"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2010
+    ]
+   ]
+  },
+  "DOI": "10.4007/annals.2010.172.1407",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     24
+    ]
+   ],
+   "date-time": "2020-04-24T13:42:26Z",
+   "timestamp": 1587735746000
+  },
+  "page": "1407",
+  "source": "Crossref",
+  "is-referenced-by-count": 52,
+  "title": [
+   "Multiplicity one theorems"
+  ],
+  "prefix": "10.4007",
+  "volume": "172",
+  "author": [
+   {
+    "given": "Avraham",
+    "family": "Aizenbud",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Dmitry",
+    "family": "Gourevitch",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Stephen",
+    "family": "Rallis",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Gérard",
+    "family": "Schiffmann",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "2422",
+  "container-title": [
+   "Annals of Mathematics"
+  ],
+  "original-title": [],
+  "deposited": {
+   "date-parts": [
+    [
+     2020,
+     5,
+     1
+    ]
+   ],
+   "date-time": "2020-05-01T21:34:52Z",
+   "timestamp": 1588368892000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://annals.math.princeton.edu/2010/172-2/p14"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2010
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "2",
+   "published-print": {
+    "date-parts": [
+     [
+      2010
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "10.4007/annals.2010.172.1407"
+  ],
+  "URL": "https://doi.org/10.4007/annals.2010.172.1407",
+  "relation": {},
+  "ISSN": [
+   "0003-486X"
+  ],
+  "issn-type": [
+   {
+    "value": "0003-486X",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2010
+    ]
+   ]
+  }
+ }
+}

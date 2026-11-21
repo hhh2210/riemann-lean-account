@@ -1,0 +1,177 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     3,
+     11
+    ]
+   ],
+   "date-time": "2026-03-11T10:19:54Z",
+   "timestamp": 1773224394128,
+   "version": "3.50.1"
+  },
+  "reference-count": 0,
+  "publisher": "Walter de Gruyter GmbH",
+  "issue": "153",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     1924
+    ]
+   ]
+  },
+  "DOI": "10.1515/crll.1924.153.113",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2009,
+     12,
+     9
+    ]
+   ],
+   "date-time": "2009-12-09T14:27:41Z",
+   "timestamp": 1260368861000
+  },
+  "page": "113-130",
+  "source": "Crossref",
+  "is-referenced-by-count": 36,
+  "title": [
+   "Darstellbarkeit von Zahlen durch quadratische Formen in einem beliebigen algebraischen Zahlkörper."
+  ],
+  "prefix": "10.1515",
+  "volume": "1924",
+  "author": [
+   {
+    "given": "Helmut",
+    "family": "Hasse",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "member": "374",
+  "published-online": {
+   "date-parts": [
+    [
+     2009,
+     12,
+     9
+    ]
+   ]
+  },
+  "container-title": [
+   "crll"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "http://www.degruyter.com/view/j/crll.1924.1924.issue-153/crll.1924.153.113/crll.1924.153.113.xml",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://www.degruyter.com/document/doi/10.1515/crll.1924.153.113/xml",
+    "content-type": "application/xml",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://www.degruyter.com/document/doi/10.1515/crll.1924.153.113/pdf",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2022,
+     11,
+     8
+    ]
+   ],
+   "date-time": "2022-11-08T03:12:29Z",
+   "timestamp": 1667877149000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.degruyter.com/document/doi/10.1515/crll.1924.153.113/html"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1924
+    ]
+   ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+   "issue": "153",
+   "published-online": {
+    "date-parts": [
+     [
+      2009,
+      12,
+      9
+     ]
+    ]
+   },
+   "published-print": {
+    "date-parts": [
+     [
+      1924
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "10.1515/crll.1924.153.113"
+  ],
+  "URL": "https://doi.org/10.1515/crll.1924.153.113",
+  "relation": {},
+  "ISSN": [
+   "0075-4102",
+   "1435-5345"
+  ],
+  "issn-type": [
+   {
+    "value": "0075-4102",
+    "type": "print"
+   },
+   {
+    "value": "1435-5345",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1924
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,282 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     18
+    ]
+   ],
+   "date-time": "2026-11-18T00:45:46Z",
+   "timestamp": 1794962746737,
+   "version": "4.9.1"
+  },
+  "edition-number": "1",
+  "reference-count": 0,
+  "publisher": "Cambridge University Press",
+  "isbn-type": [
+   {
+    "value": "9780521849036",
+    "type": "print"
+   },
+   {
+    "value": "9780511618314",
+    "type": "electronic"
+   },
+   {
+    "value": "9781107405820",
+    "type": "print"
+   }
+  ],
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2010,
+       2,
+       26
+      ]
+     ],
+     "date-time": "2010-02-26T00:00:00Z",
+     "timestamp": 1267142400000
+    },
+    "content-version": "unspecified",
+    "delay-in-days": 1198,
+    "URL": "https://www.cambridge.org/core/terms"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+   "date-parts": [
+    [
+     2006,
+     11,
+     16
+    ]
+   ]
+  },
+  "abstract": "<jats:p>Prime numbers are the multiplicative building blocks of natural numbers. Understanding their overall influence and especially their distribution gives rise to central questions in mathematics and physics. In particular their finer distribution is closely connected with the Riemann hypothesis, the most important unsolved problem in the mathematical world. Assuming only subjects covered in a standard degree in mathematics, the authors comprehensively cover all the topics met in first courses on multiplicative number theory and the distribution of prime numbers. They bring their extensive and distinguished research expertise to bear in preparing the student for intelligent reading of the more advanced research literature. This 2006 text, which is based on courses taught successfully over many years at Michigan, Imperial College and Pennsylvania State, is enriched by comprehensive historical notes and references as well as over 500 exercises.</jats:p>",
+  "DOI": "10.1017/cbo9780511618314",
+  "type": "monograph",
+  "created": {
+   "date-parts": [
+    [
+     2010,
+     3,
+     3
+    ]
+   ],
+   "date-time": "2010-03-03T12:10:48Z",
+   "timestamp": 1267618248000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 305,
+  "title": [
+   "Multiplicative Number Theory I"
+  ],
+  "prefix": "10.1017",
+  "author": [
+   {
+    "given": "Hugh L.",
+    "family": "Montgomery",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Robert C.",
+    "family": "Vaughan",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "56",
+  "published-online": {
+   "date-parts": [
+    [
+     2010,
+     2,
+     26
+    ]
+   ]
+  },
+  "container-title": [],
+  "original-title": [],
+  "deposited": {
+   "date-parts": [
+    [
+     2022,
+     10,
+     13
+    ]
+   ],
+   "date-time": "2022-10-13T17:17:40Z",
+   "timestamp": 1665681460000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.cambridge.org/core/product/identifier/9780511618314/type/book"
+   }
+  },
+  "subtitle": [
+   "Classical Theory"
+  ],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2006,
+     11,
+     16
+    ]
+   ]
+  },
+  "ISBN": [
+   "9780521849036",
+   "9780511618314",
+   "9781107405820"
+  ],
+  "references-count": 0,
+  "URL": "https://doi.org/10.1017/cbo9780511618314",
+  "relation": {
+   "has-part": [
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.010",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.016",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.008",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.007",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.002",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.015",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.018",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.005",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.009",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.001",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.012",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.004",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.006",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.014",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.013",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.021",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.020",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.003",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.017",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.011",
+     "asserted-by": "subject"
+    },
+    {
+     "id-type": "doi",
+     "id": "https://doi.org/10.1017/cbo9780511618314.019",
+     "asserted-by": "subject"
+    }
+   ]
+  },
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2006,
+     11,
+     16
+    ]
+   ]
+  }
+ }
+}

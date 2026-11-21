@@ -1,0 +1,462 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     23
+    ]
+   ],
+   "date-time": "2026-09-23T20:31:55Z",
+   "timestamp": 1790195515349,
+   "version": "4.1.0"
+  },
+  "reference-count": 34,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       1979,
+       2,
+       1
+      ]
+     ],
+     "date-time": "1979-02-01T00:00:00Z",
+     "timestamp": 286675200000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "http://www.springer.com/tdm"
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Invent Math"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1979,
+     2
+    ]
+   ]
+  },
+  "DOI": "10.1007/bf01389911",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     4,
+     2
+    ]
+   ],
+   "date-time": "2005-04-02T10:15:18Z",
+   "timestamp": 1112436918000
+  },
+  "page": "29-59",
+  "source": "Crossref",
+  "is-referenced-by-count": 102,
+  "title": [
+   "Valeurs aux entiers n�gatifs des fonctions z�ta et fonctions z�tap-adiques"
+  ],
+  "prefix": "10.1007",
+  "volume": "51",
+  "author": [
+   {
+    "given": "Pierrette",
+    "family": "Cassou-Nogu�s",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "reference": [
+   {
+    "key": "CR1",
+    "doi-asserted-by": "crossref",
+    "first-page": "353",
+    "DOI": "10.4064/aa-20-4-353-384",
+    "volume": "20",
+    "author": "Y. Amice",
+    "year": "1972",
+    "unstructured": "Amice, Y., Fresnel, J.: Fonctions zêtap-adiques des corps de nombres abéliens réels. Acta Arithm. Warszawa20, 353?384 (1972)",
+    "journal-title": "Acta Arithm. Warszawa"
+   },
+   {
+    "key": "CR2",
+    "unstructured": "Barsky, D.: Fonctions zêtap-adiques d'une classe de rayon des corps de nombres totalement réels. Groupe d'étude d'analyse ultramétrique 1977?78. Errata idem Barsky, D.: Fonctions zêtap-adiques d'une classe de rayon des corps de nombres totalement réels. Groupe d'étude d'analyse ultramétrique 1978?1979."
+   },
+   {
+    "key": "CR3",
+    "unstructured": "Cassou-Noguès, P.: Formes linéairesp-adiques et prolongement analytique. Thèse 3ème cycle, Université de Bordeaux I, 1971"
+   },
+   {
+    "key": "CR4",
+    "first-page": "5",
+    "volume": "254",
+    "author": "P. Cassou-Noguès",
+    "year": "1972",
+    "unstructured": "Cassou-Noguès, P.: Formes linéairesp-adiques et prolongement analytique. C.R.A.S. Paris254, 5?8 (1972)",
+    "journal-title": "C.R.A.S. Paris"
+   },
+   {
+    "key": "CR5",
+    "unstructured": "Cassou-Noguès, P.: Analoguesp-adiques de quelques fonctions arithmétiques. Publications mathématiques de Bordeaux, p. 1?43, 1974?1975"
+   },
+   {
+    "key": "CR6",
+    "unstructured": "Cassou-Noguès, P.: Fonctionsp-adiques attachées à des formes quadratiques. Groupe d'étude d'analyse ultramétrique, n°16, 1975?1976"
+   },
+   {
+    "key": "CR7",
+    "unstructured": "Cassou-Noguès, P.: FonctionsLp-adiques d'une extension abélienne d'un corps totalement réel. Journées d'analyse ultramétrique, Marseille-Luminy, exposé n°9, 1976"
+   },
+   {
+    "key": "CR8",
+    "unstructured": "Cassou-Noguès, P.: FonctionsLp-adiques des corps de nombres totalement réels. Séminaire Delange-Pisot-Poitou (à paraître), 1977?1978"
+   },
+   {
+    "key": "CR9",
+    "volume-title": "Durham symposium in algebraic number fields",
+    "author": "J. Coates",
+    "year": "1977",
+    "unstructured": "Coates, J.:p-adicL functions and Iwasawa's theory. Durham symposium in algebraic number fields (A. Fröhlich, Éd.), New York, London: Academic Press, 1977"
+   },
+   {
+    "key": "CR10",
+    "doi-asserted-by": "crossref",
+    "first-page": "498",
+    "DOI": "10.2307/1970916",
+    "volume": "98",
+    "author": "J. Coates",
+    "year": "1973",
+    "unstructured": "Coates, J., Lichtenbaum, S.: Onl-adic zeta functions. Ann. of Math.98, 498?550 (1973)",
+    "journal-title": "Ann. of Math."
+   },
+   {
+    "key": "CR11",
+    "doi-asserted-by": "crossref",
+    "first-page": "253",
+    "DOI": "10.1007/BF01389730",
+    "volume": "25",
+    "author": "J. Coates",
+    "year": "1974",
+    "unstructured": "Coates, J., Sinnot, W.: Onp-adicL functions over real quadratic fields. Inv. Math.25, 253?279 (1974)",
+    "journal-title": "Inv. Math."
+   },
+   {
+    "key": "CR12",
+    "unstructured": "Deligne, P., Ribet, K.: Values of abelianL-functions at negative integers (en préparation)"
+   },
+   {
+    "key": "CR13",
+    "doi-asserted-by": "crossref",
+    "first-page": "205",
+    "DOI": "10.1007/BF01449900",
+    "volume": "63",
+    "author": "P. Epstein",
+    "year": "1907",
+    "unstructured": "Epstein, P.: Zur Theorie allgemeiner Zetafunktionen II. Math. Ann.63, 205?216 (1907)",
+    "journal-title": "Math. Ann."
+   },
+   {
+    "key": "CR14",
+    "unstructured": "Fresnel, J.: Valeurs des fonctions zêta aux entiers négatifs. Séminaire de Théorie des Nombres de Bordeaux, exposé n°27, 1970?1971"
+   },
+   {
+    "key": "CR15",
+    "doi-asserted-by": "crossref",
+    "first-page": "198",
+    "DOI": "10.2307/1970817",
+    "volume": "89",
+    "author": "K. Iwasawa",
+    "year": "1969",
+    "unstructured": "Iwasawa, K.: Onp-adicL-functions. Annals of Math., séries 2,89, 198?205 (1969)",
+    "journal-title": "Annals of Math., séries 2"
+   },
+   {
+    "key": "CR16",
+    "unstructured": "Iwasawa, K.: Lectures onp-adicL-functions. Princeton University Press and University of Tokyo Press (Annals of Mathematics Studies, 74), 1972"
+   },
+   {
+    "key": "CR17",
+    "doi-asserted-by": "crossref",
+    "first-page": "265",
+    "DOI": "10.1007/BF01451369",
+    "volume": "145",
+    "author": "H. Klingen",
+    "year": "1962",
+    "unstructured": "Klingen, H.: Über die Werte der Dedekindsche Zetafunktion. Math. Annalen145, 265?272 (1962)",
+    "journal-title": "Math. Annalen"
+   },
+   {
+    "key": "CR18",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Kubota, T., Leopoldt, H.W.: Einep-adische Theorie der Zetawerte I. Einführung derp-adischen DirichletschenL-Funktionen. J. für die reine und angew. math. 214?215. 328?339 (1964)",
+    "DOI": "10.1515/crll.1964.214-215.328"
+   },
+   {
+    "key": "CR19",
+    "doi-asserted-by": "crossref",
+    "first-page": "368",
+    "DOI": "10.1515/crll.1851.41.368",
+    "volume": "41",
+    "author": "E.F. Kummer",
+    "year": "1851",
+    "unstructured": "Kummer, E.F.: Über die allgemeine Eigenschaft der rationalen Entwicklungscoefficienten einer bestimmten Gattung analytischer Funktionen. J. für die reine und angew. Math.41, 368?372 (1851)",
+    "journal-title": "J. für die reine und angew. Math."
+   },
+   {
+    "key": "CR20",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Lang, S.: Introduction to Modular Forms. Grundlehren der Mathematischen Wissenschaften 222. Springer Verlag 1976",
+    "DOI": "10.1007/978-3-642-51447-0_1"
+   },
+   {
+    "key": "CR21",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Lang, S.: Cyclotomic fields. Graduate texts in Mathematics vol. 59. Springer Verlag 1978",
+    "DOI": "10.1007/978-1-4612-9945-5"
+   },
+   {
+    "key": "CR22",
+    "doi-asserted-by": "crossref",
+    "first-page": "224",
+    "DOI": "10.1515/crll.1975.274-275.224",
+    "volume": "274?275",
+    "author": "H.W. Leopoldt",
+    "year": "1975",
+    "unstructured": "Leopoldt, H.W.: Einep-adische Theorie der Zetawerte II. J. reine ang. math.274?275, 224?239 (1975)",
+    "journal-title": "J. reine ang. math."
+   },
+   {
+    "key": "CR23",
+    "doi-asserted-by": "crossref",
+    "first-page": "1",
+    "DOI": "10.1007/BF01389997",
+    "volume": "25",
+    "author": "B. Mazur",
+    "year": "1974",
+    "unstructured": "Mazur, B., Swinnerton-Dyer, H.: Arithmetic of Weil curves. Invent. math.25, 1?61 (1974)",
+    "journal-title": "Invent. math."
+   },
+   {
+    "key": "CR24",
+    "series-title": "Number Theory and Algebra",
+    "first-page": "263",
+    "volume-title": "The existence ofp-adic abelianL functions",
+    "author": "C. Queen",
+    "year": "1977",
+    "unstructured": "Queen, C.: The existence ofp-adic abelianL functions. Number Theory and Algebra. Collected paper dedicated to Henry B. Mann, p. 263?288. New York, London: Academic Press 1977"
+   },
+   {
+    "key": "CR25",
+    "series-title": "Annals of Mathematics Studies",
+    "first-page": "77",
+    "volume-title": "Prospects in mathematics",
+    "author": "J.-P. Serre",
+    "year": "1971",
+    "unstructured": "Serre, J.-P.: Cohomologie des groupes discrets. In: Prospects in mathematics p. 77?169. Princeton: Princeton University Press and University of Tokyo Press (Annals of Mathematics Studies 70) 1971"
+   },
+   {
+    "key": "CR26",
+    "series-title": "Lecture Notes in Mathematics",
+    "doi-asserted-by": "crossref",
+    "first-page": "191",
+    "DOI": "10.1007/978-3-540-37802-0_4",
+    "volume-title": "Modular functions of one variable III (1972). Antwerpen",
+    "author": "J.-P. Serre",
+    "year": "1973",
+    "unstructured": "Serre, J.-P.: Formes modulaires et fonctions zêtap-adiques. In: Modular functions of one variable III (1972). Antwerpen, p. 191?268. Berlin: Springer-Verlag, Lecture Notes in Mathematics, 350, 1973"
+   },
+   {
+    "key": "CR27",
+    "first-page": "393",
+    "volume": "23",
+    "author": "T. Shintani",
+    "year": "1976",
+    "unstructured": "Shintani, T.: On evaluation of zeta functions of totally real algebraic number fields at non positive integers. J. of Fac. of Sc., Univ. of Tokyo, section 1,23, 393?417 (1976)",
+    "journal-title": "J. of Fac. of Sc., Univ. of Tokyo, section 1"
+   },
+   {
+    "key": "CR28",
+    "doi-asserted-by": "crossref",
+    "first-page": "212",
+    "DOI": "10.2307/1968520",
+    "volume": "38",
+    "author": "C.L. Siegel",
+    "year": "1937",
+    "unstructured": "Siegel, C.L.: Über die analytische Theorie der quadratischen Formen III. Annals of Math. Series 2,38, 212?291 (1937)",
+    "journal-title": "Annals of Math. Series 2"
+   },
+   {
+    "key": "CR29",
+    "first-page": "15",
+    "volume": "3",
+    "author": "C.L. Siegel",
+    "year": "1970",
+    "unstructured": "Siegel, C.L.: Über die Fourierschen Koeffizienten von Modulformen. Nachr. Akad. Wiss. Göttingen, Math.-Phys. K 1.,3, 15?56 (1970)",
+    "journal-title": "Nachr. Akad. Wiss. Göttingen, Math.-Phys. K 1."
+   },
+   {
+    "key": "CR30",
+    "first-page": "7",
+    "volume": "2",
+    "author": "C.L. Siegel",
+    "year": "1968",
+    "unstructured": "Siegel, C.L.: Bernoullische Polynome und quadratische Zahlkörper. Nachr. Akad. Wiss. Göttingen, Math.-Phys. K1,2, 7?38 (1968)",
+    "journal-title": "Nachr. Akad. Wiss. Göttingen, Math.-Phys. K1"
+   },
+   {
+    "key": "CR31",
+    "doi-asserted-by": "crossref",
+    "first-page": "372",
+    "DOI": "10.1515/crll.1840.21.372",
+    "volume": "21",
+    "author": "Von Staudt",
+    "year": "1840",
+    "unstructured": "Staudt, Von: Beweis eines Lehrsatzes, der Bernoullischen Zahlen betreffend. J. für die reine und ang. math.21, 372?374 (1840)",
+    "journal-title": "J. für die reine und ang. math."
+   },
+   {
+    "key": "CR32",
+    "series-title": "Lecture Notes in Mathematics",
+    "first-page": "1",
+    "volume-title": "Modular functions of one variable III",
+    "author": "H.P.F. Swinnerton-Dyer",
+    "year": "1973",
+    "unstructured": "Swinnerton-Dyer, H.P.F.: Onl-adic representations and congruences for coefficients of modular forms. In: Modular functions of one variable III, p. 1?56 (Lecture Notes in Mathematics, 350). Berlin: Springer Verlag 1973"
+   },
+   {
+    "key": "CR33",
+    "doi-asserted-by": "crossref",
+    "first-page": "153",
+    "DOI": "10.1007/BF01343950",
+    "volume": "213",
+    "author": "D. Zagier",
+    "year": "1975",
+    "unstructured": "Zagier, D.: A Kronecker limit formula for real quadratic fields. Math. Annalen213, 153?184 (1975)",
+    "journal-title": "Math. Annalen"
+   },
+   {
+    "key": "CR34",
+    "unstructured": "Cassou-Noguès, P.: Analoguesp-adiques des fonctions ? multiples. Journées arithmétiques, Luminy, juin 1978"
+   }
+  ],
+  "container-title": [
+   "Inventiones Mathematicae"
+  ],
+  "original-title": [],
+  "language": "fr",
+  "link": [
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01389911/fulltext.html",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01389911.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/article/10.1007/BF01389911/fulltext.html",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "http://link.springer.com/content/pdf/10.1007/BF01389911",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     6
+    ]
+   ],
+   "date-time": "2020-04-06T16:36:58Z",
+   "timestamp": 1586191018000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "http://link.springer.com/10.1007/BF01389911"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1979,
+     2
+    ]
+   ]
+  },
+  "references-count": 34,
+  "journal-issue": {
+   "issue": "1",
+   "published-print": {
+    "date-parts": [
+     [
+      1979,
+      2
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "BF01389911"
+  ],
+  "URL": "https://doi.org/10.1007/bf01389911",
+  "relation": {},
+  "ISSN": [
+   "0020-9910",
+   "1432-1297"
+  ],
+  "issn-type": [
+   {
+    "value": "0020-9910",
+    "type": "print"
+   },
+   {
+    "value": "1432-1297",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1979,
+     2
+    ]
+   ]
+  }
+ }
+}
